@@ -1,0 +1,16 @@
+{%- if site.newsletter_action != "" -%}
+<section class="wrap secao">
+  <form class="newsletter" action="{{ site.newsletter_action }}" method="post" target="_blank">
+    <div class="newsletter-texto">
+      <h2 class="h2">O vinho da semana, no seu e-mail.</h2>
+      <p class="apoio">Um veredito por semana. Sem spam. Você cancela quando quiser.</p>
+    </div>
+    <div class="campo">
+      <label for="news-email">Seu e-mail</label>
+      <input id="news-email" type="email" name="{{ site.newsletter_field }}" placeholder="voce@email.com" required>
+    </div>
+    <button class="btn btn-ink" type="submit">Quero receber</button>
+    <p class="newsletter-lgpd">Ao assinar, você concorda com a <a href="{{ '/privacidade/' | relative_url }}">política de privacidade</a>.</p>
+  </form>
+</section>
+{%- endif -%}

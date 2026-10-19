@@ -1,0 +1,33 @@
+---
+layout: default
+title: Onde comprar
+description: Links de compra dos vinhos avaliados pelo UVA URGENTE e atalhos para o teste e os guias.
+permalink: /onde-comprar/
+---
+<section class="wrap bio">
+  <span class="wordmark wordmark-lg">UVA URGENTE</span>
+  <p class="apoio">{{ site.tagline }} Os links dos vinhos que aparecem no Instagram ficam aqui.</p>
+  <div class="bio-acoes">
+    <a class="btn btn-flame btn-bloco" href="{{ site.app_url | relative_url }}">Descobrir meu vinho (teste grátis)</a>
+    <a class="btn btn-linha btn-bloco" href="{{ '/vereditos/' | relative_url }}">Todos os vereditos</a>
+    <a class="btn btn-linha btn-bloco" href="{{ '/guias/' | relative_url }}">Guias</a>
+  </div>
+
+  <h1 class="h2">Vinhos dos últimos posts.</h1>
+  {%- assign recentes = site.vereditos | sort: "date" | reverse %}
+  <ul class="bio-lista">
+    {%- for v in recentes limit: 12 %}
+    <li class="bio-item">
+      <a class="bio-vinho" href="{{ v.url | relative_url }}">
+        <span class="bio-nome">{{ v.title }}</span>
+        <span class="bio-meta">{{ v.nota | replace: ".", "," }}/10 · {% include preco.html v=v %}</span>
+      </a>
+      {%- if v.lojas and v.lojas.size > 0 %}
+      {%- assign loja = v.lojas | first %}
+      <a class="btn btn-cobalt btn-sm" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Comprar</a>
+      {%- endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="aviso">Alguns links são de afiliado: posso ganhar comissão, e a nota não muda por isso.</p>
+</section>

@@ -1,0 +1,26 @@
+---
+layout: default
+title: Guias
+description: Guias práticos para escolher, servir e harmonizar vinho sem complicação.
+permalink: /guias/
+---
+<section class="wrap secao">
+  <p class="kicker">Guias</p>
+  <h1 class="h1">Aprenda o que importa na hora de comprar.</h1>
+  <p class="lead">Um termo técnico por vez, sempre traduzido.</p>
+  {%- if site.posts.size > 0 %}
+  <div class="guias guias-lista">
+    {%- for post in site.posts %}
+    <a class="guia" href="{{ post.url | relative_url }}">
+      <span class="kicker">{{ post.kicker | default: "Guia" }}</span>
+      <span class="guia-titulo">{{ post.title }}.</span>
+      {%- if post.lead %}<span class="apoio">{{ post.lead }}</span>{% endif %}
+      <span class="meta-post">{{ post.date | date: "%d/%m/%Y" }}</span>
+    </a>
+    {%- endfor %}
+  </div>
+  {%- else %}
+  <p class="apoio">Os primeiros guias chegam em breve.</p>
+  {%- endif %}
+</section>
+{% include newsletter.html %}

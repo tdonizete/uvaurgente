@@ -1,0 +1,79 @@
+# ─────────────────────────────────────────────────────────────
+# UVA URGENTE — configuração do site
+# Edite só os valores à direita dos dois-pontos.
+# Depois de salvar, o GitHub reconstrói o site em 1 a 3 minutos.
+# ─────────────────────────────────────────────────────────────
+
+title: UVA URGENTE
+tagline: Vinho sem mimimi.
+description: >-
+  Nota honesta, preço real e onde comprar. Avaliações de vinho para quem
+  compra no supermercado e não quer errar a garrafa.
+author: Tiago
+lang: pt-BR
+locale: pt_BR
+timezone: America/Sao_Paulo
+
+# Endereço do site.
+# - Com domínio próprio: url: "https://uvaurgente.com.br" e baseurl: ""
+# - Sem domínio (repositório tdonizete/uvaurgente):
+#   url: "https://tdonizete.github.io" e baseurl: "/uvaurgente"
+url: "https://uvaurgente.com.br"
+baseurl: ""
+
+# Redes e links
+instagram: uvaurgente
+spotify_url: ""        # link do seu perfil de playlists (deixe vazio para esconder)
+app_url: /teste/       # onde o Wine Matcher está publicado
+
+# Integrações (deixe vazio para desligar)
+newsletter_action: ""  # endereço "action" do formulário do serviço de newsletter
+newsletter_field: email
+ga_id: ""              # ID do Google Analytics 4, no formato G-XXXXXXXXXX
+google_site_verification: ""  # código do Google Search Console (método "Tag HTML")
+
+# Imagem padrão quando um link do site é compartilhado (1200×630 px)
+image: /assets/img/og-padrao.png
+
+# ── A partir daqui, só mexa se souber o que está fazendo ──
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /guias/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: guias/feed.xml
+
+collections:
+  vereditos:
+    output: true
+    permalink: /vereditos/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: vereditos
+    values:
+      layout: veredito
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - modelos/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

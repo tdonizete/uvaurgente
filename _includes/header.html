@@ -1,0 +1,13 @@
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="wordmark" href="{{ '/' | relative_url }}">UVA URGENTE</a>
+    <nav class="nav" aria-label="Principal">
+      <a href="{{ '/vereditos/' | relative_url }}"{% if page.url contains '/vereditos/' %} aria-current="page"{% endif %}>Vereditos</a>
+      <a href="{{ '/guias/' | relative_url }}"{% if page.url contains '/guias/' %} aria-current="page"{% endif %}>Guias</a>
+      <a href="{{ '/metodologia/' | relative_url }}"{% if page.url == '/metodologia/' %} aria-current="page"{% endif %}>Metodologia</a>
+      <a href="{{ '/sobre/' | relative_url }}"{% if page.url == '/sobre/' %} aria-current="page"{% endif %}>Sobre</a>
+    </nav>
+    <a class="btn btn-ink btn-sm" href="{{ site.app_url | relative_url }}">Fazer o teste</a>
+  </div>
+</header>

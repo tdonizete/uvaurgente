@@ -1,0 +1,7 @@
+{%- comment -%} Faixa de preço: "R$ 50–75" ou "R$ 59". Uso: {% include preco.html v=page %} {%- endcomment -%}
+{%- assign v = include.v -%}
+{%- if v.preco_min and v.preco_max and v.preco_min != v.preco_max -%}R$ {{ v.preco_min }}–{{ v.preco_max }}
+{%- elsif v.preco_min -%}R$ {{ v.preco_min }}
+{%- elsif v.preco_max -%}R$ {{ v.preco_max }}
+{%- else -%}Preço a confirmar
+{%- endif -%}

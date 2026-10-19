@@ -1,0 +1,16 @@
+{%- comment -%}
+  Selo Fita: calcula o nível a partir da nota (0 a 10).
+  Uso: {% include selo.html nota=page.nota %}
+{%- endcomment -%}
+{%- assign n = include.nota | plus: 0 -%}
+{%- if n >= 9.6 -%}
+  <span class="selo selo-5">⚡ Urgente · Compre Agora</span>
+{%- elsif n >= 9.1 -%}
+  <span class="selo selo-4">Vale a Pena</span>
+{%- elsif n >= 8.1 -%}
+  <span class="selo selo-3">Boa Pedida</span>
+{%- elsif n >= 6.1 -%}
+  <span class="selo selo-2">Sem Pressa</span>
+{%- else -%}
+  <span class="selo selo-1">Sem Urgência</span>
+{%- endif -%}

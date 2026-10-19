@@ -1,0 +1,9 @@
+{%- comment -%}
+  Foto da garrafa (PNG recortado) ou silhueta quando não houver foto.
+  Uso: {% include garrafa.html item=page %}
+{%- endcomment -%}
+{%- if include.item.imagem -%}
+  <img class="garrafa-img" src="{{ include.item.imagem | relative_url }}" alt="Garrafa de {{ include.item.title }}" loading="lazy" width="300" height="900">
+{%- else -%}
+  <svg class="garrafa-svg" aria-hidden="true" viewBox="0 0 40 150"><path d="M15 0h10v34c0 6 11 12 11 26v84c0 3-2 6-6 6H10c-4 0-6-3-6-6V60c0-14 11-20 11-26z"/><rect class="rotulo" x="4" y="82" width="32" height="34"/></svg>
+{%- endif -%}

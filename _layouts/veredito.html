@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<article class="wrap veredito">
+  <nav class="trilha" aria-label="Trilha"><a href="{{ '/' | relative_url }}">Início</a> / <a href="{{ '/vereditos/' | relative_url }}">Vereditos</a>{% if page.tipo %} / {{ page.tipo }}{% endif %}</nav>
+
+  <section class="veredito-topo">
+    <div class="veredito-garrafa">{% include garrafa.html item=page %}</div>
+    <div class="veredito-info">
+      <p class="kicker">{{ page.tipo | default: "Vinho" }} avaliado</p>
+      <h1 class="h1">{{ page.title }}.</h1>
+      <div class="veredito-nota">
+        {% include nota.html nota=page.nota tamanho="lg" %}
+        {% include selo.html nota=page.nota %}
+      </div>
+      <div class="pills">
+        {%- if page.regiao or page.pais %}<span class="pill">{% if page.regiao %}{{ page.regiao }}{% if page.pais %} · {% endif %}{% endif %}{{ page.pais }}</span>{% endif -%}
+        {%- if page.safra %}<span class="pill">Safra {{ page.safra }}</span>{% endif -%}
+        {%- if page.uvas %}<span class="pill">{{ page.uvas }}</span>{% endif -%}
+        <span class="pill">{% include preco.html v=page %}</span>
+      </div>
+      {%- if page.frase %}<p class="frase">{{ page.frase }}</p>{% endif %}
+
+      <div class="onde-comprar">
+        <p class="rotulo">Onde comprar</p>
+        {%- if page.lojas and page.lojas.size > 0 %}
+          {%- for loja in page.lojas %}
+          <div class="loja">
+            <span class="loja-nome">{{ loja.nome }}{% if loja.preco %} · R$ {{ loja.preco }}{% endif %}</span>
+            <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %}" href="{{ loja.url }}" rel="sponsored noopener" target="_blank" aria-label="Comprar na loja {{ loja.nome }}">Comprar</a>
+          </div>
+          {%- endfor %}
+          <p class="aviso">Posso ganhar comissão; a nota não muda por isso.{% if page.preco_checado %} Preços checados em {{ page.preco_checado | date: "%d/%m/%Y" }}.{% endif %}</p>
+        {%- else %}
+          <p class="aviso">Links de compra em breve. Encontrado em supermercados na faixa de {% include preco.html v=page %}.</p>
+        {%- endif %}
+      </div>
+    </div>
+  </section>
+
+  <section class="veredito-detalhe">
+    <div class="veredito-col-principal">
+      {%- if page.criterios %}
+      <h2 class="h2">Como chegamos no {{ page.nota | replace: ".", "," }}.</h2>
+      {% include criterios.html c=page.criterios %}
+      <p class="apoio">Nota = Visual × 10% + Aroma × 25% + Paladar × 40% + Custo-benefício × 25%. <a href="{{ '/metodologia/' | relative_url }}">Ler a metodologia completa</a></p>
+      {%- endif %}
+      {%- assign corpo = content | strip %}
+      {%- if corpo != "" %}
+      <div class="texto">{{ content }}</div>
+      {%- endif %}
+    </div>
+    <aside class="veredito-col-lateral">
+      {%- if page.degustacao %}
+      <h2 class="h3">Na taça.</h2>
+      <p>{{ page.degustacao }}</p>
+      {%- endif %}
+      {%- if page.harmonizacao %}
+      <h2 class="h3">Na mesa.</h2>
+      <ul>
+        {%- for prato in page.harmonizacao %}<li>{{ prato }}</li>{% endfor %}
+      </ul>
+      {%- endif %}
+      <div class="pills">
+        {%- if page.servir %}<span class="pill">Servir a {{ page.servir }}</span>{% endif -%}
+        {%- if page.teor %}<span class="pill">{{ page.teor }}% vol.</span>{% endif -%}
+      </div>
+      {%- if page.playlist %}<p><a href="{{ page.playlist }}" rel="noopener">Ouvir a playlist deste vinho</a></p>{% endif %}
+    </aside>
+  </section>
+</article>
+{% include banner-teste.html %}

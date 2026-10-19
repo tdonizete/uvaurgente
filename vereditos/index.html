@@ -1,0 +1,58 @@
+---
+layout: default
+title: Vereditos
+description: Todos os vinhos avaliados pelo UVA URGENTE, com nota, selo, faixa de preço e onde comprar.
+permalink: /vereditos/
+scripts:
+  - /assets/js/filtros.js
+---
+<section class="wrap secao">
+  <p class="kicker">Base de vereditos</p>
+  <h1 class="h1">Todos os vinhos avaliados.</h1>
+  <p class="lead">Filtre por tipo e preço. A nota vai de 0 a 10 e o selo diz se vale correr para a gôndola.</p>
+
+  <form class="filtros" aria-label="Filtrar vereditos" data-filtros>
+    <div class="campo">
+      <label for="f-tipo">Tipo</label>
+      <select id="f-tipo" name="tipo">
+        <option value="">Todos</option>
+        <option value="tinto">Tinto</option>
+        <option value="branco">Branco</option>
+        <option value="rose">Rosé</option>
+        <option value="espumante">Espumante</option>
+        <option value="fortificado">Fortificado</option>
+      </select>
+    </div>
+    <div class="campo">
+      <label for="f-faixa">Preço</label>
+      <select id="f-faixa" name="faixa">
+        <option value="">Qualquer preço</option>
+        <option value="ate-50">Até R$ 50</option>
+        <option value="50-100">R$ 50 a 100</option>
+        <option value="100-mais">Acima de R$ 100</option>
+      </select>
+    </div>
+    <div class="campo">
+      <label for="f-ordem">Ordenar por</label>
+      <select id="f-ordem" name="ordem">
+        <option value="data">Mais recentes</option>
+        <option value="nota">Maior nota</option>
+        <option value="preco">Menor preço</option>
+      </select>
+    </div>
+  </form>
+  <p class="apoio" data-contagem aria-live="polite"></p>
+
+  {%- assign todos = site.vereditos | sort: "date" | reverse %}
+  {%- if todos.size > 0 %}
+  <div class="grade" data-lista>
+    {%- for v in todos %}
+      {% include card-vinho.html v=v %}
+    {%- endfor %}
+  </div>
+  <p class="apoio" data-vazio hidden>Nenhum vinho nesse filtro ainda. Tente outra faixa de preço.</p>
+  {%- else %}
+  <p class="apoio">Os primeiros vereditos chegam em breve.</p>
+  {%- endif %}
+</section>
+{% include banner-teste.html %}

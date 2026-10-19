@@ -1,0 +1,27 @@
+{%- comment -%}
+  Card de um veredito, usado na home, na lista e em "Onde comprar".
+  Uso: {% include card-vinho.html v=veredito %}
+{%- endcomment -%}
+{%- assign v = include.v -%}
+{%- assign pmax = v.preco_max | default: v.preco_min | default: 0 | plus: 0 -%}
+{%- if pmax <= 50 -%}{%- assign faixa = "ate-50" -%}
+{%- elsif pmax <= 100 -%}{%- assign faixa = "50-100" -%}
+{%- else -%}{%- assign faixa = "100-mais" -%}{%- endif -%}
+<article class="card" data-tipo="{{ v.tipo | slugify }}" data-faixa="{{ faixa }}" data-nota="{{ v.nota }}" data-preco="{{ pmax }}" data-data="{{ v.date | date: '%Y%m%d' }}">
+  <a class="card-link" href="{{ v.url | relative_url }}">
+    <div class="card-garrafa">{% include garrafa.html item=v %}</div>
+    <div class="card-topo">
+      <h3 class="card-nome">{{ v.title }}.</h3>
+      {% include nota.html nota=v.nota tamanho="sm" %}
+    </div>
+    <div>{% include selo.html nota=v.nota %}</div>
+    <div class="pills">
+      {%- if v.tipo %}<span class="pill">{{ v.tipo }}</span>{% endif -%}
+      {%- if v.pais %}<span class="pill">{{ v.pais }}</span>{% endif -%}
+    </div>
+    <div class="card-rodape">
+      <span class="preco">{% include preco.html v=v %}</span>
+      <span class="card-cta">Ver veredito</span>
+    </div>
+  </a>
+</article>

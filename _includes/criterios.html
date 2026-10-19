@@ -1,0 +1,11 @@
+{%- comment -%}
+  Barras dos quatro critérios da metodologia v2.0.
+  Uso: {% include criterios.html c=page.criterios %}
+{%- endcomment -%}
+{%- assign c = include.c -%}
+<div class="criterios">
+  <div class="crit"><div><span class="crit-nome">Visual</span><span class="crit-peso">peso 10%</span></div><div class="barra-fundo"><div class="barra" style="width: {{ c.visual | times: 10 }}%"></div></div><span class="crit-n">{{ c.visual | replace: ".", "," }}</span></div>
+  <div class="crit"><div><span class="crit-nome">Aroma</span><span class="crit-peso">peso 25%</span></div><div class="barra-fundo"><div class="barra" style="width: {{ c.aroma | times: 10 }}%"></div></div><span class="crit-n">{{ c.aroma | replace: ".", "," }}</span></div>
+  <div class="crit"><div><span class="crit-nome">Paladar</span><span class="crit-peso">peso 40%</span></div><div class="barra-fundo"><div class="barra" style="width: {{ c.paladar | times: 10 }}%"></div></div><span class="crit-n">{{ c.paladar | replace: ".", "," }}</span></div>
+  <div class="crit"><div><span class="crit-nome">Custo-benefício</span><span class="crit-peso">peso 25%</span></div><div class="barra-fundo"><div class="barra" style="width: {{ c.custo_beneficio | times: 10 }}%"></div></div><span class="crit-n">{{ c.custo_beneficio | replace: ".", "," }}</span></div>
+</div>

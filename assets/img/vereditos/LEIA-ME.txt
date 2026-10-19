@@ -1,0 +1,4 @@
+Coloque aqui as fotos das garrafas.
+Formato: PNG com fundo transparente, cerca de 600 x 1800 px, garrafa em pé e centralizada.
+Nome do arquivo: igual ao do veredito (exemplo: casal-garcia-vinho-verde.png).
+No arquivo do veredito, preencha: imagem: /assets/img/vereditos/casal-garcia-vinho-verde.png

@@ -1,0 +1,66 @@
+---
+layout: default
+title: Vinho sem mimimi
+description: Nota honesta, preço real e onde comprar. Avaliações de vinho para quem compra no supermercado e não quer errar a garrafa.
+---
+<section class="wrap hero">
+  <div class="hero-texto">
+    <p class="kicker">Guia de compra de vinho</p>
+    <h1 class="display">Vinho sem mimimi.</h1>
+    <p class="lead">Nota honesta, preço real e onde comprar. Para você acertar o vinho na gôndola sem precisar falar enologuês.</p>
+    <div class="acoes">
+      <a class="btn btn-flame" href="{{ site.app_url | relative_url }}">Descobrir meu vinho</a>
+      <a class="btn btn-linha" href="{{ '/vereditos/' | relative_url }}">Ver os vereditos</a>
+    </div>
+  </div>
+  <div class="escala">
+    <p class="rotulo">Como ler a nota</p>
+    <div class="escala-linha"><span class="selo selo-5">⚡ Urgente · Compre Agora</span><span>9,6–10</span></div>
+    <div class="escala-linha"><span class="selo selo-4">Vale a Pena</span><span>9,1–9,5</span></div>
+    <div class="escala-linha"><span class="selo selo-3">Boa Pedida</span><span>8,1–9,0</span></div>
+    <div class="escala-linha"><span class="selo selo-2">Sem Pressa</span><span>6,1–8,0</span></div>
+    <div class="escala-linha"><span class="selo selo-1">Sem Urgência</span><span>0–6,0</span></div>
+  </div>
+</section>
+
+<section class="faixa-warm">
+  <div class="wrap secao">
+    <div class="secao-topo">
+      <h2 class="h2">Vereditos da semana.</h2>
+      <a href="{{ '/vereditos/' | relative_url }}">Ver todos</a>
+    </div>
+    {%- assign recentes = site.vereditos | sort: "date" | reverse %}
+    {%- if recentes.size > 0 %}
+    <div class="grade">
+      {%- for v in recentes limit: 3 %}
+        {% include card-vinho.html v=v %}
+      {%- endfor %}
+    </div>
+    {%- else %}
+    <p class="apoio">Os primeiros vereditos chegam em breve. Acompanhe no <a href="https://www.instagram.com/{{ site.instagram }}/">Instagram</a>.</p>
+    {%- endif %}
+  </div>
+</section>
+
+<section class="wrap secao">
+  <div class="secao-topo">
+    <h2 class="h2">Comece por aqui.</h2>
+    <a href="{{ '/guias/' | relative_url }}">Todos os guias</a>
+  </div>
+  {%- if site.posts.size > 0 %}
+  <div class="guias">
+    {%- for post in site.posts limit: 3 %}
+    <a class="guia" href="{{ post.url | relative_url }}">
+      <span class="kicker">{{ post.kicker | default: "Guia" }}</span>
+      <span class="guia-titulo">{{ post.title }}.</span>
+      {%- if post.lead %}<span class="apoio">{{ post.lead }}</span>{% endif %}
+    </a>
+    {%- endfor %}
+  </div>
+  {%- else %}
+  <p class="apoio">Os primeiros guias chegam em breve.</p>
+  {%- endif %}
+</section>
+
+{% include banner-teste.html %}
+{% include newsletter.html %}

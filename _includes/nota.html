@@ -1,0 +1,6 @@
+{%- comment -%}
+  Nota com vírgula decimal. Uso: {% include nota.html nota=page.nota tamanho="lg" %}
+  tamanho: "sm" (cards), "md" (padrão) ou "lg" (página do vinho)
+{%- endcomment -%}
+{%- assign t = include.tamanho | default: "md" -%}
+<span class="nota nota-{{ t }}"><span class="nota-num">{{ include.nota | replace: ".", "," }}</span><span class="nota-de">/10</span></span>

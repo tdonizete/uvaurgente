@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <span class="wordmark wordmark-lg">UVA URGENTE</span>
+      <p>{{ site.tagline }} Nota honesta, preço real e onde comprar.</p>
+    </div>
+    <nav class="footer-links" aria-label="Rodapé">
+      <a href="https://www.instagram.com/{{ site.instagram }}/" rel="noopener">Instagram</a>
+      {%- if site.spotify_url != "" %}
+      <a href="{{ site.spotify_url }}" rel="noopener">Playlists</a>
+      {%- endif %}
+      <a href="{{ '/onde-comprar/' | relative_url }}">Onde comprar</a>
+      <a href="{{ '/parcerias/' | relative_url }}">Como trabalhamos com marcas</a>
+      <a href="{{ '/privacidade/' | relative_url }}">Privacidade</a>
+      <a href="{{ '/guias/feed.xml' | relative_url }}">RSS</a>
+    </nav>
+    <p class="footer-note">Alguns links são de afiliado: posso ganhar comissão, e a nota não muda por isso. Conteúdo para maiores de 18 anos. Beba com moderação. © {{ site.time | date: '%Y' }} UVA URGENTE.</p>
+  </div>
+</footer>
