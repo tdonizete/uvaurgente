@@ -29,7 +29,7 @@ app_url: /teste/       # onde o Wine Matcher está publicado
 newsletter_action: ""  # endereço "action" do formulário do serviço de newsletter
 newsletter_field: email
 ga_id: ""              # ID do Google Analytics 4, no formato G-XXXXXXXXXX
-google_site_verification: ""  # código do Google Search Console (método "Tag HTML")
+google_site_verification: "rX453w3FCd2sqYS92cTd9tR6CByNjB_pfIOnPBZfs74"
 
 # Imagem padrão quando um link do site é compartilhado (1200×630 px)
 image: /assets/img/og-padrao.png
