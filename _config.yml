@@ -18,8 +18,8 @@ timezone: America/Sao_Paulo
 # - Com domínio próprio: url: "https://uvaurgente.com.br" e baseurl: ""
 # - Sem domínio (repositório tdonizete/uvaurgente):
 #   url: "https://tdonizete.github.io" e baseurl: "/uvaurgente"
-url: "https://tdonizete.github.io"
-baseurl: "/uvaurgente"
+url: "https://uvaurgente.com.br"
+baseurl: ""
 # Redes e links
 instagram: uvaurgente
 spotify_url: ""        # link do seu perfil de playlists (deixe vazio para esconder)
