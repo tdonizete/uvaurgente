@@ -43,7 +43,7 @@ layout: default
       {%- if page.criterios %}
       <h2 class="h2">Como chegamos no {{ page.nota | replace: ".", "," }}.</h2>
       {% include criterios.html c=page.criterios %}
-      <p class="apoio">Nota = Visual × 10% + Aroma × 25% + Paladar × 40% + Custo-benefício × 25%. <a href="{{ '/metodologia/' | relative_url }}">Ler a metodologia completa</a></p>
+      <p class="apoio">Nota = Visual × 10% + Aroma × 25% + Paladar × 40% + Custo-benefício × 25%, calculada a partir de ficha técnica, críticas publicadas e preço de mercado. <a href="{{ '/metodologia/' | relative_url }}">Como avaliamos</a></p>
       {%- endif %}
       {%- assign corpo = content | strip %}
       {%- if corpo != "" %}
@@ -52,7 +52,7 @@ layout: default
     </div>
     <aside class="veredito-col-lateral">
       {%- if page.degustacao %}
-      <h2 class="h3">Na taça.</h2>
+      <h2 class="h3">Perfil na taça.</h2>
       <p>{{ page.degustacao }}</p>
       {%- endif %}
       {%- if page.harmonizacao %}

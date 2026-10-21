@@ -1,0 +1,79 @@
+{
+  "slug": "casillero-del-diablo-reserva-cabernet-sauvignon",
+  "data": "2026-10-21",
+  "vinho": {
+    "title": "Casillero del Diablo Reserva Cabernet Sauvignon",
+    "produtor": "Concha y Toro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13.5,
+    "servir": "17 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.lcbo.com/en/casillero-del-diablo-reserva-cabernet-sauvignon-278416",
+    "https://www.danmurphys.com.au/product/682396/casillero-del-diablo-reserve-cabernet-sauvignon",
+    "https://www.paodeacucar.com/produto/13918/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-cabernet-sauvignon-valle-central-garrafa-750ml",
+    "https://www.werlecomercial.com.br/vinho-casillero-del-diablo-cabernet-sauvignon-750ml"
+  ],
+  "preco": {
+    "referencia": 62.9,
+    "min": 63,
+    "max": 70,
+    "ajustes": ["promocao_frequente"],
+    "fontes": [
+      "Werle Comercial: R$ 62,90 (de R$ 69,90), consultado em 21/10/2026",
+      "Pão de Açúcar: R$ 69,90; leve 3 pague 2 = R$ 46,60 por unidade, consultado em 21/10/2026"
+    ]
+  },
+  "visual": {"nota": 8.0, "obs": "Rubi-púrpura intenso, límpido; coerente com tinto jovem."},
+  "aroma": {
+    "limpeza": 8.5,
+    "intensidade": 7.6,
+    "complexidade": 7.6,
+    "familias": ["Frutas", "Madeira", "Especiarias"],
+    "top5": [
+      {"nome": "Cassis", "nivel": "pronunciado"},
+      {"nome": "Ameixa", "nivel": "pronunciado"},
+      {"nome": "Cereja", "nivel": "moderado"},
+      {"nome": "Baunilha", "nivel": "moderado"},
+      {"nome": "Tostado", "nivel": "fraco"}
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.5,
+    "tanino_docura": 7.4,
+    "intensidade": 7.6,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca, sem cortar",
+      "Encorpado — preenche a boca",
+      "Firme — aperta sem agredir",
+      "Pronunciada — sabor claro",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {"melhor_que_7": true, "supera_cartuxa": false},
+  "textos": {
+    "frase": "Tinto honesto de fruta escura, que entrega o que promete.",
+    "kicker_identidade": "Clássico chileno de gôndola",
+    "historico": "Casillero del Diablo é a linha de maior alcance da Concha y Toro, vinícola fundada em 1883. O nome vem da lenda de que Don Melchor espalhou que o diabo morava na adega, para afastar quem roubava os vinhos.",
+    "degustacao": "Cassis, ameixa e cereja no nariz, com baunilha e tostado da madeira. Na boca é encorpado, de tanino firme e acidez média, com final de duração média.",
+    "harmonizacao": [
+      {"prato": "Picanha na brasa", "porque": "O tanino firme limpa a gordura a cada gole.", "tag": "Destaque"},
+      {"prato": "Cordeiro assado", "porque": "Fruta escura e madeira acompanham a carne de sabor forte.", "tag": "Clássico"},
+      {"prato": "Hambúrguer artesanal", "porque": "Corpo e fruta seguram o molho e o queijo.", "tag": "Fácil"},
+      {"prato": "Queijos maturados", "porque": "Parmesão e gouda envelhecido conversam com o tostado.", "tag": "Curinga"},
+      {"prato": "Cogumelos salteados", "porque": "Opção sem carne que pede um tinto de corpo.", "tag": "Leve"}
+    ],
+    "texto_site": ""
+  },
+  "lojas": [],
+  "hashtags": ["#vinho", "#vinhotinto", "#cabernetsauvignon", "#vinhochileno", "#casillerodeldiablo", "#uvaurgente", "#vinhosemmimimi", "#dicadevinho"]
+}

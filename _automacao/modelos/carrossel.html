@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face { font-family: "Archivo Black"; src: url("{{ fontes }}/ArchivoBlack-Regular.ttf"); }
+@font-face { font-family: "Inter"; src: url("{{ fontes }}/Inter.ttf"); font-weight: 100 900; }
+:root {
+  --paper: #F5F5F0; --warm: #FBF9F4; --ink: #1A1A1A; --ink60: rgba(26,26,26,.60);
+  --line: rgba(26,26,26,.14); --cobalt: #1E5FE0; --flame: #F04E23;
+  --selo-bg: {{ s.selo.bg }}; --selo-ink: {{ s.selo.ink }};
+}
+* { box-sizing: border-box; margin: 0; }
+body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
+.slide { width: 1080px; height: 1350px; background: var(--warm); padding: 72px; display: flex; flex-direction: column; overflow: hidden; position: relative; }
+.topo { display: flex; justify-content: space-between; align-items: center; }
+.marca { display: flex; align-items: baseline; gap: 14px; }
+.wm { font-family: "Archivo Black"; font-size: 30px; letter-spacing: .04em; }
+.rot { font-size: 20px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--ink60); }
+.selo { font-family: "Archivo Black"; font-size: 22px; letter-spacing: .03em; text-transform: uppercase; background: var(--selo-bg); color: var(--selo-ink); padding: 14px 20px; border-radius: 4px; white-space: nowrap; }
+.kicker { font-size: 22px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--cobalt); }
+.h1 { font-family: "Archivo Black"; font-weight: 400; line-height: .96; letter-spacing: -.02em; }
+.rodape { margin-top: auto; padding-top: 28px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; align-items: baseline; font-size: 22px; font-weight: 600; }
+.rodape .pag { color: var(--ink60); }
+.pill { display: inline-block; border: 1px solid var(--line); border-radius: 999px; padding: 10px 20px; font-size: 22px; font-weight: 500; margin: 0 10px 10px 0; background: var(--paper); }
+.nota-g { font-family: "Archivo Black"; color: var(--flame); line-height: .85; letter-spacing: -.03em; }
+.sobre10 { font-weight: 600; color: var(--ink60); }
+.garrafa img { max-height: 100%; max-width: 100%; object-fit: contain; }
+.garrafa svg path { fill: var(--ink); } .garrafa svg rect { fill: var(--paper); }
+.barra { height: 18px; border-radius: 4px; background: var(--line); overflow: hidden; }
+.barra i { display: block; height: 100%; background: var(--cobalt); border-radius: 4px; }
+.citacao { border-left: 6px solid var(--flame); padding: 4px 0 4px 28px; font-style: italic; font-size: 28px; line-height: 40px; }
+.aviso { font-size: 18px; line-height: 26px; color: var(--ink60); }
+</style>
+</head>
+<body>
+{% set garrafa %}
+  {% if imagem %}<img src="{{ imagem }}" alt="">{% else %}<svg viewBox="0 0 40 150" style="height:100%"><path d="M15 0h10v34c0 6 11 12 11 26v84c0 3-2 6-6 6H10c-4 0-6-3-6-6V60c0-14 11-20 11-26z"/><rect x="4" y="82" width="32" height="34"/></svg>{% endif %}
+{% endset %}
+
+<!-- 1 · CAPA -->
+<section class="slide" id="s1" style="display:grid; grid-template-columns: minmax(0,1fr) 300px; grid-template-rows: minmax(0,1fr); gap: 48px; padding-right: 64px">
+  <div style="display:flex; flex-direction:column; min-height:0">
+    <div class="marca"><span class="wm">UVA URGENTE</span><span class="rot">Veredito</span></div>
+    <p class="kicker" style="margin-top:96px">{{ v.tipo }} avaliado</p>
+    <h1 class="h1" style="margin-top:20px; font-size: {{ 104 if v.title|length < 22 else (88 if v.title|length < 34 else (68 if v.title|length < 50 else 56)) }}px">{{ v.title }}.</h1>
+    <div style="margin-top:48px; display:flex; align-items:baseline; gap:10px">
+      <span class="nota-g" style="font-size:190px">{{ nota }}</span><span class="sobre10" style="font-size:40px">/10</span>
+    </div>
+    <div style="margin-top:56px"><span class="selo" style="font-size:26px; padding:16px 24px">{{ s.selo.nome }}</span></div>
+    <div style="margin-top:44px">
+      <span class="pill">{{ v.regiao }} · {{ v.pais }}</span>{% if v.safra %}<span class="pill">Safra {{ v.safra }}</span>{% endif %}<span class="pill">{{ preco_txt }}</span>
+    </div>
+    <div class="rodape"><span>{{ v.uvas }}</span><span class="pag">1/6 · arraste →</span></div>
+  </div>
+  <div class="garrafa" style="display:flex; align-items:center; justify-content:center; height:100%; padding: 120px 0 60px">{{ garrafa }}</div>
+</section>
+
+<!-- 2 · IDENTIDADE -->
+<section class="slide" id="s2">
+  <div class="topo"><div class="marca"><span class="wm">UVA URGENTE</span><span class="rot">Identidade</span></div><span class="selo">{{ s.selo.nome }}</span></div>
+  <p class="kicker" style="margin-top:80px">{{ t.kicker_identidade }}</p>
+  <h2 class="h1" style="margin-top:20px; font-size:76px">Quem é este vinho.</h2>
+  <div style="margin-top:56px; display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:16px">
+    {% for rotulo, valor in ficha %}
+    <div style="border:1px solid var(--line); border-radius:12px; padding:22px 26px; background:var(--paper)">
+      <div style="font-size:18px; font-weight:600; color:var(--ink60); text-transform:uppercase; letter-spacing:.08em">{{ rotulo }}</div>
+      <div style="margin-top:8px; font-size:30px; font-weight:600; line-height:38px">{{ valor }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  <div style="margin-top:44px; display:grid; grid-template-columns: minmax(0,1fr) auto; gap:32px; align-items:start">
+    <p style="font-size:28px; line-height:40px">{{ t.historico }}</p>
+    <span style="background:var(--ink); color:var(--paper); font-family:'Archivo Black'; font-size:24px; padding:16px 22px; border-radius:4px; text-transform:uppercase; letter-spacing:.03em; white-space:nowrap">{{ v.regiao }}</span>
+  </div>
+  <div class="rodape"><span>@uvaurgente</span><span class="pag">2/6</span></div>
+</section>
+
+<!-- 3 · AROMAS & PALADAR -->
+<section class="slide" id="s3">
+  <div class="topo"><div class="marca"><span class="wm">UVA URGENTE</span><span class="rot">Aromas &amp; Paladar</span></div><span class="selo">{{ s.selo.nome }}</span></div>
+  <h2 class="h1" style="margin-top:72px; font-size:72px">O que aparece na taça.</h2>
+  <div style="margin-top:56px; display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:56px">
+    <div>
+      <p class="kicker" style="margin-bottom:28px">Nariz</p>
+      {% for ar in aromas %}
+      <div style="margin-bottom:30px">
+        <div style="display:flex; justify-content:space-between; font-size:26px; font-weight:600; margin-bottom:10px"><span>{{ ar.nome }}</span><span style="color:var(--ink60)">{{ ar.pct }}%</span></div>
+        <div class="barra"><i style="width:{{ ar.pct }}%"></i></div>
+      </div>
+      {% endfor %}
+    </div>
+    <div>
+      <p class="kicker" style="margin-bottom:28px">Paladar</p>
+      {% for pa in paladar %}
+      <div style="margin-bottom:22px">
+        <div style="display:flex; justify-content:space-between; font-size:26px; font-weight:600"><span>{{ pa.nome }}</span><span>{{ pa.nota }}</span></div>
+        <div style="font-size:19px; color:var(--ink60); margin:4px 0 8px">{{ pa.sub }}</div>
+        <div class="barra"><i style="width:{{ pa.pct }}%"></i></div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <p class="citacao" style="margin-top:28px">{{ t.degustacao }}</p>
+  <div class="rodape"><span class="aviso" style="font-weight:500">Perfil descrito a partir da ficha técnica e de críticas publicadas.</span><span class="pag">3/6</span></div>
+</section>
+
+<!-- 4 · CRITÉRIOS -->
+<section class="slide" id="s4">
+  <div class="topo"><div class="marca"><span class="wm">UVA URGENTE</span><span class="rot">Critérios</span></div><span class="selo">{{ s.selo.nome }}</span></div>
+  <p class="kicker" style="margin-top:80px">Como chegamos na nota</p>
+  <h2 class="h1" style="margin-top:20px; font-size:72px">Quatro critérios. Uma nota.</h2>
+  <div style="margin-top:64px; display:flex; flex-direction:column; gap:40px">
+    {% for c in criterios %}
+    <div style="display:grid; grid-template-columns: 300px minmax(0,1fr) 110px; align-items:center; gap:28px">
+      <div><div style="font-size:30px; font-weight:600">{{ c.nome }}</div><div style="font-size:22px; font-weight:500; color:var(--ink60)">peso {{ c.peso }}</div></div>
+      <div class="barra" style="height:20px"><i style="width:{{ c.pct }}%"></i></div>
+      <span style="font-family:'Archivo Black'; font-size:48px; text-align:right">{{ c.nota }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  <div style="margin-top:56px; background:var(--flame); color:var(--ink); border-radius:12px; padding:28px 36px; display:flex; justify-content:space-between; align-items:center">
+    <span style="font-family:'Archivo Black'; font-size:44px">Nota {{ nota }}/10</span>
+    <span style="font-family:'Archivo Black'; font-size:30px; text-transform:uppercase">{{ s.selo.nome }}</span>
+  </div>
+  <div style="margin-top:36px">
+    <div style="position:relative; display:grid; grid-template-columns: 60fr 20fr 10fr 5fr 5fr; height:16px; border-radius:4px; overflow:hidden">
+      {% for f in faixas %}<span style="background:{{ f.bg }}; {% if f.ativa %}outline:3px solid var(--ink); outline-offset:-3px{% endif %}"></span>{% endfor %}
+    </div>
+    <div style="position:relative; height:30px"><span style="position:absolute; left:calc({{ marcador }}% - 12px); top:4px; width:0; height:0; border-left:12px solid transparent; border-right:12px solid transparent; border-bottom:18px solid var(--ink)"></span></div>
+  </div>
+  <div class="rodape" style="display:block"><p class="aviso">Nota calculada pela Metodologia UVA URGENTE v2.0 a partir de ficha técnica, críticas publicadas e preço de mercado ({{ preco_txt }}). Teto BLIC: {{ s.n_pilares }} de 4 pilares. Método completo em uvaurgente.com.br/metodologia</p></div>
+</section>
+
+<!-- 5 · HARMONIZAÇÃO -->
+<section class="slide" id="s5">
+  <div class="topo"><div class="marca"><span class="wm">UVA URGENTE</span><span class="rot">Na mesa</span></div><span class="selo">{{ s.selo.nome }}</span></div>
+  <h2 class="h1" style="margin-top:72px; font-size:72px">Com o que abrir.</h2>
+  <div style="margin-top:48px; display:flex; flex-direction:column">
+    {% for h in t.harmonizacao %}
+    <div style="display:grid; grid-template-columns: 96px minmax(0,1fr) auto; gap:24px; align-items:start; padding:26px 0; border-top:1px solid var(--line)">
+      <span style="font-family:'Archivo Black'; font-size:44px; color:{{ 'var(--flame)' if loop.first else 'var(--ink60)' }}">{{ '%02d' % loop.index }}</span>
+      <div><div style="font-size:32px; font-weight:600; line-height:40px">{{ h.prato }}</div><div style="margin-top:6px; font-size:23px; line-height:32px; color:var(--ink60)">{{ h.porque }}</div></div>
+      <span style="border:1px solid var(--line); border-radius:999px; padding:8px 16px; font-size:19px; font-weight:600; white-space:nowrap">{{ h.tag }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="rodape"><span>Servir a {{ v.servir }}</span><span class="pag">5/6</span></div>
+</section>
+
+<!-- 6 · VEREDITO FINAL -->
+<section class="slide" id="s6" style="padding:0; display:grid; grid-template-columns: 340px minmax(0,1fr)">
+  <div style="background:var(--paper); border-right:1px solid var(--line); padding:72px 32px 72px 56px; display:flex; flex-direction:column; justify-content:space-between; align-items:center">
+    <span class="wm" style="align-self:flex-start; font-size:24px; white-space:nowrap">UVA URGENTE</span>
+    <div class="garrafa" style="height:620px; display:flex; align-items:center; justify-content:center">{{ garrafa }}</div>
+    <div style="text-align:center"><div class="nota-g" style="font-size:96px">{{ nota }}</div><div style="margin-top:8px; font-size:20px; font-weight:600; color:var(--ink60); text-transform:uppercase; letter-spacing:.06em">{{ s.selo.nome }}</div></div>
+  </div>
+  <div style="padding:72px 64px 64px 52px; display:flex; flex-direction:column">
+    <p class="kicker">Veredito final</p>
+    <h2 class="h1" style="margin-top:20px; font-size:58px; line-height:1.02">{{ t.frase }}</h2>
+    <div style="margin-top:28px"><span class="selo" style="background:var(--flame); color:var(--ink)">{{ s.selo.nome }} · {{ nota }}</span></div>
+    <p class="citacao" style="margin-top:32px; font-size:25px; line-height:36px">{{ t.degustacao }}</p>
+    <div style="margin-top:32px; display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:12px">
+      {% for rotulo, valor in specs %}
+      <div style="border:1px solid var(--line); border-radius:12px; padding:16px 18px"><div style="font-size:16px; font-weight:600; color:var(--ink60); text-transform:uppercase; letter-spacing:.06em">{{ rotulo }}</div><div style="margin-top:6px; font-family:'Archivo Black'; font-size:{{ 24 if valor|length < 12 else 19 }}px; line-height:1.15">{{ valor }}</div></div>
+      {% endfor %}
+    </div>
+    <div style="margin-top:auto; background:var(--cobalt); color:var(--paper); border-radius:12px; padding:26px 30px; display:flex; justify-content:space-between; align-items:center">
+      <span style="font-family:'Archivo Black'; font-size:32px">Onde comprar: link na bio</span><span style="font-size:20px; font-weight:600">{{ loja_principal }}</span>
+    </div>
+    <p style="margin-top:22px; font-size:25px; font-weight:600">E você, já experimentou? Conta nos comentários: COMPRO ou PASSO.</p>
+  </div>
+</section>
+</body>
+</html>

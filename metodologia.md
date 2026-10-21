@@ -30,8 +30,19 @@ A nota vira um selo, que é o veredito em uma olhada:
 | 6,1 a 8,0 | Sem Pressa | Cumpre o básico. Há opções melhores pelo mesmo preço. |
 | 0,0 a 6,0 | Sem Urgência | Não recomendamos. |
 
+## De onde vêm as notas
+
+Cada avaliação reúne o que já se sabe publicamente sobre o vinho e passa tudo pela mesma conta:
+
+1. **Ficha técnica:** produtor, região, uvas, teor alcoólico e estilo, na fonte oficial ou em lojas especializadas.
+2. **Perfil sensorial:** cor, aromas, corpo, acidez, tanino e final descritos em fichas técnicas e críticas publicadas. Esses relatos são convertidos nas notas de Visual, Aroma e Paladar pelas escalas da metodologia.
+3. **Preço real:** pesquisado em pelo menos duas lojas brasileiras na data da avaliação. É ele que define o custo-benefício.
+4. **Travas contra nota inflada:** o teto BLIC (equilíbrio, persistência, intensidade e complexidade) e a comparação com vinhos de referência limitam a nota final. Na dúvida entre duas notas, publicamos a menor.
+
+Ou seja: a nota não é a impressão de uma prova isolada, e sim a aplicação da mesma régua, sempre, sobre as informações disponíveis. As fontes usadas ficam registradas na ficha de cada avaliação.
+
 ## As regras que não mudam
 
-- O vinho é comprado ou recebido e provado; a nota é dada antes de qualquer link de compra.
+- A nota é calculada antes de qualquer link de compra ser adicionado.
 - Parceria nunca muda nota. Conteúdo pago é sempre sinalizado. Veja [como trabalhamos com marcas]({{ '/parcerias/' | relative_url }}).
 - Preço informado é a faixa encontrada no varejo na data da avaliação. Preço muda; a nota não é refeita por promoção.
