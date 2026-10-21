@@ -30,6 +30,8 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
 .barra { height: 18px; border-radius: 4px; background: var(--line); overflow: hidden; }
 .barra i { display: block; height: 100%; background: var(--cobalt); border-radius: 4px; }
 .citacao { border-left: 6px solid var(--flame); padding: 4px 0 4px 28px; font-style: italic; font-size: 28px; line-height: 40px; }
+.provado { display:inline-flex; align-items:center; gap:10px; font-family:"Archivo Black"; font-size:22px; letter-spacing:.06em; text-transform:uppercase; background:var(--ink); color:var(--paper); padding:14px 20px; border-radius:4px; white-space:nowrap; }
+.provado::before { content:""; width:20px; height:11px; border-left:4px solid var(--paper); border-bottom:4px solid var(--paper); transform: rotate(-45deg) translate(2px,-3px); }
 .aviso { font-size: 18px; line-height: 26px; color: var(--ink60); }
 </style>
 </head>
@@ -47,7 +49,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
     <div style="margin-top:48px; display:flex; align-items:baseline; gap:10px">
       <span class="nota-g" style="font-size:190px">{{ nota }}</span><span class="sobre10" style="font-size:40px">/10</span>
     </div>
-    <div style="margin-top:56px"><span class="selo" style="font-size:26px; padding:16px 24px">{{ s.selo.nome }}</span></div>
+    <div style="margin-top:56px; display:flex; gap:14px; flex-wrap:wrap"><span class="selo" style="font-size:26px; padding:16px 24px">{{ s.selo.nome }}</span>{% if provado %}<span class="provado" style="font-size:26px; padding:16px 24px">Provado</span>{% endif %}</div>
     <div style="margin-top:44px">
       <span class="pill">{{ v.regiao }} · {{ v.pais }}</span>{% if v.safra %}<span class="pill">Safra {{ v.safra }}</span>{% endif %}<span class="pill">{{ preco_txt }}</span>
     </div>
@@ -102,7 +104,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
     </div>
   </div>
   <p class="citacao" style="margin-top:28px">{{ t.degustacao }}</p>
-  <div class="rodape"><span class="aviso" style="font-weight:500">Perfil descrito a partir da ficha técnica e de críticas publicadas.</span><span class="pag">3/6</span></div>
+  <div class="rodape"><span class="aviso" style="font-weight:500">{% if provado %}Perfil registrado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</span><span class="pag">3/6</span></div>
 </section>
 
 <!-- 4 · CRITÉRIOS -->
@@ -129,7 +131,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
     </div>
     <div style="position:relative; height:30px"><span style="position:absolute; left:calc({{ marcador }}% - 12px); top:4px; width:0; height:0; border-left:12px solid transparent; border-right:12px solid transparent; border-bottom:18px solid var(--ink)"></span></div>
   </div>
-  <div class="rodape" style="display:block"><p class="aviso">Nota calculada pela Metodologia UVA URGENTE v2.0 a partir de ficha técnica, críticas publicadas e preço de mercado ({{ preco_txt }}). Teto BLIC: {{ s.n_pilares }} de 4 pilares. Método completo em uvaurgente.com.br/metodologia</p></div>
+  <div class="rodape" style="display:block"><p class="aviso">{% if provado %}Vinho provado. {% endif %}Nota pela Metodologia UVA URGENTE v2.0, {{ fonte_txt }} ({{ preco_txt }}). Teto BLIC: {{ s.n_pilares }} de 4 pilares. Método completo em uvaurgente.com.br/metodologia</p></div>
 </section>
 
 <!-- 5 · HARMONIZAÇÃO -->
@@ -158,7 +160,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
   <div style="padding:72px 64px 64px 52px; display:flex; flex-direction:column">
     <p class="kicker">Veredito final</p>
     <h2 class="h1" style="margin-top:20px; font-size:58px; line-height:1.02">{{ t.frase }}</h2>
-    <div style="margin-top:28px"><span class="selo" style="background:var(--flame); color:var(--ink)">{{ s.selo.nome }} · {{ nota }}</span></div>
+    <div style="margin-top:28px; display:flex; gap:12px; flex-wrap:wrap"><span class="selo" style="background:var(--flame); color:var(--ink)">{{ s.selo.nome }} · {{ nota }}</span>{% if provado %}<span class="provado">Provado</span>{% endif %}</div>
     <p class="citacao" style="margin-top:32px; font-size:25px; line-height:36px">{{ t.degustacao }}</p>
     <div style="margin-top:32px; display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:12px">
       {% for rotulo, valor in specs %}

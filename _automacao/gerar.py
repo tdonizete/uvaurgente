@@ -25,6 +25,11 @@ from metodologia import avaliar, faixa_preco, virgula  # noqa: E402
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
 
+FONTE_TXT = {
+    False: "calculada a partir de ficha técnica, críticas publicadas e preço de mercado",
+    True: "calculada com as impressões da prova feita pelo @uvaurgente e o preço de mercado",
+}
+
 NIVEL_PCT = {"fraco": 40, "moderado": 62, "pronunciado": 78, "intenso": 92}
 NOMES_PALADAR = ["Acidez", "Corpo", "Tanino", "Intensidade", "Final"]
 
@@ -34,8 +39,9 @@ def preco_txt(p):
     return f"R$ {lo}" if lo == hi else f"R$ {lo}–{hi}"
 
 
-def front_matter(d, r):
+def front_matter(d, r, ctx):
     v = d["vinho"]
+    t = d["textos"]
     fm = {
         "title": v["title"],
         "date": date.fromisoformat(d.get("data", date.today().isoformat())),
@@ -49,7 +55,15 @@ def front_matter(d, r):
         "preco_max": d["preco"]["max"],
         "frase": d["textos"]["frase"],
         "degustacao": d["textos"]["degustacao"],
-        "harmonizacao": [h["prato"] for h in d["textos"]["harmonizacao"]],
+        "harmonizacao": [{"prato": h["prato"], "porque": h["porque"], "tag": h["tag"]} for h in t["harmonizacao"]],
+        "provado": bool(d.get("provado")),
+        "produtor": v.get("produtor"),
+        "kicker_identidade": t.get("kicker_identidade"),
+        "historico": t.get("historico"),
+        "canal": d.get("canal"),
+        "aromas": [{"nome": a["nome"], "pct": a["pct"]} for a in ctx["aromas"]],
+        "paladar": [{"nome": x["nome"], "nota": x["valor"], "sub": x["sub"]} for x in ctx["paladar"]],
+        "blic": r["n_pilares"],
         "servir": v.get("servir"),
         "teor": v.get("teor"),
         "imagem": f"/assets/img/vereditos/{d['slug']}.png" if d.get("imagem_origem") else None,
@@ -58,6 +72,8 @@ def front_matter(d, r):
         "criterios": r["criterios"],
     }
     fm = {k: val for k, val in fm.items() if val not in (None, "")}
+    if not fm.get("provado"):
+        fm.pop("provado", None)
     if "lojas" not in fm or not fm["lojas"]:
         fm["lojas"] = []
     corpo = yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000)
@@ -80,7 +96,7 @@ def legenda(d, r):
         f"🌡 Servir a {v.get('servir', '')}.",
         f"💰 {preco_txt(d['preco'])}. Link de compra na bio.",
         "",
-        "Nota pela Metodologia UVA URGENTE v2.0, calculada a partir de ficha técnica, críticas publicadas e preço de mercado. Método completo no site.",
+        ("✅ PROVADO. " if d.get("provado") else "") + f"Nota pela Metodologia UVA URGENTE v2.0, {FONTE_TXT[bool(d.get('provado'))]}. Método completo no site.",
         "",
         "E você, já experimentou? Comenta COMPRO ou PASSO.",
         "",
@@ -95,7 +111,7 @@ def ficha(d, r):
     linhas = [
         f"# Ficha de avaliação — {v['title']}",
         "",
-        f"- Nota publicada: **{virgula(r['nota'])}** ({r['selo']['nome']})",
+        f"- Nota publicada: **{virgula(r['nota'])}** ({r['selo']['nome']}){' · PROVADO' if d.get('provado') else ''}",
         f"- Nota matemática: {r['nota_matematica']:.2f}",
         f"- Critérios: Visual {virgula(r['criterios']['visual'])} · Aroma {virgula(r['criterios']['aroma'])} · Paladar {virgula(r['criterios']['paladar'])} · C/B {virgula(r['criterios']['custo_beneficio'])}",
         f"- Entrega V+A+P: {virgula(r['entrega_vap'])} · Faixa de preço: {r['faixa_preco']['nome']} (expectativa {virgula(r['faixa_preco']['expectativa'])}) · ajustes C/B {r['ajuste_cb']:+.1f}",
@@ -122,7 +138,7 @@ def contexto_slides(d, r, pasta_saida):
         nomes_pal[2] = "Doçura"
     pal = []
     for nome, nota, sub in zip(nomes_pal, r["paladar_attrs"], p["descritores"]):
-        pal.append({"nome": nome, "nota": virgula(nota), "pct": round(nota * 10), "sub": sub})
+        pal.append({"nome": nome, "nota": virgula(nota), "valor": nota, "pct": round(nota * 10), "sub": sub})
     aromas = [{"nome": a["nome"], "pct": a.get("pct") or NIVEL_PCT[a["nivel"]]} for a in d["aroma"]["top5"]]
     crit = [
         {"nome": "Visual", "peso": "10%", "nota": virgula(r["criterios"]["visual"]), "pct": r["criterios"]["visual"] * 10},
@@ -163,6 +179,8 @@ def contexto_slides(d, r, pasta_saida):
         "ficha": ficha_tec, "aromas": aromas, "paladar": pal, "criterios": crit,
         "faixas": faixas, "marcador": round(r["nota"] * 10, 1), "specs": specs,
         "loja_principal": lojas[0]["nome"] if lojas else "",
+        "provado": bool(d.get("provado")),
+        "fonte_txt": FONTE_TXT[bool(d.get("provado"))],
     }
 
 
@@ -194,15 +212,17 @@ def main(caminho):
     saida = os.path.join(AQUI, "saida", slug)
     os.makedirs(saida, exist_ok=True)
 
+    ctx = contexto_slides(d, r, saida)
+
     # Site
     with open(os.path.join(RAIZ, "_vereditos", f"{slug}.md"), "w", encoding="utf-8") as f:
-        f.write(front_matter(d, r))
+        f.write(front_matter(d, r, ctx))
     if d.get("imagem_origem"):
         shutil.copy(d["imagem_origem"], os.path.join(RAIZ, "assets", "img", "vereditos", f"{slug}.png"))
 
     # Instagram
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.join(AQUI, "modelos")), autoescape=True)
-    html = env.get_template("carrossel.html").render(**contexto_slides(d, r, saida))
+    html = env.get_template("carrossel.html").render(**ctx)
     html_path = os.path.join(saida, "carrossel.html")
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(html)

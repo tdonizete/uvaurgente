@@ -14,7 +14,7 @@
       <h3 class="card-nome">{{ v.title }}.</h3>
       {% include nota.html nota=v.nota tamanho="sm" %}
     </div>
-    <div>{% include selo.html nota=v.nota %}</div>
+    <div class="pills">{% include selo.html nota=v.nota %}{% if v.provado %}<span class="selo selo-provado card-provado">Provado</span>{% endif %}</div>
     <div class="pills">
       {%- if v.tipo %}<span class="pill">{{ v.tipo }}</span>{% endif -%}
       {%- if v.pais %}<span class="pill">{{ v.pais }}</span>{% endif -%}

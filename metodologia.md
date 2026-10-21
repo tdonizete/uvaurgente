@@ -39,7 +39,11 @@ Cada avaliação reúne o que já se sabe publicamente sobre o vinho e passa tud
 3. **Preço real:** pesquisado em pelo menos duas lojas brasileiras na data da avaliação. É ele que define o custo-benefício.
 4. **Travas contra nota inflada:** o teto BLIC (equilíbrio, persistência, intensidade e complexidade) e a comparação com vinhos de referência limitam a nota final. Na dúvida entre duas notas, publicamos a menor.
 
-Ou seja: a nota não é a impressão de uma prova isolada, e sim a aplicação da mesma régua, sempre, sobre as informações disponíveis. As fontes usadas ficam registradas na ficha de cada avaliação.
+Ou seja: a nota é a aplicação da mesma régua, sempre, sobre as informações disponíveis. As fontes usadas ficam registradas na ficha de cada avaliação.
+
+## Selo Provado
+
+Alguns vinhos são provados pelo @uvaurgente. Nesses casos, as notas de Visual, Aroma e Paladar saem das impressões da prova, e o vinho recebe o selo **✓ Provado** ao lado do selo da nota, no site e no Instagram. Preço, custo-benefício, teto BLIC e vinhos de referência seguem exatamente as mesmas regras. Sem o selo Provado, o perfil do vinho vem da ficha técnica e de críticas publicadas.
 
 ## As regras que não mudam
 

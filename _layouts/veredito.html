@@ -1,26 +1,159 @@
 ---
 layout: default
 ---
+{%- comment -%}
+  Página do vinho: mesma estrutura dos 6 slides do carrossel do Instagram.
+  1 Capa · 2 Identidade · 3 Aromas & Paladar · 4 Critérios · 5 Na mesa · 6 Veredito final.
+  Blocos sem dados (vereditos antigos) simplesmente não aparecem.
+{%- endcomment -%}
+{%- assign n = page.nota | plus: 0 -%}
+{%- if n >= 9.6 -%}{%- assign nivel = 5 -%}{%- elsif n >= 9.1 -%}{%- assign nivel = 4 -%}{%- elsif n >= 8.1 -%}{%- assign nivel = 3 -%}{%- elsif n >= 6.1 -%}{%- assign nivel = 2 -%}{%- else -%}{%- assign nivel = 1 -%}{%- endif -%}
+{%- capture selo -%}{% include selo.html nota=page.nota %}{%- endcapture -%}
+{%- capture provado -%}{% if page.provado %}<span class="selo selo-provado">Provado</span>{% endif %}{%- endcapture -%}
+{%- capture preco -%}{% include preco.html v=page %}{%- endcapture -%}
+{%- if page.provado -%}
+  {%- assign fonte = "calculada com as impressões da prova feita pelo @uvaurgente e o preço de mercado" -%}
+{%- else -%}
+  {%- assign fonte = "calculada a partir de ficha técnica, críticas publicadas e preço de mercado" -%}
+{%- endif -%}
 <article class="wrap veredito">
   <nav class="trilha" aria-label="Trilha"><a href="{{ '/' | relative_url }}">Início</a> / <a href="{{ '/vereditos/' | relative_url }}">Vereditos</a>{% if page.tipo %} / {{ page.tipo }}{% endif %}</nav>
 
-  <section class="veredito-topo">
-    <div class="veredito-garrafa">{% include garrafa.html item=page %}</div>
-    <div class="veredito-info">
+  <!-- 1 · Capa -->
+  <section class="vb vb-capa">
+    <div class="vb-capa-texto">
       <p class="kicker">{{ page.tipo | default: "Vinho" }} avaliado</p>
       <h1 class="h1">{{ page.title }}.</h1>
-      <div class="veredito-nota">
-        {% include nota.html nota=page.nota tamanho="lg" %}
-        {% include selo.html nota=page.nota %}
+      <div class="vb-nota">
+        <span class="vb-nota-num">{{ page.nota | replace: ".", "," }}</span><span class="vb-nota-de">/10</span>
       </div>
+      <div class="vb-selos">{{ selo }}{{ provado }}</div>
       <div class="pills">
         {%- if page.regiao or page.pais %}<span class="pill">{% if page.regiao %}{{ page.regiao }}{% if page.pais %} · {% endif %}{% endif %}{{ page.pais }}</span>{% endif -%}
         {%- if page.safra %}<span class="pill">Safra {{ page.safra }}</span>{% endif -%}
-        {%- if page.uvas %}<span class="pill">{{ page.uvas }}</span>{% endif -%}
-        <span class="pill">{% include preco.html v=page %}</span>
+        <span class="pill">{{ preco }}</span>
       </div>
-      {%- if page.frase %}<p class="frase">{{ page.frase }}</p>{% endif %}
+      {%- if page.uvas %}<p class="vb-rodape">{{ page.uvas }}</p>{% endif %}
+      <a class="btn btn-cobalt vb-ir-comprar" href="#onde-comprar">Onde comprar</a>
+    </div>
+    <div class="vb-capa-garrafa">{% include garrafa.html item=page %}</div>
+  </section>
 
+  <!-- 2 · Identidade -->
+  {%- if page.produtor or page.historico %}
+  <section class="vb">
+    <div class="vb-topo"><span class="vb-rotulo">Identidade</span>{{ selo }}</div>
+    {%- if page.kicker_identidade %}<p class="kicker">{{ page.kicker_identidade }}</p>{% endif %}
+    <h2 class="h1 vb-titulo">Quem é este vinho.</h2>
+    <dl class="vb-ficha">
+      {%- if page.uvas %}<div><dt>Uvas</dt><dd>{{ page.uvas }}</dd></div>{% endif -%}
+      <div><dt>Origem</dt><dd>{{ page.regiao }}{% if page.regiao and page.pais %}, {% endif %}{{ page.pais }}</dd></div>
+      <div><dt>Safra</dt><dd>{{ page.safra | default: "Não informada" }}</dd></div>
+      {%- if page.teor %}<div><dt>Teor</dt><dd>{{ page.teor | replace: ".", "," }}% vol.</dd></div>{% endif -%}
+      <div><dt>Preço</dt><dd>{{ preco }}</dd></div>
+      {%- if page.produtor %}<div><dt>Produtor</dt><dd>{{ page.produtor }}</dd></div>{% endif -%}
+    </dl>
+    {%- if page.historico %}
+    <div class="vb-historico">
+      <p>{{ page.historico }}</p>
+      {%- if page.regiao %}<span class="vb-regiao">{{ page.regiao }}</span>{% endif %}
+    </div>
+    {%- endif %}
+  </section>
+  {%- endif %}
+
+  <!-- 3 · Aromas & Paladar -->
+  {%- if page.aromas or page.paladar or page.degustacao %}
+  <section class="vb">
+    <div class="vb-topo"><span class="vb-rotulo">Aromas &amp; Paladar</span>{{ selo }}</div>
+    <h2 class="h1 vb-titulo">O que aparece na taça.</h2>
+    {%- if page.aromas or page.paladar %}
+    <div class="vb-duas">
+      {%- if page.aromas %}
+      <div>
+        <p class="kicker">Nariz</p>
+        {%- for a in page.aromas %}
+        <div class="vb-barra-item">
+          <div class="vb-barra-linha"><span>{{ a.nome }}</span><span class="vb-fraco">{{ a.pct }}%</span></div>
+          <div class="barra-fundo"><div class="barra" style="width: {{ a.pct }}%"></div></div>
+        </div>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+      {%- if page.paladar %}
+      <div>
+        <p class="kicker">Paladar</p>
+        {%- for p in page.paladar %}
+        <div class="vb-barra-item">
+          <div class="vb-barra-linha"><span>{{ p.nome }}</span><span>{{ p.nota | replace: ".", "," }}</span></div>
+          <div class="vb-sub">{{ p.sub }}</div>
+          <div class="barra-fundo"><div class="barra" style="width: {{ p.nota | times: 10 }}%"></div></div>
+        </div>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </div>
+    {%- endif %}
+    {%- if page.degustacao %}<blockquote class="vb-citacao">{{ page.degustacao }}</blockquote>{% endif %}
+    <p class="vb-aviso">{% if page.provado %}Perfil registrado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</p>
+  </section>
+  {%- endif %}
+
+  <!-- 4 · Critérios -->
+  {%- if page.criterios %}
+  <section class="vb">
+    <div class="vb-topo"><span class="vb-rotulo">Critérios</span>{{ selo }}</div>
+    <p class="kicker">Como chegamos na nota</p>
+    <h2 class="h1 vb-titulo">Quatro critérios. Uma nota.</h2>
+    {% include criterios.html c=page.criterios %}
+    <div class="vb-banner"><span>Nota {{ page.nota | replace: ".", "," }}/10</span><span>{{ selo | strip_html | strip }}</span></div>
+    <div class="vb-escala" aria-hidden="true">
+      <div class="vb-escala-faixas">
+        {%- for i in (1..5) %}<span class="selo-{{ i }}{% if i == nivel %} ativa{% endif %}"></span>{% endfor -%}
+      </div>
+      <span class="vb-escala-marca" style="left: {{ page.nota | times: 10 }}%"></span>
+    </div>
+    <p class="vb-aviso">{% if page.provado %}Vinho provado. {% endif %}Nota pela Metodologia UVA URGENTE v2.0, {{ fonte }} ({{ preco }}).{% if page.blic %} Teto BLIC: {{ page.blic }} de 4 pilares.{% endif %} <a href="{{ '/metodologia/' | relative_url }}">Como avaliamos</a></p>
+  </section>
+  {%- endif %}
+
+  <!-- 5 · Na mesa -->
+  {%- if page.harmonizacao %}
+  <section class="vb">
+    <div class="vb-topo"><span class="vb-rotulo">Na mesa</span>{{ selo }}</div>
+    <h2 class="h1 vb-titulo">Com o que abrir.</h2>
+    <ol class="vb-pratos">
+      {%- for h in page.harmonizacao %}
+      <li>
+        <span class="vb-num{% if forloop.first %} vb-num-destaque{% endif %}">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+        <div><strong>{{ h.prato | default: h }}</strong>{% if h.porque %}<span class="vb-sub">{{ h.porque }}</span>{% endif %}</div>
+        {%- if h.tag %}<span class="pill">{{ h.tag }}</span>{% endif %}
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- if page.servir %}<p class="vb-rodape">Servir a {{ page.servir }}</p>{% endif %}
+  </section>
+  {%- endif %}
+
+  <!-- 6 · Veredito final + onde comprar -->
+  <section class="vb vb-final" id="onde-comprar">
+    <div class="vb-final-lado">
+      <div class="vb-final-garrafa">{% include garrafa.html item=page %}</div>
+      <span class="vb-nota-num vb-nota-media">{{ page.nota | replace: ".", "," }}</span>
+      <span class="vb-rotulo">{{ selo | strip_html | strip }}</span>
+    </div>
+    <div class="vb-final-texto">
+      <p class="kicker">Veredito final</p>
+      {%- if page.frase %}<h2 class="h1 vb-titulo">{{ page.frase }}</h2>{% endif %}
+      <div class="vb-selos"><span class="selo selo-flame">{{ selo | strip_html | strip }} · {{ page.nota | replace: ".", "," }}</span>{{ provado }}</div>
+      <dl class="vb-specs">
+        {%- if page.servir %}<div><dt>Servir</dt><dd>{{ page.servir }}</dd></div>{% endif -%}
+        <div><dt>Preço</dt><dd>{{ preco }}</dd></div>
+        {%- if page.teor %}<div><dt>Teor</dt><dd>{{ page.teor | replace: ".", "," }}%</dd></div>{% endif -%}
+        {%- if page.paladar %}{% assign ac = page.paladar | first %}<div><dt>Acidez</dt><dd>{{ ac.sub | split: " — " | first }}</dd></div>{% endif -%}
+        {%- if page.canal %}<div><dt>Onde achar</dt><dd>{{ page.canal }}</dd></div>{% endif -%}
+        <div><dt>Safra</dt><dd>{{ page.safra | default: "—" }}</dd></div>
+      </dl>
       <div class="onde-comprar">
         <p class="rotulo">Onde comprar</p>
         {%- if page.lojas and page.lojas.size > 0 %}
@@ -32,41 +165,16 @@ layout: default
           {%- endfor %}
           <p class="aviso">Posso ganhar comissão; a nota não muda por isso.{% if page.preco_checado %} Preços checados em {{ page.preco_checado | date: "%d/%m/%Y" }}.{% endif %}</p>
         {%- else %}
-          <p class="aviso">Links de compra em breve. Encontrado em supermercados na faixa de {% include preco.html v=page %}.</p>
+          <p class="aviso">Links de compra em breve. Encontrado na faixa de {{ preco }}.</p>
         {%- endif %}
       </div>
     </div>
   </section>
 
-  <section class="veredito-detalhe">
-    <div class="veredito-col-principal">
-      {%- if page.criterios %}
-      <h2 class="h2">Como chegamos no {{ page.nota | replace: ".", "," }}.</h2>
-      {% include criterios.html c=page.criterios %}
-      <p class="apoio">Nota = Visual × 10% + Aroma × 25% + Paladar × 40% + Custo-benefício × 25%, calculada a partir de ficha técnica, críticas publicadas e preço de mercado. <a href="{{ '/metodologia/' | relative_url }}">Como avaliamos</a></p>
-      {%- endif %}
-      {%- assign corpo = content | strip %}
-      {%- if corpo != "" %}
-      <div class="texto">{{ content }}</div>
-      {%- endif %}
-    </div>
-    <aside class="veredito-col-lateral">
-      {%- if page.degustacao %}
-      <h2 class="h3">Perfil na taça.</h2>
-      <p>{{ page.degustacao }}</p>
-      {%- endif %}
-      {%- if page.harmonizacao %}
-      <h2 class="h3">Na mesa.</h2>
-      <ul>
-        {%- for prato in page.harmonizacao %}<li>{{ prato }}</li>{% endfor %}
-      </ul>
-      {%- endif %}
-      <div class="pills">
-        {%- if page.servir %}<span class="pill">Servir a {{ page.servir }}</span>{% endif -%}
-        {%- if page.teor %}<span class="pill">{{ page.teor }}% vol.</span>{% endif -%}
-      </div>
-      {%- if page.playlist %}<p><a href="{{ page.playlist }}" rel="noopener">Ouvir a playlist deste vinho</a></p>{% endif %}
-    </aside>
-  </section>
+  {%- assign corpo = content | strip %}
+  {%- if corpo != "" %}
+  <section class="vb texto">{{ content }}</section>
+  {%- endif %}
+  {%- if page.playlist %}<p><a href="{{ page.playlist }}" rel="noopener">Ouvir a playlist deste vinho</a></p>{% endif %}
 </article>
 {% include banner-teste.html %}
