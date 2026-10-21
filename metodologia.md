@@ -18,6 +18,27 @@ Cada critério recebe uma nota de 0 a 10, com uma casa decimal. A nota final tam
 | Paladar | 40% | Equilíbrio entre acidez, doçura, álcool e tanino, e quanto tempo o sabor fica na boca. É o que você sente no gole, por isso pesa mais. |
 | Custo-benefício | 25% | Se o vinho entrega o que custa, comparado a outros da mesma faixa de preço. |
 
+## Como o custo-benefício é calculado
+
+Cada faixa de preço tem uma entrega esperada, que é a média de Visual, Aroma e Paladar que um vinho daquele preço deveria alcançar:
+
+| Faixa | Preço | Entrega esperada |
+| --- | --- | --- |
+| Popular | até R$ 40 | 6,5 |
+| Acessível | R$ 41 a 80 | 7,5 |
+| Intermediário | R$ 81 a 150 | 8,0 |
+| Premium | R$ 151 a 300 | 8,5 |
+| Luxo | R$ 301 a 600 | 9,0 |
+| Ultra-premium | acima de R$ 600 | 9,5 |
+
+**Custo-benefício = 7,0 + 1,8 × (entrega do vinho − entrega esperada)**, de 0 a 10.
+
+- Entregou exatamente o esperado para o preço: 7,0, ou seja, correto.
+- Cada décimo acima ou abaixo do esperado soma ou tira 0,18 ponto.
+- Ajustes documentados de até ±0,5: promoção frequente (+0,3), pequeno produtor (+0,2), preço inflado sem ganho de qualidade (−0,3), disponibilidade muito restrita (−0,5).
+
+Exemplo: Casal Garcia Vinho Verde, R$ 55 (Acessível, esperado 7,5), entrega 8,6. Custo-benefício = 7,0 + 1,8 × 1,1 = 9,0.
+
 ## O selo
 
 A nota vira um selo, que é o veredito em uma olhada:

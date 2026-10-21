@@ -20,6 +20,6 @@ python3 _automacao/gerar.py _automacao/avaliacoes/<slug>.json
 
 Saída com código 1 = há alerta de metodologia ou texto estourando um slide; corrija antes de publicar.
 
-Regra de custo-benefício usada (a fórmula da seção 5.1 não fecha com o exemplo oficial):
+Regra de custo-benefício (aprovada em 21/10/2026; substitui a fórmula com Índice de Preço da seção 5.1, que dava 10 para todo vinho):
 `C/B = 7,0 + 1,8 × (média V+A+P − expectativa da faixa) + ajustes`, limitado a 0–10.
 Reproduz o exemplo oficial (Casal Garcia, R$ 55, entrega 8,6 → 9,0).
