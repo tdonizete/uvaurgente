@@ -1,0 +1,142 @@
+{
+  "slug": "casa-perini-brut",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Casa Perini Brut",
+    "produtor": "Casa Perini",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Vale Trentino (Farroupilha)",
+    "safra": null,
+    "uvas": "Chardonnay, Riesling Itálico",
+    "teor": 12,
+    "servir": "6 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.vinhosevinhos.com/espumante-casa-perini-brut-charmat-750-ml.html",
+    "https://www.mvvinhos.com.br/espumante-casa-perini-charmat-brut-750ml"
+  ],
+  "preco": {
+    "referencia": 44.9,
+    "min": 45,
+    "max": 56,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Vinhos & Vinhos: R$ 44,90 (de R$ 89,00), 22/10/2026",
+      "MV Vinhos: R$ 55,50 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Maçã verde",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pão",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 7.0,
+    "tanino_docura": 8.6,
+    "intensidade": 7.0,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — frescor intenso",
+      "Leve — coerente com o estilo",
+      "Seco — brut correto",
+      "Pronunciada — fruta verde",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Espumante nacional fresco e honesto, ótimo para brindar.",
+    "kicker_identidade": "O brut da Serra Gaúcha",
+    "historico": "A Casa Perini é uma vinícola familiar de Farroupilha, fundada em 1970 a partir da produção artesanal iniciada por João Perini em 1929. O Brut é feito pelo método Charmat.",
+    "degustacao": "Maçã verde, pera e flores brancas no nariz. Na boca tem frescor intenso, perlage fina e espuma cremosa.",
+    "harmonizacao": [
+      {
+        "prato": "Petiscos de festa",
+        "porque": "Borbulha e acidez limpam fritura e salgadinho.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Salada",
+        "porque": "Leveza para uma entrada fresca.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Peixe grelhado",
+        "porque": "Frescor que acompanha o peixe.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos leves",
+        "porque": "Minas frescal e ricota com espumante.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Frango grelhado",
+        "porque": "Carne branca leve para o almoço.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/3QFt2YC"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/1x3sUQo"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#espumante",
+    "#brut",
+    "#espumantebrasileiro",
+    "#casaperini"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/casa-perini-brut.png"
+}

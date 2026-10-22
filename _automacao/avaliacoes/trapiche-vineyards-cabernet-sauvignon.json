@@ -1,0 +1,142 @@
+{
+  "slug": "trapiche-vineyards-cabernet-sauvignon",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Vineyards Cabernet Sauvignon",
+    "produtor": "Trapiche",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": 2021,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13,
+    "servir": "16 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.casadabebida.com.br/vinho/trapiche-vineyards-cabernet-sauvignon-750ml/",
+    "https://www.formosa.com.br/vinho-trapiche-vineyards-750ml-cabernet-sauvignon/p",
+    "https://www.todovino.com.br/vinho-trapiche-vineyards-cabernet-sauvignon-750ml/p"
+  ],
+  "preco": {
+    "referencia": 41.54,
+    "min": 42,
+    "max": 54,
+    "ajustes": [],
+    "fontes": [
+      "Casa da Bebida: R$ 41,54 (22/10/2026)",
+      "Formosa: R$ 44,59 (22/10/2026)",
+      "TodoVino: R$ 53,90 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.4,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.0,
+    "tanino_docura": 7.0,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — estruturado",
+      "Firme — presente",
+      "Pronunciada — cassis",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Cabernet argentino correto para o churrasco de sábado.",
+    "kicker_identidade": "Clássico argentino de entrada",
+    "historico": "Fundada em 1883 em Mendoza, a Trapiche é uma das vinícolas mais tradicionais da Argentina. A linha Vineyards é a de entrada da marca.",
+    "degustacao": "Cassis e ameixa madura no nariz, com um toque de baunilha. Na boca tem taninos estruturados e final médio.",
+    "harmonizacao": [
+      {
+        "prato": "Churrasco",
+        "porque": "Cabernet estruturado para a picanha e a linguiça.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Hambúrguer",
+        "porque": "Fruta e tanino para o lanche caprichado.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Pizza",
+        "porque": "Funciona com pizzas de carne e calabresa.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijo provolone",
+        "porque": "Petisco de churrasco com tinto argentino.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Pimentão assado",
+        "porque": "Opção sem carne que conversa com o Cabernet.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/4tNLKf5"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/2LeJG2j"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#cabernetsauvignon",
+    "#vinhoargentino",
+    "#trapiche"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/trapiche-vineyards-cabernet-sauvignon.png"
+}

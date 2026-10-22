@@ -1,0 +1,138 @@
+{
+  "slug": "julia-florista-tinto",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Júlia Florista Tinto",
+    "produtor": "Vidigal Wines",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Lisboa",
+    "safra": null,
+    "uvas": "Aragonez, Castelão, Trincadeira",
+    "teor": 13,
+    "servir": "15 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.superadega.com.br/produtos/vinho-julia-florista-750ml/",
+    "https://www.supernosso.com/224881-vinho-portugues-tinto-julia-florista-750ml/p"
+  ],
+  "preco": {
+    "referencia": 37.9,
+    "min": 38,
+    "max": 63,
+    "ajustes": [],
+    "fontes": [
+      "Super Adega: R$ 37,90 (22/10/2026)",
+      "Supernosso: R$ 62,90 (indisponível), 22/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Notas vegetais",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 5.8,
+    "tanino_docura": 5.8,
+    "intensidade": 6.4,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Leve — fácil de beber",
+      "Médio — macio, pouca estrutura",
+      "Moderada — fruta simples",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Tinto leve e simpático para beber sem compromisso.",
+    "kicker_identidade": "O tinto do rótulo de fado",
+    "historico": "Feito pela Vidigal Wines, na região de Lisboa. O rótulo, com uma cena de casa de fado, homenageia Júlia Florista, personagem de um fado clássico da cidade.",
+    "degustacao": "Frutas vermelhas frescas e especiarias leves no nariz, com notas vegetais. Na boca é leve e macio, de acidez equilibrada e final curto.",
+    "harmonizacao": [
+      {
+        "prato": "Pizza",
+        "porque": "Tinto leve para uma noite sem cerimônia.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Frango assado",
+        "porque": "Não pesa sobre a carne branca.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Massa ao sugo",
+        "porque": "Acompanha o tomate sem brigar.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Petiscos de bar",
+        "porque": "Funciona com bolinhos e frios.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Legumes grelhados",
+        "porque": "Opção leve para um tinto leve.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/4dKwB9D"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/1WYmhHb"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#vinhoportugues",
+    "#juliaflorista"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/julia-florista-tinto.png"
+}

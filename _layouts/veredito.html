@@ -12,7 +12,7 @@ layout: default
 {%- capture provado -%}{% if page.provado %}<span class="selo selo-provado">Provado</span>{% endif %}{%- endcapture -%}
 {%- capture preco -%}{% include preco.html v=page %}{%- endcapture -%}
 {%- if page.provado -%}
-  {%- assign fonte = "calculada com as impressões da prova feita pelo @uvaurgente e o preço de mercado" -%}
+  {%- assign fonte = "calculada a partir de ficha técnica, críticas publicadas e preço de mercado, e validada na prova do @uvaurgente" -%}
 {%- else -%}
   {%- assign fonte = "calculada a partir de ficha técnica, críticas publicadas e preço de mercado" -%}
 {%- endif -%}
@@ -96,7 +96,7 @@ layout: default
     </div>
     {%- endif %}
     {%- if page.degustacao %}<blockquote class="vb-citacao">{{ page.degustacao }}</blockquote>{% endif %}
-    <p class="vb-aviso">{% if page.provado %}Perfil registrado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</p>
+    <p class="vb-aviso">{% if page.provado %}Perfil da ficha técnica e de críticas publicadas, confirmado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</p>
   </section>
   {%- endif %}
 
@@ -114,7 +114,7 @@ layout: default
       </div>
       <span class="vb-escala-marca" style="left: {{ page.nota | times: 10 }}%"></span>
     </div>
-    <p class="vb-aviso">{% if page.provado %}Vinho provado. {% endif %}Nota pela Metodologia UVA URGENTE v2.0, {{ fonte }} ({{ preco }}).{% if page.blic %} Teto BLIC: {{ page.blic }} de 4 pilares.{% endif %} <a href="{{ '/metodologia/' | relative_url }}">Como avaliamos</a></p>
+    <p class="vb-aviso">Nota pela Metodologia UVA URGENTE v2.0, {{ fonte }} ({{ preco }}).{% if page.blic %} Teto BLIC: {{ page.blic }} de 4 pilares.{% endif %} <a href="{{ '/metodologia/' | relative_url }}">Como avaliamos</a></p>
   </section>
   {%- endif %}
 

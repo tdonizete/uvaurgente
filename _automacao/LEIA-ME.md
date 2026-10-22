@@ -23,3 +23,5 @@ Saída com código 1 = há alerta de metodologia ou texto estourando um slide; c
 Regra de custo-benefício (aprovada em 21/10/2026; substitui a fórmula com Índice de Preço da seção 5.1, que dava 10 para todo vinho):
 `C/B = 7,0 + 1,8 × (média V+A+P − expectativa da faixa) + ajustes`, limitado a 0–10.
 Reproduz o exemplo oficial (Casal Garcia, R$ 55, entrega 8,6 → 9,0).
+
+Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou mais acima dos demais (seção 6.3), com paladar mínimo de 6,0. A regra genérica de "subatributo ≥ 7,5" (seção 6.2) vale para L, I e C.

@@ -1,0 +1,142 @@
+{
+  "slug": "casa-valduga-130-brut",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "130 Brut",
+    "produtor": "Casa Valduga",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Vale dos Vinhedos",
+    "safra": null,
+    "uvas": "Chardonnay, Pinot Noir",
+    "teor": 12.5,
+    "servir": "7 °C"
+  },
+  "canal": "Lojas e e-commerce",
+  "fontes": [
+    "https://www.vinhosevinhos.com/espumante-casa-valduga-130-brut-750-ml.html",
+    "https://www.divvino.com.br/espumante-casa-valduga-130-brut-garrafa-750ml-4039774/p"
+  ],
+  "preco": {
+    "referencia": 119.0,
+    "min": 119,
+    "max": 190,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Vinhos & Vinhos: R$ 119,00 (de R$ 199,00), 22/10/2026",
+      "Divvino: R$ 189,91 (indisponível), 22/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 9.0,
+    "intensidade": 8.6,
+    "complexidade": 8.4,
+    "familias": [
+      "Frutas",
+      "Fermentação",
+      "Oxidativo"
+    ],
+    "top5": [
+      {
+        "nome": "Abacaxi maduro",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pão tostado",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Castanhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Brioche",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 8.0,
+    "tanino_docura": 8.8,
+    "intensidade": 8.4,
+    "final": 8.4,
+    "final_segundos": 9,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — frescor que segura o corpo",
+      "Encorpado — cremoso e amplo",
+      "Seco — brut bem integrado",
+      "Pronunciada — fruta e tosta",
+      "Longo — cerca de 9 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": true,
+    "aproxima_95": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Espumante brasileiro de método tradicional que encara champanhe.",
+    "kicker_identidade": "O topo dos espumantes Valduga",
+    "historico": "A Casa Valduga é uma das vinícolas pioneiras do Vale dos Vinhedos. O 130 Brut é feito pelo método tradicional, com 36 meses de amadurecimento em cave.",
+    "degustacao": "Abacaxi maduro, pera, pão tostado e castanhas no nariz. Na boca é cremoso e amplo, com final longo de frutas secas e tosta.",
+    "harmonizacao": [
+      {
+        "prato": "Frutos do mar",
+        "porque": "Acidez e cremosidade para camarão e lagosta.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Bacalhau ao forno",
+        "porque": "Corpo do espumante aguenta o prato.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Risoto de parmesão",
+        "porque": "Tosta e castanhas combinam com o queijo.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijo brie",
+        "porque": "Cremosidade com cremosidade.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Ceviche",
+        "porque": "Frescor para um prato cítrico e leve.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0fewowrT"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#espumante",
+    "#metodotradicional",
+    "#espumantebrasileiro",
+    "#casavalduga"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/casa-valduga-130-brut.png"
+}

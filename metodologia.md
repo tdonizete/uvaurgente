@@ -64,7 +64,7 @@ Ou seja: a nota é a aplicação da mesma régua, sempre, sobre as informações
 
 ## Selo Provado
 
-Alguns vinhos são provados pelo @uvaurgente. Nesses casos, as notas de Visual, Aroma e Paladar saem das impressões da prova, e o vinho recebe o selo **✓ Provado** ao lado do selo da nota, no site e no Instagram. Preço, custo-benefício, teto BLIC e vinhos de referência seguem exatamente as mesmas regras. Sem o selo Provado, o perfil do vinho vem da ficha técnica e de críticas publicadas.
+Todas as notas seguem o mesmo método: ficha técnica, críticas publicadas e preço de mercado. Quando o @uvaurgente também prova o vinho e confirma a análise, ele recebe o selo **✓ Provado** ao lado do selo da nota, no site e no Instagram. O selo valida a avaliação; a conta e a nota continuam as mesmas.
 
 ## As regras que não mudam
 

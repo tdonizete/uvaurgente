@@ -1,0 +1,142 @@
+{
+  "slug": "clos-de-los-siete",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Clos de los Siete",
+    "produtor": "Clos de los Siete (Michel Rolland)",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": 2022,
+    "uvas": "Malbec, Merlot, Cabernet Sauvignon, Syrah",
+    "teor": 14.5,
+    "servir": "17 °C"
+  },
+  "canal": "Lojas e e-commerce",
+  "fontes": [
+    "https://www.superadega.com.br/produtos/vinho-clos-de-los-siete-by-michel-rolland-750ml/",
+    "https://www.boccati.com.br/vinho-clos-de-los-siete-by-michel-rolland-750ml.html"
+  ],
+  "preco": {
+    "referencia": 125.9,
+    "min": 126,
+    "max": 167,
+    "ajustes": [],
+    "fontes": [
+      "Super Adega: R$ 125,90 (22/10/2026)",
+      "Boccati: R$ 167,00 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 9.0,
+    "intensidade": 8.6,
+    "complexidade": 8.7,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "intenso"
+      },
+      {
+        "nome": "Mirtilo",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Madeira",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 8.6,
+    "tanino_docura": 8.6,
+    "intensidade": 8.6,
+    "final": 8.4,
+    "final_segundos": 9,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — dá frescor ao corpo",
+      "Muito encorpado — cheio e macio",
+      "Firme e integrado — sedoso",
+      "Intensa — fruta e especiaria",
+      "Longo — cerca de 9 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": true,
+    "aproxima_95": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Blend argentino completo: potência, elegância e preço justo.",
+    "kicker_identidade": "O blend de Michel Rolland",
+    "historico": "Clos de los Siete é o projeto criado pelo enólogo francês Michel Rolland no Valle de Uco, em Mendoza. O blend tem base de Malbec, com Merlot, Cabernet Sauvignon e Syrah, e passa por carvalho francês.",
+    "degustacao": "Amora, mirtilo e violeta no nariz, com especiarias e madeira discreta. Na boca é encorpado, de taninos sedosos e final longo.",
+    "harmonizacao": [
+      {
+        "prato": "Cordeiro assado",
+        "porque": "Corpo e especiaria acompanham uma carne intensa.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Bife de chorizo",
+        "porque": "Clássico argentino para um blend de Malbec.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Massa com ragu",
+        "porque": "Molho longo de carne pede um tinto estruturado.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos curados",
+        "porque": "Taninos sedosos com queijo de massa dura.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Abóbora assada com especiarias",
+        "porque": "Opção sem carne para as notas de especiaria.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0iajyiqj"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#malbec",
+    "#vinhoargentino",
+    "#michelrolland",
+    "#closdelossiete"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/clos-de-los-siete.png"
+}

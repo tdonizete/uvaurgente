@@ -1,0 +1,139 @@
+{
+  "slug": "casa-valduga-arte-rose",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Arte Rosé Gewürztraminer e Malbec",
+    "produtor": "Casa Valduga",
+    "tipo": "Rosé",
+    "pais": "Brasil",
+    "regiao": "Serra do Sudeste",
+    "safra": null,
+    "uvas": "Gewürztraminer, Malbec",
+    "teor": 11.5,
+    "servir": "9 °C"
+  },
+  "canal": "Supermercado e e-commerce",
+  "fontes": [
+    "https://casavalduga.com.br/api/media/file/Ficha%20Tecnica%20-%20Arte%20-%20Gewurztraminer%20e%20Malbec.pdf",
+    "https://www.ingavinhos.com.br/vinho-casa-valduga-arte-rose-gewurztraminer-e-malbec-750-ml-6505/p",
+    "https://www.supernosso.com/204858-vinho-brasileiro-rose-seco-blend-casa-valduga-arte-gewurztraminer-malbec-serra-gaucha-garrafa-750ml/p"
+  ],
+  "preco": {
+    "referencia": 43.9,
+    "min": 44,
+    "max": 80,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Ingá Vinhos: R$ 43,90 (de R$ 52,61), 22/10/2026",
+      "Supernosso: R$ 79,99 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.5,
+    "intensidade": 7.8,
+    "complexidade": 7.8,
+    "familias": [
+      "Florais",
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Flor de laranjeira",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Jasmim",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pêssego",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 6.6,
+    "tanino_docura": 8.0,
+    "intensidade": 7.0,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média para alta — fresca",
+      "Leve — delicado",
+      "Seco — rosé seco de verdade",
+      "Pronunciada — floral e frutado",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Rosé seco e perfumado, que entrega mais do que custa.",
+    "kicker_identidade": "O rosé aromático da Valduga",
+    "historico": "A Casa Valduga é uma vinícola familiar fundada em 1875 no Vale dos Vinhedos. O Arte Rosé junta Gewürztraminer e Malbec da Serra do Sudeste, com prensagem suave e fermentação a baixa temperatura.",
+    "degustacao": "Flor de laranjeira, jasmim e violeta no nariz, com fruta de polpa branca. Na boca é leve e fresco, de acidez equilibrada e final frutado.",
+    "harmonizacao": [
+      {
+        "prato": "Frutos do mar",
+        "porque": "Frescor e perfume acompanham camarão e lula.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Risoto de limão siciliano",
+        "porque": "Acidez e floral combinam com o cítrico.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Frango grelhado",
+        "porque": "Carne branca leve para um rosé delicado.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Massa ao alho e óleo",
+        "porque": "Molho leve que não encobre o vinho.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Comida tailandesa",
+        "porque": "O floral da Gewürztraminer gosta de tempero exótico.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B087cX6jN"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhorose",
+    "#vinhobrasileiro",
+    "#casavalduga",
+    "#gewurztraminer"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/casa-valduga-arte-rose.png"
+}

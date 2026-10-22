@@ -1,0 +1,136 @@
+{
+  "slug": "ramon-bilbao-rueda-verdejo",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Verdejo",
+    "produtor": "Ramón Bilbao",
+    "tipo": "Branco",
+    "pais": "Espanha",
+    "regiao": "Rueda",
+    "safra": 2024,
+    "uvas": "Verdejo",
+    "teor": 13,
+    "servir": "9 °C"
+  },
+  "canal": "Lojas especializadas",
+  "fontes": [
+    "https://www.viavini.com.br/vinho-ramon-bilbao-verdejo-rueda-branco-espanhol.html",
+    "https://www.degusti.com.br/tipo-127863/vinho-branco/vinho-branco-ramon-bilbao-verdejo-rueda"
+  ],
+  "preco": {
+    "referencia": 155.0,
+    "min": 155,
+    "max": 155,
+    "ajustes": [],
+    "fontes": [
+      "Via Vini (safra 2020): R$ 155,00 (de R$ 194,00), 22/10/2026",
+      "Amazon: R$ 155,00, preço confirmado pelo @uvaurgente em 22/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.6,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Cítricos",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Maçã verde",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas frescas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.4,
+    "corpo": 7.0,
+    "tanino_docura": 8.6,
+    "intensidade": 7.2,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — vibrante",
+      "Médio — textura cremosa",
+      "Seco — coerente com o estilo",
+      "Pronunciada — cítrica",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Branco espanhol cítrico e cremoso, para o calor.",
+    "kicker_identidade": "O Verdejo de Rueda",
+    "historico": "A Ramón Bilbao foi fundada em 1924 em Haro, na Rioja. O Verdejo vem da D.O. Rueda e passa 14 dias sobre as borras, o que dá textura cremosa.",
+    "degustacao": "Cítricos, maçã verde, pera e ervas frescas no nariz. Na boca é vibrante e cremoso, de final fresco.",
+    "harmonizacao": [
+      {
+        "prato": "Peixe grelhado",
+        "porque": "Acidez e notas cítricas acompanham o peixe.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Camarão ao alho",
+        "porque": "Frescor limpa o alho e o azeite.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Salada com queijo de cabra",
+        "porque": "Ervas do vinho conversam com a salada.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Comida mediterrânea",
+        "porque": "Funciona com pratos leves de azeite e legumes.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Legumes grelhados",
+        "porque": "Opção leve para um branco de ervas.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0b2gX4pk"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhobranco",
+    "#verdejo",
+    "#vinhoespanhol",
+    "#ramonbilbao"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/ramon-bilbao-rueda-verdejo.png"
+}

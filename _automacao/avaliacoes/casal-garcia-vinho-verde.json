@@ -1,0 +1,136 @@
+{
+  "slug": "casal-garcia-vinho-verde",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Casal Garcia Vinho Verde",
+    "produtor": "Aveleda",
+    "tipo": "Branco",
+    "pais": "Portugal",
+    "regiao": "Vinho Verde (Minho)",
+    "safra": null,
+    "uvas": "Trajadura, Loureiro, Arinto, Azal",
+    "teor": 9.5,
+    "servir": "7 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/104503/vinho-branco-portugues-casal-garcia-vinho-verde-750ml",
+    "https://www.casasbahia.com.br/casal-garcia-verde-branco-750-ml/p/1572379717"
+  ],
+  "preco": {
+    "referencia": 69.9,
+    "min": 70,
+    "max": 77,
+    "ajustes": [],
+    "fontes": [
+      "Pão de Açúcar: R$ 69,90 (22/10/2026)",
+      "Casas Bahia (Fox Importadora): R$ 76,47 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.0,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Limão",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Maçã verde",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 6.8,
+    "tanino_docura": 7.4,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva e refrescante",
+      "Leve — coerente com o estilo",
+      "Meio-seco — leve dulçor equilibrado",
+      "Moderada — fruta fresca",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Branco leve e agulhado, feito para gelar e beber sem cerimônia.",
+    "kicker_identidade": "O Vinho Verde mais famoso do Brasil",
+    "historico": "A Casal Garcia foi criada em 1939 pela Aveleda, empresa familiar do norte de Portugal. É um Vinho Verde de baixo teor alcoólico e leve agulha, feito com castas típicas do Minho.",
+    "degustacao": "Limão, maçã verde e pera no nariz, com flores brancas. Na boca é leve e fresco, com leve agulha, um toque de dulçor e final curto.",
+    "harmonizacao": [
+      {
+        "prato": "Peixe grelhado",
+        "porque": "Acidez e leveza acompanham o peixe sem pesar.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Frutos do mar",
+        "porque": "Camarão e lula pedem um branco fresco.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Salada verde",
+        "porque": "Leve como o prato, sem brigar com o tempero.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Petiscos de bar",
+        "porque": "Agulha e acidez limpam a fritura.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Sushi",
+        "porque": "Frescor e leve dulçor combinam com o shoyu.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0bO3keue"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhobranco",
+    "#vinhoverde",
+    "#vinhoportugues",
+    "#casalgarcia"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/casal-garcia-vinho-verde.png"
+}

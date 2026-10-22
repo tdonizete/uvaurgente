@@ -1,0 +1,141 @@
+{
+  "slug": "casa-silva-gran-reserva-carmenere",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Gran Reserva Carménère",
+    "produtor": "Casa Silva",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle de Colchagua",
+    "safra": null,
+    "uvas": "Carménère",
+    "teor": 14,
+    "servir": "17 °C"
+  },
+  "canal": "Supermercado e lojas",
+  "fontes": [
+    "https://www.zaffari.com.br/casa-silva",
+    "https://www.encontrevinhos.com.br/pais/chile/casa-silva-gran-reserva-carmenere"
+  ],
+  "preco": {
+    "referencia": 89.7,
+    "min": 90,
+    "max": 90,
+    "ajustes": [],
+    "fontes": [
+      "Zaffari: R$ 89,70 (22/10/2026)",
+      "Encontre Vinhos: R$ 89,99 (de R$ 139,90), 22/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.4,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Groselha",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Chocolate amargo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Noz-moscada",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.4,
+    "tanino_docura": 8.0,
+    "intensidade": 8.2,
+    "final": 8.0,
+    "final_segundos": 8,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilíbrio com a fruta",
+      "Encorpado — textura aveludada",
+      "Firme — maduro e macio",
+      "Pronunciada — fruta escura",
+      "Longo — cerca de 8 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Carménère encorpado e aveludado, com cara de vinho mais caro.",
+    "kicker_identidade": "Carménère de família",
+    "historico": "A Casa Silva tem tradição familiar desde 1892 no Valle de Colchagua. Cerca de 60% do Gran Reserva amadurece 12 meses em barricas de carvalho francês.",
+    "degustacao": "Groselha, ameixa e amora madura no nariz, com chocolate amargo e noz-moscada. Na boca é encorpado e aveludado, de final longo.",
+    "harmonizacao": [
+      {
+        "prato": "Costela bovina",
+        "porque": "Corpo e fruta madura para carne de panela ou brasa.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Lasanha à bolonhesa",
+        "porque": "Molho de carne pede um tinto encorpado.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Carne de panela",
+        "porque": "Textura aveludada com carne macia.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos semiduros",
+        "porque": "Fruta escura com queijo de sabor médio.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Pimentão recheado",
+        "porque": "O lado herbáceo do Carménère adora pimentão.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/4dVqAHn"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/1msY3x1"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#carmenere",
+    "#vinhochileno",
+    "#casasilva"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/casa-silva-gran-reserva-carmenere.png"
+}

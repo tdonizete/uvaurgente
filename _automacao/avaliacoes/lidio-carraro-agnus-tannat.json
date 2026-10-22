@@ -1,0 +1,140 @@
+{
+  "slug": "lidio-carraro-agnus-tannat",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Agnus Tannat",
+    "produtor": "Lidio Carraro",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Encruzilhada do Sul",
+    "safra": 2022,
+    "uvas": "Tannat",
+    "teor": 15,
+    "servir": "17 °C"
+  },
+  "canal": "Lojas especializadas",
+  "fontes": [
+    "https://www.vinhosevinhos.com/vinho-lidio-carraro-agnus-tannat-750ml.html",
+    "https://www.espacoprime.com.br/produto/vinho-lidio-carraro-agnus-tannat-750ml-73233",
+    "https://www.webwine.com.br/produto/vinho-lidio-carraro-vinicola-boutique-tinto-seco-brasil-agnus-tannat-2022-750ml-2623287"
+  ],
+  "preco": {
+    "referencia": 128.0,
+    "min": 128,
+    "max": 130,
+    "ajustes": [
+      "pequeno_produtor"
+    ],
+    "fontes": [
+      "Vinhos & Vinhos: R$ 128,00 (de R$ 138,00), 22/10/2026",
+      "Espaço Prime: R$ 129,90 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.8,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Animal"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa preta",
+        "nivel": "intenso"
+      },
+      {
+        "nome": "Mirtilo",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cacau",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Couro",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.2,
+    "tanino_docura": 8.0,
+    "intensidade": 8.4,
+    "final": 7.6,
+    "final_segundos": 8,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibra o álcool",
+      "Encorpado — presença clara",
+      "Firme — maduro, sem agressividade",
+      "Pronunciada — fruta concentrada",
+      "Longo — cerca de 8 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Tannat potente e sem madeira: fruta pura, mas cobra caro.",
+    "kicker_identidade": "Tannat brasileiro sem barrica",
+    "historico": "A Lidio Carraro é uma vinícola boutique gaúcha que não usa barricas de carvalho. O Agnus Tannat vem de Encruzilhada do Sul e amadurece 12 meses em tanques de inox.",
+    "degustacao": "Ameixa preta, mirtilo, alcaçuz e cacau no nariz, com um toque de couro. Na boca é encorpado, de taninos maduros e final frutado.",
+    "harmonizacao": [
+      {
+        "prato": "Costela no fogo de chão",
+        "porque": "Tanino e corpo pedem uma carne gorda e intensa.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Linguiça defumada",
+        "porque": "Fruta concentrada equilibra o defumado.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Feijoada",
+        "porque": "Tannat aguenta a gordura e o tempero.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos curados",
+        "porque": "Tanino firme com queijo de massa dura.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Cogumelos na brasa",
+        "porque": "Opção sem carne para o lado terroso do vinho.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B09V6dtgC"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#tannat",
+    "#vinhobrasileiro",
+    "#lidiocarraro"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/lidio-carraro-agnus-tannat.png"
+}

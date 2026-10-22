@@ -1,0 +1,143 @@
+{
+  "slug": "pizzato-dna-99-merlot",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "DNA 99 Single Vineyard Merlot",
+    "produtor": "Pizzato",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Vale dos Vinhedos",
+    "safra": 2022,
+    "uvas": "Merlot",
+    "teor": 14,
+    "servir": "17 °C"
+  },
+  "canal": "Lojas especializadas",
+  "fontes": [
+    "https://vinomundi.com.br/produto/pizzato-dna99-single-vineyard-merlot/",
+    "https://espumantesdosul.com.br/products/vinho-tinto-seco-merlot-dna-99-single-vineyard-pizzato-750ml",
+    "https://oemporio.com.br/produtos/vinho-pizzato-dna-99-merlot-750ml/"
+  ],
+  "preco": {
+    "referencia": 460.38,
+    "min": 460,
+    "max": 690,
+    "ajustes": [],
+    "fontes": [
+      "Vinomundi (safra 2022): R$ 460,38 (22/10/2026)",
+      "Espumantes do Sul (safra 2021): R$ 599,00 (22/10/2026)",
+      "Empório Vignamazzi: R$ 690,00 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 9.0,
+    "intensidade": 8.8,
+    "complexidade": 8.4,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Compota de frutas vermelhas",
+        "nivel": "intenso"
+      },
+      {
+        "nome": "Ameixa seca",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate amargo",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 8.8,
+    "tanino_docura": 8.6,
+    "intensidade": 8.8,
+    "final": 8.6,
+    "final_segundos": 10,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — sustenta o corpo",
+      "Muito encorpado — denso e cheio",
+      "Firme e integrado — estrutura de guarda",
+      "Intensa — sabor marcante",
+      "Longo — cerca de 10 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": true,
+    "aproxima_95": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Merlot brasileiro de primeira linha, mas o preço pesa.",
+    "kicker_identidade": "Merlot de vinhedo único",
+    "historico": "A Pizzato é uma vinícola familiar do Vale dos Vinhedos, na Serra Gaúcha. O DNA 99 vem de um único vinhedo de Merlot e passa 13 meses em barricas novas de carvalho francês.",
+    "degustacao": "Compota de frutas vermelhas, ameixa seca, especiarias e baunilha no nariz. Na boca é denso, de taninos firmes e final longo.",
+    "harmonizacao": [
+      {
+        "prato": "Cordeiro assado",
+        "porque": "Corpo e tanino à altura de uma carne intensa.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Risoto de funghi",
+        "porque": "As notas terrosas do prato encontram as especiarias do vinho.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Filé ao molho de vinho",
+        "porque": "Molho reduzido acompanha a concentração do Merlot.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos curados",
+        "porque": "Parmesão e grana seguram o tanino.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Massa com cogumelos",
+        "porque": "Opção sem carne para um tinto encorpado.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0aGj6KVk"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#merlot",
+    "#vinhobrasileiro",
+    "#pizzato",
+    "#valedosvinhedos"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/pizzato-dna-99-merlot.png"
+}

@@ -97,7 +97,9 @@ def blic(aroma, paladar_attrs, paladar_nota):
     acidez, corpo, tan, intens_g, final = paladar_attrs
     desvio = max(paladar_attrs) - min(paladar_attrs)
     pilares = {
-        "B": desvio < 2.0 and paladar_nota >= 7.5,
+        # Seção 6.3: equilíbrio = nenhum atributo do paladar ≥ 2,0 acima dos demais.
+        # Piso de 6,0 no paladar para não premiar vinho "equilibradamente fraco".
+        "B": desvio < 2.0 and paladar_nota >= 6.0,
         "L": aroma.get("_final_segundos", 0) >= 8,
         "I": (aroma["intensidade"] + intens_g) / 2 >= 7.5,
         "C": len(aroma["familias"]) >= 3 and aroma["complexidade"] >= 7.5,

@@ -1,0 +1,140 @@
+{
+  "slug": "foye-reserva-cabernet-sauvignon",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Foye Reserva Cabernet Sauvignon",
+    "produtor": "Bouchon Family Wines",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle del Maule",
+    "safra": 2023,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13.5,
+    "servir": "16 °C"
+  },
+  "canal": "Lojas e e-commerce",
+  "fontes": [
+    "https://www.vinsacre.com.br/produtos/foye-reserva-cabernet-sauvignon/",
+    "https://www.callmewine.com.br/produtos/vinho-foye-reserva-cabernet-sauvignon/"
+  ],
+  "preco": {
+    "referencia": 39.9,
+    "min": 40,
+    "max": 55,
+    "ajustes": [],
+    "fontes": [
+      "Vin Sacré (safra 2023): R$ 39,90 (22/10/2026)",
+      "Call Me Wine: R$ 54,90 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Fruta escura madura",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 6.6,
+    "tanino_docura": 6.4,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio — sem peso",
+      "Médio — macio",
+      "Pronunciada — fruta clara",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Muito vinho por menos de 40 reais: fruta limpa e macia.",
+    "kicker_identidade": "O achado do Maule",
+    "historico": "Feito pela Bouchon Family Wines no Valle del Maule, no Chile. Foye é o nome mapuche da canela-branca, árvore sagrada desse povo, que aparece nas flores do rótulo.",
+    "degustacao": "Cassis e fruta escura madura no nariz, com especiarias e um toque de ervas. Na boca é médio, de taninos macios e acidez equilibrada.",
+    "harmonizacao": [
+      {
+        "prato": "Picanha",
+        "porque": "Fruta e tanino macio para o churrasco do dia a dia.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Hambúrguer",
+        "porque": "Corpo médio que acompanha sem cansar.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Pizza de pepperoni",
+        "porque": "Especiaria do vinho encontra a da pizza.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijo prato",
+        "porque": "Petisco simples para um tinto direto.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Lentilha com legumes",
+        "porque": "Opção sem carne para a fruta escura.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/3Qb0m9U"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/219D3jK"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#cabernetsauvignon",
+    "#vinhochileno",
+    "#foye"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/foye-reserva-cabernet-sauvignon.png"
+}

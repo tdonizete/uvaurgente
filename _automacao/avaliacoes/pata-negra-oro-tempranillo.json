@@ -1,0 +1,143 @@
+{
+  "slug": "pata-negra-oro-tempranillo",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Pata Negra Oro Tempranillo",
+    "produtor": "García Carrión",
+    "tipo": "Tinto",
+    "pais": "Espanha",
+    "regiao": "Valdepeñas",
+    "safra": null,
+    "uvas": "Tempranillo",
+    "teor": 13,
+    "servir": "16 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-pata-negra-oro-tempranillo-750-ml",
+    "https://www.boccati.com.br/vinho-pata-negra-oro-tempranillo-d-o-valdepenas"
+  ],
+  "preco": {
+    "referencia": 44.99,
+    "min": 45,
+    "max": 68,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 44,99 (de R$ 56,99), 22/10/2026",
+      "Boccati: R$ 68,00 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.8,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cereja negra",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cacau",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.2,
+    "tanino_docura": 7.0,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — frescor presente",
+      "Médio — bom corpo",
+      "Firme — equilibrado",
+      "Pronunciada — fruta madura",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Tempranillo espanhol correto, com madeira na medida e preço amigo.",
+    "kicker_identidade": "O espanhol de supermercado",
+    "historico": "Pata Negra é uma linha da García Carrión, um dos maiores grupos vinícolas da Espanha. O Oro é um Tempranillo da D.O. Valdepeñas com 6 meses em carvalho americano e francês.",
+    "degustacao": "Ameixa, cereja negra e especiarias no nariz, com toques de cacau e tabaco. Na boca tem bom corpo, frescor e taninos equilibrados.",
+    "harmonizacao": [
+      {
+        "prato": "Maminha grelhada",
+        "porque": "Fruta e madeira acompanham a carne na brasa.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Carne suína assada",
+        "porque": "Acidez equilibra a gordura do porco.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Picadinho de carne",
+        "porque": "Prato do dia a dia para um tinto do dia a dia.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Embutidos espanhóis",
+        "porque": "Presunto e chorizo combinam com Tempranillo.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Risoto de queijo",
+        "porque": "Opção sem carne para o corpo médio.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://amzn.to/4eoCKsg"
+    },
+    {
+      "nome": "Mercado Livre",
+      "url": "https://meli.la/2apq8Wq"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#tempranillo",
+    "#vinhoespanhol",
+    "#patanegra"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/pata-negra-oro-tempranillo.png"
+}

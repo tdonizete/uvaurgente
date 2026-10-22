@@ -105,7 +105,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
     </div>
   </div>
   <p class="citacao" style="margin-top:28px">{{ t.degustacao }}</p>
-  <div class="rodape"><span class="aviso" style="font-weight:500">{% if provado %}Perfil registrado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</span><span class="pag">3/6</span></div>
+  <div class="rodape"><span class="aviso" style="font-weight:500">{% if provado %}Perfil da ficha técnica e de críticas publicadas, confirmado na prova do @uvaurgente.{% else %}Perfil descrito a partir da ficha técnica e de críticas publicadas.{% endif %}</span><span class="pag">3/6</span></div>
 </section>
 
 <!-- 4 · CRITÉRIOS -->
@@ -132,7 +132,7 @@ body { background: #ccc; font-family: Inter, sans-serif; color: var(--ink); }
     </div>
     <div style="position:relative; height:30px"><span style="position:absolute; left:calc({{ marcador }}% - 12px); top:4px; width:0; height:0; border-left:12px solid transparent; border-right:12px solid transparent; border-bottom:18px solid var(--ink)"></span></div>
   </div>
-  <div class="rodape" style="display:block"><p class="aviso">{% if provado %}Vinho provado. {% endif %}Nota pela Metodologia UVA URGENTE v2.0, {{ fonte_txt }} ({{ preco_txt }}). Teto BLIC: {{ s.n_pilares }} de 4 pilares. Método completo em uvaurgente.com.br/metodologia</p></div>
+  <div class="rodape" style="display:block"><p class="aviso">Nota pela Metodologia UVA URGENTE v2.0, {{ fonte_txt }} ({{ preco_txt }}). Teto BLIC: {{ s.n_pilares }} de 4 pilares. Método completo em uvaurgente.com.br/metodologia</p></div>
 </section>
 
 <!-- 5 · HARMONIZAÇÃO -->

@@ -27,7 +27,7 @@ RAIZ = os.path.dirname(AQUI)
 
 FONTE_TXT = {
     False: "calculada a partir de ficha técnica, críticas publicadas e preço de mercado",
-    True: "calculada com as impressões da prova feita pelo @uvaurgente e o preço de mercado",
+    True: "calculada a partir de ficha técnica, críticas publicadas e preço de mercado, e validada na prova do @uvaurgente",
 }
 
 NIVEL_PCT = {"fraco": 40, "moderado": 62, "pronunciado": 78, "intenso": 92}
@@ -68,7 +68,7 @@ def front_matter(d, r, ctx):
         "teor": v.get("teor"),
         "imagem": f"/assets/img/vereditos/{d['slug']}.png" if d.get("imagem_origem") else None,
         "preco_checado": date.fromisoformat(d.get("data", date.today().isoformat())),
-        "lojas": [{"nome": l["nome"], "url": l["url"], "preco": l["preco"]} for l in d.get("lojas", [])],
+        "lojas": [{"nome": l["nome"], "url": l["url"], "preco": l.get("preco")} for l in d.get("lojas", [])],
         "criterios": r["criterios"],
     }
     fm = {k: val for k, val in fm.items() if val not in (None, "")}
@@ -218,7 +218,9 @@ def main(caminho):
     with open(os.path.join(RAIZ, "_vereditos", f"{slug}.md"), "w", encoding="utf-8") as f:
         f.write(front_matter(d, r, ctx))
     if d.get("imagem_origem"):
-        shutil.copy(d["imagem_origem"], os.path.join(RAIZ, "assets", "img", "vereditos", f"{slug}.png"))
+        destino = os.path.join(RAIZ, "assets", "img", "vereditos", f"{slug}.png")
+        if os.path.abspath(d["imagem_origem"]) != os.path.abspath(destino):
+            shutil.copy(d["imagem_origem"], destino)
 
     # Instagram
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.join(AQUI, "modelos")), autoescape=True)

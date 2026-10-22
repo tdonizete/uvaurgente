@@ -26,6 +26,7 @@ harmonizacao:
 - prato: Cogumelos salteados
   porque: Opção sem carne que pede um tinto de corpo.
   tag: Leve
+provado: true
 produtor: Concha y Toro
 kicker_identidade: Clássico chileno de gôndola
 historico: Casillero del Diablo é a linha de maior alcance da Concha y Toro, vinícola fundada em 1883. O nome vem da lenda de que Don Melchor espalhou que o diabo morava na adega, para afastar quem roubava os vinhos.
@@ -57,11 +58,18 @@ paladar:
 - nome: Final
   nota: 7.0
   sub: Médio — cerca de 7 segundos
-blic: 2
+blic: 3
 servir: 17 °C
 teor: 13.5
+imagem: /assets/img/vereditos/casillero-del-diablo-reserva-cabernet-sauvignon.png
 preco_checado: 2026-10-21
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://amzn.to/4cmXPAQ
+  preco: null
+- nome: Mercado Livre
+  url: https://meli.la/1syUrio
+  preco: null
 criterios:
   visual: 8.0
   aroma: 7.9

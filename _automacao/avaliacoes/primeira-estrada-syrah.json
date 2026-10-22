@@ -1,0 +1,137 @@
+{
+  "slug": "primeira-estrada-syrah",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Primeira Estrada Syrah",
+    "produtor": "Vinícola Primeira Estrada",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Sul de Minas",
+    "safra": 2023,
+    "uvas": "Syrah",
+    "teor": 13.8,
+    "servir": "17 °C"
+  },
+  "canal": "Lojas especializadas",
+  "fontes": [
+    "https://www.vinicolaprimeiraestrada.com.br/vinhos-tintos/primeira-estrada-syrah-2022",
+    "https://www.boccati.com.br/vinho-primeira-estrada-syrah.html"
+  ],
+  "preco": {
+    "referencia": 156.75,
+    "min": 157,
+    "max": 172,
+    "ajustes": [
+      "pequeno_produtor"
+    ],
+    "fontes": [
+      "Vinícola Primeira Estrada (safra 2023): R$ 156,75 à vista (de R$ 165,00), 22/10/2026",
+      "Boccati: R$ 168,56 no Pix / R$ 172,00 no cartão (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.2,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa seca",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Couro",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 7.8,
+    "tanino_docura": 7.8,
+    "intensidade": 8.2,
+    "final": 7.8,
+    "final_segundos": 8,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — precisa e viva",
+      "Encorpado — estrutura firme",
+      "Integrado — sedoso",
+      "Intensa — fruta escura marcante",
+      "Longo — cerca de 8 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Syrah mineiro de inverno com identidade própria, sem madeira.",
+    "kicker_identidade": "O pioneiro da dupla poda",
+    "historico": "A Vinícola Primeira Estrada foi fundada em 2001 por Murillo de Albuquerque Regina e sócios, pioneiros da dupla poda no Brasil, técnica que leva a colheita para o inverno. O vinhedo fica em Três Corações (MG), a 974 m de altitude, e o vinho não passa por barrica.",
+    "degustacao": "Ameixa seca, amora e violeta no nariz, com pimenta-preta e leve couro. Na boca é sedoso e firme, de acidez precisa, taninos integrados e final persistente.",
+    "harmonizacao": [
+      {
+        "prato": "Cordeiro assado",
+        "porque": "Estrutura e especiaria à altura da carne.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Massa ao ragu",
+        "porque": "Acidez e fruta escura acompanham o molho longo.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Carnes assadas",
+        "porque": "Taninos integrados para lombo e costela.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos curados",
+        "porque": "Canastra curado com Syrah mineiro.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Risoto de cogumelos",
+        "porque": "Opção sem carne para as notas terrosas.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#syrah",
+    "#vinhobrasileiro",
+    "#vinhomineiro",
+    "#vinhodeinverno"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/primeira-estrada-syrah.png"
+}

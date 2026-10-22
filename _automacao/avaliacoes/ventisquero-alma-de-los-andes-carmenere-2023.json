@@ -1,0 +1,138 @@
+{
+  "slug": "ventisquero-alma-de-los-andes-carmenere-2023",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Alma de los Andes Reserva Carménère",
+    "produtor": "Viña Ventisquero",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle de Colchagua",
+    "safra": 2023,
+    "uvas": "Carménère",
+    "teor": 13.5,
+    "servir": "17 °C"
+  },
+  "canal": "Lojas e e-commerce",
+  "fontes": [
+    "https://www.superadega.com.br/produtos/vinho-ventisquero-reserva-carmenere-750ml/",
+    "https://www.foximportadora.com.br/vinho/vinho-ventisquero-reserva-carmenere-750ml/",
+    "https://www.boccati.com.br/vinho-ventisquero-reserva-carmenere"
+  ],
+  "preco": {
+    "referencia": 58.9,
+    "min": 59,
+    "max": 96,
+    "ajustes": [],
+    "fontes": [
+      "Super Adega: R$ 58,90 (22/10/2026)",
+      "Boccati: R$ 96,00 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.5,
+    "intensidade": 7.6,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.2,
+    "tanino_docura": 6.8,
+    "intensidade": 7.4,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca na medida",
+      "Médio para encorpado — estruturado",
+      "Médio — macio, sem arestas",
+      "Pronunciada — fruta clara",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Carménère redondo, de fruta escura e toque de chocolate.",
+    "kicker_identidade": "O Carménère de Colchagua",
+    "historico": "A Viña Ventisquero foi fundada em 1998 e é uma das vinícolas jovens que ganharam espaço no Chile. A linha Reserva Alma de los Andes traz uvas do Valle de Colchagua.",
+    "degustacao": "Ameixa, amora e especiarias no nariz, com chocolate e baunilha da barrica. Na boca é estruturado, de taninos macios e final médio.",
+    "harmonizacao": [
+      {
+        "prato": "Costela assada",
+        "porque": "Tanino macio e fruta acompanham a gordura da carne.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Lasanha à bolonhesa",
+        "porque": "Molho de tomate e carne pedem um tinto de corpo médio.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Hambúrguer",
+        "porque": "Fruta madura segura o queijo e o molho.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos semiduros",
+        "porque": "Prato e gouda conversam com o chocolate do vinho.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Berinjela assada",
+        "porque": "Opção sem carne para as notas de especiaria.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B07TKZK9T"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#carmenere",
+    "#vinhochileno",
+    "#ventisquero"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/ventisquero-alma-de-los-andes-carmenere-2023.png"
+}

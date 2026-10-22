@@ -1,0 +1,139 @@
+{
+  "slug": "chandon-reserve-brut",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Réserve Brut",
+    "produtor": "Chandon do Brasil",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Chardonnay, Pinot Noir, Riesling Itálico",
+    "teor": 11.8,
+    "servir": "6 °C"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/espumante-chandon-reserve-brut-750ml",
+    "https://www.supernosso.com/83961-espumante-chandon-reserve-brut-750-ml/p"
+  ],
+  "preco": {
+    "referencia": 99.99,
+    "min": 100,
+    "max": 130,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 99,99 (de R$ 131,99), 22/10/2026",
+      "Supernosso: R$ 129,99 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.6,
+    "complexidade": 7.8,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Fermentação"
+    ],
+    "top5": [
+      {
+        "nome": "Maçã",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pão fresco",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 7.0,
+    "tanino_docura": 8.6,
+    "intensidade": 7.2,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva e refrescante",
+      "Leve — coerente com o estilo",
+      "Seco — brut de verdade",
+      "Pronunciada — fruta fresca",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "O espumante de festa que nunca decepciona, mas não surpreende.",
+    "kicker_identidade": "O brut mais visto nas festas",
+    "historico": "A Chandon do Brasil, braço brasileiro da Moët & Chandon, produz espumantes na Serra Gaúcha desde 1973. O Réserve Brut é feito pelo método Charmat.",
+    "degustacao": "Maçã, cítricos e abacaxi no nariz, com flores brancas e um toque de pão fresco. Na boca é fresco e equilibrado, de borbulha fina.",
+    "harmonizacao": [
+      {
+        "prato": "Sushi e sashimi",
+        "porque": "Acidez e borbulha limpam o paladar a cada peça.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Ostras",
+        "porque": "Clássico absoluto com espumante brut.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Salada verde",
+        "porque": "Leveza com leveza.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos frescos",
+        "porque": "Burrata e minas frescal combinam com o frescor.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Frango grelhado",
+        "porque": "Carne branca leve para acompanhar a festa.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B08mLVAts"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#espumante",
+    "#brut",
+    "#espumantebrasileiro",
+    "#chandon"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/chandon-reserve-brut.png"
+}

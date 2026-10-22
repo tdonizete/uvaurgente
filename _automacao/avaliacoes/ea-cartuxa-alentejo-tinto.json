@@ -1,0 +1,140 @@
+{
+  "slug": "ea-cartuxa-alentejo-tinto",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "EA Tinto",
+    "produtor": "Fundação Eugénio de Almeida (Cartuxa)",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Alentejo",
+    "safra": null,
+    "uvas": "Aragonez, Trincadeira, Alicante Bouschet, Syrah",
+    "teor": 13.5,
+    "servir": "16 °C"
+  },
+  "canal": "Supermercado e lojas",
+  "fontes": [
+    "https://grandvin.com.br/product/ea-tinto-cartuxa-750-ml/",
+    "https://www.santaluzia.com.br/vinho-tinto-ea-eugenio-almeida-750ml-689394/p",
+    "https://www.casadabebida.com.br/vinho/ea-cartuxa-tinto-750-ml/",
+    "https://observador.pt/2026/02/07/cartuxa-reserva-2019-eleito-melhor-vinho-do-ano-pela-revista-de-vinhos/"
+  ],
+  "preco": {
+    "referencia": 79.0,
+    "min": 79,
+    "max": 98,
+    "ajustes": [],
+    "fontes": [
+      "GrandVin: R$ 79,00 (22/10/2026)",
+      "Casa Santa Luzia: R$ 98,00 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 8.5
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.2,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Terra e mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas secas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Terra",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 7.8,
+    "tanino_docura": 8.0,
+    "intensidade": 8.2,
+    "final": 7.8,
+    "final_segundos": 8,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca e viva",
+      "Médio — presença sem peso",
+      "Firme — jovem e bem presente",
+      "Pronunciada — sabor claro",
+      "Longo — cerca de 8 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "A régua da casa: tinto alentejano honesto, fresco e fácil.",
+    "kicker_identidade": "O vinho-âncora da nossa nota",
+    "historico": "A Fundação Eugénio de Almeida, em Évora, produz os vinhos Cartuxa; o EA é a sua linha de entrada. Em 2026, o Cartuxa Reserva 2019 foi eleito o melhor vinho do ano pela Revista de Vinhos.",
+    "degustacao": "Frutas vermelhas e ameixa no nariz, com especiarias e um toque de ervas secas. Na boca é macio e fresco, com taninos jovens e bom final.",
+    "harmonizacao": [
+      {
+        "prato": "Carne de porco assada",
+        "porque": "Fruta e acidez equilibram a gordura do porco.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Bacalhau com batatas",
+        "porque": "Clássico português que pede um tinto leve de taninos.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Massa à bolonhesa",
+        "porque": "Acidez do vinho acompanha o molho de tomate.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Embutidos e queijos",
+        "porque": "Funciona com tábua de frios do início ao fim.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Cogumelos salteados",
+        "porque": "Opção sem carne para as notas terrosas.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B0ixFOEkG"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#vinhoportugues",
+    "#alentejo",
+    "#cartuxa"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/ea-cartuxa-alentejo-tinto.png"
+}
