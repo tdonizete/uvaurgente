@@ -24,6 +24,7 @@ layout: default
     <div class="vb-capa-texto">
       <p class="kicker">{{ page.tipo | default: "Vinho" }} avaliado</p>
       <h1 class="h1">{{ page.title }}.</h1>
+      {%- if page.produtor or page.safra %}<p class="vb-produtor">{{ page.produtor }}{% if page.produtor and page.safra %} · {% endif %}{% if page.safra %}Safra {{ page.safra }}{% endif %}</p>{% endif %}
       <div class="vb-nota">
         <span class="vb-nota-num">{{ page.nota | replace: ".", "," }}</span><span class="vb-nota-de">/10</span>
       </div>
@@ -143,7 +144,7 @@ layout: default
       <span class="vb-rotulo">{{ selo | strip_html | strip }}</span>
     </div>
     <div class="vb-final-texto">
-      <p class="kicker">Veredito final</p>
+      <p class="kicker">Veredito final · {{ page.title }}{% if page.produtor %} · {{ page.produtor }}{% endif %}{% if page.safra %} · {{ page.safra }}{% endif %}</p>
       {%- if page.frase %}<h2 class="h1 vb-titulo">{{ page.frase }}</h2>{% endif %}
       <div class="vb-selos"><span class="selo selo-flame">{{ selo | strip_html | strip }} · {{ page.nota | replace: ".", "," }}</span>{{ provado }}</div>
       <dl class="vb-specs">

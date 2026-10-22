@@ -280,3 +280,5 @@ a:hover { color: var(--ink); }
 
 .teste-provisorio { max-width: 820px; }
 .vb .garrafa-svg .rotulo { fill: var(--paper); }
+.vb-produtor { margin: -4px 0 0; font-size: 18px; font-weight: 600; color: var(--ink-60); }
+.card-produtor { margin: 4px 0 0; font-size: 13px; font-weight: 600; color: var(--ink-60); }

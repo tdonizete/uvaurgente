@@ -20,7 +20,7 @@ permalink: /onde-comprar/
     <li class="bio-item">
       <a class="bio-vinho" href="{{ v.url | relative_url }}">
         <span class="bio-nome">{{ v.title }}</span>
-        <span class="bio-meta">{{ v.nota | replace: ".", "," }}/10 · {% include preco.html v=v %}</span>
+        <span class="bio-meta">{% if v.produtor %}{{ v.produtor }}{% if v.safra %} {{ v.safra }}{% endif %} · {% endif %}{{ v.nota | replace: ".", "," }}/10 · {% include preco.html v=v %}</span>
       </a>
       {%- if v.lojas and v.lojas.size > 0 %}
       {%- assign loja = v.lojas | first %}

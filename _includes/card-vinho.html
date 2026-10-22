@@ -11,7 +11,7 @@
   <a class="card-link" href="{{ v.url | relative_url }}">
     <div class="card-garrafa">{% include garrafa.html item=v %}</div>
     <div class="card-topo">
-      <h3 class="card-nome">{{ v.title }}.</h3>
+      <div><h3 class="card-nome">{{ v.title }}.</h3>{% if v.produtor or v.safra %}<p class="card-produtor">{{ v.produtor }}{% if v.produtor and v.safra %} · {% endif %}{{ v.safra }}</p>{% endif %}</div>
       {% include nota.html nota=v.nota tamanho="sm" %}
     </div>
     <div class="pills">{% include selo.html nota=v.nota %}{% if v.provado %}<span class="selo selo-provado card-provado">Provado</span>{% endif %}</div>
