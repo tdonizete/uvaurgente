@@ -1,0 +1,208 @@
+{
+  "atualizado": "2026-10-22",
+  "observacoes": [
+    "Selo PROVADO marcado na lista para todos os ativos; usar as impressões das avaliações antigas como base até o Tiago confirmar.",
+    "Sem menção à nota anterior (posts antigos serão arquivados).",
+    "Mostrar vinícola e safra analisada em tudo."
+  ],
+  "ativos": [
+    {
+      "slug": "casillero-del-diablo-reserva-cabernet-sauvignon",
+      "nome": "Casillero del Diablo Reserva Cabernet Sauvignon",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "dv-catena-cabernet-malbec",
+      "nome": "DV Catena Cabernet-Malbec",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "julia-florista-tinto",
+      "nome": "Julia Florista Tinto",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "trapiche-vineyards-cabernet-sauvignon",
+      "nome": "Trapiche Vineyards Cabernet Sauvignon",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "casal-garcia-vinho-verde",
+      "nome": "Casal Garcia Vinho Verde",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "pata-negra-oro-tempranillo",
+      "nome": "Pata Negra Oro Tempranillo",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "casa-perini-brut",
+      "nome": "Casa Perini Brut",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "casa-silva-gran-reserva-carmenere",
+      "nome": "Casa Silva Gran Reserva Carménère",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "foye-reserva-cabernet-sauvignon",
+      "nome": "Foye Reserva Cabernet Sauvignon",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "premier-rendez-vous-pinot-noir",
+      "nome": "Premier Rendez-Vous Pinot Noir",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "casa-valduga-arte-rose",
+      "nome": "Casa Valduga Arte Rosé",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "primeira-estrada-syrah",
+      "nome": "Primeira Estrada Syrah",
+      "origem": "Análises (12)",
+      "provado_marcado": true,
+      "foto": false,
+      "links": {}
+    },
+    {
+      "slug": "ventisquero-alma-de-los-andes-carmenere-2023",
+      "nome": "Ventisquero Alma de los Andes Reserva Carménère",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B07TKZK9T"
+      }
+    },
+    {
+      "slug": "ea-cartuxa-alentejo-tinto",
+      "nome": "EA Cartuxa Alentejo Tinto",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0ixFOEkG"
+      }
+    },
+    {
+      "slug": "concha-y-toro-reservado-cabernet-sauvignon",
+      "nome": "Concha y Toro Reservado Cabernet Sauvignon",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0iCgtI4b"
+      }
+    },
+    {
+      "slug": "pizzato-dna-99-merlot",
+      "nome": "Pizzato DNA 99 Merlot",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0aGj6KVk"
+      }
+    },
+    {
+      "slug": "chandon-reserve-brut",
+      "nome": "Chandon Réserve Brut",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B08mLVAts"
+      }
+    },
+    {
+      "slug": "lidio-carraro-agnus-tannat",
+      "nome": "Lidio Carraro Agnus Tannat",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B09V6dtgC"
+      }
+    },
+    {
+      "slug": "clos-de-los-siete",
+      "nome": "Clos de los Siete",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0iajyiqj"
+      }
+    },
+    {
+      "slug": "ramon-bilbao-rueda-verdejo",
+      "nome": "Ramón Bilbao Verdejo (Rueda)",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0b2gX4pk"
+      }
+    },
+    {
+      "slug": "casa-valduga-130-brut",
+      "nome": "Casa Valduga 130 Brut",
+      "origem": "",
+      "provado_marcado": true,
+      "foto": true,
+      "links": {
+        "Amazon": "https://link.amazon/B0fewowrT"
+      }
+    }
+  ],
+  "cancelados": [
+    "aleia-lar-de-oro-crianza-2019",
+    "santa-helena-reservado-cabernet-sauvignon",
+    "portillo-malbec",
+    "salton-talento-tinto",
+    "aurora-millesime-brut",
+    "trapiche-gran-medalla-cabernet-sauvignon",
+    "baron-de-ley-rioja-reserva",
+    "moulin-de-gassac-guilhem-rouge",
+    "pizzato-concentus",
+    "e todos os 21 da Copa, exceto casa-valduga-130-brut"
+  ]
+}
