@@ -64,7 +64,10 @@ servir: 17 °C
 teor: 13.8
 imagem: /assets/img/vereditos/primeira-estrada-syrah.png
 preco_checado: 2026-10-22
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B040Xm6to
+  preco: null
 criterios:
   visual: 8.4
   aroma: 8.2
