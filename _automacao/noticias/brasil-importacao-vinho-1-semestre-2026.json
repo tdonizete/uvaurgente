@@ -1,0 +1,34 @@
+{
+  "slug": "brasil-importacao-vinho-1-semestre-2026",
+  "data": "2026-10-23",
+  "categoria": "Mercado",
+  "titulo": "Brasil compra mais vinho importado: volume cresce 9,1% no 1º semestre de 2026",
+  "linha_story": "79,4 milhões de litros em seis meses, quase metade do Chile. E o preço médio por litro caiu.",
+  "resumo": "O Brasil importou 79,4 milhões de litros de vinho entre janeiro e junho de 2026, 9,1% a mais que no mesmo período de 2025. Em valor, foram cerca de 234 milhões de euros (+5,9%). Os dados são da alfândega brasileira e foram analisados pela OIVE, a organização interprofissional do vinho da Espanha.",
+  "texto": [
+    "O volume cresceu mais rápido que o valor, e por isso o preço médio por litro caiu 2,9%, para 2,95 euros. Em outras palavras: o brasileiro está levando mais garrafas, e garrafas um pouco mais baratas. Praticamente tudo chega engarrafado; o vinho a granel é marginal.",
+    "O Chile segue disparado na liderança, com 39,2 milhões de litros (+11,9%), quase metade de tudo o que entrou no país, e cerca de 93 milhões de euros. Argentina (13,5 milhões de litros, +14,5%) e Portugal (13,2 milhões, +6,2%) completam o pódio. A Espanha foi a exceção entre os grandes fornecedores e recuou 8,6% em volume.",
+    "O movimento é de longo prazo: entre 2015 e 2025, o volume de vinho importado pelo Brasil dobrou (+101,5%), segundo a WineNews. E os produtores estrangeiros perceberam: a portuguesa Bacalhôa projeta vender 2,2 milhões de garrafas no país em 2026, 16% a mais que no ano anterior, e já tem o Brasil como seu maior mercado internacional."
+  ],
+  "porque_importa": "Com mais vinho entrando e preço médio menor, a disputa pela gôndola esquenta, principalmente entre chilenos, argentinos e portugueses. Para quem compra, é mais rótulo para escolher e mais motivo para comparar nota e preço antes de levar.",
+  "numeros": [
+    {"valor": "+9,1%", "texto": "volume de vinho importado no 1º semestre de 2026"},
+    {"valor": "79,4 mi L", "texto": "entre janeiro e junho, a 2,95 euros o litro em média"},
+    {"valor": "49%", "texto": "do volume importado veio do Chile"}
+  ],
+  "fonte": {
+    "nome": "Vinetur",
+    "url": "https://www.vinetur.com/en/20261009108696/brazils-wine-imports-rose-91-in-the-first-half-of-2026.html",
+    "data": "2026-10-09",
+    "titulo": "Brazil’s wine imports rose 9.1% in the first half of 2026"
+  },
+  "outras_fontes": [
+    {"nome": "WineNews", "url": "https://winenews.it/en/brazil-wine-import-grows-234-3-million-euros-in-first-semester-of-2026-5-9-italy-well_599333/"},
+    {"nome": "DN Brasil (Bacalhôa)", "url": "https://dnbrasil.dn.pt/negcios-br/bacalha-projeta-vender-22-milhes-de-garrafas-de-vinho-no-brasil-em-2026-seu-maior-mercado-internacional"}
+  ],
+  "vereditos": ["concha-y-toro-reservado-cabernet-sauvignon", "clos-de-los-siete", "ea-cartuxa-alentejo-tinto"],
+  "linkedin": {
+    "texto": "O Brasil está comprando mais vinho importado.\n\nNo 1º semestre de 2026, o país importou 79,4 milhões de litros, 9,1% a mais que no mesmo período de 2025. Em valor, cerca de 234 milhões de euros (+5,9%). Os dados são da alfândega brasileira, analisados pela OIVE (Espanha).\n\nTrês leituras:\n→ Volume cresce mais que valor: o preço médio caiu 2,9%, para 2,95 euros por litro. Mais garrafas, um pouco mais baratas.\n→ Concentração: o Chile responde por quase metade do volume (39,2 milhões de litros, +11,9%), seguido por Argentina (+14,5%) e Portugal (+6,2%).\n→ Tendência longa: entre 2015 e 2025, o volume importado pelo Brasil dobrou (+101,5%).\n\nOs produtores estrangeiros já agem sobre isso. A portuguesa Bacalhôa projeta 2,2 milhões de garrafas vendidas no Brasil em 2026 (+16%), hoje o seu maior mercado internacional.\n\nPara a cadeia no Brasil, o recado é de competição mais intensa no preço e no ponto de venda, num mercado que segue crescendo enquanto outros grandes mercados de vinho encolhem.\n\nVocê vê espaço para o vinho nacional ganhar participação nesse cenário?",
+    "hashtags": ["#vinho", "#mercadodevinho", "#importacao", "#varejo", "#uvaurgente"]
+  }
+}

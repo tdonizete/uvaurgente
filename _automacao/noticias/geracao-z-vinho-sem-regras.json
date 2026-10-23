@@ -1,0 +1,30 @@
+{
+  "slug": "geracao-z-vinho-sem-regras",
+  "data": "2026-10-23",
+  "categoria": "Mundo",
+  "titulo": "A geração Z não largou o vinho: só está bebendo de outro jeito",
+  "linha_story": "Festa com Riesling, frango frito com espumante e sommelier com 500 mil seguidores. Menos regra, mais vinho.",
+  "resumo": "Os relatórios do setor dizem que os jovens bebem menos, mas uma reportagem da Decanter mostra outro lado: a geração Z está reinventando o jeito de tomar vinho. Festas, harmonizações improváveis e criadores de conteúdo sem formalidade estão lotando eventos na Europa e nos Estados Unidos.",
+  "texto": [
+    "Em Londres, o Crystal Palace Wine Club, criado em 2022, lota noites que harmonizam vinho com junk food. Em Nova York, a festa de vinho natural Bêvèrãgęš reúne regularmente mais de mil pessoas no verão. Na Alemanha, o festival Electronic Wine, em Koblenz, junta música eletrônica e Riesling para cerca de 14 mil pessoas, a maioria com menos de 40 anos.",
+    "Nas redes, a sommelière canadense Cokie Ponikvar, de 25 anos, soma cerca de 500 mil seguidores no Instagram, com vídeos de mais de 10 milhões de visualizações; cerca de 90% do público tem menos de 35 anos. Para Thomas Wright, de 26 anos, ouvido pela revista, a queda no consumo entre os jovens tem mais a ver com o custo de vida do que com rejeição ao álcool.",
+    "Um cuidado: os números da reportagem são de público e de seguidores, não de uma pesquisa representativa. Eles mostram interesse, mas não medem o consumo da geração inteira."
+  ],
+  "porque_importa": "O vinho que conquista o público jovem é o que chega sem cerimônia: harmonização inesperada, música e preço que cabe no bolso. É a mesma ideia do vinho sem mimimi, e vale para qualquer idade.",
+  "numeros": [
+    {"valor": "14 mil", "texto": "pessoas no festival Electronic Wine, na Alemanha, a maioria abaixo dos 40"},
+    {"valor": "1.000+", "texto": "convidados por edição na festa de vinho natural Bêvèrãgęš, em Nova York"},
+    {"valor": "90%", "texto": "do público da sommelière Cokie Ponikvar tem menos de 35 anos"}
+  ],
+  "fonte": {
+    "nome": "Decanter",
+    "url": "https://www.decanter.com/wine/fried-chicken-and-raves-how-gen-z-is-getting-the-wine-bug/",
+    "data": "2026-10-05",
+    "titulo": "Fried chicken and raves: How Gen Z is getting the wine bug"
+  },
+  "vereditos": ["casa-perini-brut", "casal-garcia-vinho-verde", "le-petit-cochonnet-pinot-noir"],
+  "linkedin": {
+    "texto": "A geração Z não está abandonando o vinho. Está mudando o formato.\n\nUma reportagem da Decanter reuniu sinais que contrastam com os relatórios de queda de consumo entre jovens:\n→ Electronic Wine (Koblenz, Alemanha): música eletrônica e Riesling para cerca de 14 mil pessoas, a maioria com menos de 40 anos.\n→ Bêvèrãgęš (Nova York): festa de vinho natural com mais de mil pessoas por edição no verão.\n→ Cokie Ponikvar, sommelière de 25 anos: cerca de 500 mil seguidores, com 90% do público abaixo de 35 anos.\n\nUm entrevistado de 26 anos resume a tese: o freio no consumo jovem tem mais a ver com custo de vida do que com rejeição ao álcool.\n\nUma ressalva importante: são números de público e de audiência, não uma pesquisa representativa.\n\nPara marcas, importadores e varejo, a leitura é que a barreira não é o vinho, é a formalidade. Experiência, linguagem simples e preço acessível parecem pesar mais que regras de serviço.\n\nComo você vê esse movimento no Brasil?",
+    "hashtags": ["#vinho", "#geracaoz", "#comportamentodoconsumidor", "#mercadodevinho", "#uvaurgente"]
+  }
+}

@@ -24,7 +24,7 @@ layout: default
   {%- endif %}
   {%- if page.vereditos %}
   <section class="secao-interna">
-    <h2 class="h2">Vinhos citados.</h2>
+    <h2 class="h2">Harmonize com a notícia.</h2>
     <div class="grade">
       {%- for nome in page.vereditos %}{% assign v = site.vereditos | where: "slug", nome | first %}{% if v %}{% include card-vinho.html v=v %}{% endif %}{% endfor %}
     </div>
