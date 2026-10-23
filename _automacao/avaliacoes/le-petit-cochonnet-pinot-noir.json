@@ -1,0 +1,140 @@
+{
+  "slug": "le-petit-cochonnet-pinot-noir",
+  "data": "2026-10-22",
+  "provado": true,
+  "vinho": {
+    "title": "Le Petit Cochonnet Pinot Noir",
+    "produtor": "Vignobles & Compagnie",
+    "tipo": "Tinto",
+    "pais": "França",
+    "regiao": "Pays d'Oc (Languedoc)",
+    "safra": 2022,
+    "uvas": "Pinot Noir",
+    "teor": 13,
+    "servir": "14 °C"
+  },
+  "canal": "Lojas e e-commerce",
+  "fontes": [
+    "https://www.cellars.com.au/product/le-petit-cochonnet-pinot-noir-languedoc-france/",
+    "https://www.adegatanino.com.br/le-petit-cochonnet-igp-pays-doc-pinot-noir",
+    "https://vinsel.com.br/products/le-petit-cochonnet-pinot-noir",
+    "https://www.vinoli.com.br/MLB-3598413722-vinho-francs-le-petit-cochonnet-pinot-noir-igp-750-ml-_JM",
+    "https://www.jancisrobinson.com/zh-hans/tastings/26632"
+  ],
+  "preco": {
+    "referencia": 60.0,
+    "min": 60,
+    "max": 90,
+    "ajustes": [],
+    "fontes": [
+      "Wine.com.br: cerca de R$ 60,00, informado pelo @uvaurgente (22/10/2026)",
+      "Amazon: R$ 87,00, informado pelo @uvaurgente (22/10/2026)",
+      "Adega Tanino (safra 2022): R$ 89,90 (22/10/2026)"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.3,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Framboesa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Romã",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cravo",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 6.4,
+    "tanino_docura": 6.8,
+    "intensidade": 6.8,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média para alta — fresca",
+      "Leve — coerente com a Pinot",
+      "Delicado — macio, sem aspereza",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "textos": {
+    "texto_site": "",
+    "frase": "Pinot Noir leve e frutado, honesto na faixa dos R$ 60.",
+    "kicker_identidade": "O porquinho do sul da França",
+    "historico": "O Le Petit Cochonnet é uma linha da Vignobles & Compagnie, casa francesa que também assina tintos do Rhône como Châteauneuf-du-Pape e Gigondas. O Pinot Noir é IGP Pays d'Oc, de solos argilo-calcários, e é feito e amadurecido só em inox, sem madeira.",
+    "degustacao": "Framboesa, groselha e romã no nariz, com um toque de cravo. Na boca é leve e fresco, de taninos delicados e final curto e limpo.",
+    "harmonizacao": [
+      {
+        "prato": "Pizza de cogumelos",
+        "porque": "Fruta vermelha e acidez acompanham o queijo e o terroso.",
+        "tag": "Destaque"
+      },
+      {
+        "prato": "Lasanha",
+        "porque": "Acidez segura o molho de tomate sem pesar.",
+        "tag": "Clássico"
+      },
+      {
+        "prato": "Tábua de frios",
+        "porque": "Tinto leve que não briga com embutidos.",
+        "tag": "Fácil"
+      },
+      {
+        "prato": "Queijos semiduros",
+        "porque": "Prato e gouda pedem um tinto delicado.",
+        "tag": "Curinga"
+      },
+      {
+        "prato": "Hambúrguer vegetal",
+        "porque": "Opção sem carne para um tinto leve e frutado.",
+        "tag": "Leve"
+      }
+    ]
+  },
+  "lojas": [
+    {
+      "nome": "Amazon",
+      "url": "https://link.amazon/B00DeJxmC"
+    }
+  ],
+  "hashtags": [
+    "#vinho",
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#dicadevinho",
+    "#vinhotinto",
+    "#pinotnoir",
+    "#vinhofrances",
+    "#paysdoc"
+  ],
+  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/le-petit-cochonnet-pinot-noir.png"
+}
