@@ -35,7 +35,7 @@ Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou m
   porque_importa (até 320), fonte {nome, url, data, titulo}, outras_fontes [{nome, url}], vereditos [slugs].
   Texto sempre próprio: nunca copiar a matéria nem usar foto da fonte.
 - **Produto (Além do Vinho):** salve `_automacao/alem/<slug>.json` e rode o mesmo script.
-  Campos: slug, data, titulo, marca, categoria, frase (até 120), destaques [3 itens], usamos (true se o Tiago usa),
+  Campos: slug, data, titulo, marca, categoria, frase (até 120), destaques [3 itens], aprovado (true quando o Tiago usou e aprova o produto: selo "Aprovado", brincadeira com o "Provado" dos vinhos),
   imagem_origem (só foto enviada pelo Tiago), lojas [{nome, url}] (links do Tiago), vereditos [slugs], texto (opcional).
   Nunca mostrar preço fixo da loja: o botão diz "Ver preço na Amazon / no Mercado Livre".
 - **Playlist:** acrescente um bloco em `_data/playlists.yml` (modelo no topo do arquivo). Os vinhos aparecem sozinhos

@@ -6,7 +6,8 @@ Uso (na raiz do repositório):
 
 Saídas:
     Notícia: _noticias/<slug>.md, assets/img/noticias/<slug>.png (1200×630),
-             _automacao/saida/noticias/<slug>/story.png (1080×1920) e link.txt
+             _automacao/saida/noticias/<slug>/story.png (1080×1920), linkedin.png (1200×1500),
+             linkedin.txt (texto do post) e link.txt
     Produto: _alem/<slug>.md, assets/img/alem/<slug>.png (foto, se houver),
              _automacao/saida/alem/<slug>/story.png e link.txt
 """
@@ -70,6 +71,8 @@ def render(ctx, saida, og_destino=None):
         pg.locator("#story").screenshot(path=os.path.join(saida, "story.png"))
         if og_destino:
             pg.locator("#og").screenshot(path=og_destino)
+        if pg.locator("#linkedin").count():
+            pg.locator("#linkedin").screenshot(path=os.path.join(saida, "linkedin.png"))
         b.close()
     return estouro
 
@@ -96,7 +99,17 @@ def main(caminho):
             "description": d["resumo"][:155],
         }, "\n\n".join(d.get("texto", [])))
         estouro = render({"tipo": "noticia", "titulo": d["titulo"], "categoria": d["categoria"],
-                          "linha": d.get("linha_story"), "fonte": d["fonte"]["nome"]}, saida, og)
+                          "linha": d.get("linha_story"), "fonte": d["fonte"]["nome"],
+                          "numeros": d.get("numeros", [])[:3]}, saida, og)
+        li = d.get("linkedin") or {}
+        if li.get("texto"):
+            tags = " ".join(li.get("hashtags", ["#vinho", "#mercadodevinho", "#uvaurgente"]))
+            with open(os.path.join(saida, "linkedin.txt"), "w", encoding="utf-8") as f:
+                f.write("POST (cole com a imagem linkedin.png)\n\n" + li["texto"].strip() + "\n\n" + tags + "\n\n"
+                        + "PRIMEIRO COMENTÁRIO (publique logo depois do post)\n\n"
+                        + "Notícia completa, com a fonte original: " + SITE + url + "\n")
+            if len(li["texto"]) > 2800:
+                alertas.append(f"Texto do LinkedIn com {len(li['texto'])} caracteres (máx. recomendado 2800)")
     else:
         url = f"/alem-do-vinho/{slug}/"
         img = None
@@ -106,13 +119,13 @@ def main(caminho):
                 shutil.copy(d["imagem_origem"], img)
         escrever_md("_alem", slug, {
             "title": d["titulo"], "date": dia, "categoria": d["categoria"], "marca": d.get("marca"),
-            "frase": d.get("frase"), "usamos": bool(d.get("usamos")) or None, "destaques": d.get("destaques"),
+            "frase": d.get("frase"), "aprovado": bool(d.get("aprovado")) or None, "destaques": d.get("destaques"),
             "imagem": f"/assets/img/alem/{slug}.png" if img else None, "image": f"/assets/img/alem/{slug}.png" if img else None,
             "lojas": [{"nome": l["nome"], "url": l["url"]} for l in d["lojas"]], "vereditos": d.get("vereditos"),
             "description": d.get("frase"),
         }, "\n\n".join(d.get("texto", [])))
         estouro = render({"tipo": "produto", "titulo": d["titulo"], "categoria": d["categoria"], "frase": d.get("frase"),
-                          "usamos": d.get("usamos"), "imagem": ("file://" + img) if img else None}, saida)
+                          "aprovado": d.get("aprovado"), "imagem": ("file://" + img) if img else None}, saida)
 
     with open(os.path.join(saida, "link.txt"), "w", encoding="utf-8") as f:
         f.write(SITE + url + "\n")

@@ -10,7 +10,7 @@
     <p class="kicker">{{ p.categoria }}</p>
     <h3 class="card-nome"><a href="{{ p.url | relative_url }}">{{ p.title }}</a>.</h3>
     {%- if p.marca %}<p class="card-produtor">{{ p.marca }}</p>{% endif %}
-    {%- if p.usamos %}<div class="pills"><span class="selo selo-provado card-provado">Usamos</span></div>{% endif %}
+    {%- if p.aprovado %}<div class="pills"><span class="selo selo-provado card-provado">Aprovado</span></div>{% endif %}
     {%- if p.frase %}<p class="produto-frase">{{ p.frase }}</p>{% endif %}
     <div class="produto-lojas">
       {%- for loja in p.lojas %}

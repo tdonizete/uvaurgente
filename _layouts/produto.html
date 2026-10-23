@@ -9,7 +9,7 @@ layout: default
       <p class="kicker">{{ page.categoria }}</p>
       <h1 class="h1">{{ page.title }}.</h1>
       {%- if page.marca %}<p class="vb-produtor">{{ page.marca }}</p>{% endif %}
-      {%- if page.usamos %}<div class="pills"><span class="selo selo-provado">Usamos</span></div>{% endif %}
+      {%- if page.aprovado %}<div class="pills"><span class="selo selo-provado">Aprovado</span></div>{% endif %}
       {%- if page.frase %}<p class="lead">{{ page.frase }}</p>{% endif %}
       <div class="produto-lojas">
         {%- for loja in page.lojas %}
