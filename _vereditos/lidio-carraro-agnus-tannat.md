@@ -63,6 +63,13 @@ blic: 4
 servir: 17 °C
 teor: 15
 imagem: /assets/img/vereditos/lidio-carraro-agnus-tannat.png
+estilos:
+- tinto
+- encorpado
+- frutado
+- especiado
+- terroso
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

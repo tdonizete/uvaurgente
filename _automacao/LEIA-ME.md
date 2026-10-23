@@ -25,3 +25,19 @@ Regra de custo-benefício (aprovada em 21/10/2026; substitui a fórmula com Índ
 Reproduz o exemplo oficial (Casal Garcia, R$ 55, entrega 8,6 → 9,0).
 
 Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou mais acima dos demais (seção 6.3), com paladar mínimo de 6,0. A regra genérica de "subatributo ≥ 7,5" (seção 6.2) vale para L, I e C.
+
+## Notícias, Além do Vinho e Playlists
+
+- **Notícia:** salve `_automacao/noticias/<slug>.json` e rode `python3 _automacao/gerar_extra.py _automacao/noticias/<slug>.json`.
+  Gera `_noticias/<slug>.md`, a imagem de compartilhamento `assets/img/noticias/<slug>.png` (1200×630),
+  o Story `_automacao/saida/noticias/<slug>/story.png` (1080×1920) e `link.txt` (endereço para o sticker de link).
+  Campos: slug, data, categoria, titulo (até 100), linha_story (até 140), resumo (até 420), texto (lista de parágrafos, opcional),
+  porque_importa (até 320), fonte {nome, url, data, titulo}, outras_fontes [{nome, url}], vereditos [slugs].
+  Texto sempre próprio: nunca copiar a matéria nem usar foto da fonte.
+- **Produto (Além do Vinho):** salve `_automacao/alem/<slug>.json` e rode o mesmo script.
+  Campos: slug, data, titulo, marca, categoria, frase (até 120), destaques [3 itens], usamos (true se o Tiago usa),
+  imagem_origem (só foto enviada pelo Tiago), lojas [{nome, url}] (links do Tiago), vereditos [slugs], texto (opcional).
+  Nunca mostrar preço fixo da loja: o botão diz "Ver preço na Amazon / no Mercado Livre".
+- **Playlist:** acrescente um bloco em `_data/playlists.yml` (modelo no topo do arquivo). Os vinhos aparecem sozinhos
+  pelas tags `tipos` (qualquer uma) e `estilos` (todas), usando as tags que o `gerar.py` grava em cada veredito (`estilos:`).
+- Os itens de menu Notícias, Além do Vinho e Playlists só aparecem quando houver ao menos um item publicado.

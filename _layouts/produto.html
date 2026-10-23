@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="wrap pagina produto">
+  <nav class="trilha" aria-label="Trilha"><a href="{{ '/' | relative_url }}">Início</a> / <a href="{{ '/alem-do-vinho/' | relative_url }}">Além do Vinho</a> / {{ page.categoria }}</nav>
+  <div class="produto-topo">
+    <div class="produto-foto produto-foto-grande">{% if page.imagem %}<img src="{{ page.imagem | relative_url }}" alt="{{ page.title }}">{% else %}{% include icone-categoria.html categoria=page.categoria %}{% endif %}</div>
+    <div>
+      <p class="kicker">{{ page.categoria }}</p>
+      <h1 class="h1">{{ page.title }}.</h1>
+      {%- if page.marca %}<p class="vb-produtor">{{ page.marca }}</p>{% endif %}
+      {%- if page.usamos %}<div class="pills"><span class="selo selo-provado">Usamos</span></div>{% endif %}
+      {%- if page.frase %}<p class="lead">{{ page.frase }}</p>{% endif %}
+      <div class="produto-lojas">
+        {%- for loja in page.lojas %}
+        <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %}" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Ver preço {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
+        {%- endfor %}
+      </div>
+      <p class="aviso">Posso ganhar comissão pelos links; a indicação não muda por isso. O preço e a disponibilidade são os da loja no momento da compra.</p>
+    </div>
+  </div>
+  {%- if page.destaques %}
+  <section class="secao-interna">
+    <h2 class="h2">Por que indicamos.</h2>
+    <ul class="produto-destaques">{% for d in page.destaques %}<li>{{ d }}</li>{% endfor %}</ul>
+  </section>
+  {%- endif %}
+  {%- assign corpo = content | strip %}{% if corpo != "" %}<div class="texto">{{ content }}</div>{% endif %}
+  {%- if page.vereditos %}
+  <section class="secao-interna">
+    <h2 class="h2">Combina com.</h2>
+    <div class="grade">
+      {%- for nome in page.vereditos %}{% assign v = site.vereditos | where: "slug", nome | first %}{% if v %}{% include card-vinho.html v=v %}{% endif %}{% endfor %}
+    </div>
+  </section>
+  {%- endif %}
+</article>

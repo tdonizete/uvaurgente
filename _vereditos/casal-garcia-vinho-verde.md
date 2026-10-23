@@ -62,6 +62,14 @@ blic: 1
 servir: 7 °C
 teor: 9.5
 imagem: /assets/img/vereditos/casal-garcia-vinho-verde.png
+estilos:
+- branco
+- leve
+- fresco
+- adocicado
+- frutado
+- floral
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

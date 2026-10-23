@@ -1,0 +1,21 @@
+{%- comment -%}
+  Card padrão de "Além do Vinho". Uso: {% include card-produto.html p=produto %}
+{%- endcomment -%}
+{%- assign p = include.p -%}
+<article class="card card-produto" data-categoria="{{ p.categoria | slugify }}">
+  <a class="produto-foto" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {%- if p.imagem %}<img src="{{ p.imagem | relative_url }}" alt="" loading="lazy">{% else %}{% include icone-categoria.html categoria=p.categoria %}{% endif -%}
+  </a>
+  <div class="produto-corpo">
+    <p class="kicker">{{ p.categoria }}</p>
+    <h3 class="card-nome"><a href="{{ p.url | relative_url }}">{{ p.title }}</a>.</h3>
+    {%- if p.marca %}<p class="card-produtor">{{ p.marca }}</p>{% endif %}
+    {%- if p.usamos %}<div class="pills"><span class="selo selo-provado card-provado">Usamos</span></div>{% endif %}
+    {%- if p.frase %}<p class="produto-frase">{{ p.frase }}</p>{% endif %}
+    <div class="produto-lojas">
+      {%- for loja in p.lojas %}
+      <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %} btn-sm" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Ver preço {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
+      {%- endfor %}
+    </div>
+  </div>
+</article>

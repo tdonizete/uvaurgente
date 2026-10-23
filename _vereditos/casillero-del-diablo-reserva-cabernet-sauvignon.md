@@ -62,6 +62,13 @@ blic: 3
 servir: 17 °C
 teor: 13.5
 imagem: /assets/img/vereditos/casillero-del-diablo-reserva-cabernet-sauvignon.png
+estilos:
+- tinto
+- encorpado
+- frutado
+- amadeirado
+- especiado
+- acessivel
 preco_checado: 2026-10-21
 lojas:
 - nome: Amazon

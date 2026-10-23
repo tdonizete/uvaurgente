@@ -63,6 +63,14 @@ blic: 4
 servir: 17 °C
 teor: 14
 imagem: /assets/img/vereditos/pizzato-dna-99-merlot.png
+estilos:
+- tinto
+- encorpado
+- fresco
+- frutado
+- especiado
+- amadeirado
+- luxo
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

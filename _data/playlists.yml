@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────
+# Playlists do UVA URGENTE (página /playlists/)
+# Cada playlist é um bloco começando com "- titulo:". O Claude preenche;
+# você só precisa mandar o link da playlist.
+#
+# Campos:
+#   titulo   nome da playlist
+#   spotify  link da playlist (Spotify → ⋯ → Compartilhar → Copiar link)
+#   momento  ocasião, curta (ex.: "Jantar a dois")
+#   clima    uma frase sobre a vibe
+#   tipos    pelo menos um destes: tinto, branco, rose, espumante
+#   estilos  TODAS precisam bater: leve, medio, encorpado, fresco, adocicado,
+#            frutado, floral, especiado, amadeirado, terroso, tostado, evoluido,
+#            popular, acessivel, intermediario, premium, luxo
+#   vinhos   vereditos escolhidos à mão (aparecem primeiro), pelo nome do arquivo
+#   excluir  vereditos que não devem aparecer
+#   limite   quantos vinhos mostrar (padrão 4)
+#   data     data de publicação (AAAA-MM-DD)
+#
+# - titulo: Tinto de sexta
+#   spotify: https://open.spotify.com/playlist/COLE_O_ID_AQUI
+#   momento: Fim de semana começando
+#   clima: Para abrir um tinto encorpado depois do trabalho, sem pressa.
+#   tipos: [tinto]
+#   estilos: [encorpado]
+#   data: 2026-10-23
+# ─────────────────────────────────────────────────────────────
+[]

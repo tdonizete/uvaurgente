@@ -39,6 +39,32 @@ def preco_txt(p):
     return f"R$ {lo}" if lo == hi else f"R$ {lo}–{hi}"
 
 
+FAMILIA_TAG = {"Frutas": "frutado", "Florais": "floral", "Especiarias": "especiado", "Madeira": "amadeirado",
+               "Terra e mineral": "terroso", "Terra/mineral": "terroso", "Terra": "terroso", "Fermentação": "tostado",
+               "Oxidativo": "evoluido", "Animal": "terroso"}
+FAIXA_TAG = {"Popular": "popular", "Acessível": "acessivel", "Intermediário": "intermediario",
+             "Premium": "premium", "Luxo": "luxo", "Ultra-premium": "ultra"}
+
+
+def estilos(d, r):
+    """Tags de estilo usadas para ligar vinhos a playlists (e, no futuro, a filtros do site)."""
+    tipo = d["vinho"]["tipo"].lower().replace("é", "e")
+    tags = [tipo]
+    desc = d["paladar"].get("descritores", [])
+    corpo = (desc[1].split(" ")[0].lower() if len(desc) > 1 else "")
+    tags.append({"leve": "leve", "médio": "medio", "medio": "medio"}.get(corpo, "encorpado" if corpo else "medio"))
+    if d["paladar"]["acidez"] >= 7.5:
+        tags.append("fresco")
+    if len(desc) > 2 and desc[2].lower().startswith(("meio-seco", "suave", "doce")):
+        tags.append("adocicado")
+    for fam in d["aroma"]["familias"]:
+        tg = FAMILIA_TAG.get(fam)
+        if tg and tg not in tags:
+            tags.append(tg)
+    tags.append(FAIXA_TAG[r["faixa_preco"]["nome"]])
+    return tags
+
+
 def front_matter(d, r, ctx):
     v = d["vinho"]
     t = d["textos"]
@@ -67,6 +93,8 @@ def front_matter(d, r, ctx):
         "servir": v.get("servir"),
         "teor": v.get("teor"),
         "imagem": f"/assets/img/vereditos/{d['slug']}.png" if d.get("imagem_origem") else None,
+        "estilos": estilos(d, r),
+        "playlist": d.get("playlist"),
         "preco_checado": date.fromisoformat(d.get("data", date.today().isoformat())),
         "lojas": [{"nome": l["nome"], "url": l["url"], "preco": l.get("preco")} for l in d.get("lojas", [])],
         "criterios": r["criterios"],
@@ -221,6 +249,10 @@ def main(caminho):
         destino = os.path.join(RAIZ, "assets", "img", "vereditos", f"{slug}.png")
         if os.path.abspath(d["imagem_origem"]) != os.path.abspath(destino):
             shutil.copy(d["imagem_origem"], destino)
+
+    if "--so-site" in sys.argv:
+        print(f"Site atualizado: {slug} · {virgula(r['nota'])}")
+        return 0
 
     # Instagram
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.join(AQUI, "modelos")), autoescape=True)

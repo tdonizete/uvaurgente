@@ -1,0 +1,11 @@
+{%- assign c = include.categoria | slugify -%}
+<svg class="icone-cat" viewBox="0 0 120 120" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+{%- case c -%}
+{%- when "livros" -%}<path d="M20 28h34a8 8 0 0 1 8 8v58a6 6 0 0 0-6-6H20zM100 28H66a8 8 0 0 0-8 8v58a6 6 0 0 1 6-6h36z"/>
+{%- when "tacas" -%}<path d="M38 18h44c2 22-6 40-22 40S36 40 38 18zM60 58v38M42 100h36"/>
+{%- when "saca-rolhas-e-abridores" -%}<path d="M30 30h60M60 30v14M60 44c10 4 10 10 0 14s-10 10 0 14 10 10 0 14M60 86v16"/>
+{%- when "decanters-e-aeradores" -%}<path d="M52 16h16v26c18 8 24 22 24 36 0 14-14 24-32 24S28 92 28 78c0-14 6-28 24-36z"/>
+{%- when "conservacao" -%}<path d="M48 14h24v12H48zM44 26h32v14l6 10v56H38V50l6-10z"/><path d="M50 70h20"/>
+{%- else -%}<rect x="26" y="40" width="68" height="56" rx="4"/><path d="M20 40h80v-12H20zM60 28v68M60 28c-8-14-26-14-22 0M60 28c8-14 26-14 22 0"/>
+{%- endcase -%}
+</svg>

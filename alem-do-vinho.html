@@ -1,0 +1,27 @@
+---
+layout: default
+title: Além do Vinho
+description: Livros, taças, abridores e acessórios que o UVA URGENTE indica para aproveitar melhor o vinho.
+permalink: /alem-do-vinho/
+scripts:
+  - /assets/js/vitrine.js
+---
+{%- assign itens = site.alem | sort: "date" | reverse -%}
+<section class="wrap secao">
+  <p class="kicker">Além do Vinho</p>
+  <h1 class="h1">O que ajuda a aproveitar a garrafa.</h1>
+  <p class="lead">Livros, taças e acessórios que a gente indicaria para um amigo. Cada item diz por que está aqui.</p>
+  {%- if itens.size > 0 %}
+  {%- assign cats = itens | map: "categoria" | uniq | sort %}
+  <div class="chips" role="group" aria-label="Filtrar por categoria" data-chips>
+    <button type="button" class="chip" aria-pressed="true" data-cat="">Todos</button>
+    {%- for c in cats %}<button type="button" class="chip" aria-pressed="false" data-cat="{{ c | slugify }}">{{ c }}</button>{% endfor %}
+  </div>
+  <div class="grade grade-produtos" data-vitrine>
+    {%- for p in itens %}{% include card-produto.html p=p %}{% endfor %}
+  </div>
+  <p class="aviso aviso-vitrine">Alguns links são de afiliado: posso ganhar comissão, e a indicação não muda por isso.</p>
+  {%- else %}
+  <p class="apoio">A vitrine abre em breve.</p>
+  {%- endif %}
+</section>

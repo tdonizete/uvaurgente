@@ -62,6 +62,13 @@ blic: 1
 servir: 6 °C
 teor: 12
 imagem: /assets/img/vereditos/casa-perini-brut.png
+estilos:
+- espumante
+- leve
+- fresco
+- frutado
+- floral
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

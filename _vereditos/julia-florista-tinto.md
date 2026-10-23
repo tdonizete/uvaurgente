@@ -62,6 +62,12 @@ blic: 1
 servir: 15 °C
 teor: 13
 imagem: /assets/img/vereditos/julia-florista-tinto.png
+estilos:
+- tinto
+- leve
+- frutado
+- especiado
+- popular
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

@@ -62,6 +62,14 @@ blic: 4
 servir: 16 °C
 teor: 13.5
 imagem: /assets/img/vereditos/ea-cartuxa-alentejo-tinto.png
+estilos:
+- tinto
+- medio
+- fresco
+- frutado
+- especiado
+- terroso
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

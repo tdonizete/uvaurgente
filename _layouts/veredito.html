@@ -176,6 +176,12 @@ layout: default
   {%- if corpo != "" %}
   <section class="vb texto">{{ content }}</section>
   {%- endif %}
-  {%- if page.playlist %}<p><a href="{{ page.playlist }}" rel="noopener">Ouvir a playlist deste vinho</a></p>{% endif %}
+  {%- if page.playlist %}
+  <section class="vb vb-playlist">
+    <div class="vb-topo"><span class="vb-rotulo">Trilha</span></div>
+    <h2 class="h1 vb-titulo">Para ouvir com esta taça.</h2>
+    {%- if page.playlist contains "open.spotify.com" %}{% include spotify.html url=page.playlist titulo=page.title altura=152 %}{% else %}<p><a href="{{ page.playlist }}" rel="noopener">Ouvir a playlist deste vinho</a></p>{% endif %}
+  </section>
+  {%- endif %}
 </article>
 {% include banner-teste.html %}

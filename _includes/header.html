@@ -5,6 +5,15 @@
     <nav class="nav" aria-label="Principal">
       <a href="{{ '/vereditos/' | relative_url }}"{% if page.url contains '/vereditos/' %} aria-current="page"{% endif %}>Vereditos</a>
       <a href="{{ '/guias/' | relative_url }}"{% if page.url contains '/guias/' %} aria-current="page"{% endif %}>Guias</a>
+      {%- if site.noticias.size > 0 %}
+      <a href="{{ '/noticias/' | relative_url }}"{% if page.url contains '/noticias/' %} aria-current="page"{% endif %}>Notícias</a>
+      {%- endif %}
+      {%- if site.alem.size > 0 %}
+      <a href="{{ '/alem-do-vinho/' | relative_url }}"{% if page.url contains '/alem-do-vinho/' %} aria-current="page"{% endif %}>Além do Vinho</a>
+      {%- endif %}
+      {%- if site.data.playlists.size > 0 %}
+      <a href="{{ '/playlists/' | relative_url }}"{% if page.url == '/playlists/' %} aria-current="page"{% endif %}>Playlists</a>
+      {%- endif %}
       <a href="{{ '/metodologia/' | relative_url }}"{% if page.url == '/metodologia/' %} aria-current="page"{% endif %}>Metodologia</a>
       <a href="{{ '/sobre/' | relative_url }}"{% if page.url == '/sobre/' %} aria-current="page"{% endif %}>Sobre</a>
     </nav>

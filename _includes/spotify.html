@@ -1,0 +1,8 @@
+{%- comment -%} Player do Spotify. Uso: {% include spotify.html url=LINK titulo=NOME altura=352 %} {%- endcomment -%}
+{%- assign sp_tipo = "playlist" -%}
+{%- if include.url contains "/album/" %}{% assign sp_tipo = "album" %}{% elsif include.url contains "/track/" %}{% assign sp_tipo = "track" %}{% endif -%}
+{%- assign sp_marca = sp_tipo | append: "/" -%}
+{%- assign sp_id = include.url | split: sp_marca | last | split: "?" | first -%}
+<div class="spotify" style="--altura: {{ include.altura | default: 352 }}px">
+  <iframe title="Playlist {{ include.titulo | escape }} no Spotify" src="https://open.spotify.com/embed/{{ sp_tipo }}/{{ sp_id }}?utm_source=generator&amp;theme=0" width="100%" height="{{ include.altura | default: 352 }}" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>

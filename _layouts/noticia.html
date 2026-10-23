@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="wrap pagina noticia">
+  <nav class="trilha" aria-label="Trilha"><a href="{{ '/' | relative_url }}">Início</a> / <a href="{{ '/noticias/' | relative_url }}">Notícias</a> / {{ page.categoria }}</nav>
+  <p class="kicker">{{ page.categoria }}</p>
+  <h1 class="h1">{{ page.title }}</h1>
+  <p class="meta-post">Curadoria UVA URGENTE · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>{% if page.fonte %} · Fonte: {{ page.fonte.nome }}{% endif %}</p>
+  {%- if page.resumo %}<p class="lead">{{ page.resumo }}</p>{% endif %}
+  {%- assign corpo = content | strip %}{% if corpo != "" %}<div class="texto">{{ content }}</div>{% endif %}
+  {%- if page.porque_importa %}
+  <aside class="noticia-importa">
+    <p class="rotulo">Por que importa</p>
+    <p>{{ page.porque_importa }}</p>
+  </aside>
+  {%- endif %}
+  {%- if page.fonte %}
+  <div class="noticia-fonte">
+    <p class="rotulo">Fonte</p>
+    <p><strong>{{ page.fonte.nome }}</strong>{% if page.fonte.data %}, {{ page.fonte.data | date: "%d/%m/%Y" }}{% endif %}{% if page.fonte.titulo %} · “{{ page.fonte.titulo }}”{% endif %}</p>
+    <a class="btn btn-linha btn-sm" href="{{ page.fonte.url }}" rel="noopener" target="_blank">Ler a matéria completa</a>
+    {%- if page.outras_fontes %}<p class="apoio">Também consultamos: {% for f in page.outras_fontes %}<a href="{{ f.url }}" rel="noopener">{{ f.nome }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.</p>{% endif %}
+  </div>
+  {%- endif %}
+  {%- if page.vereditos %}
+  <section class="secao-interna">
+    <h2 class="h2">Vinhos citados.</h2>
+    <div class="grade">
+      {%- for nome in page.vereditos %}{% assign v = site.vereditos | where: "slug", nome | first %}{% if v %}{% include card-vinho.html v=v %}{% endif %}{% endfor %}
+    </div>
+  </section>
+  {%- endif %}
+</article>

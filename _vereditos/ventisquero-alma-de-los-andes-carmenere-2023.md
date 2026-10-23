@@ -63,6 +63,13 @@ blic: 3
 servir: 17 °C
 teor: 13.5
 imagem: /assets/img/vereditos/ventisquero-alma-de-los-andes-carmenere-2023.png
+estilos:
+- tinto
+- medio
+- frutado
+- especiado
+- amadeirado
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

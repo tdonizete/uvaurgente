@@ -63,6 +63,13 @@ blic: 1
 servir: 14 °C
 teor: 13
 imagem: /assets/img/vereditos/le-petit-cochonnet-pinot-noir.png
+estilos:
+- tinto
+- leve
+- fresco
+- frutado
+- especiado
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

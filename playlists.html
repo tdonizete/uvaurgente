@@ -1,0 +1,59 @@
+---
+layout: default
+title: Playlists
+description: Playlists do UVA URGENTE para ouvir com uma taça, cada uma harmonizada com vinhos que avaliamos.
+permalink: /playlists/
+---
+{%- assign lista = site.data.playlists | sort: "data" | reverse -%}
+<section class="wrap secao">
+  <p class="kicker">Playlists</p>
+  <h1 class="h1">Trilha para abrir a garrafa.</h1>
+  <p class="lead">Cada playlist tem um clima e os vinhos que combinam com ela. Dê o play aqui mesmo ou salve no seu Spotify.</p>
+  {%- if lista.size > 0 %}
+  <div class="playlists">
+    {%- for p in lista %}
+    <article class="playlist-card" id="{{ p.titulo | slugify }}">
+      <div class="playlist-texto">
+        {%- if p.momento %}<p class="kicker">{{ p.momento }}</p>{% endif %}
+        <h2 class="playlist-titulo">{{ p.titulo }}.</h2>
+        {%- if p.clima %}<p class="apoio">{{ p.clima }}</p>{% endif %}
+        {%- comment -%} Vinhos: primeiro os escolhidos à mão (vinhos), depois os que batem com as tags (estilos = todas; tipos = qualquer uma). {%- endcomment -%}
+        {%- assign limite = p.limite | default: 4 -%}
+        {%- assign usados = "" -%}
+        {%- capture itens -%}
+          {%- assign n = 0 -%}
+          {%- for slug in p.vinhos -%}{%- assign v = site.vereditos | where: "slug", slug | first -%}{%- if v and n < limite -%}
+          <li><a href="{{ v.url | relative_url }}">{{ v.title }}</a> <span class="vb-fraco">{{ v.nota | replace: ".", "," }}</span></li>
+          {%- assign usados = usados | append: "|" | append: slug | append: "|" -%}{%- assign n = n | plus: 1 -%}{%- endif -%}{%- endfor -%}
+          {%- if p.estilos or p.tipos -%}
+          {%- assign por_nota = site.vereditos | sort: "nota" | reverse -%}
+          {%- for v in por_nota -%}
+            {%- if n >= limite %}{% break %}{% endif -%}
+            {%- assign marca = "|" | append: v.slug | append: "|" -%}
+            {%- if usados contains marca %}{% continue %}{% endif -%}
+            {%- if p.excluir contains v.slug %}{% continue %}{% endif -%}
+            {%- assign ok = true -%}
+            {%- for e in p.estilos -%}{%- unless v.estilos contains e %}{% assign ok = false %}{% endunless -%}{%- endfor -%}
+            {%- if p.tipos -%}{%- assign algum = false -%}{%- for tp in p.tipos -%}{%- if v.estilos contains tp %}{% assign algum = true %}{% endif -%}{%- endfor -%}{%- unless algum %}{% assign ok = false %}{% endunless -%}{%- endif -%}
+            {%- if ok -%}
+          <li><a href="{{ v.url | relative_url }}">{{ v.title }}</a> <span class="vb-fraco">{{ v.nota | replace: ".", "," }}</span></li>
+            {%- assign n = n | plus: 1 -%}{%- endif -%}
+          {%- endfor -%}
+          {%- endif -%}
+        {%- endcapture -%}
+        {%- assign itens = itens | strip -%}
+        {%- if itens != "" %}
+        <p class="rotulo">Combina com</p>
+        <ul class="playlist-vinhos">{{ itens }}</ul>
+        {%- endif %}
+        <a class="btn btn-linha btn-sm" href="{{ p.spotify }}" rel="noopener" target="_blank">Abrir no Spotify</a>
+      </div>
+      {% include spotify.html url=p.spotify titulo=p.titulo %}
+    </article>
+    {%- endfor %}
+  </div>
+  {%- else %}
+  <p class="apoio">As primeiras playlists chegam em breve. Siga o <a href="https://www.instagram.com/{{ site.instagram }}/" rel="noopener">@{{ site.instagram }}</a> para saber quando sair.</p>
+  {%- endif %}
+</section>
+{% include newsletter.html %}

@@ -62,6 +62,13 @@ blic: 1
 servir: 9 °C
 teor: 11.5
 imagem: /assets/img/vereditos/casa-valduga-arte-rose.png
+estilos:
+- rose
+- leve
+- fresco
+- floral
+- frutado
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

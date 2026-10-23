@@ -62,6 +62,13 @@ blic: 4
 servir: 17 °C
 teor: 14
 imagem: /assets/img/vereditos/casa-silva-gran-reserva-carmenere.png
+estilos:
+- tinto
+- encorpado
+- frutado
+- especiado
+- amadeirado
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

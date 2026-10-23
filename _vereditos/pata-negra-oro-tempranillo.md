@@ -62,6 +62,13 @@ blic: 2
 servir: 16 °C
 teor: 13
 imagem: /assets/img/vereditos/pata-negra-oro-tempranillo.png
+estilos:
+- tinto
+- medio
+- frutado
+- especiado
+- amadeirado
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

@@ -63,6 +63,13 @@ blic: 1
 servir: 9 °C
 teor: 13
 imagem: /assets/img/vereditos/ramon-bilbao-rueda-verdejo.png
+estilos:
+- branco
+- medio
+- fresco
+- frutado
+- floral
+- premium
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

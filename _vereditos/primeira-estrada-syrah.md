@@ -63,6 +63,14 @@ blic: 4
 servir: 17 °C
 teor: 13.8
 imagem: /assets/img/vereditos/primeira-estrada-syrah.png
+estilos:
+- tinto
+- encorpado
+- fresco
+- frutado
+- especiado
+- floral
+- premium
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

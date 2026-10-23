@@ -62,6 +62,12 @@ blic: 1
 servir: 16 °C
 teor: 12.5
 imagem: /assets/img/vereditos/concha-y-toro-reservado-cabernet-sauvignon.png
+estilos:
+- tinto
+- medio
+- frutado
+- especiado
+- popular
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

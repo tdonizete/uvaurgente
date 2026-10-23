@@ -62,6 +62,14 @@ blic: 2
 servir: 6 °C
 teor: 11.8
 imagem: /assets/img/vereditos/chandon-reserve-brut.png
+estilos:
+- espumante
+- leve
+- fresco
+- frutado
+- floral
+- tostado
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

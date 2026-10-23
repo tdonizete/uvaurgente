@@ -63,6 +63,15 @@ blic: 4
 servir: 17 °C
 teor: 14.5
 imagem: /assets/img/vereditos/clos-de-los-siete.png
+estilos:
+- tinto
+- encorpado
+- fresco
+- frutado
+- floral
+- especiado
+- amadeirado
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

@@ -63,7 +63,7 @@ a:hover { color: var(--ink); }
 .nav a { color: var(--ink); text-decoration: none; padding: var(--space-2) 0; border-bottom: 2px solid transparent; }
 .nav a:hover, .nav a[aria-current="page"] { border-bottom-color: var(--flame); }
 @media (max-width: 720px) {
-  .nav { order: 3; width: 100%; gap: var(--space-4); overflow-x: auto; }
+  .nav { order: 3; width: 100%; gap: var(--space-4); overflow-x: auto; flex-wrap: nowrap; white-space: nowrap; scrollbar-width: none; }
 }
 
 /* ── Botões ── */
@@ -282,3 +282,55 @@ a:hover { color: var(--ink); }
 .vb .garrafa-svg .rotulo { fill: var(--paper); }
 .vb-produtor { margin: -4px 0 0; font-size: 18px; font-weight: 600; color: var(--ink-60); }
 .card-produtor { margin: 4px 0 0; font-size: 13px; font-weight: 600; color: var(--ink-60); }
+
+/* ── Playlists ─────────────────────────────────────────────── */
+.playlists { display: grid; gap: var(--space-8); margin-top: var(--space-8); }
+.playlist-card { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: var(--space-6); align-items: start; padding: var(--space-6); background: var(--paper-warm); border: 1px solid var(--hairline); border-radius: var(--radius-lg); }
+.playlist-texto { display: flex; flex-direction: column; gap: var(--space-3); align-items: flex-start; }
+.playlist-titulo { margin: 0; font-family: var(--font-display); font-weight: 400; font-size: 28px; line-height: 1.05; }
+.playlist-vinhos { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--space-2); }
+.playlist-vinhos li { display: flex; gap: var(--space-2); align-items: baseline; }
+.spotify { width: 100%; min-height: var(--altura, 352px); border-radius: var(--radius-lg); background: var(--hairline-lt); overflow: hidden; }
+.spotify iframe { display: block; border: 0; border-radius: var(--radius-lg); }
+.vb-playlist { margin-top: var(--space-6); }
+@media (max-width: 760px) { .playlist-card { grid-template-columns: 1fr; padding: var(--space-4); } }
+
+/* ── Além do Vinho ─────────────────────────────────────────── */
+.chips { display: flex; flex-wrap: wrap; gap: var(--space-2); margin: var(--space-8) 0 var(--space-6); }
+.chip { font: inherit; font-size: 14px; font-weight: 600; min-height: 40px; padding: 0 var(--space-4); border-radius: var(--radius-pill); border: 1px solid var(--hairline); background: var(--paper); color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.card-produto { display: flex; flex-direction: column; overflow: hidden; }
+.produto-foto { display: flex; align-items: center; justify-content: center; height: 220px; background: var(--hairline-lt); color: var(--ink-40); }
+.produto-foto img { max-height: 200px; width: auto; object-fit: contain; }
+.produto-foto .icone-cat { width: 88px; height: 88px; }
+.produto-corpo { display: flex; flex-direction: column; gap: var(--space-2); padding: var(--space-4); flex: 1; }
+.produto-corpo .kicker { margin: 0; font-size: 12px; }
+.card-nome a { color: inherit; text-decoration: none; }
+.card-nome a:hover { text-decoration: underline; }
+.produto-frase { margin: 0; font-size: 15px; line-height: 22px; }
+.produto-lojas { margin-top: auto; padding-top: var(--space-3); display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.produto .produto-lojas { margin-top: var(--space-6); }
+.produto-topo { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: var(--space-8); align-items: start; }
+.produto-foto-grande { height: 420px; border-radius: var(--radius-lg); }
+.produto-foto-grande img { max-height: 380px; }
+.produto-foto-grande .icone-cat { width: 140px; height: 140px; }
+.produto-destaques { margin: var(--space-4) 0 0; padding-left: 24px; font-size: 18px; line-height: 30px; }
+.aviso-vitrine { margin-top: var(--space-6); }
+.pagina.produto { max-width: var(--max); }
+@media (max-width: 760px) { .produto-topo { grid-template-columns: 1fr; } .produto-foto-grande { height: 300px; } }
+
+/* ── Notícias ──────────────────────────────────────────────── */
+.noticias-lista { display: grid; gap: 0; margin-top: var(--space-8); border-top: 1px solid var(--hairline); }
+.noticia-item { display: flex; flex-direction: column; gap: var(--space-2); padding: var(--space-6) 0; border-bottom: 1px solid var(--hairline); color: var(--ink); text-decoration: none; }
+.noticia-item .kicker { margin: 0; }
+.noticia-titulo { font-family: var(--font-display); font-size: clamp(22px, 2.6vw, 30px); line-height: 1.08; }
+.noticia-item:hover .noticia-titulo { text-decoration: underline; }
+.noticia .h1 { font-size: clamp(32px, 4.4vw, 52px); }
+.noticia-importa { margin-top: var(--space-8); padding: var(--space-6); background: var(--ink); color: var(--paper); border-radius: var(--radius-lg); }
+.noticia-importa .rotulo { color: var(--flame); }
+.noticia-importa p:last-child { margin: var(--space-2) 0 0; font-size: 18px; line-height: 28px; }
+.noticia-fonte { margin-top: var(--space-6); padding: var(--space-6); border: 1px solid var(--hairline); border-radius: var(--radius-lg); display: flex; flex-direction: column; gap: var(--space-3); align-items: flex-start; }
+.noticia-fonte p { margin: 0; }
+.secao-interna > .h2 { margin-bottom: var(--space-6); }
+.produto .vb-produtor { margin: var(--space-3) 0 var(--space-3); }
+.produto .pills { margin-bottom: var(--space-2); }

@@ -6,7 +6,11 @@
     </div>
     <nav class="footer-links" aria-label="Rodapé">
       <a href="https://www.instagram.com/{{ site.instagram }}/" rel="noopener">Instagram</a>
-      {%- if site.spotify_url != "" %}
+      {%- if site.noticias.size > 0 %}<a href="{{ '/noticias/' | relative_url }}">Notícias</a>{% endif %}
+      {%- if site.alem.size > 0 %}<a href="{{ '/alem-do-vinho/' | relative_url }}">Além do Vinho</a>{% endif %}
+      {%- if site.data.playlists.size > 0 %}
+      <a href="{{ '/playlists/' | relative_url }}">Playlists</a>
+      {%- elsif site.spotify_url != "" %}
       <a href="{{ site.spotify_url }}" rel="noopener">Playlists</a>
       {%- endif %}
       <a href="{{ '/onde-comprar/' | relative_url }}">Onde comprar</a>

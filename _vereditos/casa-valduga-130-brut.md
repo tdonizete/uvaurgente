@@ -62,6 +62,14 @@ blic: 4
 servir: 7 °C
 teor: 12.5
 imagem: /assets/img/vereditos/casa-valduga-130-brut.png
+estilos:
+- espumante
+- encorpado
+- fresco
+- frutado
+- tostado
+- evoluido
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

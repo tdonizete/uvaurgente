@@ -1,0 +1,27 @@
+---
+layout: default
+title: Notícias
+description: Curadoria semanal de notícias do mundo do vinho, explicadas sem mimimi e com o link da fonte.
+permalink: /noticias/
+---
+{%- assign itens = site.noticias | sort: "date" | reverse -%}
+<section class="wrap secao">
+  <p class="kicker">Notícias</p>
+  <h1 class="h1">O que mudou no mundo do vinho.</h1>
+  <p class="lead">A gente lê, resume em português claro e diz por que importa para quem compra. Sempre com o link da fonte.</p>
+  {%- if itens.size > 0 %}
+  <div class="noticias-lista">
+    {%- for n in itens %}
+    <a class="noticia-item" href="{{ n.url | relative_url }}">
+      <span class="kicker">{{ n.categoria }} · {{ n.date | date: "%d/%m/%Y" }}</span>
+      <span class="noticia-titulo">{{ n.title }}</span>
+      {%- if n.resumo %}<span class="apoio">{{ n.resumo | truncatewords: 30 }}</span>{% endif %}
+      {%- if n.fonte %}<span class="meta-post">Fonte: {{ n.fonte.nome }}</span>{% endif %}
+    </a>
+    {%- endfor %}
+  </div>
+  {%- else %}
+  <p class="apoio">As primeiras notícias chegam em breve.</p>
+  {%- endif %}
+</section>
+{% include newsletter.html %}

@@ -52,6 +52,12 @@ collections:
   vereditos:
     output: true
     permalink: /vereditos/:name/
+  alem:
+    output: true
+    permalink: /alem-do-vinho/:name/
+  noticias:
+    output: true
+    permalink: /noticias/:name/
 
 defaults:
   - scope:
@@ -59,6 +65,16 @@ defaults:
       type: vereditos
     values:
       layout: veredito
+  - scope:
+      path: ""
+      type: alem
+    values:
+      layout: produto
+  - scope:
+      path: ""
+      type: noticias
+    values:
+      layout: noticia
   - scope:
       path: ""
       type: posts

@@ -63,6 +63,12 @@ blic: 1
 servir: 16 °C
 teor: 13
 imagem: /assets/img/vereditos/trapiche-vineyards-cabernet-sauvignon.png
+estilos:
+- tinto
+- medio
+- frutado
+- amadeirado
+- acessivel
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

@@ -62,6 +62,14 @@ blic: 4
 servir: 17 °C
 teor: 13.5
 imagem: /assets/img/vereditos/dv-catena-cabernet-malbec.png
+estilos:
+- tinto
+- encorpado
+- fresco
+- frutado
+- especiado
+- amadeirado
+- premium
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon

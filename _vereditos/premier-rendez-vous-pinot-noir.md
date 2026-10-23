@@ -62,6 +62,13 @@ blic: 1
 servir: 16 °C
 teor: 13
 imagem: /assets/img/vereditos/premier-rendez-vous-pinot-noir.png
+estilos:
+- tinto
+- leve
+- frutado
+- especiado
+- amadeirado
+- intermediario
 preco_checado: 2026-10-22
 lojas:
 - nome: Amazon
