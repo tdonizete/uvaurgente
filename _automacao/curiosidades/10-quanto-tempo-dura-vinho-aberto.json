@@ -1,0 +1,62 @@
+{
+  "n": 10,
+  "slug": "quanto-tempo-dura-vinho-aberto",
+  "capa": "Abriu e não terminou? Quanto tempo o vinho dura.",
+  "sub": null,
+  "slides": [
+    {
+      "k": "Na geladeira, com tampa",
+      "t": "O prazo de cada um.",
+      "tab": [
+        [
+          "Espumante",
+          "1 a 3 dias, com tampa própria"
+        ],
+        [
+          "Branco leve e rosé",
+          "5 a 7 dias"
+        ],
+        [
+          "Branco encorpado",
+          "3 a 5 dias"
+        ],
+        [
+          "Tinto",
+          "3 a 5 dias"
+        ],
+        [
+          "Fortificado",
+          "cerca de 4 semanas"
+        ]
+      ]
+    },
+    {
+      "k": "O segredo",
+      "t": "Tampa e geladeira.",
+      "b": "Oxigênio e calor são os inimigos do vinho aberto. Feche bem a garrafa e guarde na geladeira, até o tinto. Tire o tinto uns 30 minutos antes de servir."
+    },
+    {
+      "k": "Passou do ponto?",
+      "t": "Cheiro de vinagre.",
+      "b": "O vinho oxidado perde a fruta e fica com aroma de vinagre. Não faz mal à saúde, mas não vale a taça. Ainda pode ir para a panela."
+    }
+  ],
+  "final_k": "Além do Vinho",
+  "final_t": "Tampas e bombas de vácuo.",
+  "final_b": "Em breve na vitrine Além do Vinho: tampas de espumante e bombas de vácuo que ajudam a guardar a garrafa aberta.",
+  "cta": "Salve para não desperdiçar a próxima garrafa.",
+  "vinhos": [],
+  "mostrar": null,
+  "legenda": "Abriu o vinho e sobrou? 🍷\n\nNa geladeira e bem tampado, o tinto dura de 3 a 5 dias, o branco leve até uma semana e o espumante de 1 a 3 dias. Arraste para ver a tabela completa.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhoaberto",
+    "#dicadevinho"
+  ],
+  "fontes_ref": [
+    "Wine Folly (winefolly.com)"
+  ]
+}

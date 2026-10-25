@@ -1,0 +1,48 @@
+{
+  "n": 2,
+  "slug": "carmenere-a-uva-perdida",
+  "capa": "A uva que o Chile chamou pelo nome errado por 100 anos.",
+  "sub": null,
+  "slides": [
+    {
+      "k": "A origem",
+      "t": "Nasceu em Bordeaux.",
+      "b": "A Carménère era uma uva tradicional de Bordeaux, na França. No século 19, a praga da filoxera devastou os vinhedos europeus, e ela praticamente desapareceu por lá."
+    },
+    {
+      "k": "O engano",
+      "t": "No Chile, virou Merlot.",
+      "b": "A uva chegou ao Chile por volta de 1850, junto com outras castas de Bordeaux. Foi plantada e vendida como Merlot por mais de um século."
+    },
+    {
+      "k": "A descoberta",
+      "t": "Novembro de 1994.",
+      "b": "O ampelógrafo francês Jean-Michel Boursiquot visitava vinhedos no Maipo e notou um detalhe nas plantas que pareciam Merlot. Era Carménère. Hoje ela é a uva-símbolo do Chile.",
+      "stat": [
+        "1994",
+        "ano em que a Carménère foi reidentificada no Chile"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o tema.",
+  "final_b": "",
+  "cta": "Salve para contar essa história no próximo jantar.",
+  "vinhos": [
+    "casa-silva-gran-reserva-carmenere",
+    "ventisquero-alma-de-los-andes-carmenere-2023"
+  ],
+  "mostrar": null,
+  "legenda": "A Carménère passou mais de 100 anos no Chile sendo chamada de Merlot. 🍇\n\nSó em 1994 um especialista francês percebeu o engano. Arraste para ver a história completa e os Carménères que já avaliamos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#carmenere",
+    "#vinhochileno"
+  ],
+  "fontes_ref": [
+    "Wine Enthusiast (wineenthusiast.com)"
+  ]
+}

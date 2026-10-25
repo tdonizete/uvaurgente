@@ -1,0 +1,55 @@
+{
+  "n": 15,
+  "slug": "como-tirar-o-alcool-do-vinho",
+  "capa": "Como se tira o álcool do vinho?",
+  "sub": null,
+  "slides": [
+    {
+      "k": "Primeiro, o vinho",
+      "t": "Ele nasce vinho de verdade.",
+      "b": "O vinho sem álcool começa como um vinho comum, fermentado. Só depois o álcool é retirado, com técnicas reconhecidas pela OIV, a organização internacional do vinho."
+    },
+    {
+      "k": "As técnicas",
+      "t": "Vácuo e membranas.",
+      "tab": [
+        [
+          "Destilação a vácuo",
+          "o álcool evapora a até 40 °C, sem cozinhar o vinho"
+        ],
+        [
+          "Cones rotativos",
+          "separa aromas e álcool em camadas finas"
+        ],
+        [
+          "Osmose reversa",
+          "membranas separam o álcool do resto do vinho"
+        ]
+      ]
+    },
+    {
+      "k": "O resultado",
+      "t": "Menos de 0,5% de álcool.",
+      "b": "No desalcoolizado, o teor fica abaixo de 0,5%. Na Serra Gaúcha, já existe empresa dedicada só a esse serviço, que atende várias vinícolas."
+    }
+  ],
+  "final_k": "Na sua taça",
+  "final_t": "Já provou?",
+  "final_b": "O vinho sem álcool cresce no mundo e já tem produção na Serra Gaúcha. Você levaria um para casa?",
+  "cta": "Conta nos comentários: vinho sem álcool, sim ou não?",
+  "vinhos": [],
+  "mostrar": null,
+  "legenda": "Como se tira o álcool do vinho? 🧪\n\nPrimeiro ele é feito como qualquer vinho. Depois o álcool sai por destilação a vácuo ou por membranas, até ficar abaixo de 0,5%. Arraste para entender.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhosemalcool",
+    "#tendencias"
+  ],
+  "fontes_ref": [
+    "OIV (oiv.int)",
+    "Jornal do Comércio (jornaldocomercio.com)"
+  ]
+}

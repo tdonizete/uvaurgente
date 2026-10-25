@@ -1,0 +1,43 @@
+{
+  "n": 14,
+  "slug": "decantar-quando-vale",
+  "capa": "Decantar: quando vale a pena?",
+  "sub": null,
+  "slides": [
+    {
+      "k": "Para que serve",
+      "t": "Ar e sedimento.",
+      "b": "Decantar é passar o vinho para outro recipiente. Isso aera o vinho, abrindo os aromas, e separa a borra que se forma em vinhos mais velhos."
+    },
+    {
+      "k": "Quando vale",
+      "t": "Tinto jovem e encorpado.",
+      "b": "Tintos jovens, tânicos e concentrados ganham com 30 a 60 minutos de ar. O tanino fica mais macio e a fruta aparece mais."
+    },
+    {
+      "k": "Quando não precisa",
+      "t": "Vinho leve e espumante.",
+      "b": "Tintos leves, brancos frescos e espumantes dispensam o decanter. Sem decanter em casa? Uma jarra limpa resolve."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Esses pedem decanter.",
+  "final_b": "",
+  "cta": "Salve para o próximo vinho especial.",
+  "vinhos": [
+    "pizzato-dna-99-merlot",
+    "clos-de-los-siete",
+    "lidio-carraro-agnus-tannat"
+  ],
+  "mostrar": null,
+  "legenda": "Decantar o vinho é frescura? Depende. 🍷\n\nTinto jovem e encorpado ganha muito com 30 a 60 minutos de ar. Vinho leve e espumante não precisam. Arraste para entender.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#decantar",
+    "#dicadevinho"
+  ],
+  "fontes_ref": []
+}

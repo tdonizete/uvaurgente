@@ -1,0 +1,60 @@
+{
+  "n": 5,
+  "slug": "temperatura-ambiente-mito",
+  "capa": "“Temperatura ambiente” é um mito no Brasil.",
+  "sub": "O seu tinto agradece.",
+  "slides": [
+    {
+      "k": "De onde vem",
+      "t": "A regra é europeia.",
+      "b": "A dica de servir tinto em temperatura ambiente nasceu em casas europeias frias. Num dia de 30 °C, o tinto fica com álcool aparente e perde a fruta."
+    },
+    {
+      "k": "A temperatura certa",
+      "t": "Cada vinho na sua.",
+      "tab": [
+        [
+          "Espumantes",
+          "6 a 8 °C"
+        ],
+        [
+          "Brancos e rosés",
+          "8 a 10 °C"
+        ],
+        [
+          "Tintos leves",
+          "cerca de 14 °C"
+        ],
+        [
+          "Tintos encorpados",
+          "16 a 18 °C"
+        ]
+      ]
+    },
+    {
+      "k": "O truque",
+      "t": "15 minutos de geladeira.",
+      "b": "Tinto num dia quente? Deixe a garrafa 15 a 20 minutos na geladeira antes de abrir. Branco gelado demais? Tire da geladeira uns 10 minutos antes."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Cada um na sua temperatura.",
+  "final_b": "",
+  "cta": "Salve e mande para quem serve tinto quente.",
+  "vinhos": [
+    "clos-de-los-siete",
+    "le-petit-cochonnet-pinot-noir",
+    "casal-garcia-vinho-verde"
+  ],
+  "mostrar": "servir",
+  "legenda": "Servir tinto em \"temperatura ambiente\" funciona na Europa. No Brasil, não. 🌡️\n\nArraste para ver a temperatura certa de cada vinho e o truque dos 15 minutos de geladeira.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#temperaturadovinho",
+    "#dicadevinho"
+  ],
+  "fontes_ref": []
+}

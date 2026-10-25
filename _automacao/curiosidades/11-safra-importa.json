@@ -1,0 +1,45 @@
+{
+  "n": 11,
+  "slug": "safra-importa",
+  "capa": "Safra importa? Depende do vinho.",
+  "sub": null,
+  "slides": [
+    {
+      "k": "O que é",
+      "t": "O ano da colheita.",
+      "b": "A safra no rótulo é o ano em que a uva foi colhida. Cada ano tem um clima diferente, e isso muda a uva e o vinho."
+    },
+    {
+      "k": "Quando importa",
+      "t": "Vinhos de guarda e clima instável.",
+      "b": "Em regiões de clima variável e em vinhos feitos para envelhecer, um ano bom ou ruim muda muito o resultado. Em 2026, Champagne deve colher 48% menos por geada e calor."
+    },
+    {
+      "k": "Quando importa menos",
+      "t": "Vinhos do dia a dia.",
+      "b": "Vinhos jovens e de grande produção buscam o mesmo estilo todo ano. Alguns nem trazem safra: misturam colheitas para manter a regularidade. Para eles, prefira a mais recente."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Com e sem safra.",
+  "final_b": "",
+  "cta": "Salve para a próxima vez que olhar o ano no rótulo.",
+  "vinhos": [
+    "concha-y-toro-reservado-cabernet-sauvignon",
+    "pizzato-dna-99-merlot",
+    "primeira-estrada-syrah"
+  ],
+  "mostrar": "safra",
+  "legenda": "O ano no rótulo importa? Depende do vinho. 📅\n\nPara vinhos de guarda e regiões de clima instável, muito. Para o vinho do dia a dia, bem menos, e alguns nem trazem safra. Arraste para entender.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#safra",
+    "#dicadevinho"
+  ],
+  "fontes_ref": [
+    "Vinetur (vinetur.com), safra 2026 de Champagne"
+  ]
+}

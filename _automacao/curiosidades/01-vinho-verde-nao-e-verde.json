@@ -1,0 +1,51 @@
+{
+  "n": 1,
+  "slug": "vinho-verde-nao-e-verde",
+  "capa": "Vinho Verde não é verde.",
+  "sub": "E pode ser branco, tinto ou rosé.",
+  "slides": [
+    {
+      "k": "É um lugar",
+      "t": "Vinho Verde é uma região.",
+      "b": "É a Região Demarcada dos Vinhos Verdes, no Minho, noroeste de Portugal. Todo vinho feito ali, dentro das regras, leva o nome, seja branco, tinto, rosé ou espumante.",
+      "stat": [
+        "1908",
+        "ano em que a região foi demarcada"
+      ]
+    },
+    {
+      "k": "E o verde?",
+      "t": "Vem da paisagem.",
+      "b": "O nome é associado à vegetação sempre verde da região, úmida e chuvosa. Não tem nada a ver com a cor do vinho nem com uva verde."
+    },
+    {
+      "k": "O estilo",
+      "t": "Leve, fresco e com agulha.",
+      "b": "O branco típico tem acidez alta, álcool moderado e uma borbulha discreta, a agulha. Por isso pede geladeira, dia quente e comida leve.",
+      "stat": [
+        "9,5%",
+        "de álcool no Casal Garcia"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o tema.",
+  "final_b": "",
+  "cta": "Salve e mostre para quem acha que Vinho Verde é verde.",
+  "vinhos": [
+    "casal-garcia-vinho-verde"
+  ],
+  "mostrar": null,
+  "legenda": "Vinho Verde não é verde. 🍃\n\nO nome vem da região demarcada no Minho, em Portugal, e não da cor do vinho. Tem branco, tinto, rosé e até espumante.\n\nArraste para entender e veja o nosso veredito do Casal Garcia.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhoverde",
+    "#vinhoportugues"
+  ],
+  "fontes_ref": [
+    "Observador (observador.pt)"
+  ]
+}

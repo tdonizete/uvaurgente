@@ -1,0 +1,48 @@
+{
+  "n": 8,
+  "slug": "vinho-de-inverno-minas",
+  "capa": "Em Minas, a uva é colhida no inverno.",
+  "sub": "E isso mudou o vinho brasileiro.",
+  "slides": [
+    {
+      "k": "O problema",
+      "t": "Chuva na hora errada.",
+      "b": "No ciclo normal, a uva amadurece no verão, justo na época mais chuvosa do Sudeste. A chuva atrapalha a sanidade e a qualidade da fruta."
+    },
+    {
+      "k": "A solução",
+      "t": "Dupla poda.",
+      "b": "Em vez de podar em agosto e colher em janeiro, poda-se em janeiro e colhe-se no inverno, por volta de agosto. A técnica foi desenvolvida pelo agrônomo Murillo Regina e validada pela Epamig."
+    },
+    {
+      "k": "O resultado",
+      "t": "Sol de dia, frio à noite.",
+      "b": "O inverno do Sul de Minas é seco, com dias de sol e noites frias. Em 2025, os Vinhos de Inverno do Sul de Minas ganharam Indicação de Procedência.",
+      "stat": [
+        "78",
+        "das 221 medalhas brasileiras no Decanter 2026 foram de vinhos de inverno"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o tema.",
+  "final_b": "",
+  "cta": "Salve e mostre para quem acha que vinho bom só vem do Sul.",
+  "vinhos": [
+    "primeira-estrada-syrah"
+  ],
+  "mostrar": null,
+  "legenda": "Em Minas Gerais, a uva é colhida no inverno. ❄️🍇\n\nCom a técnica da dupla poda, a colheita sai da época de chuva e vai para os dias secos e noites frias. Arraste para entender e veja o nosso veredito do Primeira Estrada Syrah.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhodeinverno",
+    "#vinhomineiro",
+    "#vinhobrasileiro"
+  ],
+  "fontes_ref": [
+    "O Fator (ofator.com.br)"
+  ]
+}

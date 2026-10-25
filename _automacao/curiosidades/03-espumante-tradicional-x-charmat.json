@@ -1,0 +1,53 @@
+{
+  "n": 3,
+  "slug": "espumante-tradicional-x-charmat",
+  "capa": "Por que um espumante custa o dobro do outro?",
+  "sub": "A resposta está em onde a borbulha nasce.",
+  "slides": [
+    {
+      "k": "Método tradicional",
+      "t": "A borbulha nasce na garrafa.",
+      "b": "O vinho-base faz a segunda fermentação dentro da própria garrafa e descansa sobre as leveduras por meses ou anos. É o método do Champagne, e leva tempo."
+    },
+    {
+      "k": "Método Charmat",
+      "t": "A borbulha nasce no tanque.",
+      "b": "A segunda fermentação acontece em grandes tanques fechados, em poucas semanas. O processo é mais rápido e mais barato, e preserva a fruta fresca."
+    },
+    {
+      "k": "Na taça",
+      "t": "O que muda para você.",
+      "tab": [
+        [
+          "Tradicional",
+          "pão tostado, brioche, borbulha fina e preço mais alto"
+        ],
+        [
+          "Charmat",
+          "fruta fresca, flores, leveza e preço menor"
+        ]
+      ],
+      "nota": "Nenhum é melhor por definição: depende do momento e do bolso."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Um de cada.",
+  "final_b": "",
+  "cta": "Salve para escolher o espumante certo no fim de ano.",
+  "vinhos": [
+    "casa-valduga-130-brut",
+    "chandon-reserve-brut",
+    "casa-perini-brut"
+  ],
+  "mostrar": null,
+  "legenda": "Por que um espumante custa o dobro do outro? 🍾\n\nBoa parte da resposta está no método: no tradicional, a borbulha nasce na garrafa e o vinho descansa meses ou anos. No Charmat, ela nasce no tanque, em semanas.\n\nArraste e compare com os espumantes que já avaliamos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#espumante",
+    "#metodotradicional"
+  ],
+  "fontes_ref": []
+}

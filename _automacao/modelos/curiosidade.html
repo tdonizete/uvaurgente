@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><style>
+@font-face { font-family: "Archivo Black"; src: url("{{ fontes }}/ArchivoBlack-Regular.ttf"); }
+@font-face { font-family: "Inter"; src: url("{{ fontes }}/Inter.ttf"); font-weight: 100 900; }
+:root { --paper:#F5F5F0; --warm:#FBF9F4; --ink:#1A1A1A; --ink60:rgba(26,26,26,.6); --line:rgba(26,26,26,.14); --cobalt:#1E5FE0; --flame:#F04E23; }
+* { box-sizing:border-box; margin:0; }
+body { background:#999; font-family:Inter, sans-serif; }
+.slide { width:1080px; height:1350px; padding:72px; display:flex; flex-direction:column; position:relative; overflow:hidden; }
+.cob { background:var(--cobalt); color:var(--paper); } .warm { background:var(--warm); color:var(--ink); } .ink { background:var(--ink); color:var(--paper); }
+.topo { display:flex; justify-content:space-between; align-items:baseline; }
+.wm { font-family:"Archivo Black"; font-size:30px; letter-spacing:.04em; }
+.rot { font-size:20px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; margin-left:14px; opacity:.7; }
+.num { font-family:"Archivo Black"; font-size:30px; }
+.k { font-size:24px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; }
+.h { font-family:"Archivo Black"; font-weight:400; line-height:.98; letter-spacing:-.02em; }
+.tx { font-size:44px; line-height:62px; font-weight:500; }
+.rod { margin-top:auto; padding-top:26px; display:flex; justify-content:space-between; font-size:22px; font-weight:600; opacity:.65; }
+.warm .rod { border-top:1px solid var(--line); }
+.tab { margin-top:40px; }
+.tab .l { display:grid; grid-template-columns: 1fr 1.25fr; gap:28px; padding:26px 0; border-top:1px solid var(--line); align-items:baseline; }
+.tab .a { font-family:"Archivo Black"; font-size:42px; line-height:1.1; }
+.tab .b { font-size:36px; line-height:48px; }
+.stat { margin-top:44px; display:flex; align-items:baseline; gap:28px; padding-top:28px; border-top:1px solid var(--line); }
+.stat .v { font-family:"Archivo Black"; font-size:132px; line-height:.9; color:var(--flame); white-space:nowrap; }
+.stat .t { font-size:34px; line-height:44px; font-weight:600; }
+.vin { display:grid; grid-template-columns:110px 1fr auto; gap:28px; align-items:center; padding:22px 0; border-top:1px solid rgba(245,245,240,.2); }
+.vin img { height:170px; width:110px; object-fit:contain; }
+.vin .n { font-family:"Archivo Black"; font-size:38px; line-height:1.05; }
+.vin .p { font-size:26px; opacity:.7; margin-top:6px; }
+.vin .nota { font-family:"Archivo Black"; font-size:64px; color:var(--flame); text-align:right; line-height:1; }
+.vin .selo { display:inline-block; font-family:"Archivo Black"; font-size:20px; text-transform:uppercase; letter-spacing:.03em; padding:8px 12px; border-radius:4px; margin-top:10px; }
+</style></head><body>
+{% set total = 5 %}
+<!-- 1 capa -->
+<section class="slide cob" id="s1">
+  <div class="topo"><div><span class="wm">UVA URGENTE</span><span class="rot">Curiosidade</span></div><span class="num">#{{ "%02d" % n }}</span></div>
+  <div style="margin-top:auto">
+    <div style="width:140px; height:26px; background:var(--flame); border-radius:4px; margin-bottom:48px"></div>
+    <h1 class="h" style="font-size: {{ 120 if capa|length < 30 else (104 if capa|length < 46 else (88 if capa|length < 62 else 76)) }}px">{{ capa }}</h1>
+    {% if sub %}<p class="tx" style="margin-top:36px; font-size:40px; opacity:.9">{{ sub }}</p>{% endif %}
+  </div>
+  <div class="rod" style="margin-top:80px"><span>@uvaurgente</span><span>1/{{ total }} · arraste →</span></div>
+</section>
+{% for s in slides %}
+<section class="slide warm" id="s{{ loop.index + 1 }}">
+  <div class="topo"><div><span class="wm">UVA URGENTE</span><span class="rot">Curiosidade</span></div><span class="num" style="color:var(--cobalt)">#{{ "%02d" % n }}</span></div>
+  <p class="k" style="margin-top:150px; font-size:28px; color:var(--cobalt)">{{ s.k }}</p>
+  <h2 class="h" style="margin-top:20px; font-size: {{ 96 if s.t|length < 28 else (80 if s.t|length < 44 else 66) }}px">{{ s.t }}</h2>
+  {% if s.b %}<p class="tx" style="margin-top:40px">{{ s.b }}</p>{% endif %}
+  {% if s.tab %}<div class="tab">{% for a, b in s.tab %}<div class="l"><span class="a">{{ a }}</span><span class="b">{{ b }}</span></div>{% endfor %}</div>{% endif %}
+  {% if s.nota %}<p class="tx" style="margin-top:28px; font-size:32px; line-height:44px; color:var(--ink60)">{{ s.nota }}</p>{% endif %}
+  {% if s.stat %}<div class="stat"><span class="v">{{ s.stat[0] }}</span><span class="t">{{ s.stat[1] }}</span></div>{% endif %}
+  <div class="rod"><span>@uvaurgente</span><span>{{ loop.index + 1 }}/{{ total }}</span></div>
+</section>
+{% endfor %}
+<!-- 5 final -->
+<section class="slide ink" id="s5">
+  <div class="topo"><div><span class="wm">UVA URGENTE</span><span class="rot">Curiosidade</span></div><span class="num" style="color:var(--flame)">#{{ "%02d" % n }}</span></div>
+  <p class="k" style="margin-top:150px; font-size:28px; color:var(--flame)">{{ final_k }}</p>
+  <h2 class="h" style="margin-top:20px; font-size:88px">{{ final_t }}</h2>
+  {% if vinhos %}
+  <div style="margin-top:40px">
+    {% for v in vinhos %}
+    <div class="vin">
+      {% if v.img %}<img src="{{ v.img }}">{% else %}<span></span>{% endif %}
+      <div><div class="n">{{ v.title }}</div><div class="p">{{ v.linha }}</div><span class="selo" style="background:{{ v.bg }}; color:{{ v.fg }}">{{ v.selo }}</span></div>
+      <div class="nota">{{ v.nota }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="tx" style="margin-top:40px; opacity:.85">{{ final_b }}</p>
+  {% endif %}
+  <div style="margin-top:auto; padding-top:30px; border-top:2px solid var(--flame)">
+    <p class="tx" style="font-size:32px; line-height:44px; font-weight:700">{{ cta }}</p>
+    <p style="margin-top:10px; font-size:24px; font-weight:600; opacity:.65">{{ "Vereditos completos" if vinhos else "Mais em" }}: uvaurgente.com.br · link na bio</p>
+  </div>
+  <div class="rod" style="margin-top:22px; padding-top:0"><span>@uvaurgente</span><span>5/{{ total }}</span></div>
+</section>
+</body></html>

@@ -1,0 +1,74 @@
+{
+  "n": 4,
+  "slug": "acucar-no-espumante",
+  "capa": "Brut, Extra Brut, Demi-Sec: quanto açúcar tem no seu espumante?",
+  "sub": null,
+  "slides": [
+    {
+      "k": "A regra",
+      "t": "O rótulo diz o açúcar.",
+      "b": "No Brasil, o Decreto 8.198/2014 classifica o espumante pela quantidade de açúcar por litro. É essa palavra no rótulo que diz se ele é seco ou doce."
+    },
+    {
+      "k": "A escala",
+      "t": "Do mais seco ao mais doce.",
+      "tab": [
+        [
+          "Nature",
+          "até 3 g/L"
+        ],
+        [
+          "Extra-brut",
+          "3 a 8 g/L"
+        ],
+        [
+          "Brut",
+          "8 a 15 g/L"
+        ],
+        [
+          "Seco",
+          "15 a 20 g/L"
+        ],
+        [
+          "Demi-sec",
+          "20 a 60 g/L"
+        ],
+        [
+          "Doce",
+          "acima de 60 g/L"
+        ]
+      ]
+    },
+    {
+      "k": "A pegadinha",
+      "t": "Seco não é o mais seco.",
+      "b": "Na escala, o espumante 'Seco' tem mais açúcar que o Brut. E o Demi-Sec pode chegar a 60 g por litro: é o espumante de sobremesa.",
+      "stat": [
+        "60 g/L",
+        "limite do demi-sec no Brasil"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Brut, na prática.",
+  "final_b": "",
+  "cta": "Salve antes de comprar o espumante do Réveillon.",
+  "vinhos": [
+    "casa-valduga-130-brut",
+    "chandon-reserve-brut",
+    "casa-perini-brut"
+  ],
+  "mostrar": null,
+  "legenda": "Brut, Extra Brut, Demi-Sec… o que é mais doce? 🥂\n\nA lei brasileira classifica o espumante pelo açúcar por litro, e tem pegadinha: o 'Seco' é mais doce que o Brut.\n\nArraste para ver a escala completa.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#espumante",
+    "#brut"
+  ],
+  "fontes_ref": [
+    "Decreto 8.198/2014, art. 35"
+  ]
+}

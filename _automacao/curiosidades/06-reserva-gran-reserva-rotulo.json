@@ -1,0 +1,61 @@
+{
+  "n": 6,
+  "slug": "reserva-gran-reserva-rotulo",
+  "capa": "Reserva, Gran Reserva: o que o rótulo promete?",
+  "sub": "Depende de onde o vinho vem.",
+  "slides": [
+    {
+      "k": "Na Espanha",
+      "t": "É tempo de envelhecimento.",
+      "tab": [
+        [
+          "Crianza",
+          "24 meses, 6 em barrica"
+        ],
+        [
+          "Reserva",
+          "36 meses, 12 em barrica"
+        ],
+        [
+          "Gran Reserva",
+          "60 meses, 18 em barrica"
+        ]
+      ],
+      "nota": "Regra nacional para tintos. Cada D.O. pode exigir mais, como a Rioja."
+    },
+    {
+      "k": "No Chile",
+      "t": "Bem mais flexível.",
+      "b": "A lei chilena liga Reserva e Gran Reserva a um teor alcoólico um pouco acima do mínimo e a algum contato com madeira, sem tempo mínimo de barrica."
+    },
+    {
+      "k": "Na prática",
+      "t": "Leia o contrarrótulo.",
+      "b": "Fora da Espanha, 'Reserva' muitas vezes indica a linha do produtor, e não um tempo fixo de barrica. Quem quer saber de verdade olha o contrarrótulo e a ficha técnica."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Três rótulos, três regras.",
+  "final_b": "",
+  "cta": "Salve para entender o próximo rótulo.",
+  "vinhos": [
+    "pata-negra-oro-tempranillo",
+    "casillero-del-diablo-reserva-cabernet-sauvignon",
+    "casa-silva-gran-reserva-carmenere"
+  ],
+  "mostrar": null,
+  "legenda": "Reserva e Gran Reserva não significam a mesma coisa em todo lugar. 🏷️\n\nNa Espanha, é tempo de envelhecimento definido em lei. No Chile, a regra é bem mais flexível.\n\nArraste e veja como ler o rótulo.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#rotulodevinho",
+    "#vinhoespanhol",
+    "#vinhochileno"
+  ],
+  "fontes_ref": [
+    "Vinissimus (vinissimus.com)",
+    "El Mostrador (elmostrador.cl)"
+  ]
+}

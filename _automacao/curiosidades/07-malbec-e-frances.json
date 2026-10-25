@@ -1,0 +1,52 @@
+{
+  "n": 7,
+  "slug": "malbec-e-frances",
+  "capa": "Malbec é francês.",
+  "sub": "Mas foi na Argentina que ele virou estrela.",
+  "slides": [
+    {
+      "k": "A origem",
+      "t": "Nasceu em Cahors.",
+      "b": "O Malbec vem do sudoeste da França, da região de Cahors. No século 19, a praga da filoxera devastou os vinhedos europeus e ameaçou a uva."
+    },
+    {
+      "k": "A viagem",
+      "t": "Chegou a Mendoza em 1853.",
+      "b": "O agrônomo francês Michel Aimé Pouget levou a uva para Mendoza, contratado para dirigir a escola agrícola criada por iniciativa de Domingo Faustino Sarmiento.",
+      "stat": [
+        "17/4",
+        "Dia Mundial do Malbec, data do projeto da escola em 1853"
+      ]
+    },
+    {
+      "k": "Hoje",
+      "t": "Mendoza é a casa do Malbec.",
+      "b": "A província produz cerca de 84% do Malbec argentino. A altitude garante dias quentes e noites frias, que mantêm a fruta madura e o frescor.",
+      "stat": [
+        "84%",
+        "do Malbec argentino vem de Mendoza"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o tema.",
+  "final_b": "",
+  "cta": "Salve para o próximo churrasco.",
+  "vinhos": [
+    "clos-de-los-siete",
+    "dv-catena-cabernet-malbec"
+  ],
+  "mostrar": null,
+  "legenda": "Malbec é francês. 🇫🇷➡️🇦🇷\n\nA uva nasceu em Cahors, quase desapareceu na Europa e encontrou em Mendoza a sua casa. Arraste para ver a história e os argentinos que já avaliamos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#malbec",
+    "#vinhoargentino"
+  ],
+  "fontes_ref": [
+    "Los Andes (losandes.com.ar)"
+  ]
+}
