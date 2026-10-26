@@ -1,19 +1,58 @@
 ---
 layout: default
 title: Qual é o seu vinho?
-description: Teste grátis do UVA URGENTE. Responda sobre o que você já gosta e receba três vinhos para o seu perfil.
+description: Teste grátis do UVA URGENTE. Oito perguntas sobre o que você já gosta de comer e beber e três vinhos avaliados, com nota e onde comprar.
 permalink: /teste/
+scripts:
+  - /assets/js/teste.js
 ---
 {%- comment -%}
-  PÁGINA PROVISÓRIA DO WINE MATCHER.
-  Quando o app estiver pronto para publicar, apague este arquivo inteiro e coloque
-  no lugar o arquivo HTML do Wine Matcher com o nome index.html (nesta mesma pasta).
-  Leia antes o aviso sobre a chave da API no passo a passo de publicação.
+  WINE MATCHER do UVA URGENTE.
+  O catálogo vem dos vereditos publicados (tags de estilo, paladar, nota, preço e lojas).
+  Todo vinho novo entra no teste sozinho. Nada é enviado para servidor: o cálculo roda no navegador.
 {%- endcomment -%}
-<section class="wrap secao teste-provisorio">
-  <p class="kicker">Teste grátis</p>
-  <h1 class="display">Qual é o seu vinho?</h1>
-  <p class="lead">O Wine Matcher está chegando: oito perguntas sobre o que você já gosta de comer e beber, e três vinhos certeiros no final.</p>
-  <p class="apoio">Enquanto isso, veja os <a href="{{ '/vereditos/' | relative_url }}">vereditos</a> ou acompanhe no <a href="https://www.instagram.com/{{ site.instagram }}/">Instagram</a>.</p>
+<script type="application/json" id="catalogo">
+[{%- for v in site.vereditos -%}
+{%- assign ac = 0 -%}{%- assign co = 0 -%}{%- assign tn = 0 -%}{%- assign dc = 0 -%}
+{%- for p in v.paladar -%}
+  {%- if p.nome == "Acidez" %}{% assign ac = p.nota %}{% elsif p.nome == "Corpo" %}{% assign co = p.nota %}{% elsif p.nome == "Tanino" %}{% assign tn = p.nota %}{% elsif p.nome == "Doçura" %}{% assign dc = p.nota %}{% endif -%}
+{%- endfor -%}
+{"t":{{ v.title | jsonify }},"u":{{ v.url | relative_url | jsonify }},"n":{{ v.nota | default: 0 }},"tipo":{{ v.tipo | default: "" | slugify | jsonify }},"e":{{ v.estilos | default: "" | jsonify }},"pr":{{ v.produtor | default: "" | jsonify }},"sf":{{ v.safra | default: "" | jsonify }},"pmin":{{ v.preco_min | default: 0 }},"pmax":{{ v.preco_max | default: 0 }},"img":{% if v.imagem %}{{ v.imagem | relative_url | jsonify }}{% else %}""{% endif %},"f":{{ v.frase | default: "" | jsonify }},"ac":{{ ac }},"co":{{ co }},"tn":{{ tn }},"dc":{{ dc }},"pv":{{ v.provado | default: false }},"l":[{%- for l in v.lojas -%}{"nome":{{ l.nome | jsonify }},"url":{{ l.url | jsonify }}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}{% unless forloop.last %},{% endunless %}
+{%- endfor -%}]
+</script>
+
+<section class="wrap secao matcher" data-matcher>
+  <!-- Abertura -->
+  <div class="m-tela" data-tela="inicio">
+    <p class="kicker">Teste grátis · 2 minutos</p>
+    <h1 class="display">Qual é o seu vinho?</h1>
+    <p class="lead">Oito perguntas sobre o que você já gosta de comer e beber. No final, três vinhos que avaliamos, com nota, preço e onde comprar.</p>
+    <p class="apoio">Não precisa entender de vinho. Não pedimos nome, e-mail nem cadastro.</p>
+    <button type="button" class="btn btn-flame m-comecar" data-comecar>Começar o teste</button>
+    <p class="apoio m-base">Recomendações entre os <span data-total></span> vinhos avaliados pelo <a href="{{ '/metodologia/' | relative_url }}">método UVA URGENTE</a>.</p>
+  </div>
+
+  <!-- Perguntas -->
+  <div class="m-tela" data-tela="quiz" hidden>
+    <div class="m-progresso" aria-hidden="true"><i data-barra></i></div>
+    <p class="kicker" data-contador></p>
+    <h2 class="h1 m-pergunta" data-pergunta tabindex="-1"></h2>
+    <p class="apoio" data-dica></p>
+    <div class="m-opcoes" data-opcoes role="group"></div>
+    <button type="button" class="m-voltar" data-voltar>← Voltar</button>
+  </div>
+
+  <!-- Resultado -->
+  <div class="m-tela" data-tela="resultado" hidden>
+    <p class="kicker">Seu perfil</p>
+    <h2 class="h1" data-perfil tabindex="-1"></h2>
+    <p class="lead" data-perfil-texto></p>
+    <div class="m-resultados" data-resultados></div>
+    <div class="m-acoes">
+      <button type="button" class="btn btn-ink" data-compartilhar>Compartilhar meu resultado</button>
+      <button type="button" class="btn btn-linha" data-refazer>Refazer o teste</button>
+      <a class="btn btn-linha" href="{{ '/vereditos/' | relative_url }}">Ver todos os vereditos</a>
+    </div>
+    <p class="aviso">As recomendações cruzam suas respostas com as tags de estilo, o paladar, a nota e o preço de cada veredito. Alguns links são de afiliado: posso ganhar comissão, e a nota não muda por isso.</p>
+  </div>
 </section>
-{% include newsletter.html %}

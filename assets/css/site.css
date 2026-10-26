@@ -334,3 +334,31 @@ a:hover { color: var(--ink); }
 .secao-interna > .h2 { margin-bottom: var(--space-6); }
 .produto .vb-produtor { margin: var(--space-3) 0 var(--space-3); }
 .produto .pills { margin-bottom: var(--space-2); }
+
+/* ── Wine Matcher (/teste/) ────────────────────────────────── */
+.matcher { max-width: 860px; }
+.m-tela .lead { max-width: 640px; }
+.m-comecar { margin-top: var(--space-8); min-height: 56px; font-size: 18px; padding: 0 var(--space-8); }
+.m-base { margin-top: var(--space-6); }
+.m-progresso { height: 8px; border-radius: 4px; background: var(--hairline); overflow: hidden; margin-bottom: var(--space-8); }
+.m-progresso i { display: block; height: 100%; width: 0; background: var(--flame); transition: width .3s ease; }
+.m-pergunta { font-size: clamp(32px, 5vw, 52px); outline: none; }
+.m-opcoes { display: grid; gap: var(--space-3); margin-top: var(--space-8); }
+.m-opcao { text-align: left; font: inherit; font-size: 18px; font-weight: 600; min-height: 64px; padding: var(--space-4) var(--space-6); border: 1px solid var(--hairline); border-radius: var(--radius-md); background: var(--paper-warm); color: var(--ink); cursor: pointer; transition: border-color .15s, background .15s; }
+.m-opcao:hover, .m-opcao:focus-visible { border-color: var(--ink); }
+.m-opcao.ativa { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.m-voltar { margin-top: var(--space-6); font: inherit; font-weight: 600; color: var(--ink-60); background: none; border: 0; cursor: pointer; padding: var(--space-2) 0; }
+.m-resultados { display: grid; gap: var(--space-6); margin-top: var(--space-8); }
+.m-card { display: grid; grid-template-columns: 140px minmax(0, 1fr); gap: var(--space-6); padding: var(--space-6); background: var(--paper-warm); border: 1px solid var(--hairline); border-radius: var(--radius-lg); }
+.m-card:first-child { border: 2px solid var(--flame); }
+.m-garrafa { display: flex; align-items: center; justify-content: center; background: var(--hairline-lt); border-radius: var(--radius-md); min-height: 220px; }
+.m-garrafa img { max-height: 210px; width: auto; }
+.m-corpo { display: flex; flex-direction: column; gap: var(--space-2); }
+.m-corpo .kicker { margin: 0; }
+.m-motivos { margin: var(--space-2) 0 0; padding-left: 20px; font-size: 15px; line-height: 22px; }
+.m-rodape { display: flex; align-items: baseline; gap: var(--space-4); margin-top: var(--space-2); }
+.m-nota { font-family: var(--font-display); font-size: 36px; color: var(--flame); line-height: 1; }
+.m-nota small { font-family: var(--font-sans); font-size: 14px; color: var(--ink-60); margin-left: 2px; }
+.m-botoes { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-top: var(--space-3); }
+.m-acoes { display: flex; flex-wrap: wrap; gap: var(--space-3); margin: var(--space-8) 0 var(--space-4); }
+@media (max-width: 600px) { .m-card { grid-template-columns: 90px minmax(0, 1fr); gap: var(--space-4); padding: var(--space-4); } .m-garrafa { min-height: 160px; } .m-garrafa img { max-height: 150px; } }
