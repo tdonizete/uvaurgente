@@ -1,0 +1,90 @@
+{
+  "slug": "freixenet-carta-nevada",
+  "rank_amazon": 10,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Carta Nevada",
+    "produtor": "Freixenet",
+    "tipo": "Espumante",
+    "pais": "Espanha",
+    "regiao": "Cava (Penedès)",
+    "safra": null,
+    "uvas": "Macabeo, Xarel·lo, Parellada",
+    "teor": 11.5,
+    "servir": "6 °C",
+    "estilo": "Demi-sec, método tradicional"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/9112/cava-espanhola-freixenet-carta-nevada-demi-sec-750ml",
+    "https://evino.com.br/product/cava-freixenet-carta-nevada-7031"
+  ],
+  "preco": {
+    "referencia": 64.62,
+    "min": 64.62,
+    "max": 109.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 64,62, 26/10/2026",
+      "Pão de Açúcar: R$ 109,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas frescas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 6.4,
+    "tanino_docura": 7.2,
+    "intensidade": 6.4,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — suave",
+      "Leve — coerente com o estilo",
+      "Demi-sec — dulçor evidente",
+      "Moderada — floral discreto",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

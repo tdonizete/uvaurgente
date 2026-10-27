@@ -1,0 +1,90 @@
+{
+  "slug": "salton-brut",
+  "rank_amazon": 1,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Salton Brut",
+    "produtor": "Salton",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Chardonnay, Prosecco, Trebbiano",
+    "teor": 11.5,
+    "servir": "6 °C",
+    "estilo": "Brut, método Charmat"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.salton.com.br/upload/produto/ficha/salton-brut-es.pdf",
+    "https://www.paodeacucar.com/produto/131201/espumante-brasileiro-salton-brut-750ml"
+  ],
+  "preco": {
+    "referencia": 32.22,
+    "min": 32.22,
+    "max": 55.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 32,22, 26/10/2026",
+      "Pão de Açúcar: R$ 55,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 6.6,
+    "tanino_docura": 8.0,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — frescor vivo",
+      "Leve — coerente com o estilo",
+      "Brut — 14,7 g/L, no limite",
+      "Moderada — fruta simples",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

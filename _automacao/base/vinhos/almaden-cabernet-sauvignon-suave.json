@@ -1,0 +1,89 @@
+{
+  "slug": "almaden-cabernet-sauvignon-suave",
+  "rank_amazon": 20,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)",
+    "Perfil em 1 só fonte (Covabra)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Almadén Cabernet Sauvignon Suave",
+    "produtor": "Almadén (Miolo)",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Campanha Gaúcha",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 11.5,
+    "servir": "14 °C",
+    "estilo": "Suave (doce)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.covabra.com.br/vinho-almaden-tinto-cabernet-suave-750ml/p"
+  ],
+  "preco": {
+    "referencia": 16.62,
+    "min": 16.62,
+    "max": 16.62,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 16,62, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.2
+  },
+  "aroma": {
+    "limpeza": 7.6,
+    "intensidade": 6.0,
+    "complexidade": 6.4,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 5.4,
+    "corpo": 5.0,
+    "tanino_docura": 4.8,
+    "intensidade": 5.4,
+    "final": 5.0,
+    "final_segundos": 4,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Baixa — o açúcar domina",
+      "Leve — ralo",
+      "Macio — tanino quase ausente",
+      "Fraca — fruta doce",
+      "Curto — cerca de 4 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

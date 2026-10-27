@@ -1,0 +1,90 @@
+{
+  "slug": "concha-y-toro-reservado-moscato-spritzer",
+  "rank_amazon": 14,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)",
+    "Confirmar teor e se é vinho ou bebida à base de vinho (rótulo 'Spritzer')"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Reservado Moscato Spritzer",
+    "produtor": "Concha y Toro",
+    "tipo": "Branco",
+    "pais": "Chile",
+    "regiao": "Valle del Itata",
+    "safra": null,
+    "uvas": "Moscatel de Alexandria",
+    "teor": null,
+    "servir": "8 °C",
+    "estilo": "Doce, levemente gaseificado"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://conchaytoro.com/en/vinos/reservado-moscato/"
+  ],
+  "preco": {
+    "referencia": 32.66,
+    "min": 32.66,
+    "max": 32.66,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 32,66, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Melão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Mel",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Uva moscatel",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pêssego",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.6,
+    "corpo": 6.0,
+    "tanino_docura": 7.2,
+    "intensidade": 6.2,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibra o doce",
+      "Leve — coerente com o estilo",
+      "Doce — persistente",
+      "Moderada — fruta e flor",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

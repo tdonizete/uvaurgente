@@ -1,0 +1,90 @@
+{
+  "slug": "salton-series-brut",
+  "rank_amazon": 13,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Séries Brut",
+    "produtor": "Salton",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Trebbiano, Moscato",
+    "teor": 11.5,
+    "servir": "6 °C",
+    "estilo": "Brut, método Charmat"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://salton.com.br/upload/produto/ficha/ft_salton-series-brut2-ing.pdf",
+    "https://www.werlecomercial.com.br/espumante-series-by-salton-brut-750ml"
+  ],
+  "preco": {
+    "referencia": 24.96,
+    "min": 24.96,
+    "max": 29.5,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 24,96, 26/10/2026",
+      "Werle Comercial: R$ 29,5, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Limão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Lima",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Banana",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 6.2,
+    "tanino_docura": 7.8,
+    "intensidade": 6.2,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — bem marcada",
+      "Leve — coerente com o estilo",
+      "Brut — 14 g/L, no limite",
+      "Moderada — cítrica",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

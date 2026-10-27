@@ -1,0 +1,783 @@
+{
+  "fonte": "Amazon.com.br, Mais vendidos em Vinhos (categoria 19778049011), copiado pelo Tiago em 26/10/2026",
+  "itens": [
+    {
+      "rank": 1,
+      "nome": "Salton Espumante Brut 750 Ml",
+      "preco_amazon": 32.22,
+      "avaliacoes_amazon": 753,
+      "status": "avaliado_base",
+      "slug": "salton-brut",
+      "nota": 7.7,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 2,
+      "nome": "Vermute Martini Rosso 750ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 1507,
+      "status": "excluido",
+      "motivo": "vermute"
+    },
+    {
+      "rank": 3,
+      "nome": "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+      "preco_amazon": 63.7,
+      "avaliacoes_amazon": 638,
+      "status": "avaliado_base",
+      "slug": "casa-perini-aquarela-moscatel",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 4,
+      "nome": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
+      "preco_amazon": 27.77,
+      "avaliacoes_amazon": 297,
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-merlot",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 5,
+      "nome": "Salton Espumante Prosecco Brut 750 Ml",
+      "preco_amazon": 39.95,
+      "avaliacoes_amazon": 903,
+      "status": "avaliado_base",
+      "slug": "salton-prosecco-brut",
+      "nota": 7.7,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 6,
+      "nome": "Concha y Toro Reservado Cabernet Sauvignon 750ml | produzido por viniculas tradicionais do chile, excelente custo beneficio ideal para comer com queijos, massas, jantares finos",
+      "preco_amazon": 34.99,
+      "avaliacoes_amazon": 4411,
+      "status": "ja_avaliado",
+      "slug": "concha-y-toro-reservado-cabernet-sauvignon"
+    },
+    {
+      "rank": 7,
+      "nome": "Casal Garcia Vinho Branco Verde Aveleda Sweet 750Ml Trajadura",
+      "preco_amazon": 49.56,
+      "avaliacoes_amazon": 1376,
+      "status": "avaliado_base",
+      "slug": "casal-garcia-sweet-branco",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 8,
+      "nome": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
+      "preco_amazon": 58.0,
+      "avaliacoes_amazon": 1230,
+      "status": "ja_avaliado",
+      "slug": "casillero-del-diablo-reserva-cabernet-sauvignon"
+    },
+    {
+      "rank": 9,
+      "nome": "Concha y Toro Reservado Carmenere 750ml",
+      "preco_amazon": 34.99,
+      "avaliacoes_amazon": 1434,
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-carmenere",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 10,
+      "nome": "Freixenet Cava Carta Nevada 750 Ml",
+      "preco_amazon": 64.62,
+      "avaliacoes_amazon": 152,
+      "status": "avaliado_base",
+      "slug": "freixenet-carta-nevada",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 11,
+      "nome": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
+      "preco_amazon": 58.99,
+      "avaliacoes_amazon": 1313,
+      "status": "ja_avaliado",
+      "slug": "casal-garcia-vinho-verde"
+    },
+    {
+      "rank": 12,
+      "nome": "Vinho Pé Branco Esporão - 750ml",
+      "preco_amazon": 34.9,
+      "avaliacoes_amazon": 87,
+      "status": "avaliado_base",
+      "slug": "esporao-pe-branco",
+      "nota": 7.5,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 13,
+      "nome": "Salton Espumante Series Brut",
+      "preco_amazon": 24.96,
+      "avaliacoes_amazon": 104,
+      "status": "avaliado_base",
+      "slug": "salton-series-brut",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 14,
+      "nome": "Concha y Toro Reservado Moscato Spritzer 750ml | Refrescante, leve e aromático, com sabor marcante de Moscato.",
+      "preco_amazon": 32.66,
+      "avaliacoes_amazon": 560,
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-moscato-spritzer",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 15,
+      "nome": "Vinho Fino Tinto Chileno Santa Loreto Varietal Carmenere 750ml",
+      "preco_amazon": 23.52,
+      "avaliacoes_amazon": 137,
+      "status": "avaliado_base",
+      "slug": "santa-loreto-carmenere",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 16,
+      "nome": "Vinho Tinto Trapiche Vineyards, Cabernet Sauvignon, 750ml",
+      "preco_amazon": 29.9,
+      "avaliacoes_amazon": 411,
+      "status": "ja_avaliado",
+      "slug": "trapiche-vineyards-cabernet-sauvignon"
+    },
+    {
+      "rank": 17,
+      "nome": "Vinho Fino Tinto Chileno Santa Loreto Varietal Cabernet Sauvignon 750ml",
+      "preco_amazon": 23.52,
+      "avaliacoes_amazon": 58,
+      "status": "avaliado_base",
+      "slug": "santa-loreto-cabernet-sauvignon",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 18,
+      "nome": "Vinho DV Catena Cabernet Malbec 750 ml 2023",
+      "preco_amazon": 98.89,
+      "avaliacoes_amazon": 576,
+      "status": "ja_avaliado",
+      "slug": "dv-catena-cabernet-malbec"
+    },
+    {
+      "rank": 19,
+      "nome": "Salton Espumante Moscatel 750 Ml",
+      "preco_amazon": 37.0,
+      "avaliacoes_amazon": 949,
+      "status": "avaliado_base",
+      "slug": "salton-moscatel",
+      "nota": 7.5,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 20,
+      "nome": "Almaden Vinho Cabernet Sauvgnon Tinto Suave 750Ml",
+      "preco_amazon": 16.62,
+      "avaliacoes_amazon": 74,
+      "status": "avaliado_base",
+      "slug": "almaden-cabernet-sauvignon-suave",
+      "nota": 6.0,
+      "selo": "Sem Urgência"
+    },
+    {
+      "rank": 21,
+      "nome": "Cinzano Rosso Vermute 1000Ml",
+      "preco_amazon": 41.57,
+      "avaliacoes_amazon": 827,
+      "status": "excluido",
+      "motivo": "vermute"
+    },
+    {
+      "rank": 22,
+      "nome": "Concha y Toro Casillero Del Diablo Carmenere 750ml",
+      "preco_amazon": 44.42,
+      "avaliacoes_amazon": 1491,
+      "status": "avaliado_base",
+      "slug": "casillero-del-diablo-reserva-carmenere",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 23,
+      "nome": "Prófugo Frutos Rojos Vinho Tinto Seco Malbec 750ml Argentino | Região Mendoza",
+      "preco_amazon": 29.9,
+      "avaliacoes_amazon": 4,
+      "status": "avaliado_base",
+      "slug": "profugo-frutos-rojos-malbec",
+      "nota": 7.3,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 24,
+      "nome": "Concha y Toro Vinho Chileno Reservado Sauvignon Blanc 750Ml",
+      "preco_amazon": 34.99,
+      "avaliacoes_amazon": 846,
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-sauvignon-blanc",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 25,
+      "nome": "Tonéletce Vinho Tinto Francês 750Ml",
+      "preco_amazon": 39.0,
+      "avaliacoes_amazon": 1225,
+      "status": "avaliado_base",
+      "slug": "toneletce-cuvee-speciale",
+      "nota": 6.0,
+      "selo": "Sem Urgência"
+    },
+    {
+      "rank": 26,
+      "nome": "Vinho Tinto Trapiche Roble Pinot Noir, 750ml",
+      "preco_amazon": 47.99,
+      "avaliacoes_amazon": 178,
+      "status": "avaliado_base",
+      "slug": "trapiche-roble-pinot-noir",
+      "nota": 7.0,
+      "selo": "Sem Pressa"
+    },
+    {
+      "rank": 27,
+      "nome": "Concha y Toro Reservado Sweet Red 750ml",
+      "preco_amazon": 33.99,
+      "avaliacoes_amazon": 1598,
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-sweet-red",
+      "nota": 6.0,
+      "selo": "Sem Urgência"
+    },
+    {
+      "rank": 28,
+      "nome": "Concha y Toro Casillero Del Diablo Sauvignon Blanc 750ml",
+      "preco_amazon": 44.42,
+      "avaliacoes_amazon": 949,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 29,
+      "nome": "V IMP BENJAMIN NIETO CHARDONNAY 750ML",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": null,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 30,
+      "nome": "Vinho Pé Tinto Esporão 750ml",
+      "preco_amazon": 42.0,
+      "avaliacoes_amazon": 67,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 31,
+      "nome": "Vermouth Punt & Mes, 750ml",
+      "preco_amazon": 99.89,
+      "avaliacoes_amazon": 33,
+      "status": "excluido",
+      "motivo": "vermute"
+    },
+    {
+      "rank": 32,
+      "nome": "Casa Perini Espumante Moskatel 750 Ml",
+      "preco_amazon": 50.21,
+      "avaliacoes_amazon": 742,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 33,
+      "nome": "Cartuxa Vinho Português Ea Tinto 750Ml",
+      "preco_amazon": 80.89,
+      "avaliacoes_amazon": 62,
+      "status": "ja_avaliado",
+      "slug": "ea-cartuxa-alentejo-tinto"
+    },
+    {
+      "rank": 34,
+      "nome": "Bebida à Base de Vinho Casal Garcia Fruitzy, Maracujá, 750ml",
+      "preco_amazon": 55.13,
+      "avaliacoes_amazon": 14,
+      "status": "excluido",
+      "motivo": "bebida à base de vinho"
+    },
+    {
+      "rank": 35,
+      "nome": "Concha y Toro Reservado Malbec 750ml",
+      "preco_amazon": 33.66,
+      "avaliacoes_amazon": 64,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 36,
+      "nome": "Vinho Chileno Diablo Crystal Sauvignon Blanc 750ml 2023",
+      "preco_amazon": 49.36,
+      "avaliacoes_amazon": null,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 37,
+      "nome": "Espumante Salton Series Moscatel Salton Abbuoto",
+      "preco_amazon": 38.77,
+      "avaliacoes_amazon": 78,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 38,
+      "nome": "Vinho Verde Bico Amarelo Esporão 750ml",
+      "preco_amazon": 74.95,
+      "avaliacoes_amazon": 20,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 39,
+      "nome": "Sierra Batuco Vinho Tinto Chileno Cabernet Sauvignon, seco, 750Ml",
+      "preco_amazon": 35.0,
+      "avaliacoes_amazon": 676,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 40,
+      "nome": "Espumante Cava Rosado Freixenet, Brut, 750ml | Cava Rosado",
+      "preco_amazon": 78.9,
+      "avaliacoes_amazon": 29,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 41,
+      "nome": "Espumante Salton Brut Ouro Salton",
+      "preco_amazon": 44.16,
+      "avaliacoes_amazon": 65,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 42,
+      "nome": "Vinho Branco Bodegas Esteban Martin, Chardonnay Macabeo, 750ml | D.O.P. Cariñena",
+      "preco_amazon": 37.9,
+      "avaliacoes_amazon": 281,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 43,
+      "nome": "Vinho Fino Tinto Português Intimista Alentejo 750ml",
+      "preco_amazon": 38.89,
+      "avaliacoes_amazon": 180,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 44,
+      "nome": "Quinta de Bons Ventos Vinho Tinto",
+      "preco_amazon": 50.9,
+      "avaliacoes_amazon": 381,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 45,
+      "nome": "HAO BOSCH Vinho Rose Piscine Stripes Listras 750Ml",
+      "preco_amazon": 59.0,
+      "avaliacoes_amazon": 832,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 46,
+      "nome": "Vinho Tinto Argentino Cordero Con Piel de Lobo Cabernet Sauvignon 750ml",
+      "preco_amazon": 54.9,
+      "avaliacoes_amazon": 86,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 47,
+      "nome": "Finca La Linda Malbec 750ml, Vinho Tinto",
+      "preco_amazon": 62.9,
+      "avaliacoes_amazon": 73,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 48,
+      "nome": "Garibaldi Espumante Primícias Moscatel Rosé 660ml",
+      "preco_amazon": 29.8,
+      "avaliacoes_amazon": 80,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 49,
+      "nome": "Vinho Tinto Suave Collina 750 Ml",
+      "preco_amazon": 15.62,
+      "avaliacoes_amazon": 14,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 50,
+      "nome": "Don Nicolás Vinho Tinto Argentino Malbec 750Ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 250,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 51,
+      "nome": "Concha y Toro Reservado Suave Rosé 750ml",
+      "preco_amazon": 39.89,
+      "avaliacoes_amazon": 1447,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 52,
+      "nome": "Vinho Miolo Seleção Cabernet Sauvignon & Tempranillo Rosé Miolo",
+      "preco_amazon": 35.55,
+      "avaliacoes_amazon": 17,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 53,
+      "nome": "Chandon Espumante Réserve Brut 750 Ml",
+      "preco_amazon": 108.89,
+      "avaliacoes_amazon": 1328,
+      "status": "ja_avaliado",
+      "slug": "chandon-reserve-brut"
+    },
+    {
+      "rank": 54,
+      "nome": "Gato Negro Vinho Malbec 750Ml",
+      "preco_amazon": 32.99,
+      "avaliacoes_amazon": 210,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 55,
+      "nome": "Casa Perini Espumante Brut 750 Ml",
+      "preco_amazon": 61.0,
+      "avaliacoes_amazon": 278,
+      "status": "ja_avaliado",
+      "slug": "casa-perini-brut"
+    },
+    {
+      "rank": 56,
+      "nome": "Carpano Rosso, 950ml",
+      "preco_amazon": 106.99,
+      "avaliacoes_amazon": 93,
+      "status": "excluido",
+      "motivo": "vermute"
+    },
+    {
+      "rank": 57,
+      "nome": "Vinho Fino Branco Português Intimista Alentejo 750ml",
+      "preco_amazon": 39.0,
+      "avaliacoes_amazon": 22,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 58,
+      "nome": "Salton Espumante Demi Sec 750 Ml",
+      "preco_amazon": 35.25,
+      "avaliacoes_amazon": 217,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 59,
+      "nome": "Concha y Toro Diablo Assemblage Tinto Red 750ml",
+      "preco_amazon": 77.92,
+      "avaliacoes_amazon": 693,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 60,
+      "nome": "VINHO ARGENTINO CORDERO CON PIEL LOBO MALBEC 750ML",
+      "preco_amazon": 46.9,
+      "avaliacoes_amazon": 141,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 61,
+      "nome": "Sierra Batuco Vinho Tinto Chileno Carmenere 750Ml",
+      "preco_amazon": 35.0,
+      "avaliacoes_amazon": 669,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 62,
+      "nome": "Vermute Martini Rosato 750ml",
+      "preco_amazon": 42.04,
+      "avaliacoes_amazon": 462,
+      "status": "excluido",
+      "motivo": "vermute"
+    },
+    {
+      "rank": 63,
+      "nome": "CAVA FREIXENET CORDON NEGRO BRUT 750ML",
+      "preco_amazon": 77.67,
+      "avaliacoes_amazon": 380,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 64,
+      "nome": "Hidromel Philip Mead - 500ml (Traditional)",
+      "preco_amazon": 76.6,
+      "avaliacoes_amazon": 1354,
+      "status": "excluido",
+      "motivo": "hidromel"
+    },
+    {
+      "rank": 65,
+      "nome": "Vinho Concha y Toro Diablo Dark Black, 750ml",
+      "preco_amazon": 66.69,
+      "avaliacoes_amazon": 676,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 66,
+      "nome": "Vinho Tinto Alandra Esporão 750ml",
+      "preco_amazon": 32.5,
+      "avaliacoes_amazon": 6,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 67,
+      "nome": "Picarón Vinho Cabernet Sauvignon 750Ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 475,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 68,
+      "nome": "Freixenet Espumante Desalcoolizado 750ml Demi-Sec",
+      "preco_amazon": 77.62,
+      "avaliacoes_amazon": 31,
+      "status": "excluido",
+      "motivo": "espumante desalcoolizado (fora da metodologia)"
+    },
+    {
+      "rank": 69,
+      "nome": "Miolo Vinho Seleção Branco Seco Chardonnay/Viognier 375ml | Carraga de vidro",
+      "preco_amazon": 25.39,
+      "avaliacoes_amazon": 4,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 70,
+      "nome": "Vinho Branco Gato Negro, Chardonnay, 750ml",
+      "preco_amazon": 33.55,
+      "avaliacoes_amazon": 113,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 71,
+      "nome": "Santa Helena Vinho Reservado Rose 750Ml",
+      "preco_amazon": 38.89,
+      "avaliacoes_amazon": 519,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 72,
+      "nome": "Picarón Vinho Carmenere 750Ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 866,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 73,
+      "nome": "Le Rosé de Julie, Castel Freres, Vinho tinto, Rosé Grenache, 750ml | Notas de frutas vermelhas, cereja e toques cítricos revelam um paladar suave e memorável",
+      "preco_amazon": 49.69,
+      "avaliacoes_amazon": null,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 74,
+      "nome": "Terranova Espumante Moscatel 750 Ml",
+      "preco_amazon": 39.75,
+      "avaliacoes_amazon": 49,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 75,
+      "nome": "Vinho Rosé Casal Garcia, 750ml",
+      "preco_amazon": 58.99,
+      "avaliacoes_amazon": 720,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 76,
+      "nome": "Concha y Toro Casillero Del Diablo Malbec 750ml",
+      "preco_amazon": 49.34,
+      "avaliacoes_amazon": 705,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 77,
+      "nome": "Chilano Vinho Chileno Branco Sauvignon Blanc 750Ml",
+      "preco_amazon": 36.41,
+      "avaliacoes_amazon": 567,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 78,
+      "nome": "Concha y Toro Casillero Del Diablo Merlot 750ml",
+      "preco_amazon": 57.89,
+      "avaliacoes_amazon": 583,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 79,
+      "nome": "Espumante Quinta do Morgado moscatel rose 187 mL",
+      "preco_amazon": 12.85,
+      "avaliacoes_amazon": 1,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 80,
+      "nome": "Vinho Tinto Manzanos Wines, Cabernet Sauvignon, 750ml | El Torito, Espanha",
+      "preco_amazon": 36.09,
+      "avaliacoes_amazon": 178,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 81,
+      "nome": "Concha y Toro Casillero Del Diablo Rosé 750ml",
+      "preco_amazon": 56.99,
+      "avaliacoes_amazon": 327,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 82,
+      "nome": "Pata Negra Vinho Oro Tempranilo 750Ml",
+      "preco_amazon": 46.9,
+      "avaliacoes_amazon": 61,
+      "status": "ja_avaliado",
+      "slug": "pata-negra-oro-tempranillo"
+    },
+    {
+      "rank": 83,
+      "nome": "Picarón Vinho Chileno Sauvignon Blanc 750Ml",
+      "preco_amazon": 38.99,
+      "avaliacoes_amazon": 278,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 84,
+      "nome": "Vinho Rosé Santa Rita 3 Medallas, Chileno, 750ml",
+      "preco_amazon": 28.98,
+      "avaliacoes_amazon": 1,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 85,
+      "nome": "Don Nicolás Vinho Tinto Argentino Cabernet Sauvignon 750Ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 184,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 86,
+      "nome": "I Puri Vinho Italiano Lambrusco Branco 750Ml",
+      "preco_amazon": 40.9,
+      "avaliacoes_amazon": 2133,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 87,
+      "nome": "Vinho Tinto Chileno Santa Rita Heroes Cabernet Sauvignon 750 Ml",
+      "preco_amazon": 59.9,
+      "avaliacoes_amazon": null,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 88,
+      "nome": "I Puri Vinho Italiano Lambrusco Tinto 750Ml",
+      "preco_amazon": 34.5,
+      "avaliacoes_amazon": 1618,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 89,
+      "nome": "Vinho Tinto Seco Miolo Seleção, 3L, Pack com 3 Unidades | Cabernet/Merlot, BIB",
+      "preco_amazon": 100.0,
+      "avaliacoes_amazon": 133,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 90,
+      "nome": "Calamares Vinho Verde Português Branco 750Ml",
+      "preco_amazon": 49.9,
+      "avaliacoes_amazon": 212,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 91,
+      "nome": "Concha y Toro Trivento Reserve Malbec Tinto 750ml",
+      "preco_amazon": 72.01,
+      "avaliacoes_amazon": 214,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 92,
+      "nome": "VINHO QUINTA DO SEIVAL TINTO SECO CASTAS PORTUGUESAS 750ML - 2022",
+      "preco_amazon": 93.72,
+      "avaliacoes_amazon": null,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 93,
+      "nome": "Concha y Toro Trivento Reserve White Malbec 750ml | Argentino",
+      "preco_amazon": 61.65,
+      "avaliacoes_amazon": 64,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 94,
+      "nome": "Vinho Tinto Argentino Chac Chac, Cabernet Franc, 750ml",
+      "preco_amazon": 53.89,
+      "avaliacoes_amazon": 108,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 95,
+      "nome": "Vinho Frisante Casal Garcia Fruitzy, Morango, 750ml",
+      "preco_amazon": 63.99,
+      "avaliacoes_amazon": 8,
+      "status": "excluido",
+      "motivo": "bebida à base de vinho (frisante saborizado)"
+    },
+    {
+      "rank": 96,
+      "nome": "Gran Bodega Vinho Bonarda",
+      "preco_amazon": 36.0,
+      "avaliacoes_amazon": 364,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 97,
+      "nome": "Picarón Vinho Chileno Chardonnay 750Ml",
+      "preco_amazon": 39.9,
+      "avaliacoes_amazon": 582,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 98,
+      "nome": "Pergola Vinho Tinto Suave | Vinho tinto suave, sabor frutado e agradável, ideal para momentos especiais e para acompanhar refeições.",
+      "preco_amazon": 29.99,
+      "avaliacoes_amazon": 183,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 99,
+      "nome": "Sierra Batuco Vinho Branco Chileno Chardonnay 750Ml",
+      "preco_amazon": 36.5,
+      "avaliacoes_amazon": 496,
+      "status": "a_avaliar"
+    },
+    {
+      "rank": 100,
+      "nome": "Vinho Branco Chileno Metropolitano D.O. Valle Central Chardonnay",
+      "preco_amazon": 41.1,
+      "avaliacoes_amazon": 89,
+      "status": "a_avaliar"
+    }
+  ]
+}

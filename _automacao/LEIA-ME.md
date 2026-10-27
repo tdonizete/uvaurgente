@@ -41,3 +41,10 @@ Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou m
 - **Playlist:** acrescente um bloco em `_data/playlists.yml` (modelo no topo do arquivo). Os vinhos aparecem sozinhos
   pelas tags `tipos` (qualquer uma) e `estilos` (todas), usando as tags que o `gerar.py` grava em cada veredito (`estilos:`).
 - Os itens de menu Notícias, Além do Vinho e Playlists só aparecem quando houver ao menos um item publicado.
+
+## Base do top 100 (sem publicar)
+
+`base/top100-amazon.json` guarda a lista Mais vendidos em Vinhos da Amazon (26/10/2026) com o status de cada item.
+`base/vinhos/<slug>.json` tem a ficha de cada vinho avaliado, no mesmo formato de `avaliacoes/`, mas sem textos, lojas nem foto.
+`python3 _automacao/pontuar_base.py` recalcula as notas e grava `base/resultado.md`. Nada disso vai para o site.
+Para publicar: copie a ficha para `avaliacoes/`, complete textos, lojas, safra e foto, e rode `gerar.py`.
