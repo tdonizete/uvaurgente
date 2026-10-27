@@ -1,0 +1,94 @@
+{
+  "slug": "garzon-estate-tannat-de-corte",
+  "rank_amazon": null,
+  "pos_lista300": 56,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "A lista diz 'Estate Tannat'; no Brasil a linha Estate vendida é o Tannat de Corte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Garzón Estate Tannat de Corte",
+    "produtor": "Bodega Garzón",
+    "tipo": "Tinto",
+    "pais": "Uruguai",
+    "regiao": "Maldonado",
+    "safra": null,
+    "uvas": "Tannat, Marselan, Petit Verdot, Cabernet Franc",
+    "teor": 13.0,
+    "servir": "17 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-garzon-tannat-de-corte-750ml",
+    "https://site.fastshop.com.br/garzon-estate-tannat-de-corte-101682/p"
+  ],
+  "preco": {
+    "referencia": 124.99,
+    "min": 124.99,
+    "max": 134.0,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 124,99, 26/10/2026",
+      "Fast Shop: R$ 134,0, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja negra",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Carvalho",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.4,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Encorpado — aveludado",
+      "Firme — Tannat presente",
+      "Pronunciada — fruta madura",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

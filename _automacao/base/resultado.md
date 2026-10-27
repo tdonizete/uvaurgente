@@ -85,6 +85,14 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L41 | Luigi Bosca Malbec | Argentina | Tinto | R$ 219,99 | 8,4 | 8,1 | 7,6 | 6,1 | BIC | **7,4** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes) |
 | L42 | Bodega Norton Norton Select Malbec | Argentina | Tinto | R$ 99,90 | 8,2 | 7,5 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | média | A lista diz 'Norton Malbec': avaliado o Select, que é o vendido nas lojas consultadas |
 | L43 | Bodega Norton Norton Select Cabernet Sauvignon | Argentina | Tinto | R$ 92,90 | 8,2 | 7,8 | 7,2 | 6,5 | BC | **7,3** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle, esgotado); A lista diz 'Norton Cabernet Sauvignon': avaliado o Select |
+| L44 | Trapiche Vineyards Malbec | Argentina | Tinto | R$ 28,99 | 7,8 | 7,5 | 6,4 | 8,3 | B | **7,3** | Sem Pressa | média | — |
+| L45 | Trapiche Roble (Oak Cask) Malbec | Argentina | Tinto | R$ 79,90 | 8,0 | 7,7 | 6,8 | 7,0 | BC | **7,2** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar); No Brasil é vendido como 'Roble'; Oak Cask é o nome de exportação |
+| L47 | Rutini Malbec | Argentina | Tinto | R$ 259,99 | 8,6 | 8,0 | 7,5 | 6,1 | BIC | **7,4** | Sem Pressa | média | Preço e perfil em 1 só fonte (Imigrantes) |
+| L48 | Catena Malbec | Argentina | Tinto | R$ 189,90 | 8,6 | 8,1 | 7,5 | 6,3 | BIC | **7,5** | Sem Pressa | alta | — |
+| L56 | Bodega Garzón Garzón Estate Tannat de Corte | Uruguai | Tinto | R$ 124,99 | 8,4 | 7,8 | 7,3 | 6,6 | BC | **7,4** | Sem Pressa | média | A lista diz 'Estate Tannat'; no Brasil a linha Estate vendida é o Tannat de Corte |
+| L57 | Bodega Garzón Garzón Reserva Tannat | Uruguai | Tinto | R$ 128,06 | 8,6 | 8,1 | 7,7 | 7,2 | BIC | **7,8** | Sem Pressa | alta | Preço de referência é o Pix da Fast Shop; no Pão de Açúcar custa R$ 189,90 |
+| L61 | Viña Pérez Cruz Pérez Cruz Gran Reserva Cabernet Sauvignon | Chile | Tinto | R$ 94,00 | 8,6 | 8,1 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | alta | Preço em 1 só fonte (Wine.com.br, esgotado) |
+| L77 | Esporão Monte Velho Tinto | Portugal | Tinto | R$ 79,99 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, promoção de R$ 106,99) |
 
 ## Sem ficha (fora da pontuação)
 

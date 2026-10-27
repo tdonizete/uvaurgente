@@ -1,0 +1,94 @@
+{
+  "slug": "perez-cruz-gran-reserva-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 61,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [
+    "Preço em 1 só fonte (Wine.com.br, esgotado)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Pérez Cruz Gran Reserva Cabernet Sauvignon",
+    "produtor": "Viña Pérez Cruz",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Maipo Andes",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em barrica"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.lcbo.com/en/p-crez-cruz-reserva-cabernet-sauvignon-694208",
+    "https://www.wine.com.br/vinhos/perez-cruz-gran-reserva-d-o-maipo-andes-cabernet-sauvignon-2022/prod30933.html",
+    "https://www.imigrantesbebidas.com.br/vinho-perez-cruz-gran-reserva-cabernet-sauvignon-750ml"
+  ],
+  "preco": {
+    "referencia": 94.0,
+    "min": 94.0,
+    "max": 94.0,
+    "ajustes": [],
+    "fontes": [
+      "Wine.com.br: R$ 94,0, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.8,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Menta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.8,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — elegante",
+      "Encorpado — estruturado",
+      "Maduro — firme",
+      "Pronunciada — cassis",
+      "Médio — final suculento"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

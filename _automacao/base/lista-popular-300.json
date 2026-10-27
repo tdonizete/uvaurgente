@@ -306,13 +306,15 @@
    "pos": 44,
    "nome": "Trapiche Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "trapiche-vineyards-malbec"
   },
   {
    "pos": 45,
    "nome": "Trapiche Oak Cask Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "trapiche-roble-oak-cask-malbec"
   },
   {
    "pos": 46,
@@ -325,13 +327,15 @@
    "pos": 47,
    "nome": "Rutini Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "rutini-malbec"
   },
   {
    "pos": 48,
    "nome": "Catena Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "catena-malbec"
   },
   {
    "pos": 49,
@@ -372,91 +376,106 @@
    "pos": 54,
    "nome": "Novecento Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Novecento Malbec (Dante Robino): perfil encontrado, sem preço em loja brasileira consultada"
   },
   {
    "pos": 55,
    "nome": "Novecento Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Novecento Cabernet Sauvignon: perfil encontrado, sem preço em loja brasileira consultada"
   },
   {
    "pos": 56,
    "nome": "Bodega Garzón Estate Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "garzon-estate-tannat-de-corte"
   },
   {
    "pos": 57,
    "nome": "Bodega Garzón Reserva Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "garzon-reserva-tannat"
   },
   {
    "pos": 58,
    "nome": "Montes Toscanini Reserva Familiar Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Montes Toscanini Reserva Familiar Tannat: perfil de agregador, sem preço no Brasil"
   },
   {
    "pos": 59,
    "nome": "Pisano RPF Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Pisano RPF Tannat: preço encontrado (Fast Shop R$ 262,83), notas críticas (Atkin 94, Suckling 92), mas sem descrição sensorial"
   },
   {
    "pos": 60,
    "nome": "Artesana Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Artesana Tannat: sem preço no Brasil"
   },
   {
    "pos": 61,
    "nome": "Perez Cruz Gran Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "perez-cruz-gran-reserva-cabernet-sauvignon"
   },
   {
    "pos": 62,
    "nome": "Perez Cruz Reserva Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Pérez Cruz Reserva Carménère: não existe com esse nome (há Limited Edition Carménère e C+M)"
   },
   {
    "pos": 63,
    "nome": "Doña Dominga Gran Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Doña Dominga Gran Reserva CS: só encontrado no Chile"
   },
   {
    "pos": 64,
    "nome": "El Principal Calicanto",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "El Principal Calicanto: só encontrado na Holanda"
   },
   {
    "pos": 65,
    "nome": "Valle de Viejos Vin 50 Syrah",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Valle de Viejos Vin 50 Syrah: vinho não identificado"
   },
   {
    "pos": 66,
    "nome": "Château de los Hermanos Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Château de los Hermanos Carménère: vinho não identificado"
   },
   {
    "pos": 67,
    "nome": "Château de los Hermanos Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Château de los Hermanos Cabernet Sauvignon: vinho não identificado"
   },
   {
    "pos": 68,
    "nome": "Pé Gran Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Pé Gran Reserva Cabernet Sauvignon: vinho não identificado"
   },
   {
    "pos": 69,
@@ -476,19 +495,22 @@
    "pos": 71,
    "nome": "Guarda Rios Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Guarda Rios Tinto: sem castas, notas nem preço"
   },
   {
    "pos": 72,
    "nome": "Terras Lusas Reserva",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Terras Lusas Reserva: só a versão branca encontrada; tinto não confirmado"
   },
   {
    "pos": 73,
    "nome": "Conde de Cantanhede Reserva",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Conde de Cantanhede Reserva (Baga, Bairrada): perfil encontrado, sem preço no Brasil"
   },
   {
    "pos": 74,
@@ -508,31 +530,36 @@
    "pos": 76,
    "nome": "Piranha Vinho Verde",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Piranha Vinho Verde: só promoção expirada (Pelando)"
   },
   {
    "pos": 77,
    "nome": "Monte Velho Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "esporao-monte-velho-tinto"
   },
   {
    "pos": 78,
    "nome": "Capitanio Montepulciano d’Abruzzo Riserva",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Capitanio Montepulciano d'Abruzzo Riserva: vinho não identificado"
   },
   {
    "pos": 79,
    "nome": "Cantine Truentum 968 Montepulciano d’Abruzzo",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Cantine Truentum 968 Montepulciano: perfil encontrado (vino.com), sem preço no Brasil"
   },
   {
    "pos": 80,
    "nome": "Terra Rossa Trulli Primitivo di Manduria",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Terra Rossa Trulli Primitivo di Manduria: vinho não identificado (há Terra dei Trulli e Masseria Torre Rossa)"
   },
   {
    "pos": 81,
@@ -1398,14 +1425,16 @@
    "nome": "Tagua Tagua BTT Château de los Hermanos Carménère",
    "pais": "Chile",
    "status": "ja_na_base",
-   "slug": "repete a posição 66 (Château de los Hermanos Carménère)"
+   "slug": "repete a posição 66 (Château de los Hermanos Carménère)",
+   "motivo": "repete item não identificado da lista"
   },
   {
    "pos": 222,
    "nome": "Tagua Tagua BTT Château de los Hermanos Cabernet Sauvignon",
    "pais": "Chile",
    "status": "ja_na_base",
-   "slug": "repete a posição 67"
+   "slug": "repete a posição 67",
+   "motivo": "repete item não identificado da lista"
   },
   {
    "pos": 223,
@@ -1424,7 +1453,8 @@
    "nome": "Pé Gran Reserva Cabernet Sauvignon",
    "pais": "Chile",
    "status": "ja_na_base",
-   "slug": "repete a posição 68 (Pé Gran Reserva CS)"
+   "slug": "repete a posição 68 (Pé Gran Reserva CS)",
+   "motivo": "repete item não identificado da lista"
   },
   {
    "pos": 226,
