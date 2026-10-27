@@ -1,0 +1,91 @@
+{
+  "slug": "salton-classic-merlot",
+  "rank_amazon": null,
+  "pos_lista300": 182,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Imigrantes)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Salton Classic Merlot",
+    "produtor": "Salton",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Merlot",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-salton-classic-merlot-750ml"
+  ],
+  "preco": {
+    "referencia": 27.99,
+    "min": 27.99,
+    "max": 27.99,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 27,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.6,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas silvestres",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cedro",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.2,
+    "tanino_docura": 6.2,
+    "intensidade": 6.2,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio — macio",
+      "Agradável — macio",
+      "Moderada — fruta silvestre",
+      "Médio — final persistente"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

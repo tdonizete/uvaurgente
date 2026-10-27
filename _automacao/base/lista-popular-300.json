@@ -1132,109 +1132,127 @@
    "pos": 161,
    "nome": "Castello del Poggio Montepulciano d’Abruzzo",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello del Poggio Montepulciano: não encontrado em lojas brasileiras consultadas"
   },
   {
    "pos": 162,
    "nome": "Castello del Poggio Primitivo",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello del Poggio Primitivo: não encontrado"
   },
   {
    "pos": 163,
    "nome": "Castello del Poggio Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello del Poggio Chianti: não encontrado"
   },
   {
    "pos": 164,
    "nome": "Castello del Poggio Rosso",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello del Poggio Rosso: não encontrado"
   },
   {
    "pos": 165,
    "nome": "Zonin Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Zonin Chianti: página do Pão de Açúcar fora do ar"
   },
   {
    "pos": 166,
    "nome": "Zonin Pinot Grigio",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Zonin Pinot Grigio: sem preço em loja consultada"
   },
   {
    "pos": 167,
    "nome": "Folonari Valpolicella",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Folonari Valpolicella: sem preço em loja consultada"
   },
   {
    "pos": 168,
    "nome": "Folonari Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Folonari Chianti: sem preço em loja consultada"
   },
   {
    "pos": 169,
    "nome": "Ruffino Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "ruffino-chianti-docg"
   },
   {
    "pos": 170,
    "nome": "Ruffino Lumina Pinot Grigio",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Ruffino Lumina Pinot Grigio: sem preço em loja consultada"
   },
   {
    "pos": 171,
    "nome": "Masi Modello delle Venezie Rosso",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Masi Modello Rosso: sem preço em loja consultada"
   },
   {
    "pos": 172,
    "nome": "Masi Modello delle Venezie Bianco",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Masi Modello Bianco: sem preço em loja consultada"
   },
   {
    "pos": 173,
    "nome": "Louis Jadot Beaujolais-Villages",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Louis Jadot Beaujolais-Villages: sem preço em loja consultada"
   },
   {
    "pos": 174,
    "nome": "Louis Jadot Bourgogne Pinot Noir",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Louis Jadot Bourgogne Pinot Noir: sem preço em loja consultada"
   },
   {
    "pos": 175,
    "nome": "Barton & Guestier Vouvray",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Barton & Guestier Vouvray: sem preço em loja consultada"
   },
   {
    "pos": 176,
    "nome": "Barton & Guestier Cabernet Sauvignon",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "barton-guestier-reserve-cabernet-sauvignon"
   },
   {
    "pos": 177,
    "nome": "Veuve Clicquot Yellow Label",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "veuve-clicquot-brut-yellow-label"
   },
   {
    "pos": 178,
    "nome": "Moët & Chandon Brut Impérial",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "moet-chandon-brut-imperial"
   },
   {
    "pos": 179,
@@ -1254,19 +1272,22 @@
    "pos": 181,
    "nome": "Salton Classic Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "salton-classic-cabernet-sauvignon"
   },
   {
    "pos": 182,
    "nome": "Salton Classic Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "salton-classic-merlot"
   },
   {
    "pos": 183,
    "nome": "Salton Classic Tannat",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Classic Tannat: perfil encontrado (Imigrantes), produto em falta e sem preço"
   },
   {
    "pos": 184,

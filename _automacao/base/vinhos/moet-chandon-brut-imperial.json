@@ -1,0 +1,95 @@
+{
+  "slug": "moet-chandon-brut-imperial",
+  "rank_amazon": null,
+  "pos_lista300": 178,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Imigrantes, anunciado como 'Extra Brut'; confirmar rótulo)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Moët & Chandon Brut Impérial",
+    "produtor": "Moët & Chandon",
+    "tipo": "Espumante",
+    "pais": "França",
+    "regiao": "Champagne",
+    "safra": null,
+    "uvas": "Pinot Noir, Pinot Meunier, Chardonnay",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Brut, método tradicional"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/154431/champagne-frances-moet-imperial-brut-750ml",
+    "https://www.imigrantesbebidas.com.br/champagne-moet-imperial-brut-750ml"
+  ],
+  "preco": {
+    "referencia": 399.99,
+    "min": 399.99,
+    "max": 399.99,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 399,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 9.0
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 7.8,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Fermentação"
+    ],
+    "top5": [
+      {
+        "nome": "Maçã verde",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Brioche",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Nozes frescas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 7.4,
+    "tanino_docura": 8.8,
+    "intensidade": 7.6,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — cítrica",
+      "Médio — delicado",
+      "Brut — coerente",
+      "Pronunciada — fruta e fermento",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}

@@ -114,6 +114,12 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L146 | Esporão Reserva Branco | Portugal | Branco | R$ 249,90 | 8,6 | 8,1 | 7,8 | 6,5 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar) |
 | L147 | Esporão Reserva Tinto | Portugal | Tinto | R$ 229,90 | 8,8 | 8,3 | 7,8 | 6,6 | BIC | **7,7** | Sem Pressa | alta | Final longo citado só pelo produtor; usado final médio |
 | L149 | Quinta do Crasto Crasto Douro Tinto | Portugal | Tinto | R$ 203,99 | 8,4 | 7,8 | 7,4 | 5,9 | BI | **7,2** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L169 | Ruffino Chianti DOCG | Itália | Tinto | R$ 124,99 | 8,0 | 7,8 | 7,0 | 6,3 | BC | **7,1** | Sem Pressa | alta | — |
+| L176 | Barton & Guestier Reserve Cabernet Sauvignon | França | Tinto | R$ 105,99 | 8,2 | 7,7 | 7,0 | 6,3 | BC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'Cabernet Sauvignon': avaliado o Reserve, o vendido no Brasil |
+| L177 | Veuve Clicquot Brut (Yellow Label) | França | Espumante | R$ 449,99 | 9,0 | 8,3 | 8,0 | 5,9 | BI | **7,7** | Sem Pressa | alta | — |
+| L178 | Moët & Chandon Brut Impérial | França | Espumante | R$ 399,99 | 9,0 | 8,3 | 7,9 | 5,9 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, anunciado como 'Extra Brut'; confirmar rótulo) |
+| L181 | Salton Classic Cabernet Sauvignon | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L182 | Salton Classic Merlot | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
 
 ## Sem ficha (fora da pontuação)
 
