@@ -1,0 +1,94 @@
+{
+  "slug": "miolo-lote-43",
+  "rank_amazon": null,
+  "pos_lista300": 288,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Werle, esgotado)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Miolo Lote 43",
+    "produtor": "Miolo",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Vale dos Vinhedos",
+    "safra": null,
+    "uvas": "Merlot, Cabernet Sauvignon",
+    "teor": 15.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês e americano"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.werlecomercial.com.br/produtos/vinho-miolo-lote43750ml-safra2022-20a2/"
+  ],
+  "preco": {
+    "referencia": 249.9,
+    "min": 249.9,
+    "max": 249.9,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 249,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.8,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Trufa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cacau",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cravo",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.8,
+    "tanino_docura": 7.6,
+    "intensidade": 7.8,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Encorpado — robusto",
+      "Macio — firme",
+      "Pronunciada — terciária",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}

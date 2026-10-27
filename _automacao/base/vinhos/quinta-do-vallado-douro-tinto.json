@@ -1,0 +1,93 @@
+{
+  "slug": "quinta-do-vallado-douro-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 260,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Degusti); Pão de Açúcar indisponível"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Quinta do Vallado Douro Tinto",
+    "produtor": "Quinta do Vallado",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Douro (DOC)",
+    "safra": null,
+    "uvas": "Touriga Franca, Touriga Nacional, Tinta Roriz, Sousão, vinhas velhas",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco, parte com 8 meses em carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.degusti.com.br/tipo-de-vinho/vinho-tinto/vinho-quinta-vallado-douro-tinto-2016-750ml",
+    "https://www.paodeacucar.com/produto/795783/vinho-tinto-portugues-quinta-do-vallado-750ml"
+  ],
+  "preco": {
+    "referencia": 169.9,
+    "min": 169.9,
+    "max": 169.9,
+    "ajustes": [],
+    "fontes": [
+      "Degusti: R$ 169,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 7.8,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutos vermelhos maduros",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Esteva",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Madeira",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.4,
+    "tanino_docura": 7.4,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — fresca",
+      "Encorpado — estruturado",
+      "Maduro — firme",
+      "Pronunciada",
+      "Médio — persistente"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

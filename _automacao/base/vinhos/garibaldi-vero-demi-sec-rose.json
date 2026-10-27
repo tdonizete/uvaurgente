@@ -1,0 +1,91 @@
+{
+  "slug": "garibaldi-vero-demi-sec-rose",
+  "rank_amazon": null,
+  "pos_lista300": 277,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Lojas informam uvas diferentes"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Vero Demi-Sec Rosé",
+    "produtor": "Cooperativa Vinícola Garibaldi",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Uvas divergem entre lojas (CS/Merlot x Trebbiano/Malvasia/Ancellotta)",
+    "teor": 11.0,
+    "servir": "6 °C",
+    "estilo": "Demi-sec, método Charmat"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/espumante-garibaldi-vero-rose-demi-sec-750ml",
+    "https://www.werlecomercial.com.br/espumante-garibaldi-vero-demi-sec-rose-750ml"
+  ],
+  "preco": {
+    "referencia": 31.9,
+    "min": 31.9,
+    "max": 31.99,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 31,9, 26/10/2026",
+      "Imigrantes Bebidas: R$ 31,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Mamão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 6.2,
+    "tanino_docura": 7.2,
+    "intensidade": 6.4,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibra o doce",
+      "Leve — cremoso",
+      "Demi-sec — doçura delicada",
+      "Moderada — frutado",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

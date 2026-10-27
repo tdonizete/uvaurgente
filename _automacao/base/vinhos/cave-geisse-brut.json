@@ -1,0 +1,93 @@
+{
+  "slug": "cave-geisse-brut",
+  "rank_amazon": null,
+  "pos_lista300": 266,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Werle)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Cave Geisse Brut",
+    "produtor": "Cave Geisse",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Pinto Bandeira (Serra Gaúcha)",
+    "safra": null,
+    "uvas": "Chardonnay, Pinot Noir",
+    "teor": 12.0,
+    "servir": "6 °C",
+    "estilo": "Brut, método tradicional, 24 meses"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.werlecomercial.com.br/produtos/espumante-cave-geisse-brut750ml-cak9"
+  ],
+  "preco": {
+    "referencia": 179.9,
+    "min": 179.9,
+    "max": 179.9,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 179,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Oxidativo"
+    ],
+    "top5": [
+      {
+        "nome": "Damasco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amêndoa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas secas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Brioche",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 7.2,
+    "tanino_docura": 8.6,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — equilibrada",
+      "Médio — fino",
+      "Brut — coerente",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}

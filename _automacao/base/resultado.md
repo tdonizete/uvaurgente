@@ -132,6 +132,19 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L236 | Concha y Toro Marqués de Casa Concha Cabernet Sauvignon | Chile | Tinto | R$ 149,90 | 8,8 | 8,4 | 7,8 | 7,5 | BIC | **8,0** | Sem Pressa | alta | — |
 | L237 | Concha y Toro Marqués de Casa Concha Carménère | Chile | Tinto | R$ 164,99 | 8,6 | 8,1 | 7,6 | 6,6 | BIC | **7,6** | Sem Pressa | média | Preço de referência é o regular da Imigrantes; Pão de Açúcar tinha promoção de 47% |
 | L238 | Marqués de Riscal Reserva | Espanha | Tinto | R$ 299,89 | 8,6 | 8,3 | 7,6 | 6,5 | BIC | **7,6** | Sem Pressa | alta | — |
+| L252 | Mionetto Prosecco DOC Treviso Brut | Itália | Espumante | R$ 109,99 | 8,2 | 7,4 | 7,0 | 6,1 | B | **7,0** | Sem Pressa | alta | — |
+| L260 | Quinta do Vallado Douro Tinto | Portugal | Tinto | R$ 169,90 | 8,4 | 7,9 | 7,3 | 5,9 | BIC | **7,2** | Sem Pressa | média | Preço em 1 só fonte (Degusti); Pão de Açúcar indisponível |
+| L265 | Cave Geisse Nature | Brasil | Espumante | R$ 179,90 | 8,6 | 8,1 | 7,8 | 6,5 | BIC | **7,6** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle, esgotado) |
+| L266 | Cave Geisse Brut | Brasil | Espumante | R$ 179,90 | 8,6 | 7,8 | 7,6 | 6,1 | B | **7,4** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle) |
+| L273 | Chandon Brut Rosé | Brasil | Espumante | R$ 99,99 | 8,4 | 7,7 | 7,3 | 6,6 | BC | **7,3** | Sem Pressa | alta | — |
+| L276 | Salton Prosecco Rosé | Brasil | Espumante | R$ 37,90 | 8,0 | 7,3 | 6,9 | 8,6 | B | **7,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
+| L277 | Cooperativa Vinícola Garibaldi Vero Demi-Sec Rosé | Brasil | Espumante | R$ 31,90 | 7,8 | 7,2 | 6,5 | 8,3 | B | **6,9** | Sem Pressa | média | Lojas informam uvas diferentes |
+| L288 | Miolo Lote 43 | Brasil | Tinto | R$ 249,90 | 8,6 | 8,1 | 7,5 | 6,3 | BIC | **7,5** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle, esgotado) |
+| L289 | Miolo Cuvée Tradition Brut | Brasil | Espumante | R$ 86,90 | 8,4 | 7,6 | 7,3 | 6,6 | B | **7,3** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
+| L293 | Pizzato Merlot | Brasil | Tinto | R$ 153,99 | 8,4 | 7,9 | 7,2 | 5,7 | BIC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'Vinho de Altitude Merlot'; a loja não informa a linha; Teor na página com erro (2,7%) |
+| L294 | Salton Desejo Merlot | Brasil | Tinto | R$ 117,99 | 8,4 | 8,0 | 7,3 | 6,8 | BIC | **7,5** | Sem Pressa | alta | — |
+| L297 | Vinícola Aurora Aurora Pinto Bandeira Chardonnay | Brasil | Branco | R$ 63,90 | 8,2 | 7,7 | 7,3 | 7,4 | BC | **7,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
+| L298 | Vinícola Aurora Aurora Reserva Merlot Rosé | Brasil | Rosé | R$ 44,90 | 8,0 | 7,4 | 6,9 | 6,8 | B | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle); A lista diz 'Aurora Reserva Rosé'; avaliado o Reserva Merlot Rosé |
 
 ## Sem ficha (fora da pontuação)
 

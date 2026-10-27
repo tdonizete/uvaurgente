@@ -1,0 +1,94 @@
+{
+  "slug": "cave-geisse-nature",
+  "rank_amazon": null,
+  "pos_lista300": 265,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Werle, esgotado)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Cave Geisse Nature",
+    "produtor": "Cave Geisse",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Pinto Bandeira (Serra Gaúcha)",
+    "safra": null,
+    "uvas": "Chardonnay, Pinot Noir",
+    "teor": 12.0,
+    "servir": "6 °C",
+    "estilo": "Nature (3 g/L), método tradicional"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.werlecomercial.com.br/espumante-cave-geisse-nature-750ml-2"
+  ],
+  "preco": {
+    "referencia": 179.9,
+    "min": 179.9,
+    "max": 179.9,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 179,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.6,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Fermentação",
+      "Oxidativo"
+    ],
+    "top5": [
+      {
+        "nome": "Damasco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amêndoa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Mel",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Tostado",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas secas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 7.4,
+    "tanino_docura": 8.8,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — vibrante",
+      "Encorpado para o estilo",
+      "Nature — seco de verdade",
+      "Pronunciada — complexa",
+      "Médio — boa persistência"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}

@@ -1702,127 +1702,148 @@
    "pos": 242,
    "nome": "Borghetto Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Borghetto Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 243,
    "nome": "Poggio Cavalieri Chianti",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Poggio Cavalieri Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 244,
    "nome": "Ruffino Riserva Ducale Chianti Classico",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Ruffino Riserva Ducale Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 245,
    "nome": "Antinori Santa Cristina Toscana",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Antinori Santa Cristina Toscana: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 246,
    "nome": "Antinori Santa Cristina Pinot Grigio",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Antinori Santa Cristina Pinot Grigio: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 247,
    "nome": "Antinori Peppoli Chianti Classico",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Antinori Peppoli Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 248,
    "nome": "Castello di Albola Chianti Classico",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello di Albola Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 249,
    "nome": "Castello di Albola Accademia Chianti Classico",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Castello di Albola Accademia Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 250,
    "nome": "Zonin Prosecco DOC",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Zonin Prosecco DOC: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 251,
    "nome": "La Marca Prosecco",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "La Marca Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 252,
    "nome": "Mionetto Prosecco Treviso Brut",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "mionetto-prosecco-treviso-brut"
   },
   {
    "pos": 253,
    "nome": "La Compagnie des Vins d’Autrefois Pinot Noir",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "La Compagnie des Vins d'Autrefois Pinot Noir: vinho não identificado"
   },
   {
    "pos": 254,
    "nome": "Louis Jadot Mâcon-Villages Chardonnay",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Louis Jadot Mâcon-Villages Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 255,
    "nome": "Louis Jadot Beaujolais Nouveau",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Louis Jadot Beaujolais Nouveau: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 256,
    "nome": "Guigal Côtes du Rhône Rouge",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guigal Côtes du Rhône Rouge: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 257,
    "nome": "Guigal Côtes du Rhône Blanc",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guigal Côtes du Rhône Blanc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 258,
    "nome": "Esporão Monte Velho Reserva",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Esporão Monte Velho Reserva: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 259,
    "nome": "Quinta do Crasto Reserva Vinhas Velhas",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Quinta do Crasto Reserva Vinhas Velhas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 260,
    "nome": "Quinta do Vallado Douro Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "quinta-do-vallado-douro-tinto"
   },
   {
    "pos": 261,
    "nome": "Casa Valduga Maria Valduga Brut Vintage",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Casa Valduga Maria Valduga Brut Vintage: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 262,
    "nome": "Casa Valduga 130 Blanc de Blancs",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Casa Valduga 130 Blanc de Blancs: preços Werle R$ 216,90 e Pão de Açúcar R$ 229,99, sem descrição sensorial"
   },
   {
    "pos": 263,
@@ -1835,61 +1856,71 @@
    "pos": 264,
    "nome": "Casa Valduga Naturelle Frisante Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Casa Valduga Naturelle Rosé (suave): preço Imigrantes R$ 92,99, sem descrição sensorial"
   },
   {
    "pos": 265,
    "nome": "Cave Geisse Nature",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "cave-geisse-nature"
   },
   {
    "pos": 266,
    "nome": "Cave Geisse Brut",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "cave-geisse-brut"
   },
   {
    "pos": 267,
    "nome": "Cave Geisse Terroir Brut",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Cave Geisse Terroir: preço Werle R$ 329,90, sem descrição sensorial"
   },
   {
    "pos": 268,
    "nome": "Peterlongo Presence Brut",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Peterlongo Presence Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 269,
    "nome": "Don Giovanni Brut Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Don Giovanni Brut Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 270,
    "nome": "Ponto Nero Celebration Prosecco",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Ponto Nero Celebration Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 271,
    "nome": "Chandon Réserve Demi-Sec",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Chandon Réserve Demi-Sec: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 272,
    "nome": "Chandon Névoa das Encantadas",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Chandon Névoa das Encantadas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 273,
    "nome": "Chandon Brut Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "chandon-brut-rose"
   },
   {
    "pos": 274,
@@ -1902,97 +1933,113 @@
    "pos": 275,
    "nome": "Salton Intenso Brut",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Intenso Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 276,
    "nome": "Salton Prosecco Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "salton-prosecco-rose"
   },
   {
    "pos": 277,
    "nome": "Garibaldi Vero Espumante Demi-Sec Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "garibaldi-vero-demi-sec-rose"
   },
   {
    "pos": 278,
    "nome": "Bertoletti Espumante Brut Charmat",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Bertoletti Espumante Brut Charmat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 279,
    "nome": "Adolfo Lona Silvia Nature Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Adolfo Lona Silvia Nature Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 280,
    "nome": "Moscato d’Alegria Moscatel Branco",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Moscato d'Alegria Moscatel Branco: vinho não identificado"
   },
   {
    "pos": 281,
    "nome": "Almaúnica Parte 2 Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Almaúnica Parte 2 Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 282,
    "nome": "Almaúnica Corte",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Almaúnica Corte: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 283,
    "nome": "Almaúnica Reserva Cabernet Franc",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Almaúnica Reserva Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 284,
    "nome": "Guaspari Cabernet Franc",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guaspari Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 285,
    "nome": "Guaspari Syrah Vista da Serra",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guaspari Syrah Vista da Serra: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 286,
    "nome": "Guaspari Chardonnay Vista do Chá",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guaspari Chardonnay Vista do Chá: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 287,
    "nome": "Miolo Merlot Terroir",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Miolo Merlot Terroir: preço Werle R$ 219,90, sem descrição aromática"
   },
   {
    "pos": 288,
    "nome": "Miolo Lote 43",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "miolo-lote-43"
   },
   {
    "pos": 289,
    "nome": "Miolo Cuvée Tradition Brut",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "miolo-cuvee-tradition-brut"
   },
   {
    "pos": 290,
    "nome": "Miolo Millêsse Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Miolo Millêsse Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 291,
@@ -2005,55 +2052,64 @@
    "pos": 292,
    "nome": "Pizzato Allumé Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Pizzato Allumé Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 293,
    "nome": "Pizzato Vinho de Altitude Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "pizzato-merlot"
   },
   {
    "pos": 294,
    "nome": "Salton Desejo Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "salton-desejo-merlot"
   },
   {
    "pos": 295,
    "nome": "Salton Intenso Tannat",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Intenso Tannat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 296,
    "nome": "Salton Volpi Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Volpi Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 297,
    "nome": "Aurora Pinto Bandeira Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-pinto-bandeira-chardonnay"
   },
   {
    "pos": 298,
    "nome": "Aurora Reserva Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-reserva-merlot-rose"
   },
   {
    "pos": 299,
    "nome": "Valmarino Rosé Cabernet Franc",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Valmarino Rosé Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   },
   {
    "pos": 300,
    "nome": "Villa Francioni Joaquim Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Villa Francioni Joaquim Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
   }
  ]
 }

@@ -1,0 +1,92 @@
+{
+  "slug": "chandon-brut-rose",
+  "rank_amazon": null,
+  "pos_lista300": 273,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Chandon Brut Rosé",
+    "produtor": "Chandon Brasil",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Pinot Noir, Chardonnay e outras",
+    "teor": 11.8,
+    "servir": "6 °C",
+    "estilo": "Brut"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/espumante-chandon-brut-rose-750ml",
+    "https://www.paodeacucar.com/produto/96519/espumante-brasileiro-chandon-brut-rose-garrafa-750ml"
+  ],
+  "preco": {
+    "referencia": 99.99,
+    "min": 99.99,
+    "max": 129.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 99,99, 26/10/2026",
+      "Pão de Açúcar: R$ 129,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.5,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Acerola",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Hibisco",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Especiarias doces",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 7.0,
+    "tanino_docura": 8.4,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca",
+      "Médio — cremoso e aveludado",
+      "Brut — coerente",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
