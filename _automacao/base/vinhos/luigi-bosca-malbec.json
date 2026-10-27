@@ -1,92 +1,96 @@
 {
-  "slug": "luigi-bosca-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 41,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço em 1 só fonte (Imigrantes)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Luigi Bosca Malbec",
-    "produtor": "Luigi Bosca",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza (Luján de Cuyo)",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 14.4,
-    "servir": "17 °C",
-    "estilo": "Seco, malolática em carvalho francês"
-  },
-  "canal": "Supermercado",
+ "slug": "luigi-bosca-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 41,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (Imigrantes)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Luigi Bosca Malbec",
+  "produtor": "Luigi Bosca",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza (Luján de Cuyo)",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.4,
+  "servir": "17 °C",
+  "estilo": "Seco, malolática em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-luigi-bosca-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 161.4,
+  "min": 161.4,
+  "max": 219.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-luigi-bosca-malbec-750ml"
+   "Imigrantes Bebidas: R$ 219,99, 26/10/2026",
+   "Google Shopping — Amazon (vendedor parceiro): R$ 161,40, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 219.99,
-    "min": 219.99,
-    "max": 219.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 219,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.6,
-    "intensidade": 7.8,
-    "complexidade": 8.0,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa madura",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Frutas vermelhas ácidas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Menta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Carvalho",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.6,
-    "corpo": 7.6,
-    "tanino_docura": 7.6,
-    "intensidade": 7.8,
-    "final": 7.2,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — fresca",
-      "Encorpado — bem estruturado",
-      "Firme — macio",
-      "Pronunciada — fruta madura",
-      "Médio — cerca de 7 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas ácidas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Menta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Encorpado — bem estruturado",
+   "Firme — macio",
+   "Pronunciada — fruta madura",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

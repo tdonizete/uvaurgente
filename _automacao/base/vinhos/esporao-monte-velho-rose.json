@@ -1,90 +1,94 @@
 {
-  "slug": "esporao-monte-velho-rose",
-  "rank_amazon": null,
-  "pos_lista300": 145,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Degusti)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Monte Velho Rosé",
-    "produtor": "Esporão",
-    "tipo": "Rosé",
-    "pais": "Portugal",
-    "regiao": "Alentejo",
-    "safra": null,
-    "uvas": "Touriga Nacional, Syrah, Trincadeira, Alicante Bouschet",
-    "teor": 13.0,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "esporao-monte-velho-rose",
+ "rank_amazon": null,
+ "pos_lista300": 145,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Degusti)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Monte Velho Rosé",
+  "produtor": "Esporão",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Touriga Nacional, Syrah, Trincadeira, Alicante Bouschet",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.degusti.com.br/tipo/vinho-rose/vinho-monte-velho-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 87.5,
+  "min": 87.5,
+  "max": 89.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.degusti.com.br/tipo/vinho-rose/vinho-monte-velho-rose-750ml"
+   "Degusti: R$ 89,9, 26/10/2026",
+   "Google Shopping — Empório Vignamazzi: R$ 87,50, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.0,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 89.9,
-    "min": 89.9,
-    "max": 89.9,
-    "ajustes": [],
-    "fontes": [
-      "Degusti: R$ 89,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.0,
-    "complexidade": 7.0,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Morango",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Groselha",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.6,
-    "corpo": 6.8,
-    "tanino_docura": 8.4,
-    "intensidade": 6.8,
-    "final": 6.6,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — vibrante",
-      "Médio",
-      "Seco — coerente",
-      "Moderada — fruta vermelha",
-      "Médio — final vibrante"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.8,
+  "tanino_docura": 8.4,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — vibrante",
+   "Médio",
+   "Seco — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — final vibrante"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,93 +1,97 @@
 {
-  "slug": "norton-select-cabernet-sauvignon",
-  "rank_amazon": null,
-  "pos_lista300": 43,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Werle, esgotado)",
-    "A lista diz 'Norton Cabernet Sauvignon': avaliado o Select"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Norton Select Cabernet Sauvignon",
-    "produtor": "Bodega Norton",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": null,
-    "servir": "17 °C",
-    "estilo": "Seco, 50% em carvalho francês"
-  },
-  "canal": "Supermercado",
+ "slug": "norton-select-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": 43,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Werle, esgotado)",
+  "A lista diz 'Norton Cabernet Sauvignon': avaliado o Select"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Norton Select Cabernet Sauvignon",
+  "produtor": "Bodega Norton",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 50% em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/produtos/vinho-norton-select-cabernet-sauvignon750ml-bzlt/"
+ ],
+ "preco": {
+  "referencia": 79.9,
+  "min": 79.9,
+  "max": 92.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.werlecomercial.com.br/produtos/vinho-norton-select-cabernet-sauvignon750ml-bzlt/"
+   "Werle Comercial: R$ 92,9, 26/10/2026",
+   "Google Shopping — CompreVinho: R$ 79,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 92.9,
-    "min": 92.9,
-    "max": 92.9,
-    "ajustes": [],
-    "fontes": [
-      "Werle Comercial: R$ 92,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Cassis",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas escuras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-vermelha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Tabaco",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Carvalho",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 7.4,
-    "tanino_docura": 7.4,
-    "intensidade": 7.2,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — equilibrada",
-      "Encorpado — bom corpo",
-      "Firme — estruturado",
-      "Pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas escuras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-vermelha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.4,
+  "tanino_docura": 7.4,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — bom corpo",
+   "Firme — estruturado",
+   "Pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,0 +1,133 @@
+{
+ "slug": "profugo-frutos-rojos-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Prófugo Frutos Rojos Malbec",
+  "produtor": "Casa La Primavera (Agrovit)",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco, 6 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.dolcevino.com.br/por-tipo/tinto/vinho-profugo-frutos-rojos-malbec",
+  "https://www.covabra.com.br/vinho-profugo-frutos-rojos-malbec-750ml/p"
+ ],
+ "preco": {
+  "referencia": 29.9,
+  "min": 29.9,
+  "max": 39.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 29,9, 26/10/2026",
+   "Google Shopping — Rissul: R$ 39,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Geleia de ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.6,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — aveludado",
+   "Macio — madeira de 2º/3º uso",
+   "Moderada — fruta madura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec barato com fruta madura e toque de carvalho.",
+  "kicker_identidade": "Malbec de preço baixo",
+  "historico": "O Prófugo é feito pela Casa La Primavera, em Mendoza. Este Malbec passa 6 meses em carvalho.",
+  "degustacao": "Geleia de ameixa, frutas vermelhas e cacau no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#casalaprimaveraagrovit"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/profugo-frutos-rojos-malbec.png"
+}

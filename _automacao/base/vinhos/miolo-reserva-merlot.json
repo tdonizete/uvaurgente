@@ -1,91 +1,95 @@
 {
-  "slug": "miolo-reserva-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 84,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Miolo Reserva Merlot",
-    "produtor": "Miolo",
-    "tipo": "Tinto",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 13.5,
-    "servir": "17 °C",
-    "estilo": "Seco, com madeira"
-  },
-  "canal": "Supermercado",
+ "slug": "miolo-reserva-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 84,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Miolo Reserva Merlot",
+  "produtor": "Miolo",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, com madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-miolo-reserva-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 79.9,
+  "min": 79.9,
+  "max": 91.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-miolo-reserva-merlot-750ml"
+   "Imigrantes Bebidas: R$ 91,99, 26/10/2026",
+   "Google Shopping — Super Alfa: R$ 79,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 91.99,
-    "min": 91.99,
-    "max": 91.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 91,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.4,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas vermelhas maduras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Madeira",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 7.2,
-    "tanino_docura": 7.0,
-    "intensidade": 7.2,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Encorpado — bom volume",
-      "Doce — aveludado",
-      "Pronunciada — bouquet",
-      "Médio — boa persistência"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Madeira",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 7.2,
+  "tanino_docura": 7.0,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — bom volume",
+   "Doce — aveludado",
+   "Pronunciada — bouquet",
+   "Médio — boa persistência"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

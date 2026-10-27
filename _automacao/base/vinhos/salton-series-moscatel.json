@@ -1,91 +1,95 @@
 {
-  "slug": "salton-series-moscatel",
-  "rank_amazon": 37,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço em 1 só fonte (Amazon); Imigrantes sem estoque"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Séries Moscatel",
-    "produtor": "Salton",
-    "tipo": "Espumante",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Moscato",
-    "teor": 7.5,
-    "servir": "6 °C",
-    "estilo": "Moscatel doce"
-  },
-  "canal": "Supermercado",
+ "slug": "salton-series-moscatel",
+ "rank_amazon": 37,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (Amazon); Imigrantes sem estoque"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Séries Moscatel",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 7.5,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/espumante-salton-series-moscatel-750ml",
+  "https://www.salton.com.br/produto/salton-series-moscatel"
+ ],
+ "preco": {
+  "referencia": 38.65,
+  "min": 38.65,
+  "max": 38.77,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/espumante-salton-series-moscatel-750ml",
-    "https://www.salton.com.br/produto/salton-series-moscatel"
+   "Amazon (Mais vendidos): R$ 38,77, 26/10/2026",
+   "Google Shopping — Alto Mercado: R$ 38,65, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.4,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 38.77,
-    "min": 38.77,
-    "max": 38.77,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 38,77, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.4,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Pêssego",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Lichia",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Rosas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Flor de laranjeira",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Abacaxi",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 6.2,
-    "tanino_docura": 7.2,
-    "intensidade": 6.6,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibra o doce",
-      "Leve — coerente com o estilo",
-      "Doce — equilibrado",
-      "Moderada — floral",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Lichia",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Rosas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flor de laranjeira",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.2,
+  "tanino_docura": 7.2,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — equilibrado",
+   "Moderada — floral",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

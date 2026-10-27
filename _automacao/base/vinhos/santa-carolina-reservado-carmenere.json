@@ -1,92 +1,96 @@
 {
-  "slug": "santa-carolina-reservado-carmenere",
-  "rank_amazon": null,
-  "pos_lista300": 25,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)"
+ "slug": "santa-carolina-reservado-carmenere",
+ "rank_amazon": null,
+ "pos_lista300": 25,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Carolina Reservado Carménère",
+  "produtor": "Santa Carolina",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-santa-carolina-reservado-carmenere-750ml"
+ ],
+ "preco": {
+  "referencia": 24.99,
+  "min": 24.99,
+  "max": 29.99,
+  "ajustes": [
+   "promocao_frequente"
   ],
-  "provado": false,
-  "vinho": {
-    "title": "Santa Carolina Reservado Carménère",
-    "produtor": "Santa Carolina",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Carménère",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Meio seco"
-  },
-  "canal": "Supermercado",
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-santa-carolina-reservado-carmenere-750ml"
+   "Imigrantes Bebidas: R$ 24,99, 26/10/2026",
+   "Google Shopping — Hortifruti: R$ 29,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 24.99,
-    "min": 24.99,
-    "max": 24.99,
-    "ajustes": [
-      "promocao_frequente"
-    ],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 24,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.4
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.4,
-    "complexidade": 7.1,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa madura",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas escuras",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.2,
-    "corpo": 6.2,
-    "tanino_docura": 6.0,
-    "intensidade": 6.2,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — macio",
-      "Maduro — meio seco",
-      "Moderada — fruta madura",
-      "Médio — boa persistência"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas escuras",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.2,
+  "tanino_docura": 6.0,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — macio",
+   "Maduro — meio seco",
+   "Moderada — fruta madura",
+   "Médio — boa persistência"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

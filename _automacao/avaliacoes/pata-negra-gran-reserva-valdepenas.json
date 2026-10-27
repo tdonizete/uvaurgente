@@ -1,0 +1,133 @@
+{
+ "slug": "pata-negra-gran-reserva-valdepenas",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pata Negra Gran Reserva",
+  "produtor": "García Carrión",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O. Valdepeñas",
+  "safra": null,
+  "uvas": "Tempranillo",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 18 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://civusa.garciacarrion.com/?p=863",
+  "https://www.werlecomercial.com.br/produtos/vinho-pata-negra-gran-reserva-tempranillo750ml-z4j7/"
+ ],
+ "preco": {
+  "referencia": 144.9,
+  "min": 144.9,
+  "max": 161.91,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 144,9, 26/10/2026",
+   "Google Shopping — Atlas Vinhos: R$ 161,91, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.8,
+  "familias": [
+   "Especiarias",
+   "Madeira",
+   "Oxidativo"
+  ],
+  "top5": [
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Madeira",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Lácteo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Fruta passa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.4,
+  "tanino_docura": 7.2,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — envolvente",
+   "Firme — macio",
+   "Pronunciada — evolução",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tempranillo espanhol de longa barrica, couro e especiarias.",
+  "kicker_identidade": "Gran Reserva espanhol",
+  "historico": "O Pata Negra é da García Carrión, um dos maiores grupos de vinho da Espanha. Este Gran Reserva de Valdepeñas passa 18 meses em carvalho.",
+  "degustacao": "Especiarias, madeira, couro e fruta passa no nariz. Na boca é macio, evoluído e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhoespanha",
+  "#garciacarrion"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/pata-negra-gran-reserva-valdepenas.png"
+}

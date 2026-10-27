@@ -1,0 +1,134 @@
+{
+ "slug": "miolo-lote-43",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Miolo Lote 43",
+  "produtor": "Miolo",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Vale dos Vinhedos",
+  "safra": null,
+  "uvas": "Merlot, Cabernet Sauvignon",
+  "teor": 15.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês e americano"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.werlecomercial.com.br/produtos/vinho-miolo-lote43750ml-safra2022-20a2/"
+ ],
+ "preco": {
+  "referencia": 249.9,
+  "min": 249.9,
+  "max": 255.5,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 249,9, 26/10/2026",
+   "Google Shopping — Bodega del Sur: R$ 255,50, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Trufa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.8,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — robusto",
+   "Macio — firme",
+   "Pronunciada — terciária",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Ícone da Miolo, corte potente e de guarda.",
+  "kicker_identidade": "Ícone do Vale",
+  "historico": "O Lote 43 é o vinho ícone da Miolo, do Vale dos Vinhedos, feito só em boas safras. Corta Merlot e Cabernet Sauvignon com 12 meses em carvalho.",
+  "degustacao": "Ameixa, tabaco, trufa e cacau no nariz. Na boca é encorpado, de tanino firme e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhobrasil",
+  "#miolo"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/miolo-lote-43.png"
+}

@@ -1,0 +1,130 @@
+{
+ "slug": "salton-prosecco-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Prosecco Rosé",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Prosecco (Glera), Pinot Noir",
+  "teor": 11.5,
+  "servir": "6 °C",
+  "estilo": "Brut, método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/produtos/espumante-salton-prosecco-rose750ml-vjem/"
+ ],
+ "preco": {
+  "referencia": 37.9,
+  "min": 37.9,
+  "max": 42.0,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 37,9, 26/10/2026",
+   "Google Shopping — Loja Salton: R$ 42,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 6.9,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.4,
+  "tanino_docura": 8.0,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — refrescante",
+   "Leve — cremoso",
+   "Brut — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Prosecco rosé gaúcho fresco e barato.",
+  "kicker_identidade": "Rosé de bolha leve",
+  "historico": "A Salton está na Serra Gaúcha desde 1910. Este espumante une Glera e Pinot Noir pelo método Charmat.",
+  "degustacao": "Frutas vermelhas, morango e cítricos no nariz. Na boca é seco, fresco e leve.",
+  "harmonizacao": [
+   {
+    "prato": "Salmão defumado",
+    "porque": "Fruta vermelha e borbulha com peixe gordo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Frescor para arroz e peixe cru.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Canapés",
+    "porque": "Abre a festa sem pesar.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pizza de rúcula com tomate seco",
+    "porque": "Acidez para o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#prosecco",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-prosecco-rose.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "salton-brut-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Brut Rosé",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Pinot Noir",
+  "teor": null,
+  "servir": "6 °C",
+  "estilo": "Brut, método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/espumante-salton-brut-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 33.85,
+  "min": 33.85,
+  "max": 37.9,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 37,9, 26/10/2026",
+   "Google Shopping — Empório Incasa: R$ 33,85, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Fermentação"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pão tostado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.4,
+  "tanino_docura": 8.2,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — refrescante",
+   "Leve — cremoso",
+   "Brut — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé brut gaúcho com fruta vermelha e preço baixo.",
+  "kicker_identidade": "Rosé de brinde",
+  "historico": "A Salton está na Serra Gaúcha desde 1910. O Brut Rosé leva Chardonnay e Pinot Noir pelo método Charmat.",
+  "degustacao": "Frutas vermelhas, morango e cítricos no nariz. Na boca é seco, fresco e de bolha viva.",
+  "harmonizacao": [
+   {
+    "prato": "Salmão defumado",
+    "porque": "Fruta vermelha e borbulha com peixe gordo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Frescor para arroz e peixe cru.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Canapés",
+    "porque": "Abre a festa sem pesar.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pizza de rúcula com tomate seco",
+    "porque": "Acidez para o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-brut-rose.png"
+}

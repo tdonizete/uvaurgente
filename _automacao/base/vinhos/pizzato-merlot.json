@@ -1,94 +1,98 @@
 {
-  "slug": "pizzato-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 293,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)",
-    "A lista diz 'Vinho de Altitude Merlot'; a loja não informa a linha",
-    "Teor na página com erro (2,7%)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Pizzato Merlot",
-    "produtor": "Pizzato",
-    "tipo": "Tinto",
-    "pais": "Brasil",
-    "regiao": "Vale dos Vinhedos",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": null,
-    "servir": "17 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "pizzato-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 293,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)",
+  "A lista diz 'Vinho de Altitude Merlot'; a loja não informa a linha",
+  "Teor na página com erro (2,7%)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Pizzato Merlot",
+  "produtor": "Pizzato",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Vale dos Vinhedos",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-pizzato-merlot-750-ml"
+ ],
+ "preco": {
+  "referencia": 125.0,
+  "min": 125.0,
+  "max": 153.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-pizzato-merlot-750-ml"
+   "Imigrantes Bebidas: R$ 153,99, 26/10/2026",
+   "Google Shopping — Brindiamo Vino: R$ 125,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 153.99,
-    "min": 153.99,
-    "max": 153.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 153,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.6,
-    "complexidade": 7.8,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas maduras",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Jabuticaba",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cacau",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Anis",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 7.2,
-    "tanino_docura": 7.2,
-    "intensidade": 7.4,
-    "final": 7.0,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — equilibrada",
-      "Médio a encorpado",
-      "Fino — macio",
-      "Pronunciada",
-      "Médio — retrogosto prolongado"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Jabuticaba",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Anis",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.2,
+  "tanino_docura": 7.2,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Médio a encorpado",
+   "Fino — macio",
+   "Pronunciada",
+   "Médio — retrogosto prolongado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

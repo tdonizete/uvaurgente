@@ -1,0 +1,131 @@
+{
+ "slug": "periquita-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Periquita Rosé",
+  "produtor": "José Maria da Fonseca",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Península de Setúbal",
+  "safra": null,
+  "uvas": "Touriga Nacional, Castelão, Aragonês",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/438701/vinho-rose-portugues-periquita-750ml"
+ ],
+ "preco": {
+  "referencia": 75.99,
+  "min": 75.99,
+  "max": 79.9,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 79,9, 26/10/2026",
+   "Google Shopping — Smiles Shopping: R$ 75,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Rosas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Íris",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.8,
+  "tanino_docura": 8.2,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — agradável",
+   "Médio — aveludado",
+   "Seco — coerente",
+   "Moderada a pronunciada",
+   "Médio — equilibrado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé português seco e delicado, da casa da Periquita.",
+  "kicker_identidade": "Rosé de Setúbal",
+  "historico": "A José Maria da Fonseca está na Península de Setúbal desde 1834. O Periquita Rosé corta Touriga Nacional, Castelão e Aragonês.",
+  "degustacao": "Morango, groselha e rosas no nariz. Na boca é seco, fresco e leve.",
+  "harmonizacao": [
+   {
+    "prato": "Salada caprese",
+    "porque": "Frescor e fruta vermelha com tomate e manjericão.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Peixe rico com acidez viva.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza marguerita",
+    "porque": "Leve, fresco e fácil.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Curinga para sushi e temaki.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frutas vermelhas",
+    "porque": "Fecha a tarde no mesmo tom.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhorose",
+  "#touriganacional",
+  "#vinhoportugal",
+  "#josemariadafonseca"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/periquita-rose.png"
+}

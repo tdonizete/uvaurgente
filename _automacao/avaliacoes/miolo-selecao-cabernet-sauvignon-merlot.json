@@ -1,0 +1,132 @@
+{
+ "slug": "miolo-selecao-cabernet-sauvignon-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Seleção Cabernet Sauvignon & Merlot",
+  "produtor": "Miolo",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon, Merlot",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, com madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-miolo-selecao-cabernet-sauvignon-e-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 37.0,
+  "min": 37.0,
+  "max": 55.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas (garrafa 750 ml): R$ 55,99, 26/10/2026",
+   "Google Shopping — Amburana: R$ 37,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas secas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Madeira",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — macio",
+   "Macio — redondo",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Corte gaúcho redondo e barato para o dia a dia.",
+  "kicker_identidade": "Corte bordalês de entrada",
+  "historico": "A linha Seleção é a porta de entrada da Miolo. Este corte de Cabernet Sauvignon e Merlot tem passagem por madeira.",
+  "degustacao": "Cereja, morango e especiarias, com toque de madeira. Na boca é macio, leve e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhobrasil",
+  "#miolo"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/miolo-selecao-cabernet-sauvignon-merlot.png"
+}

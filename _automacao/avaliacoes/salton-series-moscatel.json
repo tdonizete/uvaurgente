@@ -1,0 +1,132 @@
+{
+ "slug": "salton-series-moscatel",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Séries Moscatel",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 7.5,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/espumante-salton-series-moscatel-750ml",
+  "https://www.salton.com.br/produto/salton-series-moscatel"
+ ],
+ "preco": {
+  "referencia": 38.65,
+  "min": 38.65,
+  "max": 38.77,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 38,77, 26/10/2026",
+   "Google Shopping — Alto Mercado: R$ 38,65, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.4,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Lichia",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Rosas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flor de laranjeira",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.2,
+  "tanino_docura": 7.2,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — equilibrado",
+   "Moderada — floral",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Moscatel gaúcho doce e floral para a sobremesa.",
+  "kicker_identidade": "Doce e perfumado",
+  "historico": "A Salton é uma das vinícolas mais antigas do Brasil, fundada em 1910. A linha Séries é a de entrada da casa.",
+  "degustacao": "Pêssego, lichia e rosas no nariz. Na boca é doce, leve e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Salada de frutas",
+    "porque": "Moscatel e fruta fresca, clássico brasileiro.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Torta de morango",
+    "porque": "Doçura e aroma floral juntos.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Doce de festa para espumante doce.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida árabe com pimenta",
+    "porque": "Dulçor equilibra o tempero.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sorvete de creme",
+    "porque": "Sobremesa simples e gelada.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#moscato",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-series-moscatel.png"
+}

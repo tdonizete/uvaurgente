@@ -1,0 +1,132 @@
+{
+ "slug": "pizzato-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pizzato Merlot",
+  "produtor": "Pizzato",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Vale dos Vinhedos",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-pizzato-merlot-750-ml"
+ ],
+ "preco": {
+  "referencia": 125.0,
+  "min": 125.0,
+  "max": 153.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 153,99, 26/10/2026",
+   "Google Shopping — Brindiamo Vino: R$ 125,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Jabuticaba",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Anis",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.2,
+  "tanino_docura": 7.2,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Médio a encorpado",
+   "Fino — macio",
+   "Pronunciada",
+   "Médio — retrogosto prolongado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot de referência do Vale dos Vinhedos.",
+  "kicker_identidade": "Merlot de vinhateiro",
+  "historico": "A Pizzato é uma vinícola familiar do Vale dos Vinhedos, conhecida pelo Merlot. Este rótulo tem uvas do vinhedo Santa Lúcia.",
+  "degustacao": "Frutas vermelhas maduras, jabuticaba e cacau no nariz. Na boca é macio, encorpado e de final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhobrasil",
+  "#pizzato"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/pizzato-merlot.png"
+}

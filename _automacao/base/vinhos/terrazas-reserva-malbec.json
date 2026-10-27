@@ -1,91 +1,95 @@
 {
-  "slug": "terrazas-reserva-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 118,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Terrazas de los Andes Reserva Malbec",
-    "produtor": "Terrazas de los Andes",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.9,
-    "servir": "17 °C",
-    "estilo": "Seco, com carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "terrazas-reserva-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 118,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Terrazas de los Andes Reserva Malbec",
+  "produtor": "Terrazas de los Andes",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.9,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-terrazas-reserva-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 103.55,
+  "min": 103.55,
+  "max": 107.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-terrazas-reserva-malbec-750ml"
+   "Imigrantes Bebidas: R$ 107,99, 26/10/2026",
+   "Google Shopping — Via Vinum: R$ 103,55, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 107.99,
-    "min": 107.99,
-    "max": 107.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 107,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa doce",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Groselha vermelha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Caramelo",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 7.2,
-    "tanino_docura": 7.0,
-    "intensidade": 7.2,
-    "final": 7.0,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Encorpado — aveludado",
-      "Integrado — macio",
-      "Pronunciada — fruta e madeira",
-      "Médio — final marcante"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa doce",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Groselha vermelha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Caramelo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.2,
+  "tanino_docura": 7.0,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — aveludado",
+   "Integrado — macio",
+   "Pronunciada — fruta e madeira",
+   "Médio — final marcante"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

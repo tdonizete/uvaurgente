@@ -1,0 +1,130 @@
+{
+ "slug": "esporao-monte-velho-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Monte Velho Rosé",
+  "produtor": "Esporão",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Touriga Nacional, Syrah, Trincadeira, Alicante Bouschet",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.degusti.com.br/tipo/vinho-rose/vinho-monte-velho-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 87.5,
+  "min": 87.5,
+  "max": 89.9,
+  "ajustes": [],
+  "fontes": [
+   "Degusti: R$ 89,9, 26/10/2026",
+   "Google Shopping — Empório Vignamazzi: R$ 87,50, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.0,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.8,
+  "tanino_docura": 8.4,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — vibrante",
+   "Médio",
+   "Seco — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — final vibrante"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé alentejano seco, frutado e elegante.",
+  "kicker_identidade": "Rosé do Alentejo",
+  "historico": "O Monte Velho é uma das linhas mais conhecidas do Esporão, no Alentejo. O rosé corta Touriga Nacional, Syrah e Trincadeira.",
+  "degustacao": "Morango, framboesa e cereja no nariz. Na boca é seco, fresco e de final limpo.",
+  "harmonizacao": [
+   {
+    "prato": "Salada caprese",
+    "porque": "Frescor e fruta vermelha com tomate e manjericão.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Peixe rico com acidez viva.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza marguerita",
+    "porque": "Leve, fresco e fácil.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Curinga para sushi e temaki.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frutas vermelhas",
+    "porque": "Fecha a tarde no mesmo tom.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhorose",
+  "#touriganacional",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-monte-velho-rose.png"
+}

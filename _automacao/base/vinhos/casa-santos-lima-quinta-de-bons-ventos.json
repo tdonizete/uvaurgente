@@ -1,92 +1,96 @@
 {
-  "slug": "casa-santos-lima-quinta-de-bons-ventos",
-  "rank_amazon": 44,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [
-    "Preço em 1 só fonte (Amazon)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Quinta de Bons Ventos",
-    "produtor": "Casa Santos Lima",
-    "tipo": "Tinto",
-    "pais": "Portugal",
-    "regiao": "Lisboa (Vinho Regional)",
-    "safra": null,
-    "uvas": "Castelão, Camarate, Tinta Miúda, Touriga Nacional",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco a meio seco, 3–4 meses em carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "casa-santos-lima-quinta-de-bons-ventos",
+ "rank_amazon": 44,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [
+  "Preço em 1 só fonte (Amazon)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Quinta de Bons Ventos",
+  "produtor": "Casa Santos Lima",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Lisboa (Vinho Regional)",
+  "safra": null,
+  "uvas": "Castelão, Camarate, Tinta Miúda, Touriga Nacional",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco a meio seco, 3–4 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://divinparadis.kork.ca/en/our-wineries/casa-santos-lima/quinta-de-bons-ventos/2022",
+  "https://www.saq.com/page/en/saqcom/red-wine/casa-santos-lima-quinta-de-bons-ventos-lisboa/10269388"
+ ],
+ "preco": {
+  "referencia": 49.0,
+  "min": 49.0,
+  "max": 50.9,
+  "ajustes": [],
   "fontes": [
-    "https://divinparadis.kork.ca/en/our-wineries/casa-santos-lima/quinta-de-bons-ventos/2022",
-    "https://www.saq.com/page/en/saqcom/red-wine/casa-santos-lima-quinta-de-bons-ventos-lisboa/10269388"
+   "Amazon (Mais vendidos): R$ 50,9, 26/10/2026",
+   "Google Shopping — Planeta Vino: R$ 49,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.6,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 50.9,
-    "min": 50.9,
-    "max": 50.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 50,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.6,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Frutas negras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias doces",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Alcaçuz",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 6.6,
-    "tanino_docura": 6.8,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — dominante",
-      "Médio — delicado",
-      "Fino — fresco",
-      "Moderada a pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Alcaçuz",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — dominante",
+   "Médio — delicado",
+   "Fino — fresco",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

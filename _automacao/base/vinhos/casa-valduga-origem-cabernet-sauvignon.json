@@ -1,92 +1,96 @@
 {
-  "slug": "casa-valduga-origem-cabernet-sauvignon",
-  "rank_amazon": null,
-  "pos_lista300": 194,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)",
-    "A Werle vende um 'Origem Cabernet Sauvignon Chile': confirmar a origem do rótulo"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Origem Cabernet Sauvignon",
-    "produtor": "Casa Valduga",
-    "tipo": "Tinto",
-    "pais": "Brasil",
-    "regiao": "Vale dos Vinhedos",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": 12.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "casa-valduga-origem-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": 194,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)",
+  "A Werle vende um 'Origem Cabernet Sauvignon Chile': confirmar a origem do rótulo"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Origem Cabernet Sauvignon",
+  "produtor": "Casa Valduga",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Vale dos Vinhedos",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 12.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-origem-casa-valduga-cabernet-sauvignon-750ml"
+ ],
+ "preco": {
+  "referencia": 65.0,
+  "min": 65.0,
+  "max": 74.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-origem-casa-valduga-cabernet-sauvignon-750ml"
+   "Imigrantes Bebidas: R$ 74,99, 26/10/2026",
+   "Google Shopping — Famiglia Valduga (loja oficial): R$ 65,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 74.99,
-    "min": 74.99,
-    "max": 74.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 74,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 6.4,
-    "tanino_docura": 6.2,
-    "intensidade": 6.6,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibrada",
-      "Médio — macio",
-      "Suave — macio",
-      "Moderada — fruta marcante",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.4,
+  "tanino_docura": 6.2,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — macio",
+   "Suave — macio",
+   "Moderada — fruta marcante",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

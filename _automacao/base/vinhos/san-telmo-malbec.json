@@ -1,92 +1,96 @@
 {
-  "slug": "san-telmo-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 101,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)",
-    "A lista diz 'The Grill Master': não confirmado; avaliado o San Telmo Malbec"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "San Telmo Malbec",
-    "produtor": "San Telmo",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "san-telmo-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 101,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)",
+  "A lista diz 'The Grill Master': não confirmado; avaliado o San Telmo Malbec"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "San Telmo Malbec",
+  "produtor": "San Telmo",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-san-telmo-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 67.99,
+  "min": 67.99,
+  "max": 87.56,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-san-telmo-malbec-750ml"
+   "Imigrantes Bebidas: R$ 67,99, 26/10/2026",
+   "Google Shopping — Grandes Vinhos: R$ 87,56, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 67.99,
-    "min": 67.99,
-    "max": 67.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 67,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.8,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas negras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cassis",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.4,
-    "tanino_docura": 6.2,
-    "intensidade": 6.4,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibrada",
-      "Médio — macio",
-      "Macio — suave",
-      "Moderada — fruta negra",
-      "Médio — toque de especiaria"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.2,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — macio",
+   "Macio — suave",
+   "Moderada — fruta negra",
+   "Médio — toque de especiaria"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

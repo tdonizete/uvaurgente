@@ -1,0 +1,133 @@
+{
+ "slug": "vinovalie-rose-piscine-stripes",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Rosé Piscine Stripes",
+  "produtor": "Vinovalie",
+  "tipo": "Rosé",
+  "pais": "França",
+  "regiao": "Sudoeste (Fronton)",
+  "safra": null,
+  "uvas": "Négrette",
+  "teor": 11.0,
+  "servir": "8 °C",
+  "estilo": "Meio seco, pensado para servir com gelo"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.delectable.com/wine/vinovalie/piscine-rose-blend/--",
+  "https://www.auchan.fr/vin-de-france-rose-piscine-rose/pr-C1280969"
+ ],
+ "preco": {
+  "referencia": 59.0,
+  "min": 59.0,
+  "max": 89.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 59,0, 26/10/2026",
+   "Google Shopping — Imigrantes Bebidas: R$ 89,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta-branca",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.4,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — crocante",
+   "Leve a médio",
+   "Meio seco — leve dulçor",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé francês para tomar com gelo à beira da piscina.",
+  "kicker_identidade": "Rosé com gelo",
+  "historico": "A Vinovalie é uma cooperativa do sudoeste da França, na região de Fronton. O Rosé Piscine é feito com Négrette e pensado para servir com gelo.",
+  "degustacao": "Morango, framboesa e cítricos no nariz. Na boca é leve, meio seco e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Salada caprese",
+    "porque": "Frescor e fruta vermelha com tomate e manjericão.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Peixe rico com acidez viva.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza marguerita",
+    "porque": "Leve, fresco e fácil.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Curinga para sushi e temaki.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frutas vermelhas",
+    "porque": "Fecha a tarde no mesmo tom.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhorose",
+  "#negrette",
+  "#vinhofranca",
+  "#vinovalie"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/vinovalie-rose-piscine-stripes.png"
+}

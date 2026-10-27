@@ -1,0 +1,135 @@
+{
+ "slug": "moet-chandon-brut-imperial",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Moët & Chandon Brut Impérial",
+  "produtor": "Moët & Chandon",
+  "tipo": "Espumante",
+  "pais": "França",
+  "regiao": "Champagne",
+  "safra": null,
+  "uvas": "Pinot Noir, Pinot Meunier, Chardonnay",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Brut, método tradicional"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/154431/champagne-frances-moet-imperial-brut-750ml",
+  "https://www.imigrantesbebidas.com.br/champagne-moet-imperial-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 399.99,
+  "min": 399.99,
+  "max": 403.66,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 399,99, 26/10/2026",
+   "Google Shopping — Banca do Ramon: R$ 403,66, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 9.0
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 7.8,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Fermentação"
+  ],
+  "top5": [
+   {
+    "nome": "Maçã verde",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Brioche",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Nozes frescas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 7.4,
+  "tanino_docura": 8.8,
+  "intensidade": 7.6,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — cítrica",
+   "Médio — delicado",
+   "Brut — coerente",
+   "Pronunciada — fruta e fermento",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "O champagne mais conhecido do mundo, seco e fresco.",
+  "kicker_identidade": "Champagne de celebração",
+  "historico": "A Moët & Chandon foi fundada em Épernay em 1743. O Brut Impérial leva Pinot Noir, Meunier e Chardonnay pelo método tradicional.",
+  "degustacao": "Maçã verde, cítricos e brioche no nariz. Na boca tem acidez viva, bolha fina e final tostado.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#pinotnoir",
+  "#vinhofranca",
+  "#moetchandon"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/moet-chandon-brut-imperial.png"
+}

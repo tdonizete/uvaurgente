@@ -1,91 +1,95 @@
 {
-  "slug": "santa-carolina-reservado-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 26,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)"
+ "slug": "santa-carolina-reservado-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 26,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Carolina Reservado Merlot",
+  "produtor": "Santa Carolina",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-santa-carolina-reservado-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 22.99,
+  "min": 22.99,
+  "max": 34.9,
+  "ajustes": [
+   "promocao_frequente"
   ],
-  "provado": false,
-  "vinho": {
-    "title": "Santa Carolina Reservado Merlot",
-    "produtor": "Santa Carolina",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Meio seco"
-  },
-  "canal": "Supermercado",
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-santa-carolina-reservado-merlot-750ml"
+   "Imigrantes Bebidas: R$ 22,99, 26/10/2026",
+   "Google Shopping — Mateus Mais: R$ 34,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 22.99,
-    "min": 22.99,
-    "max": 22.99,
-    "ajustes": [
-      "promocao_frequente"
-    ],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 22,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.4
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.4,
-    "complexidade": 6.6,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas escuras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.0,
-    "corpo": 6.2,
-    "tanino_docura": 5.8,
-    "intensidade": 6.0,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — aveludado",
-      "Macio — meio seco",
-      "Moderada — fruta simples",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas escuras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.2,
+  "tanino_docura": 5.8,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — aveludado",
+   "Macio — meio seco",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

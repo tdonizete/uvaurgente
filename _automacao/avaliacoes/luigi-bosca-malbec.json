@@ -1,0 +1,132 @@
+{
+ "slug": "luigi-bosca-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Luigi Bosca Malbec",
+  "produtor": "Luigi Bosca",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza (Luján de Cuyo)",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.4,
+  "servir": "17 °C",
+  "estilo": "Seco, malolática em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-luigi-bosca-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 161.4,
+  "min": 161.4,
+  "max": 219.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 219,99, 26/10/2026",
+   "Google Shopping — Amazon (vendedor parceiro): R$ 161,40, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas ácidas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Menta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Encorpado — bem estruturado",
+   "Firme — macio",
+   "Pronunciada — fruta madura",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de Luján de Cuyo, elegante e com madeira.",
+  "kicker_identidade": "Malbec de família",
+  "historico": "A Luigi Bosca é uma vinícola familiar de Mendoza fundada em 1901. Este Malbec faz a malolática em carvalho francês.",
+  "degustacao": "Ameixa madura, especiarias e menta no nariz. Na boca é encorpado, fresco e de final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#luigibosca"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/luigi-bosca-malbec.png"
+}

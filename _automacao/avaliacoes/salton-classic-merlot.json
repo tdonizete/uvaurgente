@@ -1,0 +1,131 @@
+{
+ "slug": "salton-classic-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Classic Merlot",
+  "produtor": "Salton",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-salton-classic-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 26.9,
+  "min": 26.9,
+  "max": 27.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 27,99, 26/10/2026",
+   "Google Shopping — Koch: R$ 26,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.2,
+  "tanino_docura": 6.2,
+  "intensidade": 6.2,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — macio",
+   "Agradável — macio",
+   "Moderada — fruta silvestre",
+   "Médio — final persistente"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot gaúcho simples e barato para a semana.",
+  "kicker_identidade": "Tinto de supermercado",
+  "historico": "A linha Classic é a de entrada da Salton, vinícola da Serra Gaúcha fundada em 1910. Este Merlot é seco e sem madeira aparente.",
+  "degustacao": "Frutas silvestres, cereja e ameixa no nariz. Na boca é leve, macio e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-classic-merlot.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "esporao-monte-velho-tinto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Monte Velho Tinto",
+  "produtor": "Esporão",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Alentejo (Regional Alentejano)",
+  "safra": null,
+  "uvas": "Aragonez, Trincadeira, Touriga Nacional, Syrah",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://esporao.com/en/wine/monte-velho-red/2024",
+  "https://www.imigrantesbebidas.com.br/vinho-monte-velho-tinto-alentejo-750ml"
+ ],
+ "preco": {
+  "referencia": 79.9,
+  "min": 79.9,
+  "max": 79.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 79,99, 26/10/2026",
+   "Google Shopping — Offer Importados: R$ 79,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutos silvestres vermelhos",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Resinoso",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Médio — equilibrado",
+   "Macio — suave",
+   "Moderada — fruta vermelha",
+   "Médio — final que permanece"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto alentejano clássico, frutado e sem madeira.",
+  "kicker_identidade": "Alentejo de sempre",
+  "historico": "O Monte Velho é a linha mais conhecida do Esporão, no Alentejo. Corta Aragonez, Trincadeira, Touriga Nacional e Syrah, sem madeira.",
+  "degustacao": "Frutos silvestres, cereja e notas resinosas no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Bacalhau à Brás",
+    "porque": "Tinto português com prato português.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Leitão assado",
+    "porque": "Gordura e pele crocante com fruta madura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Arroz de pato",
+    "porque": "Estrutura para um prato rico.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo da Serra",
+    "porque": "Cremoso e salgado com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos assados",
+    "porque": "Terroso e macio.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#aragonez",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-monte-velho-tinto.png"
+}

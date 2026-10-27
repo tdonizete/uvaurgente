@@ -1,0 +1,134 @@
+{
+ "slug": "perez-cruz-gran-reserva-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pérez Cruz Gran Reserva Cabernet Sauvignon",
+  "produtor": "Viña Pérez Cruz",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Maipo Andes",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em barrica"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.lcbo.com/en/p-crez-cruz-reserva-cabernet-sauvignon-694208",
+  "https://www.wine.com.br/vinhos/perez-cruz-gran-reserva-d-o-maipo-andes-cabernet-sauvignon-2022/prod30933.html",
+  "https://www.imigrantesbebidas.com.br/vinho-perez-cruz-gran-reserva-cabernet-sauvignon-750ml"
+ ],
+ "preco": {
+  "referencia": 62.07,
+  "min": 62.07,
+  "max": 94.0,
+  "ajustes": [],
+  "fontes": [
+   "Wine.com.br: R$ 94,0, 26/10/2026",
+   "Google Shopping — Mercado Livre: R$ 62,07, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Menta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — elegante",
+   "Encorpado — estruturado",
+   "Maduro — firme",
+   "Pronunciada — cassis",
+   "Médio — final suculento"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet do Maipo Andes com cassis e menta.",
+  "kicker_identidade": "Maipo de verdade",
+  "historico": "A Viña Pérez Cruz fica no Maipo Andes, no Chile. O Gran Reserva Cabernet passa 12 meses em barrica.",
+  "degustacao": "Cassis, menta e pimenta-preta no nariz. Na boca tem tanino firme, fruta escura e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinaperezcruz"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/perez-cruz-gran-reserva-cabernet-sauvignon.png"
+}
