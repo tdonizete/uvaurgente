@@ -120,6 +120,13 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L178 | Moët & Chandon Brut Impérial | França | Espumante | R$ 399,99 | 9,0 | 8,3 | 7,9 | 5,9 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, anunciado como 'Extra Brut'; confirmar rótulo) |
 | L181 | Salton Classic Cabernet Sauvignon | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
 | L182 | Salton Classic Merlot | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L188 | Vinícola Aurora Aurora Reserva Chardonnay | Brasil | Branco | R$ 54,99 | 7,8 | 7,3 | 7,0 | 6,8 | B | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L189 | Vinícola Aurora Aurora Colheita Tardia Branco (500 ml) | Brasil | Branco | R$ 31,49 | 8,0 | 7,4 | 6,8 | 8,6 | B | **7,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Vinho de sobremesa: comparar só com outros doces |
+| L190 | Vinícola Aurora Marcus James Cabernet Sauvignon | Brasil | Tinto | R$ 25,90 | 7,4 | 7,0 | 6,0 | 7,5 | B | **6,8** | Sem Pressa | média | — |
+| L191 | Vinícola Aurora Marcus James Merlot | Brasil | Tinto | R$ 25,90 | 7,4 | 7,0 | 5,9 | 7,5 | — | **6,0** | Sem Urgência | média | — |
+| L194 | Casa Valduga Origem Cabernet Sauvignon | Brasil | Tinto | R$ 74,99 | 7,8 | 7,4 | 6,4 | 6,5 | B | **6,8** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A Werle vende um 'Origem Cabernet Sauvignon Chile': confirmar a origem do rótulo |
+| L196 | Casa Perini Vitis Marselan | Brasil | Tinto | R$ 60,90 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Perfil em 1 só fonte (Werle); teor não informado |
+| L200 | Salton Brut Rosé | Brasil | Espumante | R$ 37,90 | 8,0 | 7,4 | 7,0 | 8,8 | B | **7,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
 
 ## Sem ficha (fora da pontuação)
 

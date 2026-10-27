@@ -1293,91 +1293,106 @@
    "pos": 184,
    "nome": "Salton Volpi Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Volpi Merlot: não encontrado em loja consultada"
   },
   {
    "pos": 185,
    "nome": "Salton Volpi Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Volpi Cabernet Sauvignon: não encontrado em loja consultada"
   },
   {
    "pos": 186,
    "nome": "Salton Ouro Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Salton Ouro Cabernet Sauvignon: Salton Ouro é linha de espumantes; tinto não identificado"
   },
   {
    "pos": 187,
    "nome": "Aurora Reserva Pinot Noir",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Aurora Reserva Pinot Noir: não encontrado em loja consultada"
   },
   {
    "pos": 188,
    "nome": "Aurora Reserva Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-reserva-chardonnay"
   },
   {
    "pos": 189,
    "nome": "Aurora Colheita Tardia Branco",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-colheita-tardia-branco"
   },
   {
    "pos": 190,
    "nome": "Marcus James Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "marcus-james-cabernet-sauvignon"
   },
   {
    "pos": 191,
    "nome": "Marcus James Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "marcus-james-merlot"
   },
   {
    "pos": 192,
    "nome": "Rio Sol Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Rio Sol Cabernet Sauvignon: não encontrado em loja consultada"
   },
   {
    "pos": 193,
    "nome": "Rio Sol Syrah",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Rio Sol Syrah: não encontrado em loja consultada"
   },
   {
    "pos": 194,
    "nome": "Casa Valduga Origem Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "casa-valduga-origem-cabernet-sauvignon"
   },
   {
    "pos": 195,
    "nome": "Casa Valduga Arte Marselan-Malbec",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Casa Valduga Arte Marselan-Malbec: não encontrado em loja consultada"
   },
   {
    "pos": 196,
    "nome": "Casa Perini Vitis Marselan",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "casa-perini-vitis-marselan"
   },
   {
    "pos": 197,
    "nome": "Salton Campanha Marselan-Tannat",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Salton Campanha Marselan-Tannat: só anúncio antigo (safra 2016)"
   },
   {
    "pos": 198,
    "nome": "Miolo Seival Tempranillo",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Miolo Seival Tempranillo: não encontrado em loja consultada"
   },
   {
    "pos": 199,
@@ -1390,55 +1405,64 @@
    "pos": 200,
    "nome": "Espumante Salton Brut Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "salton-brut-rose"
   },
   {
    "pos": 201,
    "nome": "Catena Appellation Vista Flores Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Catena Appellation Vista Flores Malbec: Mistral vende a linha Appellation Lunlunta, não Vista Flores"
   },
   {
    "pos": 202,
    "nome": "Bramare Malbec Vale do Uco",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Bramare Malbec Valle de Uco: não encontrado em loja consultada"
   },
   {
    "pos": 203,
    "nome": "Achaval-Ferrer Mendoza Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Achaval-Ferrer Mendoza Malbec: só anúncios de safras antigas (2013–2016)"
   },
   {
    "pos": 204,
    "nome": "Achaval-Ferrer Quimera",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Achaval-Ferrer Quimera: só anúncios de safras antigas (2010–2012)"
   },
   {
    "pos": 205,
    "nome": "Zuccardi Serie A Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Zuccardi Serie A Malbec: preço Pão de Açúcar R$ 189,90, sem descrição sensorial"
   },
   {
    "pos": 206,
    "nome": "Zuccardi Serie A Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Zuccardi Serie A Cabernet Sauvignon: não encontrado em loja consultada"
   },
   {
    "pos": 207,
    "nome": "Zuccardi Q Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Zuccardi Q Malbec: não encontrado em loja consultada"
   },
   {
    "pos": 208,
    "nome": "Finca Sophenia Synthesis Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Finca Sophenia Synthesis Malbec: não encontrado em loja consultada"
   },
   {
    "pos": 209,
