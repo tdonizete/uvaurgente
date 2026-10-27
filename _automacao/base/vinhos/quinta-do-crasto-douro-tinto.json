@@ -1,0 +1,91 @@
+{
+  "slug": "quinta-do-crasto-douro-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 149,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Imigrantes)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Crasto Douro Tinto",
+    "produtor": "Quinta do Crasto",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Douro (DOC)",
+    "safra": null,
+    "uvas": "Tinta Roriz, Tinta Barroca, Touriga Franca, Touriga Nacional",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-crasto-douro-d-o-c-750ml"
+  ],
+  "preco": {
+    "referencia": 203.99,
+    "min": 203.99,
+    "max": 203.99,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 203,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Frutos vermelhos",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Esteva",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.4,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Encorpado — bem definido",
+      "Firme",
+      "Pronunciada — vigorosa",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

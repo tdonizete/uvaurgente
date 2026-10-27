@@ -1,0 +1,93 @@
+{
+  "slug": "esporao-reserva-branco",
+  "rank_amazon": null,
+  "pos_lista300": 146,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Pão de Açúcar)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Esporão Reserva Branco",
+    "produtor": "Esporão",
+    "tipo": "Branco",
+    "pais": "Portugal",
+    "regiao": "Alentejo (DOC)",
+    "safra": null,
+    "uvas": "Antão Vaz, Arinto, Roupeiro",
+    "teor": 13.5,
+    "servir": "10 °C",
+    "estilo": "Seco, 6 meses sobre borras, 26% fermentado em carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://esporao.com/pt/vinhos/esporao-reserva-branco/2024",
+    "https://www.paodeacucar.com/produto/18645/vinho-portugues-branco-esporao-750ml"
+  ],
+  "preco": {
+    "referencia": 249.9,
+    "min": 249.9,
+    "max": 249.9,
+    "ajustes": [],
+    "fontes": [
+      "Pão de Açúcar: R$ 249,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.8,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta de polpa branca",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Casca de pêssego",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flor de laranjeira",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Noz-moscada",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pimenta-branca",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 7.6,
+    "tanino_docura": 8.6,
+    "intensidade": 7.8,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — equilibrada",
+      "Encorpado — amplo e cremoso",
+      "Seco — coerente",
+      "Pronunciada — rica",
+      "Médio — final intenso"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

@@ -107,6 +107,13 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L123 | Viña de Aguirre Santa Loreto Merlot | Chile | Tinto | R$ 18,90 | 7,4 | 7,2 | 6,0 | 7,7 | B | **6,9** | Sem Pressa | baixa | Preço em 1 só fonte (Super Adega) |
 | L130 | San Pedro Gato Negro Sauvignon Blanc | Chile | Branco | R$ 39,99 | 7,6 | 7,2 | 6,9 | 8,3 | B | **7,4** | Sem Pressa | média | — |
 | L138 | Viña Montes Montes Classic Series Reserva Cabernet Sauvignon | Chile | Tinto | R$ 125,90 | 8,2 | 7,7 | 6,7 | 6,1 | BC | **7,0** | Sem Pressa | média | — |
+| L140 | Viña Montes Montes Classic Series Reserva Merlot | Chile | Tinto | R$ 119,99 | 8,2 | 7,5 | 6,8 | 6,1 | B | **6,9** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L141 | José Maria da Fonseca Periquita Reserva | Portugal | Tinto | R$ 99,90 | 8,4 | 7,9 | 7,0 | 6,6 | BC | **7,3** | Sem Pressa | alta | — |
+| L143 | José Maria da Fonseca Periquita Rosé | Portugal | Rosé | R$ 79,90 | 8,2 | 7,6 | 7,2 | 7,4 | B | **7,5** | Sem Pressa | média | Preço e perfil em 1 só fonte (Pão de Açúcar) |
+| L145 | Esporão Monte Velho Rosé | Portugal | Rosé | R$ 89,90 | 8,2 | 7,4 | 7,2 | 6,3 | B | **7,1** | Sem Pressa | média | Preço e perfil em 1 só fonte (Degusti) |
+| L146 | Esporão Reserva Branco | Portugal | Branco | R$ 249,90 | 8,6 | 8,1 | 7,8 | 6,5 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar) |
+| L147 | Esporão Reserva Tinto | Portugal | Tinto | R$ 229,90 | 8,8 | 8,3 | 7,8 | 6,6 | BIC | **7,7** | Sem Pressa | alta | Final longo citado só pelo produtor; usado final médio |
+| L149 | Quinta do Crasto Crasto Douro Tinto | Portugal | Tinto | R$ 203,99 | 8,4 | 7,8 | 7,4 | 5,9 | BI | **7,2** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
 
 ## Sem ficha (fora da pontuação)
 

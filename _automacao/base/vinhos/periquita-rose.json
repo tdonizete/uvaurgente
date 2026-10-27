@@ -1,0 +1,91 @@
+{
+  "slug": "periquita-rose",
+  "rank_amazon": null,
+  "pos_lista300": 143,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Pão de Açúcar)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Periquita Rosé",
+    "produtor": "José Maria da Fonseca",
+    "tipo": "Rosé",
+    "pais": "Portugal",
+    "regiao": "Península de Setúbal",
+    "safra": null,
+    "uvas": "Touriga Nacional, Castelão, Aragonês",
+    "teor": 13.0,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/438701/vinho-rose-portugues-periquita-750ml"
+  ],
+  "preco": {
+    "referencia": 79.9,
+    "min": 79.9,
+    "max": 79.9,
+    "ajustes": [],
+    "fontes": [
+      "Pão de Açúcar: R$ 79,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Rosas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Íris",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 6.8,
+    "tanino_docura": 8.2,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — agradável",
+      "Médio — aveludado",
+      "Seco — coerente",
+      "Moderada a pronunciada",
+      "Médio — equilibrado"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

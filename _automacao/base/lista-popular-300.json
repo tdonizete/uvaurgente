@@ -977,133 +977,156 @@
    "pos": 139,
    "nome": "Montes Reserva Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Montes Classic Reserva Carménère: não encontrado em loja brasileira consultada"
   },
   {
    "pos": 140,
    "nome": "Montes Reserva Merlot",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "montes-classic-reserva-merlot"
   },
   {
    "pos": 141,
    "nome": "Periquita Reserva",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "periquita-reserva"
   },
   {
    "pos": 142,
    "nome": "Periquita Clássico Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "ja_na_base",
+   "slug": "periquita-branco",
+   "motivo": "mesmo vinho do item 34"
   },
   {
    "pos": 143,
    "nome": "Periquita Rosé",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "periquita-rose"
   },
   {
    "pos": 144,
    "nome": "Monte Velho Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Monte Velho Branco: ficha do produtor, sem preço (Degusti e Pão de Açúcar indisponíveis)"
   },
   {
    "pos": 145,
    "nome": "Monte Velho Rosé",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "esporao-monte-velho-rose"
   },
   {
    "pos": 146,
    "nome": "Esporão Reserva Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "esporao-reserva-branco"
   },
   {
    "pos": 147,
    "nome": "Esporão Reserva Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "esporao-reserva-tinto"
   },
   {
    "pos": 148,
    "nome": "Herdade do Esporão Private Selection",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Esporão Private Selection: ficha do produtor, sem preço no Brasil"
   },
   {
    "pos": 149,
    "nome": "Quinta do Crasto Douro Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "quinta-do-crasto-douro-tinto"
   },
   {
    "pos": 150,
    "nome": "Quinta do Crasto Douro Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Crasto Douro Branco: sem preço no Brasil"
   },
   {
    "pos": 151,
    "nome": "Douro Val Moreira Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Val Moreira Tinto: só Portugal"
   },
   {
    "pos": 152,
    "nome": "Douro Val Moreira Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Val Moreira Branco: só Portugal"
   },
   {
    "pos": 153,
    "nome": "Vale do Sílio Tinto",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Vale do Sílio Tinto: não encontrado no Brasil"
   },
   {
    "pos": 154,
    "nome": "Vale do Sílio Branco",
    "pais": "Portugal",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Vale do Sílio Branco: não encontrado no Brasil"
   },
   {
    "pos": 155,
    "nome": "Conde de Valdemar Crianza",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Conde de Valdemar Crianza: sem preço no Brasil"
   },
   {
    "pos": 156,
    "nome": "Marqués de Cáceres Crianza",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Marqués de Cáceres Crianza: só anúncio antigo (safra 2013, esgotado)"
   },
   {
    "pos": 157,
    "nome": "Marqués de Cáceres Rosado",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Marqués de Cáceres Rosado: sem preço no Brasil"
   },
   {
    "pos": 158,
    "nome": "Campo Viejo Tempranillo",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Campo Viejo Tempranillo: sem preço no Brasil"
   },
   {
    "pos": 159,
    "nome": "Campo Viejo Crianza",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Campo Viejo Crianza: sem preço no Brasil"
   },
   {
    "pos": 160,
    "nome": "Torres Sangre de Toro",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Torres Sangre de Toro: página do Pão de Açúcar fora do ar; só anúncio antigo na Wine"
   },
   {
    "pos": 161,

@@ -1,0 +1,97 @@
+{
+  "slug": "esporao-reserva-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 147,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [
+    "Final longo citado só pelo produtor; usado final médio"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Esporão Reserva Tinto",
+    "produtor": "Esporão",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Alentejo (DOC)",
+    "safra": null,
+    "uvas": "Alicante Bouschet, Aragonez, Syrah, Trincadeira, Cabernet Sauvignon, Touriga Franca",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://esporao.com/pt/vinhos/esporao-reserva-red/2020",
+    "https://www.paodeacucar.com/produto/33605/vinho-portugues-tinto-esporao-garrafa-750ml",
+    "https://www.imigrantesbebidas.com.br/vinho-esporao-reserva-750ml"
+  ],
+  "preco": {
+    "referencia": 229.9,
+    "min": 229.9,
+    "max": 249.99,
+    "ajustes": [],
+    "fontes": [
+      "Pão de Açúcar: R$ 229,9, 26/10/2026",
+      "Imigrantes Bebidas: R$ 249,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.0,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Amora preta",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Compota de mirtilo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate amargo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.0,
+    "tanino_docura": 8.0,
+    "intensidade": 8.0,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — sustenta",
+      "Encorpado — denso",
+      "Firme — estruturado",
+      "Pronunciada — rica",
+      "Médio — cerca de 7 segundos (sem dado de duração)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}
