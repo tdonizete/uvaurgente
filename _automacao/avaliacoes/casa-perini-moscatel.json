@@ -1,0 +1,133 @@
+{
+ "slug": "casa-perini-moscatel",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casa Perini Moscatel",
+  "produtor": "Casa Perini",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha (Farroupilha)",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 8.0,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://loja.casaperini.com.br/espumante-moscatel-750ml-casa-perini",
+  "https://www.paodeacucar.com/produto/69590/espumante-brasileiro-casa-perini-moscatel-asti-750ml"
+ ],
+ "preco": {
+  "referencia": 50.21,
+  "min": 50.21,
+  "max": 79.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 50,21, 26/10/2026",
+   "Loja Casa Perini: R$ 61,9, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Uva moscatel",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.4,
+  "tanino_docura": 7.4,
+  "intensidade": 6.8,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — equilibrado",
+   "Moderada — muito frutado",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Moscatel de Farroupilha, referência brasileira do estilo.",
+  "kicker_identidade": "Moscatel de Farroupilha",
+  "historico": "A Casa Perini fica em Farroupilha, polo do Moscatel brasileiro. Este espumante é doce e de uva Moscato.",
+  "degustacao": "Pêssego, uva moscatel e flores brancas no nariz. Na boca é doce, leve e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Salada de frutas",
+    "porque": "Moscatel e fruta fresca, clássico brasileiro.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Torta de morango",
+    "porque": "Doçura e aroma floral juntos.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Doce de festa para espumante doce.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida árabe com pimenta",
+    "porque": "Dulçor equilibra o tempero.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sorvete de creme",
+    "porque": "Sobremesa simples e gelada.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#moscato",
+  "#vinhobrasil",
+  "#casaperini"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casa-perini-moscatel.png"
+}

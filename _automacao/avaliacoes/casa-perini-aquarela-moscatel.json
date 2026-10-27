@@ -1,0 +1,133 @@
+{
+ "slug": "casa-perini-aquarela-moscatel",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Aquarela Moscatel",
+  "produtor": "Casa Perini",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha (Farroupilha)",
+  "safra": null,
+  "uvas": "Moscato Bianco, Moscato Giallo, Moscato de Hamburgo",
+  "teor": 7.5,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://loja.casaperini.com.br/espumante-aquarela-750ml-casa-perini",
+  "https://www.paodeacucar.com/produto/297649/espumante-brasileiro-casa-perini-aquarela-750ml"
+ ],
+ "preco": {
+  "referencia": 63.7,
+  "min": 63.7,
+  "max": 79.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 63,7, 26/10/2026",
+   "Loja Casa Perini: R$ 68,9, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.8,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Casca de laranja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Jasmim",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Uva moscatel",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.0,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — segura o açúcar",
+   "Leve — coerente com o estilo",
+   "Doce — equilibrado pela acidez",
+   "Pronunciada — muito aromático",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Moscatel rosado de Farroupilha, aromático e doce.",
+  "kicker_identidade": "Moscatel colorido",
+  "historico": "A Casa Perini fica em Farroupilha, polo do Moscatel brasileiro. O Aquarela corta três Moscatos, inclusive o de Hamburgo.",
+  "degustacao": "Casca de laranja, jasmim e pêssego no nariz. Na boca é doce, leve e aromático.",
+  "harmonizacao": [
+   {
+    "prato": "Salada de frutas",
+    "porque": "Moscatel e fruta fresca, clássico brasileiro.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Torta de morango",
+    "porque": "Doçura e aroma floral juntos.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Doce de festa para espumante doce.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida árabe com pimenta",
+    "porque": "Dulçor equilibra o tempero.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sorvete de creme",
+    "porque": "Sobremesa simples e gelada.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#moscatobianco",
+  "#vinhobrasil",
+  "#casaperini"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casa-perini-aquarela-moscatel.png"
+}

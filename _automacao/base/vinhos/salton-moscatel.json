@@ -1,90 +1,93 @@
 {
-  "slug": "salton-moscatel",
-  "rank_amazon": 19,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Salton Moscatel",
-    "produtor": "Salton",
-    "tipo": "Espumante",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Moscato",
-    "teor": 8.0,
-    "servir": "6 °C",
-    "estilo": "Moscatel doce"
-  },
-  "canal": "Supermercado",
+ "slug": "salton-moscatel",
+ "rank_amazon": 19,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Salton Moscatel",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 8.0,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/26680/espumante-doce-moscatel-salton-garrafa-750ml",
+  "https://www.salton.com.br"
+ ],
+ "preco": {
+  "referencia": 37.0,
+  "min": 37.0,
+  "max": 55.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/26680/espumante-doce-moscatel-salton-garrafa-750ml",
-    "https://www.salton.com.br"
+   "Amazon (Mais vendidos): R$ 37,0, 26/10/2026",
+   "Pão de Açúcar: R$ 55,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.6,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 37.0,
-    "min": 37.0,
-    "max": 55.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 37,0, 26/10/2026",
-      "Pão de Açúcar: R$ 55,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.6,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Uva moscatel",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Flores brancas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pêssego",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Mel",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 6.2,
-    "tanino_docura": 7.4,
-    "intensidade": 6.8,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — leve, equilibra o doce",
-      "Leve — coerente com o estilo",
-      "Doce — equilibrado",
-      "Pronunciada — muita fruta",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Uva moscatel",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.2,
+  "tanino_docura": 7.4,
+  "intensidade": 6.8,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — leve, equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — equilibrado",
+   "Pronunciada — muita fruta",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

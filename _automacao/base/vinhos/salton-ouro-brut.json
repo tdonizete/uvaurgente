@@ -1,91 +1,94 @@
 {
-  "slug": "salton-ouro-brut",
-  "rank_amazon": 41,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Salton Ouro Brut",
-    "produtor": "Salton",
-    "tipo": "Espumante",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Chardonnay, Pinot Noir, Riesling",
-    "teor": 12.0,
-    "servir": "6 °C",
-    "estilo": "Brut"
-  },
-  "canal": "Supermercado",
+ "slug": "salton-ouro-brut",
+ "rank_amazon": 41,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Salton Ouro Brut",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Pinot Noir, Riesling",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Brut"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/156351/espumante-brasileiro-salton-ouro-brut-750ml",
+  "https://www.imigrantesbebidas.com.br/espumante-salton-ouro-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 44.16,
+  "min": 44.16,
+  "max": 75.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/156351/espumante-brasileiro-salton-ouro-brut-750ml",
-    "https://www.imigrantesbebidas.com.br/espumante-salton-ouro-brut-750ml"
+   "Amazon (Mais vendidos): R$ 44,16, 26/10/2026",
+   "Pão de Açúcar: R$ 75,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Fermentação",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 44.16,
-    "min": 44.16,
-    "max": 75.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 44,16, 26/10/2026",
-      "Pão de Açúcar: R$ 75,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Fermentação",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Brioche",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amêndoa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Nozes",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Mel",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.8,
-    "corpo": 7.0,
-    "tanino_docura": 8.4,
-    "intensidade": 7.2,
-    "final": 7.0,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — frescor marcante",
-      "Médio — cremosidade delicada",
-      "Brut — coerente",
-      "Pronunciada — fermento e fruta",
-      "Médio — cerca de 7 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Brioche",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amêndoa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Nozes",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.0,
+  "tanino_docura": 8.4,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor marcante",
+   "Médio — cremosidade delicada",
+   "Brut — coerente",
+   "Pronunciada — fermento e fruta",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

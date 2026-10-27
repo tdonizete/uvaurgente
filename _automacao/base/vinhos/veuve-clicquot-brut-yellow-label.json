@@ -1,93 +1,96 @@
 {
-  "slug": "veuve-clicquot-brut-yellow-label",
-  "rank_amazon": null,
-  "pos_lista300": 177,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Veuve Clicquot Brut (Yellow Label)",
-    "produtor": "Veuve Clicquot",
-    "tipo": "Espumante",
-    "pais": "França",
-    "regiao": "Champagne",
-    "safra": null,
-    "uvas": "Pinot Noir, Pinot Meunier, Chardonnay",
-    "teor": 12.5,
-    "servir": "8 °C",
-    "estilo": "Brut (9–10 g/L), método tradicional"
-  },
-  "canal": "Supermercado",
+ "slug": "veuve-clicquot-brut-yellow-label",
+ "rank_amazon": null,
+ "pos_lista300": 177,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Veuve Clicquot Brut (Yellow Label)",
+  "produtor": "Veuve Clicquot",
+  "tipo": "Espumante",
+  "pais": "França",
+  "regiao": "Champagne",
+  "safra": null,
+  "uvas": "Pinot Noir, Pinot Meunier, Chardonnay",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Brut (9–10 g/L), método tradicional"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/137044/champagne-frances-veuve-clicquot-brut-750ml",
+  "https://www.imigrantesbebidas.com.br/champagne-veuve-clicquot-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 449.99,
+  "min": 449.99,
+  "max": 549.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/137044/champagne-frances-veuve-clicquot-brut-750ml",
-    "https://www.imigrantesbebidas.com.br/champagne-veuve-clicquot-brut-750ml"
+   "Imigrantes Bebidas: R$ 449,99, 26/10/2026",
+   "Pão de Açúcar: R$ 549,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 9.0
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Fermentação"
   ],
-  "preco": {
-    "referencia": 449.99,
-    "min": 449.99,
-    "max": 549.9,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 449,99, 26/10/2026",
-      "Pão de Açúcar: R$ 549,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 9.0
-  },
-  "aroma": {
-    "limpeza": 8.8,
-    "intensidade": 8.0,
-    "complexidade": 8.2,
-    "familias": [
-      "Frutas",
-      "Fermentação"
-    ],
-    "top5": [
-      {
-        "nome": "Pera",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Frutas amarelas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Brioche",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Limão",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 8.4,
-    "corpo": 7.6,
-    "tanino_docura": 8.8,
-    "intensidade": 8.0,
-    "final": 7.4,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — força e frescor",
-      "Médio — volumoso",
-      "Brut — coerente",
-      "Pronunciada — complexa",
-      "Médio — persistente (sem dado de duração)"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": true,
-    "algo_alem_do_cartuxa": true,
-    "aproxima_9": false
-  }
+  "top5": [
+   {
+    "nome": "Pera",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas amarelas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Brioche",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.4,
+  "corpo": 7.6,
+  "tanino_docura": 8.8,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — força e frescor",
+   "Médio — volumoso",
+   "Brut — coerente",
+   "Pronunciada — complexa",
+   "Médio — persistente (sem dado de duração)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

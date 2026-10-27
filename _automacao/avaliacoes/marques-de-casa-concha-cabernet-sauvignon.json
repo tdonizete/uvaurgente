@@ -1,0 +1,136 @@
+{
+ "slug": "marques-de-casa-concha-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Casa Concha Cabernet Sauvignon",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Puente Alto (Valle del Maipo)",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 18 meses em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-marques-de-casa-concha-cabernet-sauvignon-750-ml",
+  "https://www.paodeacucar.com/produto/148687/vinho-chileno-tinto-seco-marques-de-casa-concha-cabernet-sauvignon-valle-del-maipo-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 149.9,
+  "min": 149.9,
+  "max": 164.99,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 149,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 164,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grafite",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.0,
+  "tanino_docura": 8.0,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Encorpado — concentrado",
+   "Firme e fino",
+   "Pronunciada — concentrada",
+   "Médio — cerca de 7 segundos (final longo citado só pela loja)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet de Puente Alto com cassis e grafite.",
+  "kicker_identidade": "Maipo premium",
+  "historico": "O Marqués de Casa Concha é a linha premium da Concha y Toro. Este Cabernet vem de Puente Alto e passa 18 meses em carvalho francês.",
+  "degustacao": "Cassis, cereja preta, cedro e grafite no nariz. Na boca tem tanino firme e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/marques-de-casa-concha-cabernet-sauvignon.png"
+}

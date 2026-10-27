@@ -1,90 +1,93 @@
 {
-  "slug": "esporao-pe-branco",
-  "rank_amazon": 12,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Pé Branco",
-    "produtor": "Esporão",
-    "tipo": "Branco",
-    "pais": "Portugal",
-    "regiao": "Portugal (vinho de lote)",
-    "safra": null,
-    "uvas": "Arinto, Fernão Pires e outras",
-    "teor": 13.0,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "esporao-pe-branco",
+ "rank_amazon": 12,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Pé Branco",
+  "produtor": "Esporão",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Portugal (vinho de lote)",
+  "safra": null,
+  "uvas": "Arinto, Fernão Pires e outras",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://esporao.com/pt/vinhos/pe-branco/2023",
+  "https://www.degusti.com.br/tipo-127863/vinho-branco/vinho-esporao-pe-branco-750ml"
+ ],
+ "preco": {
+  "referencia": 34.9,
+  "min": 34.9,
+  "max": 49.9,
+  "ajustes": [],
   "fontes": [
-    "https://esporao.com/pt/vinhos/pe-branco/2023",
-    "https://www.degusti.com.br/tipo-127863/vinho-branco/vinho-esporao-pe-branco-750ml"
+   "Amazon (Mais vendidos): R$ 34,9, 26/10/2026",
+   "Degusti: R$ 49,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 34.9,
-    "min": 34.9,
-    "max": 49.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 34,9, 26/10/2026",
-      "Degusti: R$ 49,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 6.8,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Fruta branca",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Flores brancas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pera",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Lima",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 6.6,
-    "tanino_docura": 7.4,
-    "intensidade": 6.6,
-    "final": 6.4,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — acidez 5,7 g/L",
-      "Médio — firme",
-      "Quase seco — 6,7 g/L de açúcar",
-      "Moderada — fruta branca",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Fruta branca",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Lima",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — acidez 5,7 g/L",
+   "Médio — firme",
+   "Quase seco — 6,7 g/L de açúcar",
+   "Moderada — fruta branca",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

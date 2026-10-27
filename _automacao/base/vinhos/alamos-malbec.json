@@ -1,93 +1,96 @@
 {
-  "slug": "alamos-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 116,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Alamos Malbec",
-    "produtor": "Catena Zapata (Alamos)",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.5,
-    "servir": "17 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "alamos-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 116,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Alamos Malbec",
+  "produtor": "Catena Zapata (Alamos)",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-alamos-malbec-750-ml",
+  "https://www.paodeacucar.com/produto/216721/vinho-tinto-argentino-alamos-malbec-750ml",
+  "https://www.lcbo.com/en/alamos-malbec-295139"
+ ],
+ "preco": {
+  "referencia": 114.99,
+  "min": 114.99,
+  "max": 129.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-alamos-malbec-750-ml",
-    "https://www.paodeacucar.com/produto/216721/vinho-tinto-argentino-alamos-malbec-750ml",
-    "https://www.lcbo.com/en/alamos-malbec-295139"
+   "Imigrantes Bebidas: R$ 114,99, 26/10/2026",
+   "Pão de Açúcar: R$ 129,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Terra/mineral"
   ],
-  "preco": {
-    "referencia": 114.99,
-    "min": 114.99,
-    "max": 129.9,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 114,99, 26/10/2026",
-      "Pão de Açúcar: R$ 129,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.8,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Terra/mineral"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Frutas negras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Alcaçuz",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Terra úmida",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Floral",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 7.0,
-    "tanino_docura": 6.8,
-    "intensidade": 7.2,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio a encorpado — redondo",
-      "Macio — integrado",
-      "Pronunciada — fruta madura",
-      "Médio — final agradável"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Alcaçuz",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Terra úmida",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.0,
+  "tanino_docura": 6.8,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio a encorpado — redondo",
+   "Macio — integrado",
+   "Pronunciada — fruta madura",
+   "Médio — final agradável"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

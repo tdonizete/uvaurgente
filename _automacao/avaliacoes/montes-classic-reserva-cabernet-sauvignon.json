@@ -1,0 +1,134 @@
+{
+ "slug": "montes-classic-reserva-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Montes Classic Series Reserva Cabernet Sauvignon",
+  "produtor": "Viña Montes",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 45% com 8 meses em carvalho francês usado"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-montes-cabernet-sauvignon-reserva-750ml",
+  "https://www.wine.com.br/vinhos/montes-classic-series-d-o-valle-central-cabernet-sauvignon-2022/prod29629.html",
+  "https://www.superadega.com.br/produtos/vinho-montes-classic-reserva-cabernet-sauvignon-750ml/"
+ ],
+ "preco": {
+  "referencia": 125.9,
+  "min": 125.9,
+  "max": 171.9,
+  "ajustes": [],
+  "fontes": [
+   "Super Adega: R$ 125,9, 26/10/2026",
+   "Wine.com.br: R$ 171,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Doce de leite",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho tostado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — mediano",
+   "Macio — suave",
+   "Moderada — fruta e madeira",
+   "Médio — final perfumado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno de confiança, com fruta e tosta.",
+  "kicker_identidade": "Chileno que não falha",
+  "historico": "A Viña Montes foi fundada em 1988 no Chile. No Classic Series Cabernet, 45% do vinho passa 8 meses em carvalho francês usado.",
+  "degustacao": "Amora, framboesa e carvalho tostado no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinamontes"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/montes-classic-reserva-cabernet-sauvignon.png"
+}

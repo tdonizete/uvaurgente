@@ -1,91 +1,94 @@
 {
-  "slug": "trapiche-vineyards-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 44,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Trapiche Vineyards Malbec",
-    "produtor": "Trapiche",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.5,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "trapiche-vineyards-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 44,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Trapiche Vineyards Malbec",
+  "produtor": "Trapiche",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-trapiche-malbec-750ml",
+  "https://www.paodeacucar.com/produto/62145/vinho-tinto-argentino-trapiche-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 28.99,
+  "min": 28.99,
+  "max": 49.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-trapiche-malbec-750ml",
-    "https://www.paodeacucar.com/produto/62145/vinho-tinto-argentino-trapiche-malbec-750ml"
+   "Imigrantes Bebidas: R$ 28,99, 26/10/2026",
+   "Pão de Açúcar: R$ 49,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 28.99,
-    "min": 28.99,
-    "max": 49.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 28,99, 26/10/2026",
-      "Pão de Açúcar: R$ 49,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Floral",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Trufa",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.4,
-    "tanino_docura": 6.4,
-    "intensidade": 6.6,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — fresca",
-      "Médio — macio",
-      "Redondo — macio",
-      "Moderada — fruta madura",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Trufa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — macio",
+   "Redondo — macio",
+   "Moderada — fruta madura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

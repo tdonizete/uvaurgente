@@ -1,91 +1,94 @@
 {
-  "slug": "casillero-del-diablo-reserva-sauvignon-blanc",
-  "rank_amazon": 28,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Casillero del Diablo Reserva Sauvignon Blanc",
-    "produtor": "Concha y Toro",
-    "tipo": "Branco",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Sauvignon Blanc",
-    "teor": 12.5,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "casillero-del-diablo-reserva-sauvignon-blanc",
+ "rank_amazon": 28,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Casillero del Diablo Reserva Sauvignon Blanc",
+  "produtor": "Concha y Toro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.lcbo.com/en/casillero-del-diablo-reserva-sauvignon-blanc-302570",
+  "https://www.paodeacucar.com/produto/120342/vinho-chileno-branco-seco-reserva-casillero-del-diablo-sauvignon-blanc-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 44.42,
+  "min": 44.42,
+  "max": 62.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.lcbo.com/en/casillero-del-diablo-reserva-sauvignon-blanc-302570",
-    "https://www.paodeacucar.com/produto/120342/vinho-chileno-branco-seco-reserva-casillero-del-diablo-sauvignon-blanc-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 44,42, 26/10/2026",
+   "Pão de Açúcar: R$ 59,9, 26/10/2026",
+   "Werle Comercial: R$ 62,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 44.42,
-    "min": 44.42,
-    "max": 62.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 44,42, 26/10/2026",
-      "Pão de Açúcar: R$ 59,9, 26/10/2026",
-      "Werle Comercial: R$ 62,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pêssego",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Toranja",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ervas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Flores brancas",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 6.8,
-    "tanino_docura": 8.4,
-    "intensidade": 6.8,
-    "final": 6.6,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — suculenta",
-      "Médio — textura agradável",
-      "Seco — 2 g/L",
-      "Moderada — cítrica",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Toranja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.8,
+  "tanino_docura": 8.4,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — suculenta",
+   "Médio — textura agradável",
+   "Seco — 2 g/L",
+   "Moderada — cítrica",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

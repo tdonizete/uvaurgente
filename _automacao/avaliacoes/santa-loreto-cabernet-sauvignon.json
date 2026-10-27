@@ -1,0 +1,131 @@
+{
+ "slug": "santa-loreto-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Santa Loreto Cabernet Sauvignon",
+  "produtor": "Viña de Aguirre",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-santa-loreto-cabernet-sauvignon-750ml",
+  "https://www.vivino.com/en/wineries/santa-loreto"
+ ],
+ "preco": {
+  "referencia": 23.52,
+  "min": 23.52,
+  "max": 29.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 23,52, 26/10/2026",
+   "Imigrantes Bebidas: R$ 29,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.0,
+  "tanino_docura": 6.2,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — refrescante",
+   "Médio — macio",
+   "Médio — presente",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno de entrada para quem gasta pouco.",
+  "kicker_identidade": "Cabernet econômico",
+  "historico": "O Santa Loreto é produzido pela Viña de Aguirre, no Valle Central chileno. É um Cabernet Sauvignon seco e simples.",
+  "degustacao": "Ameixa, framboesa e tabaco no nariz. Na boca é leve, de tanino simples e final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao sugo",
+    "porque": "Acidez e fruta para o molho de tomate.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tinto leve que não pesa na carne branca.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de muçarela",
+    "porque": "Combinação fácil de sexta-feira.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Salame e queijo com fruta fresca.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sanduíche de pernil",
+    "porque": "Tempero e gordura com tanino baixo.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinadeaguirre"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/santa-loreto-cabernet-sauvignon.png"
+}

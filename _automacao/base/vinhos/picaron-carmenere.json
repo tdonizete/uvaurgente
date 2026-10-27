@@ -1,91 +1,94 @@
 {
-  "slug": "picaron-carmenere",
-  "rank_amazon": 72,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Picarón Carménère",
-    "produtor": "Viña Aresti",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Carménère",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "picaron-carmenere",
+ "rank_amazon": 72,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Picarón Carménère",
+  "produtor": "Viña Aresti",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://centergourmet.com.br/vinho-picaron-carmenere/",
+  "https://www.picoteo.com.br/pais/chile/vinho-picaron-carmenere"
+ ],
+ "preco": {
+  "referencia": 39.0,
+  "min": 39.0,
+  "max": 39.9,
+  "ajustes": [],
   "fontes": [
-    "https://centergourmet.com.br/vinho-picaron-carmenere/",
-    "https://www.picoteo.com.br/pais/chile/vinho-picaron-carmenere"
+   "Amazon (Mais vendidos): R$ 39,9, 26/10/2026",
+   "Picoteo: R$ 39,0, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 39.0,
-    "min": 39.0,
-    "max": 39.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 39,9, 26/10/2026",
-      "Picoteo: R$ 39,0, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.0,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas cristalizadas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cedro",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.4,
-    "tanino_docura": 6.4,
-    "intensidade": 6.6,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — frutado",
-      "Médio — levemente picante",
-      "Moderada — fruta vermelha",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas cristalizadas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — frutado",
+   "Médio — levemente picante",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

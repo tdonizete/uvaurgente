@@ -1,0 +1,135 @@
+{
+ "slug": "torres-sangre-de-toro",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Sangre de Toro",
+  "produtor": "Familia Torres",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O. Catalunya",
+  "safra": null,
+  "uvas": "Garnacha, Cariñena",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco (6,8 g/L), sem madeira, uvas orgânicas"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+torres+sangre+de+toro",
+  "https://www.saq.com/en/6585"
+ ],
+ "preco": {
+  "referencia": 60.25,
+  "min": 39.9,
+  "max": 82.24,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Google Shopping — Lugar do Vinho: R$ 60,25, 27/10/2026",
+   "Bing Shopping — Magalu: R$ 73,32, 27/10/2026",
+   "Google Shopping — Wine: R$ 82,24, 27/10/2026",
+   "Google Shopping — Mercado Livre, com desconto: R$ 39,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta negra",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — presente",
+   "Médio — generoso",
+   "Macio",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Clássico espanhol de Garnacha, orgânico e fácil de gostar.",
+  "kicker_identidade": "Espanhol do touro",
+  "historico": "A Familia Torres produz vinho na Catalunha desde 1870. O Sangre de Toro corta Garnacha e Cariñena de uvas orgânicas, sem madeira.",
+  "degustacao": "Fruta negra, cereja e cacau no nariz. Na boca é suculento, macio e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#garnacha",
+  "#vinhoespanha",
+  "#familiatorres"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/torres-sangre-de-toro.png"
+}

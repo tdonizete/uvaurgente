@@ -1,0 +1,133 @@
+{
+ "slug": "catena-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Catena Malbec",
+  "produtor": "Catena Zapata",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 6 a 12 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-catena-malbec-750-ml",
+  "https://www.paodeacucar.com/produto/216736/vinho-argentino-tinto-catena-malbec-mendoza-750ml"
+ ],
+ "preco": {
+  "referencia": 189.9,
+  "min": 189.9,
+  "max": 199.99,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 189,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 199,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Amora madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Encorpado — estruturado",
+   "Firme — sedoso",
+   "Pronunciada — fruta e flor",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de altitude da Catena, equilibrado e fiel.",
+  "kicker_identidade": "Malbec de referência",
+  "historico": "A Catena Zapata foi fundada em Mendoza em 1902. O Catena Malbec passa de 6 a 12 meses em carvalho.",
+  "degustacao": "Amora madura, ameixa e violeta no nariz. Na boca é macio, fresco e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#catenazapata"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/catena-malbec.png"
+}

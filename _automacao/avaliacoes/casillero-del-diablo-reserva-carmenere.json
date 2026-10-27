@@ -1,0 +1,134 @@
+{
+ "slug": "casillero-del-diablo-reserva-carmenere",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casillero del Diablo Reserva Carménère",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, com madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/casillero-del-diablo-reserva-carmenere-620666",
+  "https://www.paodeacucar.com/produto/128337/vinho-tinto-chileno-casillero-del-diablo-carmenere-750ml"
+ ],
+ "preco": {
+  "referencia": 44.42,
+  "min": 44.42,
+  "max": 62.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 44,42, 26/10/2026",
+   "Pão de Açúcar: R$ 59,9, 26/10/2026",
+   "Werle Comercial: R$ 62,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Defumado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho tostado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — macio",
+   "Macio — final suave",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Carménère chileno clássico com chocolate e defumado.",
+  "kicker_identidade": "Carménère do Diablo",
+  "historico": "O Casillero del Diablo é uma marca da Concha y Toro. Este Carménère do Valle Central passa por madeira.",
+  "degustacao": "Cassis, chocolate e defumado no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Costela suína com páprica",
+    "porque": "Especiaria e pimentão conversam com o tempero.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de panela",
+    "porque": "Tanino macio e molho encorpado.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de pepperoni",
+    "porque": "Picância que pede fruta escura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Chili com carne",
+    "porque": "Cominho e pimenta no mesmo registro.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Legumes grelhados",
+    "porque": "Notas herbáceas com pimentão assado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#carmenere",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casillero-del-diablo-reserva-carmenere.png"
+}

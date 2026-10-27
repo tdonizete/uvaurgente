@@ -1,0 +1,132 @@
+{
+ "slug": "casa-perini-vitis-marselan",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Vitis Marselan",
+  "produtor": "Casa Perini",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha (Farroupilha)",
+  "safra": null,
+  "uvas": "Marselan",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://werlecomercial.com.br/vinho-casa-perini-vitis-marselan",
+  "https://loja.casaperini.com.br/vinho-tinto-seco-marselan-750ml-casa-perini-vitis"
+ ],
+ "preco": {
+  "referencia": 60.9,
+  "min": 60.9,
+  "max": 69.2,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 60,9, 26/10/2026",
+   "Loja Casa Perini: R$ 69,2, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cacau",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Damasco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.8,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — estruturado",
+   "Macio — equilibrado",
+   "Moderada — fruta e cacau",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Marselan gaúcho para quem quer sair do óbvio.",
+  "kicker_identidade": "Uva diferente da Serra",
+  "historico": "A Casa Perini fica em Farroupilha, na Serra Gaúcha, e é conhecida pelos espumantes. A linha Vitis aposta em varietais tintos como o Marselan.",
+  "degustacao": "Framboesa, ameixa e cacau no nariz. Na boca é suculento, de tanino macio e final frutado.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#marselan",
+  "#vinhobrasil",
+  "#casaperini"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casa-perini-vitis-marselan.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "toneletce-cuvee-speciale",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Tonéletce Cuvée Spéciale",
+  "produtor": "L.G.B.",
+  "tipo": "Tinto",
+  "pais": "França",
+  "regiao": "Le Cailar (sul da França)",
+  "safra": null,
+  "uvas": "Tempranillo, Garnacha, Syrah",
+  "teor": 11.0,
+  "servir": "14 °C",
+  "estilo": "Seco, leve"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.degusti.com.br/pais/franca/sul-da-franca/vinho-toneletce-cuvee-speciale-750ml",
+  "https://www.diciomovinhos.com.br/produtos/toneletce-cuvee-speciale/"
+ ],
+ "preco": {
+  "referencia": 39.0,
+  "min": 39.0,
+  "max": 57.0,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 39,0, 26/10/2026",
+   "Degusti: R$ 39,9, 26/10/2026",
+   "Di Ciomo Vinhos: R$ 57,0, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.2
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.0,
+  "complexidade": 6.4,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.8,
+  "corpo": 5.4,
+  "tanino_docura": 5.4,
+  "intensidade": 5.6,
+  "final": 5.4,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-baixa — pouco frescor",
+   "Leve — 11% de álcool",
+   "Macio — tanino baixo",
+   "Fraca — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto francês leve e frutado para beber sem cerimônia.",
+  "kicker_identidade": "Francês sem pompa",
+  "historico": "O Tonéletce vem do sul da França, na região de Le Cailar. É um corte de Tempranillo, Garnacha e Syrah, leve e sem madeira aparente.",
+  "degustacao": "Cereja, framboesa e morango no nariz. Na boca é leve, fresco e simples.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao sugo",
+    "porque": "Acidez e fruta para o molho de tomate.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tinto leve que não pesa na carne branca.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de muçarela",
+    "porque": "Combinação fácil de sexta-feira.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Salame e queijo com fruta fresca.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sanduíche de pernil",
+    "porque": "Tempero e gordura com tanino baixo.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhofranca",
+  "#lgb"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/toneletce-cuvee-speciale.png"
+}

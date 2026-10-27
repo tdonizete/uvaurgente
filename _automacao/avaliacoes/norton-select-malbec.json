@@ -1,0 +1,131 @@
+{
+ "slug": "norton-select-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Norton Select Malbec",
+  "produtor": "Bodega Norton",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-norton-select-malbec-750ml",
+  "https://www.werlecomercial.com.br/vinho-norton-select-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 99.9,
+  "min": 99.9,
+  "max": 114.99,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 99,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 114,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Figo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.4,
+  "tanino_docura": 7.0,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — boa estrutura",
+   "Firme — redondo",
+   "Pronunciada — fruta doce",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de Mendoza fresco, frutado e de altitude.",
+  "kicker_identidade": "Malbec de altitude",
+  "historico": "A Bodega Norton foi fundada em Mendoza em 1895. O Select Malbec vem de vinhedos a 950 metros.",
+  "degustacao": "Ameixa, figo e frutas negras no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#bodeganorton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/norton-select-malbec.png"
+}

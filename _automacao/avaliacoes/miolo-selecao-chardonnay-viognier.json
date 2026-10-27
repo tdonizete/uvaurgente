@@ -1,0 +1,130 @@
+{
+ "slug": "miolo-selecao-chardonnay-viognier",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Seleção Chardonnay & Viognier (375 ml)",
+  "produtor": "Miolo",
+  "tipo": "Branco",
+  "pais": "Brasil",
+  "regiao": "Campanha Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Viognier",
+  "teor": 11.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/vinho-miolo-selecao-chardonnay-viognier-750ml"
+ ],
+ "preco": {
+  "referencia": 40.9,
+  "min": 40.9,
+  "max": 50.78,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos) (375 ml = R$ 50,78 por 750 ml): R$ 50,78, 26/10/2026",
+   "Werle Comercial (750 ml): R$ 40,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 8.0,
+  "intensidade": 6.2,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco fresco e frutado da Campanha para o dia a dia.",
+  "kicker_identidade": "Branco gaúcho sem rodeio",
+  "historico": "A linha Seleção é a porta de entrada da Miolo, com uvas da Campanha Gaúcha. Este corte de Chardonnay e Viognier é seco e sem madeira.",
+  "degustacao": "Cítricos, maçã, pera e pêssego no nariz. Na boca é leve, fresco e termina limpo.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#miolo"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/miolo-selecao-chardonnay-viognier.png"
+}

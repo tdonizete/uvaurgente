@@ -1,95 +1,98 @@
 {
-  "slug": "marques-de-casa-concha-cabernet-sauvignon",
-  "rank_amazon": null,
-  "pos_lista300": 236,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Marqués de Casa Concha Cabernet Sauvignon",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Puente Alto (Valle del Maipo)",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": 14.5,
-    "servir": "17 °C",
-    "estilo": "Seco, 18 meses em carvalho francês"
-  },
-  "canal": "Supermercado",
+ "slug": "marques-de-casa-concha-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": 236,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Casa Concha Cabernet Sauvignon",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Puente Alto (Valle del Maipo)",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 18 meses em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-marques-de-casa-concha-cabernet-sauvignon-750-ml",
+  "https://www.paodeacucar.com/produto/148687/vinho-chileno-tinto-seco-marques-de-casa-concha-cabernet-sauvignon-valle-del-maipo-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 149.9,
+  "min": 149.9,
+  "max": 164.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-marques-de-casa-concha-cabernet-sauvignon-750-ml",
-    "https://www.paodeacucar.com/produto/148687/vinho-chileno-tinto-seco-marques-de-casa-concha-cabernet-sauvignon-valle-del-maipo-garrafa-750ml"
+   "Pão de Açúcar: R$ 149,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 164,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira",
+   "Terra/mineral"
   ],
-  "preco": {
-    "referencia": 149.9,
-    "min": 149.9,
-    "max": 164.99,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 149,9, 26/10/2026",
-      "Imigrantes Bebidas: R$ 164,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.8
-  },
-  "aroma": {
-    "limpeza": 8.6,
-    "intensidade": 8.0,
-    "complexidade": 8.6,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira",
-      "Terra/mineral"
-    ],
-    "top5": [
-      {
-        "nome": "Cassis",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Cereja preta",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Cedro",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Tabaco",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Grafite",
-        "nivel": "moderado"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.8,
-    "corpo": 8.0,
-    "tanino_docura": 8.0,
-    "intensidade": 8.0,
-    "final": 7.4,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — viva",
-      "Encorpado — concentrado",
-      "Firme e fino",
-      "Pronunciada — concentrada",
-      "Médio — cerca de 7 segundos (final longo citado só pela loja)"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": true,
-    "algo_alem_do_cartuxa": true,
-    "aproxima_9": false
-  }
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grafite",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.0,
+  "tanino_docura": 8.0,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Encorpado — concentrado",
+   "Firme e fino",
+   "Pronunciada — concentrada",
+   "Médio — cerca de 7 segundos (final longo citado só pela loja)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

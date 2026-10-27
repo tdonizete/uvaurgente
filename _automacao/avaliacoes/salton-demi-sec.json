@@ -1,0 +1,132 @@
+{
+ "slug": "salton-demi-sec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Demi-Sec",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Prosecco, Trebbiano",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Demi-sec, método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/71824/vinho-espumante-nacional-demi-sec-salton-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 35.25,
+  "min": 35.25,
+  "max": 55.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 35,25, 26/10/2026",
+   "Pão de Açúcar: R$ 55,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Fermentação"
+  ],
+  "top5": [
+   {
+    "nome": "Maçã verde",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pão torrado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Damasco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.4,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Leve — cremoso",
+   "Demi-sec — dulçor equilibrado",
+   "Moderada — fruta e fermento",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante demi-sec gaúcho, doce na medida e barato.",
+  "kicker_identidade": "Doce de festa",
+  "historico": "A Salton é uma das vinícolas mais antigas do Brasil, fundada em 1910. O Demi-Sec é feito pelo método Charmat.",
+  "degustacao": "Maçã verde, cítricos e flores brancas no nariz. Na boca é adocicado, leve e de bolha fina.",
+  "harmonizacao": [
+   {
+    "prato": "Torta de frutas",
+    "porque": "Doçura do vinho com a do doce.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Clássico das festas.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Bolo de laranja",
+    "porque": "Cítrico e leve.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo gorgonzola",
+    "porque": "Doce contra o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutas",
+    "porque": "Leve e refrescante.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-demi-sec.png"
+}

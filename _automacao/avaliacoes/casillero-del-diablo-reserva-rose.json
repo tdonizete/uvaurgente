@@ -1,0 +1,134 @@
+{
+ "slug": "casillero-del-diablo-reserva-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casillero del Diablo Reserva Rosé",
+  "produtor": "Concha y Toro",
+  "tipo": "Rosé",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Uvas não informadas",
+  "teor": null,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/456534/vinho-chileno-rose-seco-reserva-casillero-del-diablo-garrafa-750ml",
+  "https://www.werlecomercial.com.br/vinho-casillero-del-diablo-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 56.99,
+  "min": 56.99,
+  "max": 62.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 56,99, 26/10/2026",
+   "Pão de Açúcar: R$ 59,9, 26/10/2026",
+   "Werle Comercial: R$ 62,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Pétalas de rosa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pêssego branco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.4,
+  "tanino_docura": 8.0,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — floral e fruta",
+   "Médio — toque mineral"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé chileno seco, floral e fácil.",
+  "kicker_identidade": "Rosé do Diablo",
+  "historico": "O Casillero del Diablo é uma marca da Concha y Toro. Este rosé seco vem do Valle Central.",
+  "degustacao": "Pétalas de rosa, morango e pêssego branco no nariz. Na boca é seco, leve e fresco.",
+  "harmonizacao": [
+   {
+    "prato": "Salada caprese",
+    "porque": "Frescor e fruta vermelha com tomate e manjericão.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Peixe rico com acidez viva.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza marguerita",
+    "porque": "Leve, fresco e fácil.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Curinga para sushi e temaki.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frutas vermelhas",
+    "porque": "Fecha a tarde no mesmo tom.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhorose",
+  "#uvasnaoinformadas",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casillero-del-diablo-reserva-rose.png"
+}

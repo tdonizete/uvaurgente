@@ -1,91 +1,94 @@
 {
-  "slug": "toneletce-cuvee-speciale",
-  "rank_amazon": 25,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Sem denominação de origem informada (vinho de mesa francês com uvas espanholas)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Tonéletce Cuvée Spéciale",
-    "produtor": "L.G.B.",
-    "tipo": "Tinto",
-    "pais": "França",
-    "regiao": "Le Cailar (sul da França)",
-    "safra": null,
-    "uvas": "Tempranillo, Garnacha, Syrah",
-    "teor": 11.0,
-    "servir": "14 °C",
-    "estilo": "Seco, leve"
-  },
-  "canal": "Supermercado",
+ "slug": "toneletce-cuvee-speciale",
+ "rank_amazon": 25,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Sem denominação de origem informada (vinho de mesa francês com uvas espanholas)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Tonéletce Cuvée Spéciale",
+  "produtor": "L.G.B.",
+  "tipo": "Tinto",
+  "pais": "França",
+  "regiao": "Le Cailar (sul da França)",
+  "safra": null,
+  "uvas": "Tempranillo, Garnacha, Syrah",
+  "teor": 11.0,
+  "servir": "14 °C",
+  "estilo": "Seco, leve"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.degusti.com.br/pais/franca/sul-da-franca/vinho-toneletce-cuvee-speciale-750ml",
+  "https://www.diciomovinhos.com.br/produtos/toneletce-cuvee-speciale/"
+ ],
+ "preco": {
+  "referencia": 39.0,
+  "min": 39.0,
+  "max": 57.0,
+  "ajustes": [],
   "fontes": [
-    "https://www.degusti.com.br/pais/franca/sul-da-franca/vinho-toneletce-cuvee-speciale-750ml",
-    "https://www.diciomovinhos.com.br/produtos/toneletce-cuvee-speciale/"
+   "Amazon (Mais vendidos): R$ 39,0, 26/10/2026",
+   "Degusti: R$ 39,9, 26/10/2026",
+   "Di Ciomo Vinhos: R$ 57,0, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.2
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.0,
+  "complexidade": 6.4,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 39.0,
-    "min": 39.0,
-    "max": 57.0,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 39,0, 26/10/2026",
-      "Degusti: R$ 39,9, 26/10/2026",
-      "Di Ciomo Vinhos: R$ 57,0, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.2
-  },
-  "aroma": {
-    "limpeza": 7.8,
-    "intensidade": 6.0,
-    "complexidade": 6.4,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Morango",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Groselha",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 5.8,
-    "corpo": 5.4,
-    "tanino_docura": 5.4,
-    "intensidade": 5.6,
-    "final": 5.4,
-    "final_segundos": 4,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-baixa — pouco frescor",
-      "Leve — 11% de álcool",
-      "Macio — tanino baixo",
-      "Fraca — fruta simples",
-      "Curto — cerca de 4 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.8,
+  "corpo": 5.4,
+  "tanino_docura": 5.4,
+  "intensidade": 5.6,
+  "final": 5.4,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-baixa — pouco frescor",
+   "Leve — 11% de álcool",
+   "Macio — tanino baixo",
+   "Fraca — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

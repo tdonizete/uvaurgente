@@ -1,0 +1,131 @@
+{
+ "slug": "trivento-reserve-white-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Trivento Reserve White Malbec",
+  "produtor": "Trivento",
+  "tipo": "Branco",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec (vinificado em branco)",
+  "teor": 12.0,
+  "servir": "8 °C",
+  "estilo": "Meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.wineandbeyond.ca/products/trivento-reserve-white-malbec-750ml",
+  "https://www.paodeacucar.com/produto/468597/vinho-argentino-branco-meio-seco-reserve-trivento-white-malbec-mendoza-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 61.65,
+  "min": 61.65,
+  "max": 73.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 61,65, 26/10/2026",
+   "Pão de Açúcar: R$ 73,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Maçã verde",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Lichia",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.6,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Médio",
+   "Meio seco — equilibrado",
+   "Moderada — fruta fresca",
+   "Médio — final fresco"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec branco, curiosidade fresca para o calor.",
+  "kicker_identidade": "Malbec que virou branco",
+  "historico": "A Trivento é uma das maiores vinícolas de Mendoza. Este Reserve usa Malbec vinificado sem contato com as cascas.",
+  "degustacao": "Maçã verde, lichia e abacaxi no nariz. Na boca é leve, levemente adocicado e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#malbec",
+  "#vinhoargentina",
+  "#trivento"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/trivento-reserve-white-malbec.png"
+}

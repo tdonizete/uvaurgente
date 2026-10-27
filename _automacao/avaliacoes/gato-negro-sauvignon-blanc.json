@@ -1,0 +1,131 @@
+{
+ "slug": "gato-negro-sauvignon-blanc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Sauvignon Blanc",
+  "produtor": "San Pedro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Molina (Valle Central)",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-sauvignon-blanc-750ml",
+  "https://www.paodeacucar.com/produto/214877/vinho-chileno-gato-negro-sauvignon-blanc-750ml"
+ ],
+ "preco": {
+  "referencia": 39.99,
+  "min": 39.99,
+  "max": 49.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 39,99, 26/10/2026",
+   "Pão de Açúcar: R$ 49,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maracujá",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Herbáceo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.4,
+  "tanino_docura": 8.2,
+  "intensidade": 6.4,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — boa acidez",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — fruta tropical",
+   "Médio — persistente"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Sauvignon Blanc chileno tropical e barato.",
+  "kicker_identidade": "Gato branco",
+  "historico": "O Gato Negro é a marca de entrada da San Pedro, vinícola de Molina fundada em 1865. Este Sauvignon Blanc é seco.",
+  "degustacao": "Frutas tropicais, maracujá e notas herbáceas no nariz. Na boca é leve, ácido e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#sauvignonblanc",
+  "#vinhochile",
+  "#sanpedro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/gato-negro-sauvignon-blanc.png"
+}

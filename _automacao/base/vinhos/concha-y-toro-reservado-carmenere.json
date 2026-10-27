@@ -1,90 +1,93 @@
 {
-  "slug": "concha-y-toro-reservado-carmenere",
-  "rank_amazon": 9,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Reservado Carménère",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Carménère",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "concha-y-toro-reservado-carmenere",
+ "rank_amazon": 9,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Carménère",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-carmenere-750ml",
+  "https://www.paodeacucar.com/produto/120361/vinho-chileno-tinto-concha-y-toro-reservado-carmenere-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 33.99,
+  "min": 33.99,
+  "max": 34.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-carmenere-750ml",
-    "https://www.paodeacucar.com/produto/120361/vinho-chileno-tinto-concha-y-toro-reservado-carmenere-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 33,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 33.99,
-    "min": 33.99,
-    "max": 34.99,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
-      "Imigrantes Bebidas: R$ 33,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 6.8,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-preta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pimentão assado",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias doces",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.4,
-    "tanino_docura": 6.4,
-    "intensidade": 6.4,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — fresca, sem cortar",
-      "Médio — redondo",
-      "Macio — maduro, sem amargor",
-      "Moderada — fruta escura",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimentão assado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca, sem cortar",
+   "Médio — redondo",
+   "Macio — maduro, sem amargor",
+   "Moderada — fruta escura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

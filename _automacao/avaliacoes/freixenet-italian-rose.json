@@ -1,0 +1,131 @@
+{
+ "slug": "freixenet-italian-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Freixenet Italian Rosé",
+  "produtor": "Freixenet (Mionetto)",
+  "tipo": "Espumante",
+  "pais": "Itália",
+  "regiao": "Vêneto",
+  "safra": null,
+  "uvas": "Glera, Pinot Noir",
+  "teor": 11.0,
+  "servir": "6 °C",
+  "estilo": "Extra dry (16 g/L), método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.lcbo.com/en/freixenet-italian-rose-11222",
+  "https://www.imigrantesbebidas.com.br/vinho-freixenet-italian-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 79.99,
+  "min": 79.99,
+  "max": 119.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 79,99, 26/10/2026",
+   "Werle Comercial: R$ 119,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 6.9,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas frescas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Melão",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.4,
+  "tanino_docura": 7.6,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — refrescante",
+   "Leve — coerente com o estilo",
+   "Extra dry — dulçor leve",
+   "Moderada — fruta vermelha",
+   "Médio — final crocante"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante rosé italiano extra dry, frutado e bonito.",
+  "kicker_identidade": "Rosé italiano de festa",
+  "historico": "O Italian Rosé é feito pela Freixenet com a Mionetto, no Vêneto. Corta Glera e Pinot Noir pelo método Charmat.",
+  "degustacao": "Frutas vermelhas frescas, morango e cereja no nariz. Na boca é leve, levemente adocicado e fresco.",
+  "harmonizacao": [
+   {
+    "prato": "Salmão defumado",
+    "porque": "Fruta vermelha e borbulha com peixe gordo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Frescor para arroz e peixe cru.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Canapés",
+    "porque": "Abre a festa sem pesar.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pizza de rúcula com tomate seco",
+    "porque": "Acidez para o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#glera",
+  "#vinhoitalia",
+  "#freixenetmionetto"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/freixenet-italian-rose.png"
+}

@@ -1,91 +1,94 @@
 {
-  "slug": "terranova-moscatel",
-  "rank_amazon": 74,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Perfil em 1 só fonte"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Terranova Moscatel",
-    "produtor": "Miolo (Terranova)",
-    "tipo": "Espumante",
-    "pais": "Brasil",
-    "regiao": "Vale do São Francisco (BA)",
-    "safra": null,
-    "uvas": "Moscato",
-    "teor": 7.5,
-    "servir": "6 °C",
-    "estilo": "Moscatel doce, método Asti"
-  },
-  "canal": "Supermercado",
+ "slug": "terranova-moscatel",
+ "rank_amazon": 74,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Perfil em 1 só fonte"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Terranova Moscatel",
+  "produtor": "Miolo (Terranova)",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Vale do São Francisco (BA)",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 7.5,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce, método Asti"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/espumante-terranova-moscatel-750ml"
+ ],
+ "preco": {
+  "referencia": 39.75,
+  "min": 39.75,
+  "max": 40.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.werlecomercial.com.br/espumante-terranova-moscatel-750ml"
+   "Amazon (Mais vendidos): R$ 39,75, 26/10/2026",
+   "Werle Comercial: R$ 40,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 39.75,
-    "min": 39.75,
-    "max": 40.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 39,75, 26/10/2026",
-      "Werle Comercial: R$ 40,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.2,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Jasmim",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Mel",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Guaraná",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Flores brancas",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 6.0,
-    "tanino_docura": 7.2,
-    "intensidade": 6.6,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibra o doce",
-      "Leve — coerente com o estilo",
-      "Doce — delicado",
-      "Moderada — floral",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Jasmim",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Guaraná",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.0,
+  "tanino_docura": 7.2,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — delicado",
+   "Moderada — floral",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

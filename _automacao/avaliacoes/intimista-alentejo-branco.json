@@ -1,0 +1,130 @@
+{
+ "slug": "intimista-alentejo-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Intimista Alentejo Branco",
+  "produtor": "Abegoaria Wines",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Arinto, Antão Vaz, Roupeiro, Manteúdo",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.acheiseuvinho.com.br/intimista-branco"
+ ],
+ "preco": {
+  "referencia": 39.0,
+  "min": 39.0,
+  "max": 42.42,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 39,0, 26/10/2026",
+   "Achei Seu Vinho: R$ 42,42, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 8.0,
+  "intensidade": 6.4,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Médio — macio",
+   "Seco — leve açúcar",
+   "Moderada — fruta tropical",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco alentejano barato, tropical e fácil.",
+  "kicker_identidade": "Alentejo em branco",
+  "historico": "O Intimista é um vinho do Alentejo feito pela Abegoaria Wines. Este branco corta Arinto, Antão Vaz e Roupeiro.",
+  "degustacao": "Frutas tropicais, cítricos e maçã no nariz. Na boca é leve, seco e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#arinto",
+  "#vinhoportugal",
+  "#abegoariawines"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/intimista-alentejo-branco.png"
+}

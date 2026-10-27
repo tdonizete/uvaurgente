@@ -1,92 +1,95 @@
 {
-  "slug": "periquita-original-tinto",
-  "rank_amazon": null,
-  "pos_lista300": 33,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Periquita Original Tinto",
-    "produtor": "José Maria da Fonseca",
-    "tipo": "Tinto",
-    "pais": "Portugal",
-    "regiao": "Península de Setúbal",
-    "safra": null,
-    "uvas": "Castelão, Trincadeira, Aragonês",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "periquita-original-tinto",
+ "rank_amazon": null,
+ "pos_lista300": 33,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Periquita Original Tinto",
+  "produtor": "José Maria da Fonseca",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Península de Setúbal",
+  "safra": null,
+  "uvas": "Castelão, Trincadeira, Aragonês",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/50231/vinho-portugues-tinto-meio-seco-periquita-aragonez-castelao-trincadeira-peninsula-de-setubal-garrafa-750ml",
+  "https://www.imigrantesbebidas.com.br/vinho-periquita-original-tinto-750ml"
+ ],
+ "preco": {
+  "referencia": 59.99,
+  "min": 59.99,
+  "max": 79.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/50231/vinho-portugues-tinto-meio-seco-periquita-aragonez-castelao-trincadeira-peninsula-de-setubal-garrafa-750ml",
-    "https://www.imigrantesbebidas.com.br/vinho-periquita-original-tinto-750ml"
+   "Imigrantes Bebidas: R$ 59,99, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 59.99,
-    "min": 59.99,
-    "max": 79.9,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 59,99, 26/10/2026",
-      "Pão de Açúcar: R$ 79,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.2,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias doces",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 6.6,
-    "tanino_docura": 6.6,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — integrada",
-      "Médio — macio",
-      "Redondo — maduro",
-      "Moderada a pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — integrada",
+   "Médio — macio",
+   "Redondo — maduro",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

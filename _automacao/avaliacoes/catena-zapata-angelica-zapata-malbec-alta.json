@@ -1,0 +1,135 @@
+{
+ "slug": "catena-zapata-angelica-zapata-malbec-alta",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Angélica Zapata Malbec Alta",
+  "produtor": "Catena Zapata",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 a 24 meses em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-angelica-zapata-malbec-750ml",
+  "https://www.mistral.com.br/produto/angelica-zapata-malbec-2021-catena-zapata"
+ ],
+ "preco": {
+  "referencia": 439.99,
+  "min": 439.99,
+  "max": 501.2,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 439,99, 26/10/2026",
+   "Mistral: R$ 501,2, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Carvalho francês",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.2,
+  "tanino_docura": 8.0,
+  "intensidade": 8.2,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — elegante",
+   "Encorpado — concentrado",
+   "Firme — macio e elegante",
+   "Pronunciada — concentrada",
+   "Médio — cerca de 7 segundos (sem dado de duração)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de altitude de grande estrutura e guarda.",
+  "kicker_identidade": "Malbec de alta gama",
+  "historico": "O Angélica Zapata é uma linha de alta gama da Catena Zapata, em Mendoza. O Malbec Alta passa de 12 a 24 meses em carvalho francês.",
+  "degustacao": "Ameixa madura, pimenta-preta e cravo no nariz. Na boca é encorpado, de tanino fino e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#catenazapata"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/catena-zapata-angelica-zapata-malbec-alta.png"
+}

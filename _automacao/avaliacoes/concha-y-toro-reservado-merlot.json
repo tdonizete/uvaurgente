@@ -1,0 +1,134 @@
+{
+ "slug": "concha-y-toro-reservado-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Merlot",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-merlot-750ml",
+  "https://www.paodeacucar.com/produto/73777/vinho-chileno-tinto-meio-seco-reservado-merlot-valle-central-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 24.99,
+  "min": 24.99,
+  "max": 34.99,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 27,77, 26/10/2026",
+   "Imigrantes Bebidas: R$ 24,99, 26/10/2026",
+   "Pão de Açúcar: R$ 34,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 5.8,
+  "tanino_docura": 6.0,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — pouco frescor",
+   "Médio a leve — simples",
+   "Macio — meio seco arredonda",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot chileno meio seco, macio e barato.",
+  "kicker_identidade": "Merlot fácil",
+  "historico": "A Concha y Toro foi fundada em 1883 e a linha Reservado é sua porta de entrada. Este Merlot é meio seco.",
+  "degustacao": "Ameixa, cereja e especiarias doces no nariz. Na boca é macio, leve e levemente adocicado.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/concha-y-toro-reservado-merlot.png"
+}

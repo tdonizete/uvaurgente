@@ -1,0 +1,132 @@
+{
+ "slug": "periquita-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Periquita Branco",
+  "produtor": "José Maria da Fonseca",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Península de Setúbal",
+  "safra": null,
+  "uvas": "Sauvignon Blanc, Viosinho, Verdelho, Viognier",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.jmf.pt/index.php?id=147",
+  "https://www.imigrantesbebidas.com.br/vinho-periquita-branco-portugues-750-ml"
+ ],
+ "preco": {
+  "referencia": 59.99,
+  "min": 59.99,
+  "max": 79.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 59,99, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Maracujá",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Lantana",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 6.8,
+  "tanino_docura": 8.4,
+  "intensidade": 7.2,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — cítrica",
+   "Médio — fresco",
+   "Seco — coerente",
+   "Pronunciada — intensa",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco português aromático e tropical.",
+  "kicker_identidade": "Branco de Setúbal",
+  "historico": "A José Maria da Fonseca está na Península de Setúbal desde 1834. O Periquita Branco corta Sauvignon Blanc, Viosinho, Verdelho e Viognier.",
+  "degustacao": "Maracujá, cítricos e flores brancas no nariz. Na boca é seco, fresco e aromático.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#sauvignonblanc",
+  "#vinhoportugal",
+  "#josemariadafonseca"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/periquita-branco.png"
+}

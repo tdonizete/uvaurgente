@@ -1,92 +1,95 @@
 {
-  "slug": "concha-y-toro-reservado-merlot",
-  "rank_amazon": 4,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Reservado Merlot",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Meio seco"
-  },
-  "canal": "Supermercado",
-  "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-merlot-750ml",
-    "https://www.paodeacucar.com/produto/73777/vinho-chileno-tinto-meio-seco-reservado-merlot-valle-central-garrafa-750ml"
+ "slug": "concha-y-toro-reservado-merlot",
+ "rank_amazon": 4,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Merlot",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-merlot-750ml",
+  "https://www.paodeacucar.com/produto/73777/vinho-chileno-tinto-meio-seco-reservado-merlot-valle-central-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 24.99,
+  "min": 24.99,
+  "max": 34.99,
+  "ajustes": [
+   "promocao_frequente"
   ],
-  "preco": {
-    "referencia": 24.99,
-    "min": 24.99,
-    "max": 34.99,
-    "ajustes": [
-      "promocao_frequente"
-    ],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 27,77, 26/10/2026",
-      "Imigrantes Bebidas: R$ 24,99, 26/10/2026",
-      "Pão de Açúcar: R$ 34,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.4
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.4,
-    "complexidade": 7.1,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias doces",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ervas",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.0,
-    "corpo": 5.8,
-    "tanino_docura": 6.0,
-    "intensidade": 6.0,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — pouco frescor",
-      "Médio a leve — simples",
-      "Macio — meio seco arredonda",
-      "Moderada — fruta simples",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 27,77, 26/10/2026",
+   "Imigrantes Bebidas: R$ 24,99, 26/10/2026",
+   "Pão de Açúcar: R$ 34,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 5.8,
+  "tanino_docura": 6.0,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — pouco frescor",
+   "Médio a leve — simples",
+   "Macio — meio seco arredonda",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,0 +1,132 @@
+{
+ "slug": "truentum-968-montepulciano-dabruzzo",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "968 Montepulciano d'Abruzzo",
+  "produtor": "Cantine Truentum",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Montepulciano d'Abruzzo DOC",
+  "safra": null,
+  "uvas": "Montepulciano",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+cantine+truentum+968+montepulciano",
+  "https://www.vino.com/en/dettaglio/montepulciano-dabruzzo-doc-968-cantine-truentum-2022.html"
+ ],
+ "preco": {
+  "referencia": 125.91,
+  "min": 125.91,
+  "max": 139.9,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Vivino (com desconto; 'de' R$ 140): R$ 125,91, 27/10/2026",
+   "Bing Shopping — oferta com desconto: R$ 139,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.2,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — robusto",
+   "Firme",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Montepulciano d'Abruzzo frutado e sem madeira.",
+  "kicker_identidade": "Abruzzo no copo",
+  "historico": "O 968 é feito pela Cantine Truentum, no Abruzzo. É um Montepulciano d'Abruzzo DOC sem madeira.",
+  "degustacao": "Frutas silvestres, ameixa e violeta no nariz. Na boca é macio, frutado e de tanino médio.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao ragu",
+    "porque": "Acidez da Sangiovese corta o molho.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bisteca à fiorentina",
+    "porque": "Toscana no prato e no copo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza margherita",
+    "porque": "Tomate e manjericão com fruta vermelha.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo pecorino",
+    "porque": "Sal e acidez em equilíbrio.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso sem pesar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#montepulciano",
+  "#vinhoitalia",
+  "#cantinetruentum"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/truentum-968-montepulciano-dabruzzo.png"
+}

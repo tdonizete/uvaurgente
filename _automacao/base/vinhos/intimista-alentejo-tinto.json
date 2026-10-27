@@ -1,93 +1,96 @@
 {
-  "slug": "intimista-alentejo-tinto",
-  "rank_amazon": 43,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Castas e teor variam entre as lojas"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Intimista Alentejo Tinto",
-    "produtor": "Adega Cooperativa da Granja",
-    "tipo": "Tinto",
-    "pais": "Portugal",
-    "regiao": "Alentejo",
-    "safra": null,
-    "uvas": "Touriga Nacional, Aragonez, Trincadeira, Alicante Bouschet",
-    "teor": null,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "intimista-alentejo-tinto",
+ "rank_amazon": 43,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Castas e teor variam entre as lojas"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Intimista Alentejo Tinto",
+  "produtor": "Adega Cooperativa da Granja",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Touriga Nacional, Aragonez, Trincadeira, Alicante Bouschet",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.brindavinho.com.br/vinhos/tinto/vinho-tinto-portugues-intimista-750ml",
+  "https://www.adegavinia.com.br/intimista-tinto-alentejano"
+ ],
+ "preco": {
+  "referencia": 36.79,
+  "min": 36.79,
+  "max": 38.89,
+  "ajustes": [],
   "fontes": [
-    "https://www.brindavinho.com.br/vinhos/tinto/vinho-tinto-portugues-intimista-750ml",
-    "https://www.adegavinia.com.br/intimista-tinto-alentejano"
+   "Amazon (Mais vendidos): R$ 38,89, 26/10/2026",
+   "Brindavinho: R$ 36,79, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 36.79,
-    "min": 36.79,
-    "max": 38.89,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 38,89, 26/10/2026",
-      "Brindavinho: R$ 36,79, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.2,
-    "complexidade": 7.5,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-preta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cravo",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.8,
-    "tanino_docura": 6.4,
-    "intensidade": 6.8,
-    "final": 6.4,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — agradável",
-      "Médio — aveludado",
-      "Macio — suave",
-      "Moderada — fruta madura",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.8,
+  "tanino_docura": 6.4,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — agradável",
+   "Médio — aveludado",
+   "Macio — suave",
+   "Moderada — fruta madura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

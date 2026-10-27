@@ -1,98 +1,95 @@
 {
-  "slug": "frontera-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 31,
-  "data": "2026-10-27",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Ficha sensorial resumida (varejista dos EUA); teor não informado"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Frontera Merlot",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": null,
-    "servir": "16 °C",
-    "estilo": "Seco a meio seco"
-  },
-  "canal": "Supermercado",
+ "slug": "frontera-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 31,
+ "data": "2026-10-27",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Ficha sensorial resumida (varejista dos EUA); teor não informado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Frontera Merlot",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco a meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+frontera+merlot",
+  "https://buywinesonline.com/products/concha-y-toro-frontera-merlot-750-ml"
+ ],
+ "preco": {
+  "referencia": 31.56,
+  "min": 31.56,
+  "max": 55.32,
+  "ajustes": [],
   "fontes": [
-    "https://www.google.com/search?udm=28&q=vinho+frontera+merlot",
-    "https://buywinesonline.com/products/concha-y-toro-frontera-merlot-750-ml"
+   "Google Shopping — La Casa de Bebidas: R$ 31,56, 27/10/2026",
+   "Google Shopping — Supermercados Ka: R$ 55,32, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 31.56,
-    "min": 31.56,
-    "max": 55.32,
-    "ajustes": [],
-    "fontes": [
-      "Google Shopping — La Casa de Bebidas: R$ 31,56, 27/10/2026",
-      "Google Shopping — Supermercados Ka: R$ 55,32, 27/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 6.6,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Chocolate",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.2,
-    "corpo": 6.4,
-    "tanino_docura": 6.4,
-    "intensidade": 6.4,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — macio",
-      "Macio",
-      "Moderada",
-      "Médio — final aveludado"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  },
-  "foto": {
-    "arquivo": "uvaurgente-frontera-merlot",
-    "origem": "Google Shopping (miniatura do anúncio, cerca de 200 px — baixa resolução)",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
-  }
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — macio",
+   "Macio",
+   "Moderada",
+   "Médio — final aveludado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

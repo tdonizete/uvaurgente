@@ -1,0 +1,131 @@
+{
+ "slug": "concha-y-toro-reservado-sauvignon-blanc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Sauvignon Blanc",
+  "produtor": "Concha y Toro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/17464/vinho-chileno-branco-concha-y-toro-reservado-sauvignon-blanc-750ml",
+  "https://www.covabra.com.br/vinho-concha-y-toro-reservado-branco-sauvignon-blanc-750ml/p"
+ ],
+ "preco": {
+  "referencia": 34.99,
+  "min": 34.99,
+  "max": 34.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
+   "Pão de Açúcar: R$ 34,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maracujá",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.4,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — fruta tropical",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Sauvignon Blanc chileno barato e tropical.",
+  "kicker_identidade": "Branco de supermercado",
+  "historico": "A Concha y Toro foi fundada em 1883 e a linha Reservado é a de entrada. Este Sauvignon Blanc vem do Valle Central.",
+  "degustacao": "Frutas tropicais, maracujá e limão no nariz. Na boca é leve, ácido e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#sauvignonblanc",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/concha-y-toro-reservado-sauvignon-blanc.png"
+}

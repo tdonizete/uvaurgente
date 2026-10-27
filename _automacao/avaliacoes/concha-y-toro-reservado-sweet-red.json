@@ -1,0 +1,132 @@
+{
+ "slug": "concha-y-toro-reservado-sweet-red",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Sweet Red",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Corte (uvas não informadas)",
+  "teor": 9.5,
+  "servir": "12 °C",
+  "estilo": "Suave (doce)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml",
+  "https://www.werlecomercial.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml"
+ ],
+ "preco": {
+  "referencia": 33.99,
+  "min": 33.99,
+  "max": 34.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 33,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 33,99, 26/10/2026",
+   "Werle Comercial: R$ 34,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Geleia de morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja em calda",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.4,
+  "corpo": 5.0,
+  "tanino_docura": 4.8,
+  "intensidade": 5.8,
+  "final": 5.0,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Baixa — o doce domina",
+   "Leve — pouco corpo",
+   "Macio — tanino quase imperceptível",
+   "Moderada — fruta em calda",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto suave chileno, doce e frutado.",
+  "kicker_identidade": "Tinto docinho",
+  "historico": "A Concha y Toro está no Chile desde 1883. O Reservado Sweet Red é um tinto suave da linha de entrada.",
+  "degustacao": "Geleia de morango, cereja em calda e amora no nariz. Na boca é doce, leve e de tanino quase ausente.",
+  "harmonizacao": [
+   {
+    "prato": "Bolo de chocolate",
+    "porque": "Doçura do vinho acompanha a sobremesa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Queijo com goiabada",
+    "porque": "Romeu e julieta pede fruta doce.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza doce de banana",
+    "porque": "Açúcar com açúcar, sem briga.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pipoca doce",
+    "porque": "Petisco simples para vinho simples.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos frescos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#corte",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/concha-y-toro-reservado-sweet-red.png"
+}

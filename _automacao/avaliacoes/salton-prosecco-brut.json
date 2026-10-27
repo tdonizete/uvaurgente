@@ -1,0 +1,132 @@
+{
+ "slug": "salton-prosecco-brut",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Prosecco Brut",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Prosecco (Glera)",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Brut, método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/87400/vinho-espumante-brasileiro-salton-prosecco-brut-garrafa-750ml",
+  "https://www.salton.com.br"
+ ],
+ "preco": {
+  "referencia": 39.95,
+  "min": 39.95,
+  "max": 55.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 39,95, 26/10/2026",
+   "Pão de Açúcar: R$ 55,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Pera",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Melão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.6,
+  "tanino_docura": 8.0,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — refrescante",
+   "Leve — cremoso",
+   "Brut — 13,3 g/L, coerente",
+   "Moderada — fruta branca",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Prosecco gaúcho com pera e maçã, para o happy hour.",
+  "kicker_identidade": "Glera brasileira",
+  "historico": "A Salton é uma das vinícolas mais antigas do Brasil, de 1910. O Prosecco Brut usa Glera pelo método Charmat.",
+  "degustacao": "Pera, maçã e melão no nariz. Na boca é leve, refrescante e de bolha fina.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#prosecco",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-prosecco-brut.png"
+}

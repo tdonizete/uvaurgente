@@ -1,90 +1,93 @@
 {
-  "slug": "aurora-reserva-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 90,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Aurora Reserva Merlot",
-    "produtor": "Vinícola Aurora",
-    "tipo": "Tinto",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "aurora-reserva-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 90,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Aurora Reserva Merlot",
+  "produtor": "Vinícola Aurora",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/vinho-aurora-reserva-merlot-tinto-750ml",
+  "https://www.imigrantesbebidas.com.br/vinho-aurora-reserva-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 55.6,
+  "min": 55.6,
+  "max": 62.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.werlecomercial.com.br/vinho-aurora-reserva-merlot-tinto-750ml",
-    "https://www.imigrantesbebidas.com.br/vinho-aurora-reserva-merlot-750ml"
+   "Werle Comercial: R$ 55,6, 26/10/2026",
+   "Imigrantes Bebidas: R$ 62,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 55.6,
-    "min": 55.6,
-    "max": 62.99,
-    "ajustes": [],
-    "fontes": [
-      "Werle Comercial: R$ 55,6, 26/10/2026",
-      "Imigrantes Bebidas: R$ 62,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 6.8,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Morango",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 6.6,
-    "tanino_docura": 6.4,
-    "intensidade": 6.4,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — bom corpo",
-      "Macio — elegante",
-      "Moderada — fruta vermelha",
-      "Médio — persistente"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.6,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — bom corpo",
+   "Macio — elegante",
+   "Moderada — fruta vermelha",
+   "Médio — persistente"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

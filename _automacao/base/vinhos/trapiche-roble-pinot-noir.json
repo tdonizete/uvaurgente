@@ -1,92 +1,95 @@
 {
-  "slug": "trapiche-roble-pinot-noir",
-  "rank_amazon": 26,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Trapiche Roble Pinot Noir",
-    "produtor": "Trapiche",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Pinot Noir",
-    "teor": 13.5,
-    "servir": "14 °C",
-    "estilo": "Seco, 9 meses em carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "trapiche-roble-pinot-noir",
+ "rank_amazon": 26,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Trapiche Roble Pinot Noir",
+  "produtor": "Trapiche",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Pinot Noir",
+  "teor": 13.5,
+  "servir": "14 °C",
+  "estilo": "Seco, 9 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-trapiche-roble-pinot-noir-750-ml",
+  "https://www.paodeacucar.com/produto/15623"
+ ],
+ "preco": {
+  "referencia": 47.99,
+  "min": 47.99,
+  "max": 79.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-trapiche-roble-pinot-noir-750-ml",
-    "https://www.paodeacucar.com/produto/15623"
+   "Amazon (Mais vendidos): R$ 47,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 74,99, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 47.99,
-    "min": 47.99,
-    "max": 79.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 47,99, 26/10/2026",
-      "Imigrantes Bebidas: R$ 74,99, 26/10/2026",
-      "Pão de Açúcar: R$ 79,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.2,
-    "complexidade": 7.5,
-    "familias": [
-      "Frutas",
-      "Madeira",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Caramelo",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pão tostado",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Defumado",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 6.4,
-    "tanino_docura": 6.4,
-    "intensidade": 6.6,
-    "final": 6.6,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — fresca",
-      "Médio — leve no estilo Pinot",
-      "Macio — fino",
-      "Moderada — fruta e madeira",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Caramelo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pão tostado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Defumado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — leve no estilo Pinot",
+   "Macio — fino",
+   "Moderada — fruta e madeira",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

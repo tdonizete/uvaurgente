@@ -1,0 +1,133 @@
+{
+ "slug": "salton-desejo-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Desejo Merlot",
+  "produtor": "Salton",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-salton-desejo-merlot-750ml",
+  "https://www.werlecomercial.com.br/vinho-salton-desejo-tinto-750ml"
+ ],
+ "preco": {
+  "referencia": 117.99,
+  "min": 117.99,
+  "max": 129.5,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 117,99, 26/10/2026",
+   "Werle Comercial: R$ 129,5, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate preto",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cogumelo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.6,
+  "tanino_docura": 7.4,
+  "intensidade": 7.6,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado",
+   "Aveludado — maduro",
+   "Pronunciada — intensa",
+   "Médio — final prolongado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot gaúcho com barrica, macio e encorpado.",
+  "kicker_identidade": "Merlot com madeira",
+  "historico": "A Salton está na Serra Gaúcha desde 1910. O Desejo Merlot passa 12 meses em carvalho.",
+  "degustacao": "Amora, mirtilo e chocolate preto, com baunilha. Na boca é macio, encorpado e de final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-desejo-merlot.png"
+}

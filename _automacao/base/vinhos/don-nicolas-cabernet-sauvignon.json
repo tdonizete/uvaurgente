@@ -1,90 +1,93 @@
 {
-  "slug": "don-nicolas-cabernet-sauvignon",
-  "rank_amazon": 85,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Don Nicolás Cabernet Sauvignon",
-    "produtor": "Don Nicolás",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": 13.5,
-    "servir": "16 °C",
-    "estilo": "Seco, sem madeira"
-  },
-  "canal": "Supermercado",
+ "slug": "don-nicolas-cabernet-sauvignon",
+ "rank_amazon": 85,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Don Nicolás Cabernet Sauvignon",
+  "produtor": "Don Nicolás",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://centergourmet.com.br/don-nicolas-cabernet-sauvignon-2022/",
+  "https://www.degusti.com.br/black-friday/vinho-tinto/vinho-don-nicolas-cabernet-sauvignon"
+ ],
+ "preco": {
+  "referencia": 39.9,
+  "min": 39.9,
+  "max": 39.9,
+  "ajustes": [],
   "fontes": [
-    "https://centergourmet.com.br/don-nicolas-cabernet-sauvignon-2022/",
-    "https://www.degusti.com.br/black-friday/vinho-tinto/vinho-don-nicolas-cabernet-sauvignon"
+   "Amazon (Mais vendidos): R$ 39,9, 26/10/2026",
+   "Degusti: R$ 39,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 39.9,
-    "min": 39.9,
-    "max": 39.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 39,9, 26/10/2026",
-      "Degusti: R$ 39,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cravo",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.2,
-    "tanino_docura": 6.0,
-    "intensidade": 6.4,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibrada",
-      "Médio — sem peso",
-      "Suave — macio",
-      "Moderada — fruta vermelha",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.2,
+  "tanino_docura": 6.0,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — sem peso",
+   "Suave — macio",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

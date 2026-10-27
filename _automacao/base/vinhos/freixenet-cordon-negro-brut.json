@@ -1,91 +1,94 @@
 {
-  "slug": "freixenet-cordon-negro-brut",
-  "rank_amazon": 63,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Cordon Negro Brut",
-    "produtor": "Freixenet",
-    "tipo": "Espumante",
-    "pais": "Espanha",
-    "regiao": "Cava",
-    "safra": null,
-    "uvas": "Parellada, Macabeo, Xarel·lo",
-    "teor": 11.5,
-    "servir": "6 °C",
-    "estilo": "Brut, método tradicional"
-  },
-  "canal": "Supermercado",
+ "slug": "freixenet-cordon-negro-brut",
+ "rank_amazon": 63,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Cordon Negro Brut",
+  "produtor": "Freixenet",
+  "tipo": "Espumante",
+  "pais": "Espanha",
+  "regiao": "Cava",
+  "safra": null,
+  "uvas": "Parellada, Macabeo, Xarel·lo",
+  "teor": 11.5,
+  "servir": "6 °C",
+  "estilo": "Brut, método tradicional"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.lcbo.com/en/freixenet-cordon-negro-brut-cava-216945",
+  "https://www.imigrantesbebidas.com.br/cava-freixenet-cordon-negro-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 77.67,
+  "min": 77.67,
+  "max": 79.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.lcbo.com/en/freixenet-cordon-negro-brut-cava-216945",
-    "https://www.imigrantesbebidas.com.br/cava-freixenet-cordon-negro-brut-750ml"
+   "Amazon (Mais vendidos): R$ 77,67, 26/10/2026",
+   "Imigrantes Bebidas: R$ 79,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Fermentação"
   ],
-  "preco": {
-    "referencia": 77.67,
-    "min": 77.67,
-    "max": 79.99,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 77,67, 26/10/2026",
-      "Imigrantes Bebidas: R$ 79,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Fermentação"
-    ],
-    "top5": [
-      {
-        "nome": "Pera",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pão torrado",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Flores",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Nozes",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.6,
-    "corpo": 6.6,
-    "tanino_docura": 8.2,
-    "intensidade": 6.8,
-    "final": 6.4,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — equilibrada",
-      "Leve — coerente com o estilo",
-      "Brut — 8 g/L",
-      "Moderada — fruta e tosta",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Pera",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pão torrado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Nozes",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — equilibrada",
+   "Leve — coerente com o estilo",
+   "Brut — 8 g/L",
+   "Moderada — fruta e tosta",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

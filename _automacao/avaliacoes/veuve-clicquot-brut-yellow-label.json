@@ -1,0 +1,134 @@
+{
+ "slug": "veuve-clicquot-brut-yellow-label",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Veuve Clicquot Brut (Yellow Label)",
+  "produtor": "Veuve Clicquot",
+  "tipo": "Espumante",
+  "pais": "França",
+  "regiao": "Champagne",
+  "safra": null,
+  "uvas": "Pinot Noir, Pinot Meunier, Chardonnay",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Brut (9–10 g/L), método tradicional"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/137044/champagne-frances-veuve-clicquot-brut-750ml",
+  "https://www.imigrantesbebidas.com.br/champagne-veuve-clicquot-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 449.99,
+  "min": 449.99,
+  "max": 549.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 449,99, 26/10/2026",
+   "Pão de Açúcar: R$ 549,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 9.0
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Fermentação"
+  ],
+  "top5": [
+   {
+    "nome": "Pera",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas amarelas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Brioche",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.4,
+  "corpo": 7.6,
+  "tanino_docura": 8.8,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — força e frescor",
+   "Médio — volumoso",
+   "Brut — coerente",
+   "Pronunciada — complexa",
+   "Médio — persistente (sem dado de duração)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Champagne clássico de rótulo amarelo, referência de festa.",
+  "kicker_identidade": "Champagne de assinatura",
+  "historico": "A Veuve Clicquot é uma maison de Reims fundada em 1772. O Brut Yellow Label leva Pinot Noir, Meunier e Chardonnay pelo método tradicional.",
+  "degustacao": "Pera, frutas amarelas e brioche no nariz. Na boca tem perlage fina, acidez viva e final tostado.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#pinotnoir",
+  "#vinhofranca",
+  "#veuveclicquot"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/veuve-clicquot-brut-yellow-label.png"
+}

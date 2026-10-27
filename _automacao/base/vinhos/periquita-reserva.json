@@ -1,92 +1,95 @@
 {
-  "slug": "periquita-reserva",
-  "rank_amazon": null,
-  "pos_lista300": 141,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Periquita Reserva",
-    "produtor": "José Maria da Fonseca",
-    "tipo": "Tinto",
-    "pais": "Portugal",
-    "regiao": "Península de Setúbal",
-    "safra": null,
-    "uvas": "Castelão, Touriga Nacional, Touriga Franca",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco, 8 meses em carvalho francês"
-  },
-  "canal": "Supermercado",
+ "slug": "periquita-reserva",
+ "rank_amazon": null,
+ "pos_lista300": 141,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Periquita Reserva",
+  "produtor": "José Maria da Fonseca",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Península de Setúbal",
+  "safra": null,
+  "uvas": "Castelão, Touriga Nacional, Touriga Franca",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, 8 meses em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/88272/vinho-tinto-portugues-periquita-reserva-750ml",
+  "https://www.imigrantesbebidas.com.br/vinho-periquita-reserva-tinto-750-ml"
+ ],
+ "preco": {
+  "referencia": 99.9,
+  "min": 99.9,
+  "max": 99.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/88272/vinho-tinto-portugues-periquita-reserva-750ml",
-    "https://www.imigrantesbebidas.com.br/vinho-periquita-reserva-tinto-750-ml"
+   "Pão de Açúcar: R$ 99,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 99,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 99.9,
-    "min": 99.9,
-    "max": 99.99,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 99,9, 26/10/2026",
-      "Imigrantes Bebidas: R$ 99,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.8,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Cassis",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Mirtilo",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Café",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 7.0,
-    "tanino_docura": 6.8,
-    "intensidade": 7.2,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — agradável",
-      "Médio a encorpado — macio",
-      "Macio — equilibrado",
-      "Pronunciada — fruta doce",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Café",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 6.8,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — agradável",
+   "Médio a encorpado — macio",
+   "Macio — equilibrado",
+   "Pronunciada — fruta doce",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,0 +1,132 @@
+{
+ "slug": "salton-brut",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Brut",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Prosecco, Trebbiano",
+  "teor": 11.5,
+  "servir": "6 °C",
+  "estilo": "Brut, método Charmat"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.salton.com.br/upload/produto/ficha/salton-brut-es.pdf",
+  "https://www.paodeacucar.com/produto/131201/espumante-brasileiro-salton-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 32.22,
+  "min": 32.22,
+  "max": 55.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 32,22, 26/10/2026",
+   "Pão de Açúcar: R$ 55,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 6.6,
+  "tanino_docura": 8.0,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Leve — coerente com o estilo",
+   "Brut — 14,7 g/L, no limite",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante brut mais vendido, fresco e barato.",
+  "kicker_identidade": "Brut de supermercado",
+  "historico": "A Salton é uma das vinícolas mais antigas do Brasil, fundada em 1910. O Brut é um corte de Chardonnay, Prosecco e Trebbiano pelo método Charmat.",
+  "degustacao": "Frutas brancas, cítricos e flores brancas no nariz. Na boca é seco, leve e refrescante.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-brut.png"
+}

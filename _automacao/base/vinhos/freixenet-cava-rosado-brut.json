@@ -1,91 +1,94 @@
 {
-  "slug": "freixenet-cava-rosado-brut",
-  "rank_amazon": 40,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Cava Rosado Brut",
-    "produtor": "Freixenet",
-    "tipo": "Espumante",
-    "pais": "Espanha",
-    "regiao": "Cava",
-    "safra": null,
-    "uvas": "Trepat, Garnacha",
-    "teor": 12.0,
-    "servir": "6 °C",
-    "estilo": "Brut, método tradicional"
-  },
-  "canal": "Supermercado",
+ "slug": "freixenet-cava-rosado-brut",
+ "rank_amazon": 40,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Cava Rosado Brut",
+  "produtor": "Freixenet",
+  "tipo": "Espumante",
+  "pais": "Espanha",
+  "regiao": "Cava",
+  "safra": null,
+  "uvas": "Trepat, Garnacha",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Brut, método tradicional"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/cava-freixenet-rose-750ml",
+  "https://www.paodeacucar.com/produto/67580/espumante-espanhol-cava-rose-brut-freixenet-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 78.9,
+  "min": 78.9,
+  "max": 109.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/cava-freixenet-rose-750ml",
-    "https://www.paodeacucar.com/produto/67580/espumante-espanhol-cava-rose-brut-freixenet-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 78,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 79,99, 26/10/2026",
+   "Pão de Açúcar: R$ 109,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 78.9,
-    "min": 78.9,
-    "max": 109.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 78,9, 26/10/2026",
-      "Imigrantes Bebidas: R$ 79,99, 26/10/2026",
-      "Pão de Açúcar: R$ 109,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.0,
-    "complexidade": 7.4,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Morango",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Flores frescas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Figo seco",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.8,
-    "corpo": 6.6,
-    "tanino_docura": 8.2,
-    "intensidade": 6.8,
-    "final": 6.4,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — refrescante",
-      "Leve — coerente com o estilo",
-      "Brut — coerente",
-      "Moderada — fruta vermelha",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores frescas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Figo seco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — refrescante",
+   "Leve — coerente com o estilo",
+   "Brut — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

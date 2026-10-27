@@ -1,100 +1,96 @@
 {
-  "slug": "truentum-968-montepulciano-dabruzzo",
-  "rank_amazon": null,
-  "pos_lista300": 79,
-  "data": "2026-10-27",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Ficha sensorial curta"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "968 Montepulciano d'Abruzzo",
-    "produtor": "Cantine Truentum",
-    "tipo": "Tinto",
-    "pais": "Itália",
-    "regiao": "Montepulciano d'Abruzzo DOC",
-    "safra": null,
-    "uvas": "Montepulciano",
-    "teor": 14.0,
-    "servir": "16 °C",
-    "estilo": "Seco, sem madeira"
-  },
-  "canal": "Supermercado",
+ "slug": "truentum-968-montepulciano-dabruzzo",
+ "rank_amazon": null,
+ "pos_lista300": 79,
+ "data": "2026-10-27",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Ficha sensorial curta"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "968 Montepulciano d'Abruzzo",
+  "produtor": "Cantine Truentum",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Montepulciano d'Abruzzo DOC",
+  "safra": null,
+  "uvas": "Montepulciano",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+cantine+truentum+968+montepulciano",
+  "https://www.vino.com/en/dettaglio/montepulciano-dabruzzo-doc-968-cantine-truentum-2022.html"
+ ],
+ "preco": {
+  "referencia": 125.91,
+  "min": 125.91,
+  "max": 139.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.google.com/search?udm=28&q=vinho+cantine+truentum+968+montepulciano",
-    "https://www.vino.com/en/dettaglio/montepulciano-dabruzzo-doc-968-cantine-truentum-2022.html"
+   "Google Shopping — Vivino (com desconto; 'de' R$ 140): R$ 125,91, 27/10/2026",
+   "Bing Shopping — oferta com desconto: R$ 139,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 125.91,
-    "min": 125.91,
-    "max": 139.9,
-    "ajustes": [],
-    "fontes": [
-      "Google Shopping — Vivino (com desconto; 'de' R$ 140): R$ 125,91, 27/10/2026",
-      "Bing Shopping — oferta com desconto: R$ 139,9, 27/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.0,
-    "complexidade": 7.1,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas silvestres",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 7.2,
-    "tanino_docura": 7.0,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Encorpado — robusto",
-      "Firme",
-      "Moderada",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  },
-  "foto": {
-    "arquivo": "uvaurgente-truentum-968-montepulciano-dabruzzo.jpg",
-    "origem": "Bing Shopping (foto do anúncio)",
-    "url": "https://th.bing.com/th/id/OPHS.FNLCx3yf%2bxbjqQ474C474?w=600&h=800&pid=21.1",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
-  }
+  "top5": [
+   {
+    "nome": "Frutas silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.2,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — robusto",
+   "Firme",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

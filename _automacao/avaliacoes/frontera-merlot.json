@@ -1,0 +1,131 @@
+{
+ "slug": "frontera-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Frontera Merlot",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco a meio seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+frontera+merlot",
+  "https://buywinesonline.com/products/concha-y-toro-frontera-merlot-750-ml"
+ ],
+ "preco": {
+  "referencia": 31.56,
+  "min": 31.56,
+  "max": 55.32,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — La Casa de Bebidas: R$ 31,56, 27/10/2026",
+   "Google Shopping — Supermercados Ka: R$ 55,32, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — macio",
+   "Macio",
+   "Moderada",
+   "Médio — final aveludado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot chileno barato, macio e com chocolate.",
+  "kicker_identidade": "Merlot de supermercado",
+  "historico": "O Frontera é uma marca de entrada da Concha y Toro, fundada em 1883. Este Merlot vem do Valle Central.",
+  "degustacao": "Cereja preta, ameixa e chocolate no nariz. Na boca é macio, leve e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/frontera-merlot.png"
+}

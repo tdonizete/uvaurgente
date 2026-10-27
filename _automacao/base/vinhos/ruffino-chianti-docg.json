@@ -1,92 +1,95 @@
 {
-  "slug": "ruffino-chianti-docg",
-  "rank_amazon": null,
-  "pos_lista300": 169,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Ruffino Chianti DOCG",
-    "produtor": "Ruffino",
-    "tipo": "Tinto",
-    "pais": "Itália",
-    "regiao": "Chianti DOCG (Toscana)",
-    "safra": null,
-    "uvas": "Sangiovese e outras",
-    "teor": 12.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "ruffino-chianti-docg",
+ "rank_amazon": null,
+ "pos_lista300": 169,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Ruffino Chianti DOCG",
+  "produtor": "Ruffino",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Chianti DOCG (Toscana)",
+  "safra": null,
+  "uvas": "Sangiovese e outras",
+  "teor": 12.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-ruffino-chianti-docg-750-ml",
+  "https://www.paodeacucar.com/produto/28244/vinho-italiano-tinto-ruffino-chianti-docg-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 124.99,
+  "min": 124.99,
+  "max": 129.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-ruffino-chianti-docg-750-ml",
-    "https://www.paodeacucar.com/produto/28244/vinho-italiano-tinto-ruffino-chianti-docg-garrafa-750ml"
+   "Imigrantes Bebidas: R$ 124,99, 26/10/2026",
+   "Pão de Açúcar: R$ 129,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 124.99,
-    "min": 124.99,
-    "max": 129.9,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 124,99, 26/10/2026",
-      "Pão de Açúcar: R$ 129,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.2,
-    "complexidade": 7.8,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Cereja",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta seca",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Terroso",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.6,
-    "corpo": 6.6,
-    "tanino_docura": 7.0,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — fresca",
-      "Médio — elegante",
-      "Fino — polido",
-      "Moderada a pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta seca",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Terroso",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.6,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Médio — elegante",
+   "Fino — polido",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

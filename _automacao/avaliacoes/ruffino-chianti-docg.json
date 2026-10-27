@@ -1,0 +1,133 @@
+{
+ "slug": "ruffino-chianti-docg",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Ruffino Chianti DOCG",
+  "produtor": "Ruffino",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Chianti DOCG (Toscana)",
+  "safra": null,
+  "uvas": "Sangiovese e outras",
+  "teor": 12.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-ruffino-chianti-docg-750-ml",
+  "https://www.paodeacucar.com/produto/28244/vinho-italiano-tinto-ruffino-chianti-docg-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 124.99,
+  "min": 124.99,
+  "max": 129.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 124,99, 26/10/2026",
+   "Pão de Açúcar: R$ 129,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta seca",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Terroso",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.6,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Médio — elegante",
+   "Fino — polido",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chianti clássico de supermercado, com acidez de comida.",
+  "kicker_identidade": "Toscana na mesa",
+  "historico": "A Ruffino foi fundada em 1877 na Toscana. Este Chianti DOCG tem base de Sangiovese.",
+  "degustacao": "Cereja, framboesa e violeta seca no nariz. Na boca é leve, ácido e de tanino firme.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao ragu",
+    "porque": "Acidez da Sangiovese corta o molho.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bisteca à fiorentina",
+    "porque": "Toscana no prato e no copo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza margherita",
+    "porque": "Tomate e manjericão com fruta vermelha.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo pecorino",
+    "porque": "Sal e acidez em equilíbrio.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso sem pesar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#sangioveseeoutras",
+  "#vinhoitalia",
+  "#ruffino"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/ruffino-chianti-docg.png"
+}

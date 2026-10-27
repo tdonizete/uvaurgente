@@ -1,0 +1,136 @@
+{
+ "slug": "esporao-reserva-tinto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Esporão Reserva Tinto",
+  "produtor": "Esporão",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Alentejo (DOC)",
+  "safra": null,
+  "uvas": "Alicante Bouschet, Aragonez, Syrah, Trincadeira, Cabernet Sauvignon, Touriga Franca",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://esporao.com/pt/vinhos/esporao-reserva-red/2020",
+  "https://www.paodeacucar.com/produto/33605/vinho-portugues-tinto-esporao-garrafa-750ml",
+  "https://www.imigrantesbebidas.com.br/vinho-esporao-reserva-750ml"
+ ],
+ "preco": {
+  "referencia": 229.9,
+  "min": 229.9,
+  "max": 249.99,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 229,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 249,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Amora preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Compota de mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Alcaçuz",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 8.0,
+  "tanino_docura": 8.0,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — sustenta",
+   "Encorpado — denso",
+   "Firme — estruturado",
+   "Pronunciada — rica",
+   "Médio — cerca de 7 segundos (sem dado de duração)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Alentejo de referência, encorpado e de guarda.",
+  "kicker_identidade": "Clássico alentejano",
+  "historico": "O Esporão Reserva é feito na Herdade do Esporão, no Alentejo. Corta seis castas e passa 12 meses em carvalho.",
+  "degustacao": "Amora preta, compota de mirtilo e chocolate amargo no nariz. Na boca é encorpado, de tanino firme e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Bacalhau à Brás",
+    "porque": "Tinto português com prato português.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Leitão assado",
+    "porque": "Gordura e pele crocante com fruta madura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Arroz de pato",
+    "porque": "Estrutura para um prato rico.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo da Serra",
+    "porque": "Cremoso e salgado com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos assados",
+    "porque": "Terroso e macio.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#alicantebouschet",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-reserva-tinto.png"
+}

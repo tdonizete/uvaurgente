@@ -1,0 +1,132 @@
+{
+ "slug": "esporao-pe-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pé Branco",
+  "produtor": "Esporão",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Portugal (vinho de lote)",
+  "safra": null,
+  "uvas": "Arinto, Fernão Pires e outras",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://esporao.com/pt/vinhos/pe-branco/2023",
+  "https://www.degusti.com.br/tipo-127863/vinho-branco/vinho-esporao-pe-branco-750ml"
+ ],
+ "preco": {
+  "referencia": 34.9,
+  "min": 34.9,
+  "max": 49.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 34,9, 26/10/2026",
+   "Degusti: R$ 49,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta branca",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Lima",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — acidez 5,7 g/L",
+   "Médio — firme",
+   "Quase seco — 6,7 g/L de açúcar",
+   "Moderada — fruta branca",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco português barato, leve e cítrico.",
+  "kicker_identidade": "Português de entrada",
+  "historico": "O Pé Branco é a linha de entrada do Esporão, produtor do Alentejo. É um vinho de lote seco, com Arinto e Fernão Pires.",
+  "degustacao": "Fruta branca, cítricos e flores no nariz. Na boca é leve, fresco e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#arinto",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-pe-branco.png"
+}

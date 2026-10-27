@@ -1,90 +1,93 @@
 {
-  "slug": "concha-y-toro-reservado-sweet-red",
-  "rank_amazon": 27,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Reservado Sweet Red",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Corte (uvas não informadas)",
-    "teor": 9.5,
-    "servir": "12 °C",
-    "estilo": "Suave (doce)"
-  },
-  "canal": "Supermercado",
+ "slug": "concha-y-toro-reservado-sweet-red",
+ "rank_amazon": 27,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Sweet Red",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Corte (uvas não informadas)",
+  "teor": 9.5,
+  "servir": "12 °C",
+  "estilo": "Suave (doce)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml",
+  "https://www.werlecomercial.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml"
+ ],
+ "preco": {
+  "referencia": 33.99,
+  "min": 33.99,
+  "max": 34.9,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml",
-    "https://www.werlecomercial.com.br/vinho-concha-y-toro-reservado-sweet-red-750ml"
+   "Amazon (Mais vendidos): R$ 33,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 33,99, 26/10/2026",
+   "Werle Comercial: R$ 34,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Florais"
   ],
-  "preco": {
-    "referencia": 33.99,
-    "min": 33.99,
-    "max": 34.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 33,99, 26/10/2026",
-      "Imigrantes Bebidas: R$ 33,99, 26/10/2026",
-      "Werle Comercial: R$ 34,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.4
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 7.1,
-    "familias": [
-      "Frutas",
-      "Florais"
-    ],
-    "top5": [
-      {
-        "nome": "Geleia de morango",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja em calda",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ameixa preta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Floral",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 5.4,
-    "corpo": 5.0,
-    "tanino_docura": 4.8,
-    "intensidade": 5.8,
-    "final": 5.0,
-    "final_segundos": 4,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Baixa — o doce domina",
-      "Leve — pouco corpo",
-      "Macio — tanino quase imperceptível",
-      "Moderada — fruta em calda",
-      "Curto — cerca de 4 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Geleia de morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja em calda",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.4,
+  "corpo": 5.0,
+  "tanino_docura": 4.8,
+  "intensidade": 5.8,
+  "final": 5.0,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Baixa — o doce domina",
+   "Leve — pouco corpo",
+   "Macio — tanino quase imperceptível",
+   "Moderada — fruta em calda",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

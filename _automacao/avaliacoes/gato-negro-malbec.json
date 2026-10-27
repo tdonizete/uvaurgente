@@ -1,0 +1,129 @@
+{
+ "slug": "gato-negro-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Malbec",
+  "produtor": "San Pedro",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 32.99,
+  "min": 32.99,
+  "max": 39.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 32,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 39,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.0,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — sedoso",
+   "Sutil — macio",
+   "Moderada — fruta escura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec barato e frutado para o churrasco simples.",
+  "kicker_identidade": "Malbec de entrada",
+  "historico": "O Gato Negro é a linha de entrada da San Pedro, vinícola chilena fundada em 1865. Este Malbec é seco e frutado.",
+  "degustacao": "Amora, ameixa e violeta no nariz. Na boca é leve, macio e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#sanpedro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/gato-negro-malbec.png"
+}

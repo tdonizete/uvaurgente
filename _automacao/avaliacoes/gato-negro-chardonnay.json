@@ -1,0 +1,130 @@
+{
+ "slug": "gato-negro-chardonnay",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Chardonnay",
+  "produtor": "San Pedro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-chardonnay-750ml",
+  "https://www.paodeacucar.com/produto/140204/vinho-chileno-branco-seco-san-pedro-gato-negro-chardonnay-valle-central-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 33.55,
+  "min": 33.55,
+  "max": 44.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 33,55, 26/10/2026",
+   "Imigrantes Bebidas: R$ 44,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas frescas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 8.0,
+  "intensidade": 6.2,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — boa acidez",
+   "Leve — suave",
+   "Seco — coerente",
+   "Moderada — fruta simples",
+   "Médio — final fresco"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chardonnay chileno leve e barato para o dia a dia.",
+  "kicker_identidade": "Chardonnay sem madeira",
+  "historico": "O Gato Negro é a marca de entrada da San Pedro, fundada em 1865. Este Chardonnay vem do Valle Central.",
+  "degustacao": "Maçã, abacaxi e cítricos no nariz. Na boca é leve, fresco e simples.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#chardonnay",
+  "#vinhochile",
+  "#sanpedro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/gato-negro-chardonnay.png"
+}

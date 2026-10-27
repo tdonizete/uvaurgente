@@ -1,0 +1,132 @@
+{
+ "slug": "gato-negro-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Cabernet Sauvignon",
+  "produtor": "San Pedro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-cabernet-sauvignon-750ml",
+  "https://www.paodeacucar.com/produto/99419/vinho-tinto-chileno-gato-negro-cabernet-sauvignon-750ml"
+ ],
+ "preco": {
+  "referencia": 32.99,
+  "min": 32.99,
+  "max": 49.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 32,99, 26/10/2026",
+   "Pão de Açúcar: R$ 49,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Groselha preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.0,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — frutado",
+   "Macio — suave",
+   "Moderada — fruta escura",
+   "Médio — final agradável"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno barato e direto, sem pretensão.",
+  "kicker_identidade": "Cabernet econômico",
+  "historico": "O Gato Negro é a marca de entrada da San Pedro, fundada em 1865 em Molina. Este Cabernet é seco e jovem.",
+  "degustacao": "Amora, cassis e groselha preta no nariz. Na boca é leve, de tanino simples e final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao sugo",
+    "porque": "Acidez e fruta para o molho de tomate.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tinto leve que não pesa na carne branca.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de muçarela",
+    "porque": "Combinação fácil de sexta-feira.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Salame e queijo com fruta fresca.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sanduíche de pernil",
+    "porque": "Tempero e gordura com tanino baixo.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#sanpedro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/gato-negro-cabernet-sauvignon.png"
+}

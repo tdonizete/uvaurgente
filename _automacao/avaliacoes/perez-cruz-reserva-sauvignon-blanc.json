@@ -1,0 +1,133 @@
+{
+ "slug": "perez-cruz-reserva-sauvignon-blanc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pérez Cruz Reserva Sauvignon Blanc",
+  "produtor": "Viña Pérez Cruz",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 13.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+perez+cruz+reserva+sauvignon+blanc",
+  "https://nataliemaclean.com/wine-reviews/perez-cruz-reserva-sauvignon-blanc-2015/250397"
+ ],
+ "preco": {
+  "referencia": 51.92,
+  "min": 51.92,
+  "max": 74.95,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Laticínios Marc: R$ 51,92, 27/10/2026",
+   "Google Shopping — brindavinho.com: R$ 72,9, 27/10/2026",
+   "Bing Shopping — Amazon: R$ 74,95, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Toranja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grama cortada",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Feno verde",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — cortante",
+   "Leve a médio — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada a pronunciada — herbácea",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Sauvignon Blanc chileno herbáceo e muito fresco.",
+  "kicker_identidade": "Branco verde e vivo",
+  "historico": "A Viña Pérez Cruz é uma vinícola familiar chilena. O Reserva Sauvignon Blanc é seco e de estilo herbáceo.",
+  "degustacao": "Toranja, limão e grama cortada no nariz. Na boca é ácido, leve e de final cítrico.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#sauvignonblanc",
+  "#vinhochile",
+  "#vinaperezcruz"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/perez-cruz-reserva-sauvignon-blanc.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "terranova-moscatel",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Terranova Moscatel",
+  "produtor": "Miolo (Terranova)",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Vale do São Francisco (BA)",
+  "safra": null,
+  "uvas": "Moscato",
+  "teor": 7.5,
+  "servir": "6 °C",
+  "estilo": "Moscatel doce, método Asti"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/espumante-terranova-moscatel-750ml"
+ ],
+ "preco": {
+  "referencia": 39.75,
+  "min": 39.75,
+  "max": 40.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 39,75, 26/10/2026",
+   "Werle Comercial: R$ 40,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Jasmim",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Guaraná",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.0,
+  "tanino_docura": 7.2,
+  "intensidade": 6.6,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibra o doce",
+   "Leve — coerente com o estilo",
+   "Doce — delicado",
+   "Moderada — floral",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Moscatel do Vale do São Francisco, doce e perfumado.",
+  "kicker_identidade": "Moscatel do sertão",
+  "historico": "A Terranova é a vinícola da Miolo no Vale do São Francisco, na Bahia. Este espumante é feito pelo método Asti.",
+  "degustacao": "Jasmim, mel e cítricos no nariz. Na boca é doce, leve e muito aromático.",
+  "harmonizacao": [
+   {
+    "prato": "Salada de frutas",
+    "porque": "Moscatel e fruta fresca, clássico brasileiro.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Torta de morango",
+    "porque": "Doçura e aroma floral juntos.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Doce de festa para espumante doce.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Comida árabe com pimenta",
+    "porque": "Dulçor equilibra o tempero.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sorvete de creme",
+    "porque": "Sobremesa simples e gelada.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#moscato",
+  "#vinhobrasil",
+  "#mioloterranova"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/terranova-moscatel.png"
+}

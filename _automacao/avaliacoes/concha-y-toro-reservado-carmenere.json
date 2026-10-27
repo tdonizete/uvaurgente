@@ -1,0 +1,132 @@
+{
+ "slug": "concha-y-toro-reservado-carmenere",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Carménère",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-carmenere-750ml",
+  "https://www.paodeacucar.com/produto/120361/vinho-chileno-tinto-concha-y-toro-reservado-carmenere-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 33.99,
+  "min": 33.99,
+  "max": 34.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 33,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimentão assado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca, sem cortar",
+   "Médio — redondo",
+   "Macio — maduro, sem amargor",
+   "Moderada — fruta escura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Carménère chileno barato com pimenta e fruta preta.",
+  "kicker_identidade": "Carménère de entrada",
+  "historico": "A Concha y Toro foi fundada em 1883 e a linha Reservado é a de entrada. Este Carménère vem do Valle Central.",
+  "degustacao": "Ameixa preta, pimenta-preta e pimentão assado no nariz. Na boca é macio e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Costela suína com páprica",
+    "porque": "Especiaria e pimentão conversam com o tempero.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de panela",
+    "porque": "Tanino macio e molho encorpado.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de pepperoni",
+    "porque": "Picância que pede fruta escura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Chili com carne",
+    "porque": "Cominho e pimenta no mesmo registro.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Legumes grelhados",
+    "porque": "Notas herbáceas com pimentão assado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#carmenere",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/concha-y-toro-reservado-carmenere.png"
+}

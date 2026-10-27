@@ -1,98 +1,101 @@
 {
-  "slug": "marques-de-casa-concha-carmenere",
-  "rank_amazon": null,
-  "pos_lista300": 237,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço de referência é o regular da Imigrantes; Pão de Açúcar tinha promoção de 47%"
+ "slug": "marques-de-casa-concha-carmenere",
+ "rank_amazon": null,
+ "pos_lista300": 237,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Preço de referência é o regular da Imigrantes; Pão de Açúcar tinha promoção de 47%"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Casa Concha Carménère",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Peumo (Valle de Cachapoal)",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-marques-casa-concha-carmenere-750ml",
+  "https://www.paodeacucar.com/produto/313204/vinho-chileno-tinto-seco-marques-de-casa-concha-carmenere-peumo-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 164.99,
+  "min": 119.9,
+  "max": 164.99,
+  "ajustes": [
+   "promocao_frequente"
   ],
-  "provado": false,
-  "vinho": {
-    "title": "Marqués de Casa Concha Carménère",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Peumo (Valle de Cachapoal)",
-    "safra": null,
-    "uvas": "Carménère",
-    "teor": 14.0,
-    "servir": "17 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-marques-casa-concha-carmenere-750ml",
-    "https://www.paodeacucar.com/produto/313204/vinho-chileno-tinto-seco-marques-de-casa-concha-carmenere-peumo-garrafa-750ml"
+   "Imigrantes Bebidas: R$ 164,99, 26/10/2026",
+   "Pão de Açúcar (promoção de R$ 229,90): R$ 119,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 164.99,
-    "min": 119.9,
-    "max": 164.99,
-    "ajustes": [
-      "promocao_frequente"
-    ],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 164,99, 26/10/2026",
-      "Pão de Açúcar (promoção de R$ 229,90): R$ 119,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.6
-  },
-  "aroma": {
-    "limpeza": 8.6,
-    "intensidade": 7.8,
-    "complexidade": 8.0,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa preta",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Mirtilo",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Chocolate amargo",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Café torrado",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 8.0,
-    "tanino_docura": 7.8,
-    "intensidade": 7.8,
-    "final": 7.2,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — equilibrada",
-      "Encorpado — denso",
-      "Firme e sedoso",
-      "Pronunciada",
-      "Médio — cerca de 7 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": true,
-    "algo_alem_do_cartuxa": true,
-    "aproxima_9": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Café torrado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 8.0,
+  "tanino_docura": 7.8,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — denso",
+   "Firme e sedoso",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

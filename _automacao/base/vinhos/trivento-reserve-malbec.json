@@ -1,91 +1,94 @@
 {
-  "slug": "trivento-reserve-malbec",
-  "rank_amazon": 91,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Trivento Reserve Malbec",
-    "produtor": "Trivento",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza (Uco, Luján de Cuyo, Junín)",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco, 20% com 6 meses em carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "trivento-reserve-malbec",
+ "rank_amazon": 91,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Trivento Reserve Malbec",
+  "produtor": "Trivento",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza (Uco, Luján de Cuyo, Junín)",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, 20% com 6 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://trivento.com/ZoomInWOFA2025/pdf/Trivento-Reserve-Malbec-technical-sheet.pdf",
+  "https://www.paodeacucar.com/produto/133668/vinho-argentino-tinto-seco-reserve-trivento-malbec-mendoza-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 72.01,
+  "min": 72.01,
+  "max": 73.9,
+  "ajustes": [],
   "fontes": [
-    "https://trivento.com/ZoomInWOFA2025/pdf/Trivento-Reserve-Malbec-technical-sheet.pdf",
-    "https://www.paodeacucar.com/produto/133668/vinho-argentino-tinto-seco-reserve-trivento-malbec-mendoza-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 72,01, 26/10/2026",
+   "Pão de Açúcar: R$ 73,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 72.01,
-    "min": 72.01,
-    "max": 73.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 72,01, 26/10/2026",
-      "Pão de Açúcar: R$ 73,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Amora madura",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias doces",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 6.8,
-    "tanino_docura": 6.8,
-    "intensidade": 7.0,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Médio — generoso",
-      "Macio — bem integrado",
-      "Moderada a pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Amora madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Médio — generoso",
+   "Macio — bem integrado",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,0 +1,133 @@
+{
+ "slug": "salton-ouro-brut",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Ouro Brut",
+  "produtor": "Salton",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Pinot Noir, Riesling",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Brut"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/156351/espumante-brasileiro-salton-ouro-brut-750ml",
+  "https://www.imigrantesbebidas.com.br/espumante-salton-ouro-brut-750ml"
+ ],
+ "preco": {
+  "referencia": 44.16,
+  "min": 44.16,
+  "max": 75.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 44,16, 26/10/2026",
+   "Pão de Açúcar: R$ 75,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Fermentação",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Brioche",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amêndoa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Nozes",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.0,
+  "tanino_docura": 8.4,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor marcante",
+   "Médio — cremosidade delicada",
+   "Brut — coerente",
+   "Pronunciada — fermento e fruta",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante brut com notas tostadas a preço de entrada.",
+  "kicker_identidade": "Brut com brioche",
+  "historico": "A Salton está na Serra Gaúcha desde 1910. O Ouro corta Chardonnay, Pinot Noir e Riesling.",
+  "degustacao": "Brioche, amêndoa e cítricos no nariz. Na boca é seco, cremoso e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-ouro-brut.png"
+}

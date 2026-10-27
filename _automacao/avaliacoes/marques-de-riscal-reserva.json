@@ -1,0 +1,136 @@
+{
+ "slug": "marques-de-riscal-reserva",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Riscal Reserva",
+  "produtor": "Marqués de Riscal",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O.Ca. Rioja",
+  "safra": null,
+  "uvas": "Tempranillo",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, Reserva"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-marques-de-riscal-reserva-tempranillo-750-ml",
+  "https://www.paodeacucar.com/produto/176071/vinho-espanhol-tinto-seco-reserva-marques-de-riscal-tempranillo-rioja-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 299.89,
+  "min": 299.89,
+  "max": 342.99,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 299,89, 26/10/2026",
+   "Imigrantes Bebidas: R$ 342,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias",
+   "Animal"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha e coco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor",
+   "Médio — denso e elegante",
+   "Maduro",
+   "Pronunciada — complexa",
+   "Médio — cerca de 7 segundos (final longo citado só pelas lojas)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rioja Reserva clássico, com barrica e couro.",
+  "kicker_identidade": "Rioja de tradição",
+  "historico": "A Marqués de Riscal foi fundada em 1858 em Elciego, na Rioja Alavesa. O Reserva tem base de Tempranillo e longo estágio em barrica.",
+  "degustacao": "Ameixa, cassis, baunilha e coco no nariz. Na boca é elegante, de tanino fino e final longo.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhoespanha",
+  "#marquesderiscal"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/marques-de-riscal-reserva.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "casal-garcia-sweet-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casal Garcia Sweet",
+  "produtor": "Aveleda",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Vinho Verde",
+  "safra": null,
+  "uvas": "Trajadura, Loureiro, Arinto, Azal",
+  "teor": 9.0,
+  "servir": "8 °C",
+  "estilo": "Meio doce, levemente frisante"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/344310/vinho-branco-portugues-casal-garcia-vinho-verde-sweet-750ml",
+  "https://radar.wine"
+ ],
+ "preco": {
+  "referencia": 49.56,
+  "min": 49.56,
+  "max": 69.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 49,56, 26/10/2026",
+   "Pão de Açúcar: R$ 69,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã verde",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Lima",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.4,
+  "tanino_docura": 7.2,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — típica do Minho",
+   "Leve — coerente com o estilo",
+   "Meio doce — açúcar aparente",
+   "Moderada — fruta fresca",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Vinho Verde meio doce e frisante, geladinho.",
+  "kicker_identidade": "Verde docinho",
+  "historico": "A Casal Garcia é uma marca da Aveleda, do Vinho Verde. O Sweet corta Trajadura, Loureiro, Arinto e Azal.",
+  "degustacao": "Cítricos, maçã verde e flores brancas no nariz. Na boca é meio doce, leve e com agulha.",
+  "harmonizacao": [
+   {
+    "prato": "Torta de limão",
+    "porque": "Doçura com acidez da sobremesa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida tailandesa",
+    "porque": "Dulçor amansa o picante.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Queijo azul",
+    "porque": "Sal e doce em contraste.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Frutas frescas",
+    "porque": "Aromático com fruta da estação.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Pastel de nata",
+    "porque": "Doce leve para vinho doce.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#trajadura",
+  "#vinhoportugal",
+  "#aveleda"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casal-garcia-sweet-branco.png"
+}

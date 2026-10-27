@@ -1,91 +1,94 @@
 {
-  "slug": "miolo-selecao-chardonnay-viognier",
-  "rank_amazon": 69,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Perfil em 1 só fonte",
-    "Preço de referência da garrafa de 750 ml; na Amazon a meia garrafa sai mais cara por litro"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Seleção Chardonnay & Viognier (375 ml)",
-    "produtor": "Miolo",
-    "tipo": "Branco",
-    "pais": "Brasil",
-    "regiao": "Campanha Gaúcha",
-    "safra": null,
-    "uvas": "Chardonnay, Viognier",
-    "teor": 11.5,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "miolo-selecao-chardonnay-viognier",
+ "rank_amazon": 69,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Perfil em 1 só fonte",
+  "Preço de referência da garrafa de 750 ml; na Amazon a meia garrafa sai mais cara por litro"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Seleção Chardonnay & Viognier (375 ml)",
+  "produtor": "Miolo",
+  "tipo": "Branco",
+  "pais": "Brasil",
+  "regiao": "Campanha Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay, Viognier",
+  "teor": 11.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/vinho-miolo-selecao-chardonnay-viognier-750ml"
+ ],
+ "preco": {
+  "referencia": 40.9,
+  "min": 40.9,
+  "max": 50.78,
+  "ajustes": [],
   "fontes": [
-    "https://www.werlecomercial.com.br/vinho-miolo-selecao-chardonnay-viognier-750ml"
+   "Amazon (Mais vendidos) (375 ml = R$ 50,78 por 750 ml): R$ 50,78, 26/10/2026",
+   "Werle Comercial (750 ml): R$ 40,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 40.9,
-    "min": 40.9,
-    "max": 50.78,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos) (375 ml = R$ 50,78 por 750 ml): R$ 50,78, 26/10/2026",
-      "Werle Comercial (750 ml): R$ 40,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 6.8,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Maçã",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pera",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pêssego",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Abacaxi",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 6.2,
-    "tanino_docura": 8.0,
-    "intensidade": 6.2,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Leve — coerente com o estilo",
-      "Seco — coerente",
-      "Moderada — fruta simples",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 8.0,
+  "intensidade": 6.2,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

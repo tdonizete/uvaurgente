@@ -1,95 +1,98 @@
 {
-  "slug": "marques-de-riscal-reserva",
-  "rank_amazon": null,
-  "pos_lista300": 238,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Marqués de Riscal Reserva",
-    "produtor": "Marqués de Riscal",
-    "tipo": "Tinto",
-    "pais": "Espanha",
-    "regiao": "D.O.Ca. Rioja",
-    "safra": null,
-    "uvas": "Tempranillo",
-    "teor": 13.5,
-    "servir": "17 °C",
-    "estilo": "Seco, Reserva"
-  },
-  "canal": "Supermercado",
+ "slug": "marques-de-riscal-reserva",
+ "rank_amazon": null,
+ "pos_lista300": 238,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Riscal Reserva",
+  "produtor": "Marqués de Riscal",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O.Ca. Rioja",
+  "safra": null,
+  "uvas": "Tempranillo",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, Reserva"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-marques-de-riscal-reserva-tempranillo-750-ml",
+  "https://www.paodeacucar.com/produto/176071/vinho-espanhol-tinto-seco-reserva-marques-de-riscal-tempranillo-rioja-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 299.89,
+  "min": 299.89,
+  "max": 342.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-marques-de-riscal-reserva-tempranillo-750-ml",
-    "https://www.paodeacucar.com/produto/176071/vinho-espanhol-tinto-seco-reserva-marques-de-riscal-tempranillo-rioja-garrafa-750ml"
+   "Pão de Açúcar: R$ 299,89, 26/10/2026",
+   "Imigrantes Bebidas: R$ 342,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias",
+   "Animal"
   ],
-  "preco": {
-    "referencia": 299.89,
-    "min": 299.89,
-    "max": 342.99,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 299,89, 26/10/2026",
-      "Imigrantes Bebidas: R$ 342,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.6
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.8,
-    "complexidade": 8.6,
-    "familias": [
-      "Frutas",
-      "Madeira",
-      "Especiarias",
-      "Animal"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Cassis",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha e coco",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Tabaco",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Couro",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.6,
-    "corpo": 7.4,
-    "tanino_docura": 7.6,
-    "intensidade": 7.8,
-    "final": 7.4,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — frescor",
-      "Médio — denso e elegante",
-      "Maduro",
-      "Pronunciada — complexa",
-      "Médio — cerca de 7 segundos (final longo citado só pelas lojas)"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": true,
-    "algo_alem_do_cartuxa": true,
-    "aproxima_9": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha e coco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor",
+   "Médio — denso e elegante",
+   "Maduro",
+   "Pronunciada — complexa",
+   "Médio — cerca de 7 segundos (final longo citado só pelas lojas)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

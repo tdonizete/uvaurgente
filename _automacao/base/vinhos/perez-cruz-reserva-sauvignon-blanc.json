@@ -1,98 +1,98 @@
 {
-  "slug": "perez-cruz-reserva-sauvignon-blanc",
-  "rank_amazon": null,
-  "pos_lista300": 228,
-  "data": "2026-10-27",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Ficha sensorial de safra antiga (2015)",
-    "Acidez descrita como muito alta pela fonte; desvio acidez × corpo ajustado ao limite do pilar B (conferir na prova)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Pérez Cruz Reserva Sauvignon Blanc",
-    "produtor": "Viña Pérez Cruz",
-    "tipo": "Branco",
-    "pais": "Chile",
-    "regiao": "Chile",
-    "safra": null,
-    "uvas": "Sauvignon Blanc",
-    "teor": 13.5,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "perez-cruz-reserva-sauvignon-blanc",
+ "rank_amazon": null,
+ "pos_lista300": 228,
+ "data": "2026-10-27",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [
+  "Ficha sensorial de safra antiga (2015)",
+  "Acidez descrita como muito alta pela fonte; desvio acidez × corpo ajustado ao limite do pilar B (conferir na prova)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Pérez Cruz Reserva Sauvignon Blanc",
+  "produtor": "Viña Pérez Cruz",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 13.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+perez+cruz+reserva+sauvignon+blanc",
+  "https://nataliemaclean.com/wine-reviews/perez-cruz-reserva-sauvignon-blanc-2015/250397"
+ ],
+ "preco": {
+  "referencia": 51.92,
+  "min": 51.92,
+  "max": 74.95,
+  "ajustes": [],
   "fontes": [
-    "https://www.google.com/search?udm=28&q=vinho+perez+cruz+reserva+sauvignon+blanc",
-    "https://nataliemaclean.com/wine-reviews/perez-cruz-reserva-sauvignon-blanc-2015/250397"
+   "Google Shopping — Laticínios Marc: R$ 51,92, 27/10/2026",
+   "Google Shopping — brindavinho.com: R$ 72,9, 27/10/2026",
+   "Bing Shopping — Amazon: R$ 74,95, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo"
   ],
-  "preco": {
-    "referencia": 51.92,
-    "min": 51.92,
-    "max": 74.95,
-    "ajustes": [],
-    "fontes": [
-      "Google Shopping — Laticínios Marc: R$ 51,92, 27/10/2026",
-      "Google Shopping — brindavinho.com: R$ 72,9, 27/10/2026",
-      "Bing Shopping — Amazon: R$ 74,95, 27/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.4,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Vegetal/herbáceo"
-    ],
-    "top5": [
-      {
-        "nome": "Toranja",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Limão",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Grama cortada",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Groselha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Feno verde",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 8.2,
-    "corpo": 6.6,
-    "tanino_docura": 8.2,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — cortante",
-      "Leve a médio — coerente com o estilo",
-      "Seco — coerente",
-      "Moderada a pronunciada — herbácea",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  },
-  "foto": {
-    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
-  }
+  "top5": [
+   {
+    "nome": "Toranja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grama cortada",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Feno verde",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — cortante",
+   "Leve a médio — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada a pronunciada — herbácea",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

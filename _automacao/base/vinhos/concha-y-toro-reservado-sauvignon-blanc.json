@@ -1,89 +1,92 @@
 {
-  "slug": "concha-y-toro-reservado-sauvignon-blanc",
-  "rank_amazon": 24,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Reservado Sauvignon Blanc",
-    "produtor": "Concha y Toro",
-    "tipo": "Branco",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Sauvignon Blanc",
-    "teor": 12.5,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "concha-y-toro-reservado-sauvignon-blanc",
+ "rank_amazon": 24,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Sauvignon Blanc",
+  "produtor": "Concha y Toro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/17464/vinho-chileno-branco-concha-y-toro-reservado-sauvignon-blanc-750ml",
+  "https://www.covabra.com.br/vinho-concha-y-toro-reservado-branco-sauvignon-blanc-750ml/p"
+ ],
+ "preco": {
+  "referencia": 34.99,
+  "min": 34.99,
+  "max": 34.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/17464/vinho-chileno-branco-concha-y-toro-reservado-sauvignon-blanc-750ml",
-    "https://www.covabra.com.br/vinho-concha-y-toro-reservado-branco-sauvignon-blanc-750ml/p"
+   "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
+   "Pão de Açúcar: R$ 34,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 34.99,
-    "min": 34.99,
-    "max": 34.99,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 34,99, 26/10/2026",
-      "Pão de Açúcar: R$ 34,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 6.8,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas tropicais",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Maracujá",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Limão",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Abacaxi",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 6.6,
-    "tanino_docura": 8.2,
-    "intensidade": 6.4,
-    "final": 6.4,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Leve — coerente com o estilo",
-      "Seco — coerente",
-      "Moderada — fruta tropical",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maracujá",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.4,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — fruta tropical",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

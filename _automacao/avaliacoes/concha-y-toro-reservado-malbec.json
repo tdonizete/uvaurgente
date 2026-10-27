@@ -1,0 +1,134 @@
+{
+ "slug": "concha-y-toro-reservado-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Reservado Malbec",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-malbec-750ml",
+  "https://www.werlecomercial.com.br/vinho-concha-y-toro-reservado-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 24.99,
+  "min": 24.99,
+  "max": 33.66,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 33,66, 26/10/2026",
+   "Imigrantes Bebidas: R$ 24,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.2,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — redondo",
+   "Macio — sem adstringência",
+   "Moderada — fruta madura",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec chileno de entrada, simples e frutado.",
+  "kicker_identidade": "Malbec do Chile",
+  "historico": "A Concha y Toro está no Chile desde 1883. O Reservado Malbec vem do Valle Central e não tem pretensão de guarda.",
+  "degustacao": "Ameixa preta, amora e violeta no nariz. Na boca é leve, frutado e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/concha-y-toro-reservado-malbec.png"
+}

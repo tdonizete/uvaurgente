@@ -1,0 +1,132 @@
+{
+ "slug": "don-nicolas-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Don Nicolás Cabernet Sauvignon",
+  "produtor": "Don Nicolás",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://centergourmet.com.br/don-nicolas-cabernet-sauvignon-2022/",
+  "https://www.degusti.com.br/black-friday/vinho-tinto/vinho-don-nicolas-cabernet-sauvignon"
+ ],
+ "preco": {
+  "referencia": 39.9,
+  "min": 39.9,
+  "max": 39.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 39,9, 26/10/2026",
+   "Degusti: R$ 39,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.2,
+  "tanino_docura": 6.0,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — sem peso",
+   "Suave — macio",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet argentino sem madeira, fresco e frutado.",
+  "kicker_identidade": "Cabernet de Maipú",
+  "historico": "A Don Nicolás é uma bodega familiar com vinhedos em Maipú, Mendoza. Este Cabernet não passa por madeira.",
+  "degustacao": "Cereja, framboesa e pimenta no nariz. Na boca é leve, de tanino médio e final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhoargentina",
+  "#donnicolas"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/don-nicolas-cabernet-sauvignon.png"
+}

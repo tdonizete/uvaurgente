@@ -1,0 +1,131 @@
+{
+ "slug": "santa-loreto-sauvignon-blanc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Santa Loreto Varietal Sauvignon Blanc",
+  "produtor": "Santa Loreto",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+santa+loreto+sauvignon+blanc",
+  "https://lista.mercadolivre.com.br/santa-loreto-varietal-sauvignon-blanc"
+ ],
+ "preco": {
+  "referencia": 28.73,
+  "min": 28.73,
+  "max": 33.0,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 28,73, 27/10/2026",
+   "Mercado Livre: R$ 33,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 6.4,
+  "tanino_docura": 8.0,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Sauvignon Blanc chileno barato e cítrico.",
+  "kicker_identidade": "Branco fresco de entrada",
+  "historico": "O Santa Loreto vem do Valle Central chileno. É um Sauvignon Blanc seco de linha básica.",
+  "degustacao": "Cítricos, limão e frutas tropicais no nariz. Na boca é leve, ácido e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#sauvignonblanc",
+  "#vinhochile",
+  "#santaloreto"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/santa-loreto-sauvignon-blanc.png"
+}

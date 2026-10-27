@@ -1,90 +1,93 @@
 {
-  "slug": "aurora-reserva-cabernet-sauvignon",
-  "rank_amazon": null,
-  "pos_lista300": 89,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Aurora Reserva Cabernet Sauvignon",
-    "produtor": "Vinícola Aurora",
-    "tipo": "Tinto",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": 12.5,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "aurora-reserva-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": 89,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Aurora Reserva Cabernet Sauvignon",
+  "produtor": "Vinícola Aurora",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/vinho-aurora-reserva-cabernet-sauvignon-750ml",
+  "https://www.imigrantesbebidas.com.br/vinho-aurora-reserva-cabernet-sauvignon-750ml"
+ ],
+ "preco": {
+  "referencia": 49.9,
+  "min": 49.9,
+  "max": 54.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.werlecomercial.com.br/vinho-aurora-reserva-cabernet-sauvignon-750ml",
-    "https://www.imigrantesbebidas.com.br/vinho-aurora-reserva-cabernet-sauvignon-750ml"
+   "Werle Comercial: R$ 49,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 54,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 49.9,
-    "min": 49.9,
-    "max": 54.99,
-    "ajustes": [],
-    "fontes": [
-      "Werle Comercial: R$ 49,9, 26/10/2026",
-      "Imigrantes Bebidas: R$ 54,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.6,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Chocolate",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cassis",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 5.8,
-    "tanino_docura": 6.0,
-    "intensidade": 6.2,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Leve — simples",
-      "Macio — harmônico",
-      "Moderada — madeira e fruta",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Chocolate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 5.8,
+  "tanino_docura": 6.0,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Leve — simples",
+   "Macio — harmônico",
+   "Moderada — madeira e fruta",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,92 +1,95 @@
 {
-  "slug": "catena-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 48,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Catena Malbec",
-    "produtor": "Catena Zapata",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.5,
-    "servir": "17 °C",
-    "estilo": "Seco, 6 a 12 meses em carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "catena-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 48,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Catena Malbec",
+  "produtor": "Catena Zapata",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 6 a 12 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-catena-malbec-750-ml",
+  "https://www.paodeacucar.com/produto/216736/vinho-argentino-tinto-catena-malbec-mendoza-750ml"
+ ],
+ "preco": {
+  "referencia": 189.9,
+  "min": 189.9,
+  "max": 199.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-catena-malbec-750-ml",
-    "https://www.paodeacucar.com/produto/216736/vinho-argentino-tinto-catena-malbec-mendoza-750ml"
+   "Pão de Açúcar: R$ 189,9, 26/10/2026",
+   "Imigrantes Bebidas: R$ 199,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 189.9,
-    "min": 189.9,
-    "max": 199.99,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 189,9, 26/10/2026",
-      "Imigrantes Bebidas: R$ 199,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.6
-  },
-  "aroma": {
-    "limpeza": 8.6,
-    "intensidade": 7.8,
-    "complexidade": 8.0,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Amora madura",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cassis",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.4,
-    "corpo": 7.6,
-    "tanino_docura": 7.6,
-    "intensidade": 7.8,
-    "final": 7.2,
-    "final_segundos": 7,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Encorpado — estruturado",
-      "Firme — sedoso",
-      "Pronunciada — fruta e flor",
-      "Médio — cerca de 7 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Amora madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Encorpado — estruturado",
+   "Firme — sedoso",
+   "Pronunciada — fruta e flor",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

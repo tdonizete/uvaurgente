@@ -1,88 +1,91 @@
 {
-  "slug": "gato-negro-chardonnay",
-  "rank_amazon": 70,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Gato Negro Chardonnay",
-    "produtor": "San Pedro",
-    "tipo": "Branco",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Chardonnay",
-    "teor": 12.5,
-    "servir": "8 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "gato-negro-chardonnay",
+ "rank_amazon": 70,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Chardonnay",
+  "produtor": "San Pedro",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-chardonnay-750ml",
+  "https://www.paodeacucar.com/produto/140204/vinho-chileno-branco-seco-san-pedro-gato-negro-chardonnay-valle-central-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 33.55,
+  "min": 33.55,
+  "max": 44.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-gato-negro-chardonnay-750ml",
-    "https://www.paodeacucar.com/produto/140204/vinho-chileno-branco-seco-san-pedro-gato-negro-chardonnay-valle-central-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 33,55, 26/10/2026",
+   "Imigrantes Bebidas: R$ 44,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 33.55,
-    "min": 33.55,
-    "max": 44.99,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 33,55, 26/10/2026",
-      "Imigrantes Bebidas: R$ 44,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.4,
-    "complexidade": 6.6,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas frescas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Maçã",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Abacaxi",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cítricos",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pera",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 6.2,
-    "tanino_docura": 8.0,
-    "intensidade": 6.2,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — boa acidez",
-      "Leve — suave",
-      "Seco — coerente",
-      "Moderada — fruta simples",
-      "Médio — final fresco"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas frescas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 8.0,
+  "intensidade": 6.2,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — boa acidez",
+   "Leve — suave",
+   "Seco — coerente",
+   "Moderada — fruta simples",
+   "Médio — final fresco"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

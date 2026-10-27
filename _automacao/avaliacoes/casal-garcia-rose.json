@@ -1,0 +1,130 @@
+{
+ "slug": "casal-garcia-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casal Garcia Rosé",
+  "produtor": "Aveleda",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Vinho Verde",
+  "safra": null,
+  "uvas": "Touriga Nacional, Sousão, Syrah, Tinta Roriz",
+  "teor": 9.5,
+  "servir": "8 °C",
+  "estilo": "Meio seco (16 g/L), levemente frisante"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://casalgarcia.com/wp-content/uploads/2025/07/FT-Casal-Garcia-Rose-1.pdf",
+  "https://www.paodeacucar.com/produto/129104/vinho-portugues-rose-meio-seco-casal-garcia-vinho-verde-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 58.99,
+  "min": 58.99,
+  "max": 69.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 58,99, 26/10/2026",
+   "Pão de Açúcar: R$ 69,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.0,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 6.6,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — 6,5 g/L",
+   "Leve — coerente com o estilo",
+   "Meio seco — 16 g/L, equilibrado",
+   "Moderada — fruta vermelha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rosé português frisante e frutado para o verão.",
+  "kicker_identidade": "Rosé com agulha",
+  "historico": "A Casal Garcia é uma marca da Aveleda, no Vinho Verde. O Rosé é meio seco e levemente frisante.",
+  "degustacao": "Framboesa, morango e cereja no nariz. Na boca é leve, levemente adocicado e fresco.",
+  "harmonizacao": [
+   {
+    "prato": "Torta de morango",
+    "porque": "Doçura e fruta vermelha casadas.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida tailandesa",
+    "porque": "Dulçor equilibra a pimenta.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada de frutas",
+    "porque": "Leve e refrescante.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie com geleia",
+    "porque": "Doce e cremoso juntos.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Picolé de frutas",
+    "porque": "Para tarde de calor.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhorose",
+  "#touriganacional",
+  "#vinhoportugal",
+  "#aveleda"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casal-garcia-rose.png"
+}

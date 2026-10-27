@@ -1,0 +1,129 @@
+{
+ "slug": "pergola-tinto-suave",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pérgola Tinto Suave",
+  "produtor": "Vinícola Campestre",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Campestre da Serra (RS)",
+  "safra": null,
+  "uvas": "Uvas de mesa (americanas)",
+  "teor": 10.5,
+  "servir": "12 °C",
+  "estilo": "Suave (doce), vinho de mesa"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-pergola-tinto-suave-1l"
+ ],
+ "preco": {
+  "referencia": 22.49,
+  "min": 22.49,
+  "max": 29.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 29,99, 26/10/2026",
+   "Imigrantes Bebidas (1 L = R$ 22,49 por 750 ml): R$ 22,49, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.0
+ },
+ "aroma": {
+  "limpeza": 7.6,
+  "intensidade": 6.2,
+  "complexidade": 6.4,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Uva",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.0,
+  "corpo": 5.0,
+  "tanino_docura": 4.8,
+  "intensidade": 5.6,
+  "final": 5.0,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Baixa — o doce domina",
+   "Leve — simples",
+   "Macio — tanino quase ausente",
+   "Fraca a moderada — uva",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Vinho de mesa suave, doce e de uva americana.",
+  "kicker_identidade": "Suave de garrafão",
+  "historico": "O Pérgola é feito pela Vinícola Campestre, em Campestre da Serra (RS). É um vinho de mesa suave com uvas americanas.",
+  "degustacao": "Uva, frutas vermelhas e morango no nariz. Na boca é doce, leve e simples.",
+  "harmonizacao": [
+   {
+    "prato": "Bolo de chocolate",
+    "porque": "Doçura do vinho acompanha a sobremesa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Queijo com goiabada",
+    "porque": "Romeu e julieta pede fruta doce.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza doce de banana",
+    "porque": "Açúcar com açúcar, sem briga.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pipoca doce",
+    "porque": "Petisco simples para vinho simples.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos frescos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#uvasdemesa",
+  "#vinhobrasil",
+  "#vinicolacampestre"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/pergola-tinto-suave.png"
+}

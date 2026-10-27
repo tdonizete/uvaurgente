@@ -1,0 +1,131 @@
+{
+ "slug": "casa-perini-brut-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Casa Perini Brut Rosé",
+  "produtor": "Casa Perini",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha (Farroupilha)",
+  "safra": null,
+  "uvas": "Chardonnay, Gamay, Pinot Noir",
+  "teor": 11.8,
+  "servir": "6 °C",
+  "estilo": "Brut"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://loja.casaperini.com.br/espumante-brut-rose-750ml-casa-perini",
+  "https://www.imigrantesbebidas.com.br/espumante-casa-perini-brut-rose-750ml"
+ ],
+ "preco": {
+  "referencia": 67.99,
+  "min": 67.99,
+  "max": 68.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 67,99, 26/10/2026",
+   "Loja Casa Perini: R$ 68,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 6.8,
+  "tanino_docura": 8.4,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — refrescante",
+   "Leve — coerente com o estilo",
+   "Brut — coerente",
+   "Moderada — fruta vermelha",
+   "Médio — boa persistência"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante rosé brut de Farroupilha, fresco e frutado.",
+  "kicker_identidade": "Rosé da Perini",
+  "historico": "A Casa Perini fica em Farroupilha, na Serra Gaúcha. O Brut Rosé corta Chardonnay, Gamay e Pinot Noir.",
+  "degustacao": "Morango, cereja e framboesa no nariz. Na boca é seco, fresco e de bolha viva.",
+  "harmonizacao": [
+   {
+    "prato": "Salmão defumado",
+    "porque": "Fruta vermelha e borbulha com peixe gordo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Frescor para arroz e peixe cru.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Canapés",
+    "porque": "Abre a festa sem pesar.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pizza de rúcula com tomate seco",
+    "porque": "Acidez para o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#casaperini"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casa-perini-brut-rose.png"
+}

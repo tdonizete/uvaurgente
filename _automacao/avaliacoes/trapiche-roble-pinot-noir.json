@@ -1,0 +1,134 @@
+{
+ "slug": "trapiche-roble-pinot-noir",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Trapiche Roble Pinot Noir",
+  "produtor": "Trapiche",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Pinot Noir",
+  "teor": 13.5,
+  "servir": "14 °C",
+  "estilo": "Seco, 9 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-trapiche-roble-pinot-noir-750-ml",
+  "https://www.paodeacucar.com/produto/15623"
+ ],
+ "preco": {
+  "referencia": 47.99,
+  "min": 47.99,
+  "max": 79.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 47,99, 26/10/2026",
+   "Imigrantes Bebidas: R$ 74,99, 26/10/2026",
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Caramelo",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pão tostado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Defumado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — leve no estilo Pinot",
+   "Macio — fino",
+   "Moderada — fruta e madeira",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Pinot Noir argentino com madeira e preço amigo.",
+  "kicker_identidade": "Pinot leve com barrica",
+  "historico": "A Trapiche está em Mendoza desde 1883. O Roble Pinot Noir passa 9 meses em carvalho.",
+  "degustacao": "Cereja, baunilha e caramelo, com leve defumado. Na boca é leve, de tanino baixo e final tostado.",
+  "harmonizacao": [
+   {
+    "prato": "Pato com molho de frutas",
+    "porque": "Fruta vermelha delicada com carne rica.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Tanino baixo que respeita o peixe.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Leveza para o almoço de domingo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Acidez para embutidos leves.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso e delicado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#pinotnoir",
+  "#vinhoargentina",
+  "#trapiche"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/trapiche-roble-pinot-noir.png"
+}

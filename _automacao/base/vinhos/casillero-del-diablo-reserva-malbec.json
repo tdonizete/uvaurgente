@@ -1,93 +1,96 @@
 {
-  "slug": "casillero-del-diablo-reserva-malbec",
-  "rank_amazon": 76,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "alta",
-  "pendencias": [],
-  "provado": false,
-  "vinho": {
-    "title": "Casillero del Diablo Reserva Malbec",
-    "produtor": "Concha y Toro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.5,
-    "servir": "16 °C",
-    "estilo": "Seco, com madeira"
-  },
-  "canal": "Supermercado",
+ "slug": "casillero-del-diablo-reserva-malbec",
+ "rank_amazon": 76,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "alta",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Casillero del Diablo Reserva Malbec",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, com madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://nlliquor.com/?p=509663",
+  "https://www.tesco.ie/shop/en-IE/products/274261812",
+  "https://www.paodeacucar.com/produto/456563/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-malbec-valle-central-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 49.34,
+  "min": 49.34,
+  "max": 62.9,
+  "ajustes": [],
   "fontes": [
-    "https://nlliquor.com/?p=509663",
-    "https://www.tesco.ie/shop/en-IE/products/274261812",
-    "https://www.paodeacucar.com/produto/456563/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-malbec-valle-central-garrafa-750ml"
+   "Amazon (Mais vendidos): R$ 49,34, 26/10/2026",
+   "Pão de Açúcar: R$ 59,9, 26/10/2026",
+   "Werle Comercial: R$ 62,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 49.34,
-    "min": 49.34,
-    "max": 62.9,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 49,34, 26/10/2026",
-      "Pão de Açúcar: R$ 59,9, 26/10/2026",
-      "Werle Comercial: R$ 62,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.4,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Chocolate amargo",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 7.2,
-    "tanino_docura": 6.8,
-    "intensidade": 7.0,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Encorpado — amplo e redondo",
-      "Médio — integrado",
-      "Moderada a pronunciada",
-      "Médio — cerca de 6 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 7.2,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — amplo e redondo",
+   "Médio — integrado",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

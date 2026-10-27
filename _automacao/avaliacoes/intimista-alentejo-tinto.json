@@ -1,0 +1,133 @@
+{
+ "slug": "intimista-alentejo-tinto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Intimista Alentejo Tinto",
+  "produtor": "Adega Cooperativa da Granja",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Touriga Nacional, Aragonez, Trincadeira, Alicante Bouschet",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.brindavinho.com.br/vinhos/tinto/vinho-tinto-portugues-intimista-750ml",
+  "https://www.adegavinia.com.br/intimista-tinto-alentejano"
+ ],
+ "preco": {
+  "referencia": 36.79,
+  "min": 36.79,
+  "max": 38.89,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 38,89, 26/10/2026",
+   "Brindavinho: R$ 36,79, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.8,
+  "tanino_docura": 6.4,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — agradável",
+   "Médio — aveludado",
+   "Macio — suave",
+   "Moderada — fruta madura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto alentejano barato com fruta e pimenta.",
+  "kicker_identidade": "Alentejo econômico",
+  "historico": "O Intimista Tinto é feito pela Adega Cooperativa da Granja, no Alentejo. Corta Touriga Nacional, Aragonez, Trincadeira e Alicante Bouschet.",
+  "degustacao": "Cereja, ameixa e pimenta-preta no nariz. Na boca é macio, frutado e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Bacalhau à Brás",
+    "porque": "Tinto português com prato português.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Leitão assado",
+    "porque": "Gordura e pele crocante com fruta madura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Arroz de pato",
+    "porque": "Estrutura para um prato rico.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo da Serra",
+    "porque": "Cremoso e salgado com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos assados",
+    "porque": "Terroso e macio.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#touriganacional",
+  "#vinhoportugal",
+  "#adegacooperativadagranja"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/intimista-alentejo-tinto.png"
+}

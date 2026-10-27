@@ -1,0 +1,131 @@
+{
+ "slug": "santa-loreto-carmenere",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Santa Loreto Carménère",
+  "produtor": "Viña de Aguirre",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-santa-loreto-carmenere-750ml",
+  "https://centergourmet.com.br/santa-loreto-carmenere-2023/"
+ ],
+ "preco": {
+  "referencia": 23.52,
+  "min": 23.52,
+  "max": 29.99,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 23,52, 26/10/2026",
+   "Imigrantes Bebidas: R$ 29,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.2,
+  "tanino_docura": 6.0,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — sem peso",
+   "Macio — maduro",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Carménère chileno barato, sem madeira e direto.",
+  "kicker_identidade": "Carménère básico",
+  "historico": "O Santa Loreto é feito pela Viña de Aguirre, no Valle Central. Este Carménère não passa por madeira.",
+  "degustacao": "Ameixa, amora e pimenta no nariz. Na boca é leve, frutado e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Costela suína com páprica",
+    "porque": "Especiaria e pimentão conversam com o tempero.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de panela",
+    "porque": "Tanino macio e molho encorpado.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de pepperoni",
+    "porque": "Picância que pede fruta escura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Chili com carne",
+    "porque": "Cominho e pimenta no mesmo registro.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Legumes grelhados",
+    "porque": "Notas herbáceas com pimentão assado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#carmenere",
+  "#vinhochile",
+  "#vinadeaguirre"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/santa-loreto-carmenere.png"
+}

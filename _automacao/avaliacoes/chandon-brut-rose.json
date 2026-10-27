@@ -1,0 +1,133 @@
+{
+ "slug": "chandon-brut-rose",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Chandon Brut Rosé",
+  "produtor": "Chandon Brasil",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Pinot Noir, Chardonnay e outras",
+  "teor": 11.8,
+  "servir": "6 °C",
+  "estilo": "Brut"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/espumante-chandon-brut-rose-750ml",
+  "https://www.paodeacucar.com/produto/96519/espumante-brasileiro-chandon-brut-rose-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 99.99,
+  "min": 99.99,
+  "max": 129.9,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 99,99, 26/10/2026",
+   "Pão de Açúcar: R$ 129,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Acerola",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Hibisco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.0,
+  "tanino_docura": 8.4,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Médio — cremoso e aveludado",
+   "Brut — coerente",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante rosé brasileiro de festa, seco e frutado.",
+  "kicker_identidade": "Rosé da Chandon",
+  "historico": "A Chandon Brasil produz espumantes na Serra Gaúcha desde 1973. O Brut Rosé tem base de Pinot Noir e Chardonnay.",
+  "degustacao": "Morango, framboesa e acerola no nariz. Na boca é seco, fresco e de bolha fina.",
+  "harmonizacao": [
+   {
+    "prato": "Salmão defumado",
+    "porque": "Fruta vermelha e borbulha com peixe gordo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Comida japonesa",
+    "porque": "Frescor para arroz e peixe cru.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Canapés",
+    "porque": "Abre a festa sem pesar.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Pizza de rúcula com tomate seco",
+    "porque": "Acidez para o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Morangos",
+    "porque": "Fruta vermelha com fruta vermelha.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#pinotnoir",
+  "#vinhobrasil",
+  "#chandonbrasil"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/chandon-brut-rose.png"
+}
