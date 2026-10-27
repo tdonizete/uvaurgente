@@ -1,0 +1,133 @@
+{
+ "slug": "cordero-con-piel-de-lobo-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Cordero con Piel de Lobo Cabernet Sauvignon",
+  "produtor": "Mosquita Muerta Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/584620/vinho-tinto-argentino-cordero-en-piel-de-lobo-cabernet-sauvignon-750ml",
+  "https://argentina.guides.winefolly.com/wineries/mosquita-muerta-wines/wines"
+ ],
+ "preco": {
+  "referencia": 54.9,
+  "min": 54.9,
+  "max": 55.24,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 54,9, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 55,24, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.8,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — estruturado",
+   "Médio — presente",
+   "Moderada — fruta escura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet argentino barato com cassis e pimenta.",
+  "kicker_identidade": "Cabernet de lobo",
+  "historico": "O Cordero con Piel de Lobo é da Mosquita Muerta Wines, em Mendoza. Este Cabernet é seco.",
+  "degustacao": "Cassis, amora e pimenta-preta no nariz. Na boca é médio, de tanino firme e final de tabaco.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhoargentina",
+  "#mosquitamuertawines"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/cordero-con-piel-de-lobo-cabernet-sauvignon.png"
+}

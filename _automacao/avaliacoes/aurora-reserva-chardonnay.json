@@ -1,0 +1,131 @@
+{
+ "slug": "aurora-reserva-chardonnay",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Aurora Reserva Chardonnay",
+  "produtor": "Vinícola Aurora",
+  "tipo": "Branco",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": 13.0,
+  "servir": "10 °C",
+  "estilo": "Seco, 3 meses em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-aurora-reserva-chardonnay-750ml"
+ ],
+ "preco": {
+  "referencia": 54.99,
+  "min": 54.99,
+  "max": 67.45,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 54,99, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 67,45, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Manteiga",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Leve a médio — amanteigado",
+   "Seco — coerente",
+   "Moderada — fruta e baunilha",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chardonnay gaúcho com toque de manteiga e baunilha.",
+  "kicker_identidade": "Chardonnay com barrica",
+  "historico": "A Vinícola Aurora está em Bento Gonçalves desde 1931. O Reserva Chardonnay passa 3 meses em carvalho francês.",
+  "degustacao": "Frutas brancas, manteiga e baunilha no nariz. Na boca é médio, cremoso e fresco.",
+  "harmonizacao": [
+   {
+    "prato": "Frango ao curry",
+    "porque": "Fruta de caroço com especiaria.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bacalhau ao forno",
+    "porque": "Corpo para um peixe intenso.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Risoto de queijo",
+    "porque": "Cremoso com cremoso.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijos maduros",
+    "porque": "Untuosidade com a textura do vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Peixe com molho de manteiga",
+    "porque": "Volume para o molho.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#vinicolaaurora"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/aurora-reserva-chardonnay.png"
+}

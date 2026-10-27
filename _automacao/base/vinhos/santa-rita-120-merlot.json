@@ -1,92 +1,96 @@
 {
-  "slug": "santa-rita-120-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 28,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Pão de Açúcar)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "120 Merlot",
-    "produtor": "Santa Rita",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 14.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "santa-rita-120-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 28,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Pão de Açúcar)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "120 Merlot",
+  "produtor": "Santa Rita",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/90228/vinho-chileno-tinto-120-santa-rita-merlot-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 35.91,
+  "min": 35.91,
+  "max": 39.89,
+  "ajustes": [],
   "fontes": [
-    "https://www.paodeacucar.com/produto/90228/vinho-chileno-tinto-120-santa-rita-merlot-garrafa-750ml"
+   "Pão de Açúcar: R$ 39,89, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 35,91, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 39.89,
-    "min": 39.89,
-    "max": 39.89,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 39,89, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.8
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.0,
-    "complexidade": 7.5,
-    "familias": [
-      "Frutas",
-      "Florais",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Violeta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Tabaco",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.2,
-    "corpo": 6.8,
-    "tanino_docura": 6.6,
-    "intensidade": 6.8,
-    "final": 6.2,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio a encorpado — marcante",
-      "Maduro — redondo",
-      "Moderada — fruta e baunilha",
-      "Médio — final frutado"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.8,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio a encorpado — marcante",
+   "Maduro — redondo",
+   "Moderada — fruta e baunilha",
+   "Médio — final frutado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

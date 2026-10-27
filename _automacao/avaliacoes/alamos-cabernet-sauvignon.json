@@ -1,0 +1,133 @@
+{
+ "slug": "alamos-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Alamos Cabernet Sauvignon",
+  "produtor": "Catena Zapata (Alamos)",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.0,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/163945/vinho-tinto-argentino-alamos-cabernet-sauvignon-750ml",
+  "https://www.lcbo.com/en/alamos-cabernet-sauvignon-295105"
+ ],
+ "preco": {
+  "referencia": 139.9,
+  "min": 139.9,
+  "max": 161.11,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 139,9, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 161,11, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa cozida",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Café",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.0,
+  "tanino_docura": 6.8,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — marcante",
+   "Médio a encorpado — macio",
+   "Maduro — aveludado",
+   "Pronunciada — fruta escura",
+   "Médio — final elegante"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet argentino da Catena, com café e cravo.",
+  "kicker_identidade": "Cabernet do Alamos",
+  "historico": "O Alamos é uma linha da Catena Zapata, de Mendoza. Este Cabernet é seco e frutado.",
+  "degustacao": "Ameixa cozida, frutas negras e café no nariz. Na boca é médio, de tanino firme e final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhoargentina",
+  "#catenazapataalamos"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/alamos-cabernet-sauvignon.png"
+}

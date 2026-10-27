@@ -1,91 +1,95 @@
 {
-  "slug": "gato-negro-carmenere",
-  "rank_amazon": null,
-  "pos_lista300": 22,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Gato Negro Carménère",
-    "produtor": "San Pedro",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Carménère",
-    "teor": 13.0,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "gato-negro-carmenere",
+ "rank_amazon": null,
+ "pos_lista300": 22,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Gato Negro Carménère",
+  "produtor": "San Pedro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-gato-negro-carmenere-750ml-1"
+ ],
+ "preco": {
+  "referencia": 44.99,
+  "min": 44.99,
+  "max": 51.1,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-gato-negro-carmenere-750ml-1"
+   "Imigrantes Bebidas: R$ 44,99, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 51,10, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 44.99,
-    "min": 44.99,
-    "max": 44.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 44,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.8,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas escuras",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Tabaco",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.2,
-    "corpo": 6.4,
-    "tanino_docura": 6.2,
-    "intensidade": 6.4,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — aveludado",
-      "Macio — aveludado",
-      "Moderada — especiada",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas escuras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.2,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — aveludado",
+   "Macio — aveludado",
+   "Moderada — especiada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

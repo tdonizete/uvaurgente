@@ -1,90 +1,94 @@
 {
-  "slug": "sierra-batuco-cabernet-sauvignon",
-  "rank_amazon": 39,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço em 1 só fonte (Amazon)",
-    "Perfil em 1 só fonte; produtor, região e teor não confirmados"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Sierra Batuco Cabernet Sauvignon",
-    "produtor": "Sierra Batuco",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Chile",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": null,
-    "servir": "16 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "sierra-batuco-cabernet-sauvignon",
+ "rank_amazon": 39,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço em 1 só fonte (Amazon)",
+  "Perfil em 1 só fonte; produtor, região e teor não confirmados"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Sierra Batuco Cabernet Sauvignon",
+  "produtor": "Sierra Batuco",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.portaltela.com/entretenimento/lazer/2025/04/10/sierra-batuco-cabernet-sauvignon-um-tinto-chileno-acessivel-e-surpreendente/"
+ ],
+ "preco": {
+  "referencia": 32.21,
+  "min": 32.21,
+  "max": 35.0,
+  "ajustes": [],
   "fontes": [
-    "https://www.portaltela.com/entretenimento/lazer/2025/04/10/sierra-batuco-cabernet-sauvignon-um-tinto-chileno-acessivel-e-surpreendente/"
+   "Amazon (Mais vendidos): R$ 35,0, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 32,21, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.2,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 35.0,
-    "min": 35.0,
-    "max": 35.0,
-    "ajustes": [],
-    "fontes": [
-      "Amazon (Mais vendidos): R$ 35,0, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.4
-  },
-  "aroma": {
-    "limpeza": 7.8,
-    "intensidade": 6.2,
-    "complexidade": 7.1,
-    "familias": [
-      "Frutas",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Pimenta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.0,
-    "corpo": 6.0,
-    "tanino_docura": 6.0,
-    "intensidade": 6.0,
-    "final": 6.0,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — simples",
-      "Macio — final suave",
-      "Moderada — fruta simples",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.0,
+  "tanino_docura": 6.0,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — simples",
+   "Macio — final suave",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

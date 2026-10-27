@@ -1,0 +1,132 @@
+{
+ "slug": "diablo-black-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Diablo Black (Dark Black)",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle del Maule",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, 7 meses em carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.tesco.com/shop/en-GB/products/305919927"
+ ],
+ "preco": {
+  "referencia": 66.41,
+  "min": 66.41,
+  "max": 66.69,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 66,69, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 66,41, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Madeira escura",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 7.0,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio a encorpado — estruturado",
+   "Firme — sedoso",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno escuro, com madeira e tabaco.",
+  "kicker_identidade": "Cabernet sombrio",
+  "historico": "O Diablo é uma marca da Concha y Toro. O Black Cabernet vem do Valle del Maule e passa 7 meses em carvalho.",
+  "degustacao": "Frutas negras, madeira escura e tabaco no nariz. Na boca é encorpado, macio e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/diablo-black-cabernet-sauvignon.png"
+}

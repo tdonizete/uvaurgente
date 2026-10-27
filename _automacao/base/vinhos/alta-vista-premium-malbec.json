@@ -1,90 +1,94 @@
 {
-  "slug": "alta-vista-premium-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 217,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes); perfil resumido"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Alta Vista Estate Premium Malbec",
-    "produtor": "Alta Vista",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 14.5,
-    "servir": "17 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "alta-vista-premium-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 217,
+ "data": "2026-10-26",
+ "status": "publicado",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes); perfil resumido"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Alta Vista Estate Premium Malbec",
+  "produtor": "Alta Vista",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-alta-vista-premium-malbec-750-ml"
+ ],
+ "preco": {
+  "referencia": 135.0,
+  "min": 135.0,
+  "max": 158.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-alta-vista-premium-malbec-750-ml"
+   "Imigrantes Bebidas: R$ 158,99, 26/10/2026",
+   "Bing Shopping — Amazon: R$ 135,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 158.99,
-    "min": 158.99,
-    "max": 158.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 158,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.4
-  },
-  "aroma": {
-    "limpeza": 8.4,
-    "intensidade": 7.2,
-    "complexidade": 7.0,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas maduras",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Amora",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Framboesa",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 7.2,
-    "tanino_docura": 7.0,
-    "intensidade": 7.0,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — equilibrada",
-      "Encorpado",
-      "Firme — equilibrado",
-      "Moderada a pronunciada",
-      "Médio — bom final"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.2,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado",
+   "Firme — equilibrado",
+   "Moderada a pronunciada",
+   "Médio — bom final"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 27/10/2026)"
+ }
 }

@@ -1,0 +1,130 @@
+{
+ "slug": "sierra-batuco-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Sierra Batuco Cabernet Sauvignon",
+  "produtor": "Sierra Batuco",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.portaltela.com/entretenimento/lazer/2025/04/10/sierra-batuco-cabernet-sauvignon-um-tinto-chileno-acessivel-e-surpreendente/"
+ ],
+ "preco": {
+  "referencia": 32.21,
+  "min": 32.21,
+  "max": 35.0,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 35,0, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 32,21, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.2,
+  "complexidade": 7.1,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.0,
+  "tanino_docura": 6.0,
+  "intensidade": 6.0,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — simples",
+   "Macio — final suave",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno básico, para quem procura o menor preço.",
+  "kicker_identidade": "Chileno de entrada",
+  "historico": "O Sierra Batuco é um Cabernet Sauvignon chileno de linha básica. É seco e sem pretensão de guarda.",
+  "degustacao": "Frutas vermelhas, ameixa e pimenta no nariz. Na boca é leve, de tanino simples e final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao sugo",
+    "porque": "Acidez e fruta para o molho de tomate.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tinto leve que não pesa na carne branca.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de muçarela",
+    "porque": "Combinação fácil de sexta-feira.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Salame e queijo com fruta fresca.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sanduíche de pernil",
+    "porque": "Tempero e gordura com tanino baixo.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#sierrabatuco"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/sierra-batuco-cabernet-sauvignon.png"
+}

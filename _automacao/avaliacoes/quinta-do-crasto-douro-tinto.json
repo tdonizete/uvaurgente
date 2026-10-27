@@ -1,0 +1,131 @@
+{
+ "slug": "quinta-do-crasto-douro-tinto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Crasto Douro Tinto",
+  "produtor": "Quinta do Crasto",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Douro (DOC)",
+  "safra": null,
+  "uvas": "Tinta Roriz, Tinta Barroca, Touriga Franca, Touriga Nacional",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-crasto-douro-d-o-c-750ml"
+ ],
+ "preco": {
+  "referencia": 195.07,
+  "min": 195.07,
+  "max": 203.99,
+  "ajustes": [],
+  "fontes": [
+   "Imigrantes Bebidas: R$ 203,99, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 195,07, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutos vermelhos",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Esteva",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — bem definido",
+   "Firme",
+   "Pronunciada — vigorosa",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Douro jovem e vibrante, de uma quinta de referência.",
+  "kicker_identidade": "Douro de vinha",
+  "historico": "A Quinta do Crasto fica na margem direita do rio Douro. Este tinto corta Tinta Roriz, Tinta Barroca, Touriga Franca e Touriga Nacional.",
+  "degustacao": "Frutos vermelhos, cereja e esteva no nariz. Na boca é fresco, de tanino firme e final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Bacalhau à Brás",
+    "porque": "Tinto português com prato português.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Leitão assado",
+    "porque": "Gordura e pele crocante com fruta madura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Arroz de pato",
+    "porque": "Estrutura para um prato rico.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo da Serra",
+    "porque": "Cremoso e salgado com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos assados",
+    "porque": "Terroso e macio.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tintaroriz",
+  "#vinhoportugal",
+  "#quintadocrasto"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/quinta-do-crasto-douro-tinto.png"
+}

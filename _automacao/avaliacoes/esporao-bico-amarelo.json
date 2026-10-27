@@ -1,0 +1,131 @@
+{
+ "slug": "esporao-bico-amarelo",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Bico Amarelo",
+  "produtor": "Esporão",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Vinho Verde",
+  "safra": null,
+  "uvas": "Loureiro, Alvarinho, Avesso",
+  "teor": 11.0,
+  "servir": "8 °C",
+  "estilo": "Seco, sem gás"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://esporao.com/pt/vinhos/bico-amarelo/2024",
+  "https://esporao.com/en/press-center/bico-amarelo-is-the-new-vinho-verde-from-esporao"
+ ],
+ "preco": {
+  "referencia": 74.95,
+  "min": 74.95,
+  "max": 96.5,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 74,95, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 96,50, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Limão",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Lima",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maracujá",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Toranja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 6.8,
+  "tanino_docura": 8.6,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — 6,3 g/L, pH 3,2",
+   "Médio — bom volume",
+   "Seco — 1,5 g/L",
+   "Pronunciada — cítrica",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Vinho Verde seco e vibrante, feito pelo Esporão.",
+  "kicker_identidade": "Verde de verdade",
+  "historico": "O Bico Amarelo é o Vinho Verde do Esporão. Corta Loureiro, Alvarinho e Avesso, seco e sem gás.",
+  "degustacao": "Limão, lima e maracujá no nariz. Na boca é seco, ácido e de final mineral.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#loureiro",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-bico-amarelo.png"
+}

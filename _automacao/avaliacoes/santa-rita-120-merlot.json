@@ -1,0 +1,132 @@
+{
+ "slug": "santa-rita-120-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "120 Merlot",
+  "produtor": "Santa Rita",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/90228/vinho-chileno-tinto-120-santa-rita-merlot-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 35.91,
+  "min": 35.91,
+  "max": 39.89,
+  "ajustes": [],
+  "fontes": [
+   "Pão de Açúcar: R$ 39,89, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 35,91, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.0,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.8,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio a encorpado — marcante",
+   "Maduro — redondo",
+   "Moderada — fruta e baunilha",
+   "Médio — final frutado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot chileno barato e macio, com violeta.",
+  "kicker_identidade": "Merlot de entrada",
+  "historico": "A Santa Rita foi fundada no Chile em 1880. A linha 120 homenageia os patriotas da independência chilena.",
+  "degustacao": "Frutas vermelhas, violeta e tabaco no nariz. Na boca é macio, leve e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Filé ao molho de cogumelos",
+    "porque": "Fruta madura e tanino macio com molho cremoso.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne assada",
+    "porque": "Clássico de domingo para tinto redondo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta vermelha contra o tempero.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo prato",
+    "porque": "Gordura suave para tanino gentil.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Abóbora assada",
+    "porque": "Doçura vegetal com fruta madura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhochile",
+  "#santarita"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/santa-rita-120-merlot.png"
+}
