@@ -1,0 +1,92 @@
+{
+  "slug": "norton-select-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 42,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "A lista diz 'Norton Malbec': avaliado o Select, que é o vendido nas lojas consultadas"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Norton Select Malbec",
+    "produtor": "Bodega Norton",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-norton-select-malbec-750ml",
+    "https://www.werlecomercial.com.br/vinho-norton-select-malbec-750ml"
+  ],
+  "preco": {
+    "referencia": 99.9,
+    "min": 99.9,
+    "max": 114.99,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 99,9, 26/10/2026",
+      "Imigrantes Bebidas: R$ 114,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.0,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Figo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas negras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.4,
+    "tanino_docura": 7.0,
+    "intensidade": 7.2,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado — boa estrutura",
+      "Firme — redondo",
+      "Pronunciada — fruta doce",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

@@ -43,18 +43,19 @@ def main():
         if len(d["preco"]["fontes"]) < 2 and not any("1 só fonte" in p for p in pend):
             pend.append("Preço em 1 só fonte")
         pil = "".join(k for k, v in r["pilares"].items() if v) or "—"
-        linhas.append((d.get("rank_amazon", 999), d, r, c, pil, alertas, pend))
+        rk = d["rank_amazon"] if d.get("rank_amazon") else 1000 + d.get("pos_lista300", 999)
+        linhas.append((rk, d, r, c, pil, alertas, pend))
         por_rank[d.get("rank_amazon")] = (d["slug"], r["nota"], r["selo"]["nome"])
 
     linhas.sort(key=lambda x: x[0])
     out = ["# Base top 100 Amazon — notas (não publicadas)", "",
-           "Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.", "",
+           "Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.", "Coluna #: número = posição no top 100 Amazon; L + número = posição na lista popular 300.", "",
            "| # | Vinho | País | Tipo | Preço ref. | V | A | P | C/B | BLIC | Nota | Selo | Confiança | Pendências |",
            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |"]
     for rank, d, r, c, pil, alertas, pend in linhas:
         v = d["vinho"]
         out.append(
-            f"| {rank} | {v['title'] if v['title'].startswith(v['produtor'].split()[0]) else v['produtor'] + ' ' + v['title']} | {v['pais']} | {v['tipo']} | "
+            f"| {rank if rank < 1000 else 'L' + str(rank - 1000)} | {v['title'] if v['title'].startswith(v['produtor'].split()[0]) else v['produtor'] + ' ' + v['title']} | {v['pais']} | {v['tipo']} | "
             f"R$ {preco_br(d['preco']['referencia'])} | "
             f"{virgula(c['visual'])} | {virgula(c['aroma'])} | {virgula(c['paladar'])} | {virgula(c['custo_beneficio'])} | "
             f"{pil} | **{virgula(r['nota'])}** | {r['selo']['nome']} | {d.get('confianca', '')} | "
@@ -75,7 +76,7 @@ def main():
 
     for rank, d, r, c, pil, alertas, pend in linhas:
         flag = " ⚠ " + "; ".join(alertas) if alertas else ""
-        print(f"{rank:>3} {d['slug'][:44]:44} {virgula(r['nota'])} {r['selo']['nome']:<12} BLIC {pil}{flag}")
+        print(f"{(rank if rank < 1000 else 'L' + str(rank - 1000))!s:>4} {d['slug'][:44]:44} {virgula(r['nota'])} {r['selo']['nome']:<12} BLIC {pil}{flag}")
 
 
 if __name__ == "__main__":

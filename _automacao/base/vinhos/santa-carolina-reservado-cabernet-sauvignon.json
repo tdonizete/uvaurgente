@@ -1,0 +1,91 @@
+{
+  "slug": "santa-carolina-reservado-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 24,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Imigrantes)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Santa Carolina Reservado Cabernet Sauvignon",
+    "produtor": "Santa Carolina",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Meio seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-santa-carolina-reservado-cabernet-sauvignon-750ml"
+  ],
+  "preco": {
+    "referencia": 22.99,
+    "min": 22.99,
+    "max": 22.99,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 22,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.4
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.4,
+    "complexidade": 6.6,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 5.8,
+    "tanino_docura": 6.0,
+    "intensidade": 6.0,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca",
+      "Leve — frutado",
+      "Macio — meio seco arredonda",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

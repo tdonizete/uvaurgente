@@ -1,0 +1,93 @@
+{
+  "slug": "pata-negra-gran-reserva-valdepenas",
+  "rank_amazon": null,
+  "pos_lista300": 39,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Werle, esgotado)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Pata Negra Gran Reserva",
+    "produtor": "García Carrión",
+    "tipo": "Tinto",
+    "pais": "Espanha",
+    "regiao": "D.O. Valdepeñas",
+    "safra": null,
+    "uvas": "Tempranillo",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, 18 meses em carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://civusa.garciacarrion.com/?p=863",
+    "https://www.werlecomercial.com.br/produtos/vinho-pata-negra-gran-reserva-tempranillo750ml-z4j7/"
+  ],
+  "preco": {
+    "referencia": 144.9,
+    "min": 144.9,
+    "max": 144.9,
+    "ajustes": [],
+    "fontes": [
+      "Werle Comercial: R$ 144,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.4,
+    "complexidade": 7.8,
+    "familias": [
+      "Especiarias",
+      "Madeira",
+      "Oxidativo"
+    ],
+    "top5": [
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Madeira",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Lácteo",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Couro",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Fruta passa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.4,
+    "tanino_docura": 7.2,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado — envolvente",
+      "Firme — macio",
+      "Pronunciada — evolução",
+      "Médio — cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

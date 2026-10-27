@@ -1,0 +1,1883 @@
+{
+ "fonte": "Lista '300 vinhos mais vendidos ou populares no Brasil' enviada pelo Tiago em 26/10/2026 (compilação de Nielsen/Pérgola, Amazon, Vivino e varejistas; ordem aproximada, não é ranking oficial)",
+ "itens": [
+  {
+   "pos": 1,
+   "nome": "Pérgola Tinto Suave",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "pergola-tinto-suave"
+  },
+  {
+   "pos": 2,
+   "nome": "Pérgola Branco Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 3,
+   "nome": "Pérgola Rosé Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 4,
+   "nome": "Chalise Tinto Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 5,
+   "nome": "Chalise Branco Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 6,
+   "nome": "Mioranza Tinto Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 7,
+   "nome": "Mioranza Branco Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 8,
+   "nome": "Catafesta Tinto Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 9,
+   "nome": "Quinta do Morgado Tinto Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 10,
+   "nome": "Dom Bosco Tinto Suave",
+   "pais": "Brasil",
+   "status": "fora_escopo",
+   "motivo": "Vinho de mesa de uvas americanas: a Metodologia v2.0 é para viníferas"
+  },
+  {
+   "pos": 11,
+   "nome": "Concha y Toro Reservado Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "concha-y-toro-reservado-cabernet-sauvignon (site)"
+  },
+  {
+   "pos": 12,
+   "nome": "Concha y Toro Reservado Merlot",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "concha-y-toro-reservado-merlot"
+  },
+  {
+   "pos": 13,
+   "nome": "Concha y Toro Reservado Carménère",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "concha-y-toro-reservado-carmenere"
+  },
+  {
+   "pos": 14,
+   "nome": "Concha y Toro Reservado Malbec",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "concha-y-toro-reservado-malbec"
+  },
+  {
+   "pos": 15,
+   "nome": "Concha y Toro Reservado Sweet Red",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "concha-y-toro-reservado-sweet-red"
+  },
+  {
+   "pos": 16,
+   "nome": "Casillero del Diablo Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "casillero-del-diablo-reserva-cabernet-sauvignon (site)"
+  },
+  {
+   "pos": 17,
+   "nome": "Casillero del Diablo Carménère",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "casillero-del-diablo-reserva-carmenere"
+  },
+  {
+   "pos": 18,
+   "nome": "Casillero del Diablo Merlot",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "casillero-del-diablo-reserva-merlot"
+  },
+  {
+   "pos": 19,
+   "nome": "Casillero del Diablo Malbec",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "casillero-del-diablo-reserva-malbec"
+  },
+  {
+   "pos": 20,
+   "nome": "Casillero del Diablo Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "casillero-del-diablo-reserva-sauvignon-blanc"
+  },
+  {
+   "pos": 21,
+   "nome": "Gato Negro Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "gato-negro-cabernet-sauvignon"
+  },
+  {
+   "pos": 22,
+   "nome": "Gato Negro Carménère",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "gato-negro-carmenere"
+  },
+  {
+   "pos": 23,
+   "nome": "Gato Negro Merlot",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "gato-negro-merlot"
+  },
+  {
+   "pos": 24,
+   "nome": "Santa Carolina Reservado Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-carolina-reservado-cabernet-sauvignon"
+  },
+  {
+   "pos": 25,
+   "nome": "Santa Carolina Reservado Carménère",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-carolina-reservado-carmenere"
+  },
+  {
+   "pos": 26,
+   "nome": "Santa Carolina Reservado Merlot",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-carolina-reservado-merlot"
+  },
+  {
+   "pos": 27,
+   "nome": "Santa Rita 120 Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-rita-120-cabernet-sauvignon"
+  },
+  {
+   "pos": 28,
+   "nome": "Santa Rita 120 Merlot",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-rita-120-merlot"
+  },
+  {
+   "pos": 29,
+   "nome": "Santa Rita 120 Carménère",
+   "pais": "Chile",
+   "status": "avaliado_base",
+   "slug": "santa-rita-120-carmenere"
+  },
+  {
+   "pos": 30,
+   "nome": "Frontera Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "sem_preco",
+   "motivo": "Frontera Cabernet Sauvignon: perfil encontrado (Canadá), mas sem preço em loja brasileira"
+  },
+  {
+   "pos": 31,
+   "nome": "Frontera Merlot",
+   "pais": "Chile",
+   "status": "sem_preco",
+   "motivo": "Frontera Merlot: sem preço em loja brasileira"
+  },
+  {
+   "pos": 32,
+   "nome": "Frontera Carménère",
+   "pais": "Chile",
+   "status": "sem_preco",
+   "motivo": "Frontera Carménère: sem preço nem ficha"
+  },
+  {
+   "pos": 33,
+   "nome": "Periquita Tinto",
+   "pais": "Portugal",
+   "status": "avaliado_base",
+   "slug": "periquita-original-tinto"
+  },
+  {
+   "pos": 34,
+   "nome": "Periquita Branco",
+   "pais": "Portugal",
+   "status": "avaliado_base",
+   "slug": "periquita-branco"
+  },
+  {
+   "pos": 35,
+   "nome": "Casal Garcia Branco",
+   "pais": "Portugal",
+   "status": "ja_na_base",
+   "slug": "casal-garcia-vinho-verde (site)"
+  },
+  {
+   "pos": 36,
+   "nome": "Casal Garcia Tinto",
+   "pais": "Portugal",
+   "status": "avaliado_base",
+   "slug": "casal-garcia-tinto"
+  },
+  {
+   "pos": 37,
+   "nome": "Casal Garcia Rosé",
+   "pais": "Portugal",
+   "status": "ja_na_base",
+   "slug": "casal-garcia-rose"
+  },
+  {
+   "pos": 38,
+   "nome": "Pata Negra Oro Tempranillo",
+   "pais": "Espanha",
+   "status": "ja_na_base",
+   "slug": "pata-negra-oro-tempranillo (site)"
+  },
+  {
+   "pos": 39,
+   "nome": "Pata Negra Gran Reserva",
+   "pais": "Espanha",
+   "status": "avaliado_base",
+   "slug": "pata-negra-gran-reserva-valdepenas"
+  },
+  {
+   "pos": 40,
+   "nome": "Mucho Más Tinto",
+   "pais": "Espanha",
+   "status": "sem_preco",
+   "motivo": "Mucho Más Tinto (Félix Solís): perfil encontrado (Finlândia), mas sem preço em loja brasileira"
+  },
+  {
+   "pos": 41,
+   "nome": "Luigi Bosca Malbec",
+   "pais": "Argentina",
+   "status": "avaliado_base",
+   "slug": "luigi-bosca-malbec"
+  },
+  {
+   "pos": 42,
+   "nome": "Norton Malbec",
+   "pais": "Argentina",
+   "status": "avaliado_base",
+   "slug": "norton-select-malbec"
+  },
+  {
+   "pos": 43,
+   "nome": "Norton Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "avaliado_base",
+   "slug": "norton-select-cabernet-sauvignon"
+  },
+  {
+   "pos": 44,
+   "nome": "Trapiche Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 45,
+   "nome": "Trapiche Oak Cask Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 46,
+   "nome": "Trapiche Vineyards Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "trapiche-vineyards-cabernet-sauvignon (site)"
+  },
+  {
+   "pos": 47,
+   "nome": "Rutini Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 48,
+   "nome": "Catena Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 49,
+   "nome": "DV Catena Cabernet-Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "dv-catena-cabernet-malbec (site)"
+  },
+  {
+   "pos": 50,
+   "nome": "Finca La Linda Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "luigi-bosca-finca-la-linda-malbec"
+  },
+  {
+   "pos": 51,
+   "nome": "Don Nicolás Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "don-nicolas-malbec"
+  },
+  {
+   "pos": 52,
+   "nome": "Don Nicolás Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "don-nicolas-cabernet-sauvignon"
+  },
+  {
+   "pos": 53,
+   "nome": "Cordero con Piel de Lobo Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "cordero-con-piel-de-lobo-cabernet-sauvignon"
+  },
+  {
+   "pos": 54,
+   "nome": "Novecento Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 55,
+   "nome": "Novecento Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 56,
+   "nome": "Bodega Garzón Estate Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 57,
+   "nome": "Bodega Garzón Reserva Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 58,
+   "nome": "Montes Toscanini Reserva Familiar Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 59,
+   "nome": "Pisano RPF Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 60,
+   "nome": "Artesana Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 61,
+   "nome": "Perez Cruz Gran Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 62,
+   "nome": "Perez Cruz Reserva Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 63,
+   "nome": "Doña Dominga Gran Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 64,
+   "nome": "El Principal Calicanto",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 65,
+   "nome": "Valle de Viejos Vin 50 Syrah",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 66,
+   "nome": "Château de los Hermanos Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 67,
+   "nome": "Château de los Hermanos Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 68,
+   "nome": "Pé Gran Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 69,
+   "nome": "Sierra Batuco Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "sierra-batuco-cabernet-sauvignon"
+  },
+  {
+   "pos": 70,
+   "nome": "Sierra Batuco Carménère",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "top100 #61 (sem ficha)"
+  },
+  {
+   "pos": 71,
+   "nome": "Guarda Rios Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 72,
+   "nome": "Terras Lusas Reserva",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 73,
+   "nome": "Conde de Cantanhede Reserva",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 74,
+   "nome": "Pê Tinto Esporão",
+   "pais": "Portugal",
+   "status": "ja_na_base",
+   "slug": "esporao-pe-tinto"
+  },
+  {
+   "pos": 75,
+   "nome": "Quinta de Bons Ventos Tinto",
+   "pais": "Portugal",
+   "status": "ja_na_base",
+   "slug": "casa-santos-lima-quinta-de-bons-ventos"
+  },
+  {
+   "pos": 76,
+   "nome": "Piranha Vinho Verde",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 77,
+   "nome": "Monte Velho Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 78,
+   "nome": "Capitanio Montepulciano d’Abruzzo Riserva",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 79,
+   "nome": "Cantine Truentum 968 Montepulciano d’Abruzzo",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 80,
+   "nome": "Terra Rossa Trulli Primitivo di Manduria",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 81,
+   "nome": "Miolo Seleção Tinto",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "miolo-selecao-cabernet-sauvignon-merlot"
+  },
+  {
+   "pos": 82,
+   "nome": "Miolo Seleção Rosé",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "miolo-selecao-rose"
+  },
+  {
+   "pos": 83,
+   "nome": "Miolo Reserva Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 84,
+   "nome": "Miolo Reserva Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 85,
+   "nome": "Villa Francioni Pinot Noir",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 86,
+   "nome": "Guaspari Syrah Vista do Chá",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 87,
+   "nome": "Casa Perini Moscatel",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "casa-perini-moscatel"
+  },
+  {
+   "pos": 88,
+   "nome": "Perini Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 89,
+   "nome": "Aurora Reserva Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 90,
+   "nome": "Aurora Reserva Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 91,
+   "nome": "Salton Reserva Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 92,
+   "nome": "Salton Reserva Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 93,
+   "nome": "Pizzato Fausto Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 94,
+   "nome": "Luiz Argenta Chardonnay Clássico",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 95,
+   "nome": "Los Riscos Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 96,
+   "nome": "La Flor de Pulenta Sauvignon Blanc",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 97,
+   "nome": "Benjamin Nieto Suave",
+   "pais": "Brasil",
+   "status": "a_avaliar",
+   "obs": "lista diz Brasil; Benjamín é da Nieto Senetiner (Argentina)"
+  },
+  {
+   "pos": 98,
+   "nome": "Les Celliers de Sorën Chablis",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 99,
+   "nome": "Domaine L. Chatelain Chablis",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 100,
+   "nome": "Freixenet Italian Sparkling Rosé",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 101,
+   "nome": "San Telmo The Grill Master Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 102,
+   "nome": "Angelica Zapata Malbec Alta",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 103,
+   "nome": "Chac Chac Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 104,
+   "nome": "Viña Las Perdices Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 105,
+   "nome": "Trivento Reserve Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "trivento-reserve-malbec"
+  },
+  {
+   "pos": 106,
+   "nome": "Rutini Colección Cabernet Sauvignon-Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 107,
+   "nome": "Luigi Bosca La Linda Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "luigi-bosca-finca-la-linda-malbec"
+  },
+  {
+   "pos": 108,
+   "nome": "Malacara Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 109,
+   "nome": "Jean Bousquet Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 110,
+   "nome": "4 Estaciones Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 111,
+   "nome": "Chateau Vieux Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 112,
+   "nome": "Festivo Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 113,
+   "nome": "Lindaflor Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 114,
+   "nome": "Vasco Viejo Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 115,
+   "nome": "Prófugo Frutos Rojos Malbec",
+   "pais": "Argentina",
+   "status": "ja_na_base",
+   "slug": "profugo-frutos-rojos-malbec"
+  },
+  {
+   "pos": 116,
+   "nome": "Alamos Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 117,
+   "nome": "Alamos Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 118,
+   "nome": "Terrazas de los Andes Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 119,
+   "nome": "Terrazas de los Andes Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 120,
+   "nome": "Graffigna Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 121,
+   "nome": "Santa Loreto Varietal Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "santa-loreto-cabernet-sauvignon"
+  },
+  {
+   "pos": 122,
+   "nome": "Santa Loreto Varietal Carménère",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "santa-loreto-carmenere"
+  },
+  {
+   "pos": 123,
+   "nome": "Santa Loreto Varietal Merlot",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 124,
+   "nome": "Santa Loreto Varietal Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 125,
+   "nome": "Almadén Cabernet Sauvignon Suave",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "almaden-cabernet-sauvignon-suave",
+   "obs": "lista diz Chile; Almadén é brasileira"
+  },
+  {
+   "pos": 126,
+   "nome": "Almadén Merlot Suave",
+   "pais": "Chile",
+   "status": "a_avaliar",
+   "obs": "lista diz Chile; Almadén é brasileira"
+  },
+  {
+   "pos": 127,
+   "nome": "Almadén Carménère Suave",
+   "pais": "Chile",
+   "status": "a_avaliar",
+   "obs": "lista diz Chile; Almadén é brasileira"
+  },
+  {
+   "pos": 128,
+   "nome": "Almadén Sauvignon Blanc Suave",
+   "pais": "Chile",
+   "status": "a_avaliar",
+   "obs": "lista diz Chile; Almadén é brasileira"
+  },
+  {
+   "pos": 129,
+   "nome": "Gato Negro Malbec",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "gato-negro-malbec",
+   "obs": "lista diz Chile; Gato Negro Malbec é argentino"
+  },
+  {
+   "pos": 130,
+   "nome": "Gato Negro Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 131,
+   "nome": "Gato Negro Rosé",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 132,
+   "nome": "Frontera Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 133,
+   "nome": "Frontera Rosé",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 134,
+   "nome": "Frontera Sweet Red",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 135,
+   "nome": "Santa Rita Reservado Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 136,
+   "nome": "Santa Rita Reservado Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 137,
+   "nome": "Santa Rita Reservado Merlot",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 138,
+   "nome": "Montes Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 139,
+   "nome": "Montes Reserva Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 140,
+   "nome": "Montes Reserva Merlot",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 141,
+   "nome": "Periquita Reserva",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 142,
+   "nome": "Periquita Clássico Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 143,
+   "nome": "Periquita Rosé",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 144,
+   "nome": "Monte Velho Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 145,
+   "nome": "Monte Velho Rosé",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 146,
+   "nome": "Esporão Reserva Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 147,
+   "nome": "Esporão Reserva Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 148,
+   "nome": "Herdade do Esporão Private Selection",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 149,
+   "nome": "Quinta do Crasto Douro Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 150,
+   "nome": "Quinta do Crasto Douro Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 151,
+   "nome": "Douro Val Moreira Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 152,
+   "nome": "Douro Val Moreira Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 153,
+   "nome": "Vale do Sílio Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 154,
+   "nome": "Vale do Sílio Branco",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 155,
+   "nome": "Conde de Valdemar Crianza",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 156,
+   "nome": "Marqués de Cáceres Crianza",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 157,
+   "nome": "Marqués de Cáceres Rosado",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 158,
+   "nome": "Campo Viejo Tempranillo",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 159,
+   "nome": "Campo Viejo Crianza",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 160,
+   "nome": "Torres Sangre de Toro",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 161,
+   "nome": "Castello del Poggio Montepulciano d’Abruzzo",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 162,
+   "nome": "Castello del Poggio Primitivo",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 163,
+   "nome": "Castello del Poggio Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 164,
+   "nome": "Castello del Poggio Rosso",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 165,
+   "nome": "Zonin Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 166,
+   "nome": "Zonin Pinot Grigio",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 167,
+   "nome": "Folonari Valpolicella",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 168,
+   "nome": "Folonari Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 169,
+   "nome": "Ruffino Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 170,
+   "nome": "Ruffino Lumina Pinot Grigio",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 171,
+   "nome": "Masi Modello delle Venezie Rosso",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 172,
+   "nome": "Masi Modello delle Venezie Bianco",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 173,
+   "nome": "Louis Jadot Beaujolais-Villages",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 174,
+   "nome": "Louis Jadot Bourgogne Pinot Noir",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 175,
+   "nome": "Barton & Guestier Vouvray",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 176,
+   "nome": "Barton & Guestier Cabernet Sauvignon",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 177,
+   "nome": "Veuve Clicquot Yellow Label",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 178,
+   "nome": "Moët & Chandon Brut Impérial",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 179,
+   "nome": "Chandon Réserve Brut",
+   "pais": "Argentina/Brasil",
+   "status": "ja_na_base",
+   "slug": "chandon-reserve-brut (site)"
+  },
+  {
+   "pos": 180,
+   "nome": "Freixenet Cordon Negro Brut",
+   "pais": "Espanha",
+   "status": "ja_na_base",
+   "slug": "freixenet-cordon-negro-brut"
+  },
+  {
+   "pos": 181,
+   "nome": "Salton Classic Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 182,
+   "nome": "Salton Classic Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 183,
+   "nome": "Salton Classic Tannat",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 184,
+   "nome": "Salton Volpi Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 185,
+   "nome": "Salton Volpi Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 186,
+   "nome": "Salton Ouro Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 187,
+   "nome": "Aurora Reserva Pinot Noir",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 188,
+   "nome": "Aurora Reserva Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 189,
+   "nome": "Aurora Colheita Tardia Branco",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 190,
+   "nome": "Marcus James Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 191,
+   "nome": "Marcus James Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 192,
+   "nome": "Rio Sol Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 193,
+   "nome": "Rio Sol Syrah",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 194,
+   "nome": "Casa Valduga Origem Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 195,
+   "nome": "Casa Valduga Arte Marselan-Malbec",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 196,
+   "nome": "Casa Perini Vitis Marselan",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 197,
+   "nome": "Salton Campanha Marselan-Tannat",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 198,
+   "nome": "Miolo Seival Tempranillo",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 199,
+   "nome": "Espumante Aquarela Casa Perini Moscatel",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "casa-perini-aquarela-moscatel"
+  },
+  {
+   "pos": 200,
+   "nome": "Espumante Salton Brut Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 201,
+   "nome": "Catena Appellation Vista Flores Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 202,
+   "nome": "Bramare Malbec Vale do Uco",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 203,
+   "nome": "Achaval-Ferrer Mendoza Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 204,
+   "nome": "Achaval-Ferrer Quimera",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 205,
+   "nome": "Zuccardi Serie A Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 206,
+   "nome": "Zuccardi Serie A Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 207,
+   "nome": "Zuccardi Q Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 208,
+   "nome": "Finca Sophenia Synthesis Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 209,
+   "nome": "Doña Paula Estate Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 210,
+   "nome": "Doña Paula Estate Cabernet Sauvignon",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 211,
+   "nome": "Susana Balbo Signature Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 212,
+   "nome": "Crios Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 213,
+   "nome": "BenMarco Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 214,
+   "nome": "Las Perdices Malbec Reserva",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 215,
+   "nome": "La Celia Reserva Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 216,
+   "nome": "Alta Vista Classic Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 217,
+   "nome": "Alta Vista Premium Malbec",
+   "pais": "Argentina",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 218,
+   "nome": "Bodega Garzón Estate Cabernet Franc",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 219,
+   "nome": "Bodega Garzón Single Vineyard Tannat",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 220,
+   "nome": "Garzón Reserva Cabernet Franc",
+   "pais": "Uruguai",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 221,
+   "nome": "Tagua Tagua BTT Château de los Hermanos Carménère",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "repete a posição 66 (Château de los Hermanos Carménère)"
+  },
+  {
+   "pos": 222,
+   "nome": "Tagua Tagua BTT Château de los Hermanos Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "repete a posição 67"
+  },
+  {
+   "pos": 223,
+   "nome": "Château de los Hermanos Merlot",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 224,
+   "nome": "Château de los Hermanos Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 225,
+   "nome": "Pé Gran Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "ja_na_base",
+   "slug": "repete a posição 68 (Pé Gran Reserva CS)"
+  },
+  {
+   "pos": 226,
+   "nome": "Pérez Cruz Limited Edition Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 227,
+   "nome": "Pérez Cruz Limited Edition Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 228,
+   "nome": "Pérez Cruz Reserva Sauvignon Blanc",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 229,
+   "nome": "Santa Rita Medalla Real Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 230,
+   "nome": "Santa Rita Medalla Real Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 231,
+   "nome": "Montes Alpha Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 232,
+   "nome": "Montes Alpha Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 233,
+   "nome": "Montes Alpha Merlot",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 234,
+   "nome": "Errazuriz Max Reserva Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 235,
+   "nome": "Errazuriz Max Reserva Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 236,
+   "nome": "Marqués de Casa Concha Cabernet Sauvignon",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 237,
+   "nome": "Marqués de Casa Concha Carménère",
+   "pais": "Chile",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 238,
+   "nome": "Marqués de Riscal Reserva",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 239,
+   "nome": "Marqués de Riscal Rosado",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 240,
+   "nome": "Protos Crianza",
+   "pais": "Espanha",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 241,
+   "nome": "Poggio Cavalieri Governo Toscana",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 242,
+   "nome": "Borghetto Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 243,
+   "nome": "Poggio Cavalieri Chianti",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 244,
+   "nome": "Ruffino Riserva Ducale Chianti Classico",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 245,
+   "nome": "Antinori Santa Cristina Toscana",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 246,
+   "nome": "Antinori Santa Cristina Pinot Grigio",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 247,
+   "nome": "Antinori Peppoli Chianti Classico",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 248,
+   "nome": "Castello di Albola Chianti Classico",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 249,
+   "nome": "Castello di Albola Accademia Chianti Classico",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 250,
+   "nome": "Zonin Prosecco DOC",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 251,
+   "nome": "La Marca Prosecco",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 252,
+   "nome": "Mionetto Prosecco Treviso Brut",
+   "pais": "Itália",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 253,
+   "nome": "La Compagnie des Vins d’Autrefois Pinot Noir",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 254,
+   "nome": "Louis Jadot Mâcon-Villages Chardonnay",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 255,
+   "nome": "Louis Jadot Beaujolais Nouveau",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 256,
+   "nome": "Guigal Côtes du Rhône Rouge",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 257,
+   "nome": "Guigal Côtes du Rhône Blanc",
+   "pais": "França",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 258,
+   "nome": "Esporão Monte Velho Reserva",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 259,
+   "nome": "Quinta do Crasto Reserva Vinhas Velhas",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 260,
+   "nome": "Quinta do Vallado Douro Tinto",
+   "pais": "Portugal",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 261,
+   "nome": "Casa Valduga Maria Valduga Brut Vintage",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 262,
+   "nome": "Casa Valduga 130 Blanc de Blancs",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 263,
+   "nome": "Casa Valduga 130 Brut",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "casa-valduga-130-brut (site)"
+  },
+  {
+   "pos": 264,
+   "nome": "Casa Valduga Naturelle Frisante Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 265,
+   "nome": "Cave Geisse Nature",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 266,
+   "nome": "Cave Geisse Brut",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 267,
+   "nome": "Cave Geisse Terroir Brut",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 268,
+   "nome": "Peterlongo Presence Brut",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 269,
+   "nome": "Don Giovanni Brut Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 270,
+   "nome": "Ponto Nero Celebration Prosecco",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 271,
+   "nome": "Chandon Réserve Demi-Sec",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 272,
+   "nome": "Chandon Névoa das Encantadas",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 273,
+   "nome": "Chandon Brut Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 274,
+   "nome": "Salton Prosecco",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "salton-prosecco-brut"
+  },
+  {
+   "pos": 275,
+   "nome": "Salton Intenso Brut",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 276,
+   "nome": "Salton Prosecco Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 277,
+   "nome": "Garibaldi Vero Espumante Demi-Sec Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 278,
+   "nome": "Bertoletti Espumante Brut Charmat",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 279,
+   "nome": "Adolfo Lona Silvia Nature Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 280,
+   "nome": "Moscato d’Alegria Moscatel Branco",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 281,
+   "nome": "Almaúnica Parte 2 Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 282,
+   "nome": "Almaúnica Corte",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 283,
+   "nome": "Almaúnica Reserva Cabernet Franc",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 284,
+   "nome": "Guaspari Cabernet Franc",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 285,
+   "nome": "Guaspari Syrah Vista da Serra",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 286,
+   "nome": "Guaspari Chardonnay Vista do Chá",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 287,
+   "nome": "Miolo Merlot Terroir",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 288,
+   "nome": "Miolo Lote 43",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 289,
+   "nome": "Miolo Cuvée Tradition Brut",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 290,
+   "nome": "Miolo Millêsse Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 291,
+   "nome": "Pizzato DNA99 Merlot",
+   "pais": "Brasil",
+   "status": "ja_na_base",
+   "slug": "pizzato-dna-99-merlot (site)"
+  },
+  {
+   "pos": 292,
+   "nome": "Pizzato Allumé Cabernet Sauvignon",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 293,
+   "nome": "Pizzato Vinho de Altitude Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 294,
+   "nome": "Salton Desejo Merlot",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 295,
+   "nome": "Salton Intenso Tannat",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 296,
+   "nome": "Salton Volpi Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 297,
+   "nome": "Aurora Pinto Bandeira Chardonnay",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 298,
+   "nome": "Aurora Reserva Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 299,
+   "nome": "Valmarino Rosé Cabernet Franc",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  },
+  {
+   "pos": 300,
+   "nome": "Villa Francioni Joaquim Rosé",
+   "pais": "Brasil",
+   "status": "a_avaliar"
+  }
+ ]
+}

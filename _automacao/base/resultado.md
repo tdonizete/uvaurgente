@@ -1,6 +1,7 @@
 # Base top 100 Amazon — notas (não publicadas)
 
 Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.
+Coluna #: número = posição no top 100 Amazon; L + número = posição na lista popular 300.
 
 | # | Vinho | País | Tipo | Preço ref. | V | A | P | C/B | BLIC | Nota | Selo | Confiança | Pendências |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -68,6 +69,22 @@ Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.
 | 91 | Trivento Reserve Malbec | Argentina | Tinto | R$ 72,01 | 8,2 | 7,8 | 6,9 | 7,2 | BC | **7,3** | Sem Pressa | alta | — |
 | 93 | Trivento Reserve White Malbec | Argentina | Branco | R$ 61,65 | 8,0 | 7,3 | 6,8 | 6,8 | B | **7,0** | Sem Pressa | média | — |
 | 98 | Vinícola Campestre Pérgola Tinto Suave | Brasil | Tinto | R$ 22,49 | 7,0 | 6,7 | 5,1 | 6,6 | — | **6,0** | Sem Urgência | média | Vinho de mesa de uvas americanas: a metodologia é para viníferas; nota apenas informativa |
+| L21 | San Pedro Gato Negro Cabernet Sauvignon | Chile | Tinto | R$ 32,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | média | — |
+| L22 | San Pedro Gato Negro Carménère | Chile | Tinto | R$ 44,99 | 7,6 | 7,3 | 6,2 | 6,1 | B | **6,6** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L23 | San Pedro Gato Negro Merlot | Chile | Tinto | R$ 32,99 | 7,4 | 7,1 | 6,2 | 7,7 | B | **6,9** | Sem Pressa | média | — |
+| L24 | Santa Carolina Reservado Cabernet Sauvignon | Chile | Tinto | R$ 22,99 | 7,4 | 7,0 | 6,0 | 7,8 | B | **6,8** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L25 | Santa Carolina Reservado Carménère | Chile | Tinto | R$ 24,99 | 7,4 | 7,2 | 6,1 | 8,0 | B | **6,9** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L26 | Santa Carolina Reservado Merlot | Chile | Tinto | R$ 22,99 | 7,4 | 7,0 | 6,0 | 7,8 | B | **6,8** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L27 | Santa Rita 120 Cabernet Sauvignon | Chile | Tinto | R$ 49,99 | 7,4 | 7,0 | 6,2 | 6,2 | B | **6,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar, leve 3 pague 2) |
+| L28 | Santa Rita 120 Merlot | Chile | Tinto | R$ 39,89 | 7,8 | 7,5 | 6,5 | 8,4 | BC | **7,4** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar) |
+| L29 | Santa Rita 120 Carménère | Chile | Tinto | R$ 49,99 | 7,6 | 7,3 | 6,3 | 6,3 | B | **6,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar) |
+| L33 | José Maria da Fonseca Periquita Original Tinto | Portugal | Tinto | R$ 59,99 | 8,0 | 7,7 | 6,7 | 7,0 | BC | **7,2** | Sem Pressa | alta | — |
+| L34 | José Maria da Fonseca Periquita Branco | Portugal | Branco | R$ 59,99 | 8,0 | 7,8 | 7,4 | 7,4 | B | **7,6** | Sem Pressa | alta | — |
+| L36 | Aveleda Casal Garcia Tinto | Portugal | Tinto | R$ 51,99 | 7,6 | 7,2 | 6,1 | 6,4 | B | **6,6** | Sem Pressa | média | Castas não informadas |
+| L39 | García Carrión Pata Negra Gran Reserva | Espanha | Tinto | R$ 144,90 | 8,2 | 7,8 | 7,2 | 6,5 | BC | **7,3** | Sem Pressa | média | Preço em 1 só fonte (Werle, esgotado) |
+| L41 | Luigi Bosca Malbec | Argentina | Tinto | R$ 219,99 | 8,4 | 8,1 | 7,6 | 6,1 | BIC | **7,4** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes) |
+| L42 | Bodega Norton Norton Select Malbec | Argentina | Tinto | R$ 99,90 | 8,2 | 7,5 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | média | A lista diz 'Norton Malbec': avaliado o Select, que é o vendido nas lojas consultadas |
+| L43 | Bodega Norton Norton Select Cabernet Sauvignon | Argentina | Tinto | R$ 92,90 | 8,2 | 7,8 | 7,2 | 6,5 | BC | **7,3** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle, esgotado); A lista diz 'Norton Cabernet Sauvignon': avaliado o Select |
 
 ## Sem ficha (fora da pontuação)
 

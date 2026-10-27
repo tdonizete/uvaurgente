@@ -1,0 +1,91 @@
+{
+  "slug": "periquita-branco",
+  "rank_amazon": null,
+  "pos_lista300": 34,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Periquita Branco",
+    "produtor": "José Maria da Fonseca",
+    "tipo": "Branco",
+    "pais": "Portugal",
+    "regiao": "Península de Setúbal",
+    "safra": null,
+    "uvas": "Sauvignon Blanc, Viosinho, Verdelho, Viognier",
+    "teor": 13.0,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.jmf.pt/index.php?id=147",
+    "https://www.imigrantesbebidas.com.br/vinho-periquita-branco-portugues-750-ml"
+  ],
+  "preco": {
+    "referencia": 59.99,
+    "min": 59.99,
+    "max": 79.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 59,99, 26/10/2026",
+      "Pão de Açúcar: R$ 79,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Maracujá",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Lantana",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 6.8,
+    "tanino_docura": 8.4,
+    "intensidade": 7.2,
+    "final": 6.6,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — cítrica",
+      "Médio — fresco",
+      "Seco — coerente",
+      "Pronunciada — intensa",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

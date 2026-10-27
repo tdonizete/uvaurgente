@@ -1,0 +1,92 @@
+{
+  "slug": "santa-rita-120-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 27,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Pão de Açúcar, leve 3 pague 2)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "120 Cabernet Sauvignon",
+    "produtor": "Santa Rita",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/118250/vinho-chileno-tinto-seco-reserva-especial-120-cabernet-sauvignon-valle-central-garrafa-750ml"
+  ],
+  "preco": {
+    "referencia": 49.99,
+    "min": 49.99,
+    "max": 49.99,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Pão de Açúcar: R$ 49,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.4
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.4,
+    "complexidade": 6.6,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.2,
+    "corpo": 6.4,
+    "tanino_docura": 6.2,
+    "intensidade": 6.2,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — estruturado",
+      "Médio — presente",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

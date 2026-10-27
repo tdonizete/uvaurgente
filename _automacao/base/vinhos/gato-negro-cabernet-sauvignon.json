@@ -1,0 +1,91 @@
+{
+  "slug": "gato-negro-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 21,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Gato Negro Cabernet Sauvignon",
+    "produtor": "San Pedro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-gato-negro-cabernet-sauvignon-750ml",
+    "https://www.paodeacucar.com/produto/99419/vinho-tinto-chileno-gato-negro-cabernet-sauvignon-750ml"
+  ],
+  "preco": {
+    "referencia": 32.99,
+    "min": 32.99,
+    "max": 49.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 32,99, 26/10/2026",
+      "Pão de Açúcar: R$ 49,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Groselha preta",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.2,
+    "corpo": 6.4,
+    "tanino_docura": 6.0,
+    "intensidade": 6.4,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — frutado",
+      "Macio — suave",
+      "Moderada — fruta escura",
+      "Médio — final agradável"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
