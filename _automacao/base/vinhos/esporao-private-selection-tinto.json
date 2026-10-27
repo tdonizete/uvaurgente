@@ -1,0 +1,104 @@
+{
+  "slug": "esporao-private-selection-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 148,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço com desconto em uma loja; regular acima de R$ 880"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Esporão Private Selection Tinto",
+    "produtor": "Esporão",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Alentejo",
+    "safra": null,
+    "uvas": "Alicante Bouschet, Aragonez, Touriga Nacional, Touriga Franca",
+    "teor": 14.5,
+    "servir": "17 °C",
+    "estilo": "Seco, 18 meses em carvalho francês, 2 anos em garrafa"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+herdade+do+esporao+private+selection",
+    "https://esporao.com/media/pages/wine/esporao-private-selection-red/2020/ffc9f65c54-1786626599/ft_esporao-private-selection-tinto-20.pdf"
+  ],
+  "preco": {
+    "referencia": 734.9,
+    "min": 734.9,
+    "max": 886.9,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — loja com desconto; 'de' R$ 1.049: R$ 734,9, 27/10/2026",
+      "Google Shopping — NR Distribuidora: R$ 886,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 9.0
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.4,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Madeira",
+      "Especiarias",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta negra madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Compota de fruta vermelha",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias doces",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Grafite",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.4,
+    "tanino_docura": 8.2,
+    "intensidade": 8.2,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — sustenta",
+      "Encorpado — denso",
+      "Firme e estruturado",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (sem dado de duração)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-esporao-private-selection-tinto.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_749613-MLB108984930631_032026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

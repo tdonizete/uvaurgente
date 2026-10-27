@@ -1,0 +1,96 @@
+{
+  "slug": "frontera-carmenere",
+  "rank_amazon": null,
+  "pos_lista300": 32,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só loja"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Frontera Carménère",
+    "produtor": "Concha y Toro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Carménère",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+frontera+carmenere",
+    "https://theliquorbarn.com/collections/chile/products/concha-y-toro-frontera-carmenere-1-5l"
+  ],
+  "preco": {
+    "referencia": 42.5,
+    "min": 42.5,
+    "max": 42.5,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Armazém Aliança: R$ 42,5, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Vegetal/herbáceo",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimentão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.4,
+    "tanino_docura": 6.6,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio",
+      "Moderado — macio",
+      "Moderada",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

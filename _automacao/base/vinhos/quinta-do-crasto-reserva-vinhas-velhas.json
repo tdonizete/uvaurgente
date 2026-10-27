@@ -1,0 +1,104 @@
+{
+  "slug": "quinta-do-crasto-reserva-vinhas-velhas",
+  "rank_amazon": null,
+  "pos_lista300": 259,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Crasto Reserva Vinhas Velhas",
+    "produtor": "Quinta do Crasto",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Douro DOC",
+    "safra": null,
+    "uvas": "Vinhas velhas (castas misturadas)",
+    "teor": 14.0,
+    "servir": "16 °C",
+    "estilo": "Seco, 18 meses em carvalho (85% francês, 15% americano)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+quinta+do+crasto+reserva+vinhas+velhas",
+    "https://www.bodeboca.pt/vino/quinta-do-crasto-reserva-vinhas-velhas-2019",
+    "https://www.falstaff.com/nordics/wines/quinta-do-crasto-2021-vinhas-velhas-reserva"
+  ],
+  "preco": {
+    "referencia": 398.94,
+    "min": 398.94,
+    "max": 460.75,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Wine Time Brasil: R$ 398,94, 27/10/2026",
+      "Google Shopping — Super Adega: R$ 440,9, 27/10/2026",
+      "Amazon.com.br: R$ 460,75, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 9.0
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.2,
+    "complexidade": 8.8,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Vegetal/herbáceo",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta escura silvestre",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas provençais",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Sous-bois",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 8.2,
+    "tanino_docura": 8.4,
+    "intensidade": 8.2,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — elegante",
+      "Médio a encorpado — volume e estrutura",
+      "Aveludado e fino",
+      "Pronunciada",
+      "Médio — saboroso, cerca de 7 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-quinta-do-crasto-reserva-vinhas-velhas.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_730737-MLB113123505942_072026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

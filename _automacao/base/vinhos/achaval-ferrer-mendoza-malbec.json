@@ -1,0 +1,99 @@
+{
+  "slug": "achaval-ferrer-mendoza-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 203,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Diferença grande entre lojas (R$ 91,90 a R$ 139,90)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Achaval-Ferrer Malbec Mendoza",
+    "produtor": "Achaval-Ferrer",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.5,
+    "servir": "17 °C",
+    "estilo": "Seco, 9 meses em carvalho francês usado"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+achaval+ferrer+mendoza+malbec",
+    "https://jeroboams.co.uk/product/2021-achaval-ferrer-malbec-mendoza"
+  ],
+  "preco": {
+    "referencia": 91.9,
+    "min": 91.9,
+    "max": 139.9,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Galvão Vinhos: R$ 91,9, 27/10/2026",
+      "Bing Shopping — Amazon: R$ 139,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.8,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ginja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 7.4,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — suculenta",
+      "Médio a encorpado — redondo",
+      "Macio a firme",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado pela fonte)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "crios-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 212,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Crios Malbec",
+    "produtor": "Susana Balbo Wines",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.0,
+    "servir": "16 °C",
+    "estilo": "Seco (2,2 g/L), toque de madeira"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+crios+malbec",
+    "https://www.enotria.com/products/susana-balbo-crios-malbec-2023"
+  ],
+  "preco": {
+    "referencia": 69.66,
+    "min": 69.66,
+    "max": 88.9,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 69,66, 27/10/2026",
+      "Google Shopping — Super Adega: R$ 79,9, 27/10/2026",
+      "Bing Shopping — Amazon: R$ 88,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.0,
+    "tanino_docura": 7.0,
+    "intensidade": 7.0,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — bem dosada",
+      "Médio",
+      "Macio",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-crios-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_892411-MLB44668629720_012021-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

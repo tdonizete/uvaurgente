@@ -1,0 +1,102 @@
+{
+  "slug": "zuccardi-q-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 207,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Zuccardi Q Malbec",
+    "produtor": "Familia Zuccardi",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 13.9,
+    "servir": "17 °C",
+    "estilo": "Seco, 50% por 10 meses em carvalho francês usado"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+zuccardi+q+malbec",
+    "https://bottlebarn.com/products/2019-zuccardi-q-malbec"
+  ],
+  "preco": {
+    "referencia": 119.9,
+    "min": 119.9,
+    "max": 189.9,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Moema Vinhos: R$ 119,9, 27/10/2026",
+      "Google Shopping — Ary Delicatessen: R$ 189,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.8,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Vegetal/herbáceo",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Mirtilo",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa escura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Folha de chá",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pedra",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 7.8,
+    "tanino_docura": 7.8,
+    "intensidade": 7.8,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — equilibrada",
+      "Encorpado — firme",
+      "Calcário e firme",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-zuccardi-q-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_952250-MLA99414578062_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

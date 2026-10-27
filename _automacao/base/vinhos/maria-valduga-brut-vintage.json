@@ -1,0 +1,105 @@
+{
+  "slug": "maria-valduga-brut-vintage",
+  "rank_amazon": null,
+  "pos_lista300": 261,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [
+    "A família 'Madeira' aqui representa o tostado da autólise (sem barrica)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Maria Valduga Brut Vintage",
+    "produtor": "Casa Valduga",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Vale dos Vinhedos",
+    "safra": null,
+    "uvas": "Chardonnay 80%, Pinot Noir 20%",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Brut (9,7 g/L), método tradicional, 60 meses sobre borras"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+casa+valduga+maria+valduga+brut+vintage",
+    "https://casavalduga.com.br/api/media/file/Ficha%20T%C3%83%C2%A9cnica%20-%20Maria%20Valduga%20-%20Brut%20Vintage.pdf"
+  ],
+  "preco": {
+    "referencia": 519.0,
+    "min": 519.0,
+    "max": 650.0,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Famiglia Valduga: R$ 519,0, 27/10/2026",
+      "Bing Shopping — Amazon: R$ 539,0, 27/10/2026",
+      "Bing Shopping — Magalu: R$ 650,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 9.0
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.2,
+    "complexidade": 8.4,
+    "familias": [
+      "Frutas",
+      "Fermentação",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Pera",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Brioche amanteigado",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pão tostado",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Notas evoluídas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 7.6,
+    "tanino_docura": 8.8,
+    "intensidade": 8.0,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — frescor vigoroso",
+      "Médio — cremoso",
+      "Brut — coerente",
+      "Pronunciada — complexa",
+      "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-maria-valduga-brut-vintage.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_770407-MLA99874145513_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir",
+    "obs": "Anúncio diz 'Maria Valduga Brut' sem 'Vintage': conferir o rótulo"
+  }
+}

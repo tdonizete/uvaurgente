@@ -1,0 +1,97 @@
+{
+  "slug": "la-celia-reserva-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 215,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Diferença grande entre lojas (R$ 65,80 a R$ 143)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "La Celia Reserva Malbec",
+    "produtor": "Finca La Celia",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco, 9 meses em concreto (40% com aduelas de carvalho francês)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+la+celia+reserva+malbec",
+    "https://www.enotria.com/products/pdf/finca-la-celia-la-celia-reserva-malbec-2023"
+  ],
+  "preco": {
+    "referencia": 65.8,
+    "min": 65.8,
+    "max": 143.0,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — TodoVino: R$ 65,8, 27/10/2026",
+      "Google Shopping — Boccati Vinhos: R$ 143,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.2,
+    "tanino_docura": 7.2,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio a encorpado — intenso",
+      "Macio",
+      "Moderada a pronunciada",
+      "Médio — generoso"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

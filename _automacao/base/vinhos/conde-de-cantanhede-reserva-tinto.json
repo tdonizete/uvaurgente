@@ -1,0 +1,100 @@
+{
+  "slug": "conde-de-cantanhede-reserva-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 73,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só loja; anúncio não indica a cor",
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Conde de Cantanhede Reserva Tinto",
+    "produtor": "Adega de Cantanhede",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Bairrada",
+    "safra": null,
+    "uvas": "Baga",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+conde+de+cantanhede+reserva",
+    "https://radar.wine/en/wines/wine/conde-de-cantanhede-reserva-2/"
+  ],
+  "preco": {
+    "referencia": 89.99,
+    "min": 89.99,
+    "max": 89.99,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Semar Supermercados: R$ 89,99, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.0,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta vermelha madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Compota",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.2,
+    "tanino_docura": 7.4,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — típica da Baga",
+      "Médio a encorpado",
+      "Firme",
+      "Moderada a pronunciada",
+      "Médio — persistente (cerca de 6 segundos)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-conde-de-cantanhede-reserva-tinto.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_639980-MLB113150683315_062026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir",
+    "obs": "Conferir se a foto é do tinto"
+  }
+}

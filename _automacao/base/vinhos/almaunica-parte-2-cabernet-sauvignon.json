@@ -1,0 +1,103 @@
+{
+  "slug": "almaunica-parte-2-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 281,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Almaúnica Parte 2 Cabernet Sauvignon",
+    "produtor": "Vinícola Almaúnica",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Vale dos Vinhedos",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 15.0,
+    "servir": "16 °C",
+    "estilo": "Seco, 24 meses em barricas de carvalho francês novas"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+almaunica+parte+2+cabernet+sauvignon",
+    "https://almaunica.com.br/vinhos-e-espumantes/vinhos-tintos/parte-2-cabernet-sauvignon-safra-2020"
+  ],
+  "preco": {
+    "referencia": 345.6,
+    "min": 345.6,
+    "max": 436.05,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — loja Almaúnica: R$ 345,6, 27/10/2026",
+      "Google Shopping — Empório Divino: R$ 390,6, 27/10/2026",
+      "Zoom: R$ 436,05, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.0,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Madeira",
+      "Especiarias",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Eucalipto",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cedro e baunilha",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.2,
+    "tanino_docura": 8.0,
+    "intensidade": 8.0,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — sustenta",
+      "Encorpado — concentrado",
+      "Firme",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (sem dado de duração)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-almaunica-parte-2-cabernet-sauvignon.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_987292-MLA99924796627_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

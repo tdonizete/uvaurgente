@@ -1,0 +1,103 @@
+{
+  "slug": "salton-campanha-marselan-tannat",
+  "rank_amazon": null,
+  "pos_lista300": 197,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Salton Campanha Marselan-Tannat",
+    "produtor": "Salton",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Campanha Gaúcha",
+    "safra": null,
+    "uvas": "Marselan 78%, Tannat 22%",
+    "teor": 13.0,
+    "servir": "17 °C",
+    "estilo": "Seco; Tannat 15 meses em carvalho francês novo, 18 meses em garrafa"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+salton+campanha+marselan+tannat",
+    "https://www.salton.com.br/upload/produto/ficha/campanhas-marselan-tannat-us.pdf"
+  ],
+  "preco": {
+    "referencia": 89.9,
+    "min": 89.9,
+    "max": 136.48,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Dinho Bebidas: R$ 89,9, 27/10/2026",
+      "Google Shopping — Zaffari Online: R$ 99,8, 27/10/2026",
+      "Mercado Livre: R$ 136,48, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.8,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Mirtilo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Eucalipto",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Moca",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 7.4,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva",
+      "Médio a encorpado — elegante",
+      "Macio",
+      "Pronunciada — complexa",
+      "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-salton-campanha-marselan-tannat.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_961213-MLB70582087311_072023-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "la-marca-prosecco",
+  "rank_amazon": null,
+  "pos_lista300": 251,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só oferta (Bing)",
+    "Preço alto para o estilo"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "La Marca Prosecco Extra Dry",
+    "produtor": "La Marca",
+    "tipo": "Espumante",
+    "pais": "Itália",
+    "regiao": "Prosecco DOC",
+    "safra": null,
+    "uvas": "Glera",
+    "teor": 11.0,
+    "servir": "6 °C",
+    "estilo": "Extra Dry, método Charmat"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+la+marca+prosecco",
+    "https://www.falstaff.com/en/wines/la-marca-extra-dry-prosecco-doc"
+  ],
+  "preco": {
+    "referencia": 163.21,
+    "min": 163.21,
+    "max": 163.21,
+    "ajustes": [],
+    "fontes": [
+      "Bing Shopping — oferta com desconto; 'de' R$ 217,64: R$ 163,21, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.0,
+    "complexidade": 7.1,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Pera",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Glicínia",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.6,
+    "tanino_docura": 7.6,
+    "intensidade": 6.8,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — fresca",
+      "Leve — suculento",
+      "Extra Dry — leve dulçor",
+      "Moderada",
+      "Médio — fresco"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

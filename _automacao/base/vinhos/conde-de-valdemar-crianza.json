@@ -1,0 +1,96 @@
+{
+  "slug": "conde-de-valdemar-crianza",
+  "rank_amazon": null,
+  "pos_lista300": 155,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Ficha sensorial de safra antiga (2015, Falstaff 88)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Conde de Valdemar Crianza",
+    "produtor": "Bodegas Valdemar",
+    "tipo": "Tinto",
+    "pais": "Espanha",
+    "regiao": "D.O.Ca. Rioja",
+    "safra": null,
+    "uvas": "Tempranillo, Graciano",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco, em barricas"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+conde+de+valdemar+crianza",
+    "https://www.falstaff.com/nordics/wines/bodegas-valdemar-2015-conde-de-valdemar-crianza-rioja-doca"
+  ],
+  "preco": {
+    "referencia": 193.48,
+    "min": 193.48,
+    "max": 208.0,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Berkmann: R$ 193,48, 27/10/2026",
+      "Google Shopping — Du Vin Carioca: R$ 208,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.6,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas escuras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Tostado",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.6,
+    "tanino_docura": 7.4,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado — potente",
+      "Integrado",
+      "Pronunciada",
+      "Médio — frutado"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

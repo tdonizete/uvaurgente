@@ -1,0 +1,93 @@
+{
+  "slug": "masi-modello-bianco",
+  "rank_amazon": null,
+  "pos_lista300": 172,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só loja"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Masi Modello Bianco",
+    "produtor": "Masi",
+    "tipo": "Branco",
+    "pais": "Itália",
+    "regiao": "Trevenezie IGT",
+    "safra": null,
+    "uvas": "Chardonnay, Pinot Grigio e outras",
+    "teor": 12.0,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+masi+modello+delle+venezie+bianco",
+    "https://www.masi.it/files/masi_modello_treveneziebianco_eng.pdf"
+  ],
+  "preco": {
+    "referencia": 149.9,
+    "min": 149.9,
+    "max": 149.9,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Grand Cru: R$ 149,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.6,
+    "complexidade": 6.6,
+    "familias": [
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas brancas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 6.2,
+    "tanino_docura": 8.0,
+    "intensidade": 6.4,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva",
+      "Leve — coerente com o estilo",
+      "Seco — coerente",
+      "Moderada",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

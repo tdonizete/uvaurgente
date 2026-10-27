@@ -1,0 +1,99 @@
+{
+  "slug": "vasco-viejo-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 114,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Vasco Viejo Malbec",
+    "produtor": "Bodegas López",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco, 3 meses em tonéis de carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+vasco+viejo+malbec",
+    "https://leonandsonwine.com/products/2025-bodegas-lopez-vasco-viejo-malbec-mendoza-argentina"
+  ],
+  "preco": {
+    "referencia": 77.35,
+    "min": 77.35,
+    "max": 89.87,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Delwine: R$ 77,35, 27/10/2026",
+      "Mercado Livre: R$ 89,87, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 6.8,
+    "complexidade": 6.6,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 6.6,
+    "tanino_docura": 6.8,
+    "intensidade": 6.6,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — boa",
+      "Médio",
+      "Redondo",
+      "Moderada — fresca",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-vasco-viejo-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_949699-MLB115536062651_082026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "dona-paula-estate-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 209,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Doña Paula Estate Malbec",
+    "produtor": "Doña Paula",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês de 1º a 3º uso"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+dona+paula+estate+malbec",
+    "https://theliquorbarn.com/products/dona-paula-estate-malbec-750ml"
+  ],
+  "preco": {
+    "referencia": 67.5,
+    "min": 67.5,
+    "max": 101.39,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Zaffari Online: R$ 67,5, 27/10/2026",
+      "Google Shopping — Cia do Vinho (com desconto): R$ 77,5, 27/10/2026",
+      "Bing Shopping — Magalu: R$ 101,39, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Vegetal/herbáceo",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja preta",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Azeitona preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Grafite",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.0,
+    "tanino_docura": 7.2,
+    "intensidade": 7.4,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — moderada",
+      "Médio — focado",
+      "Gentil",
+      "Pronunciada",
+      "Médio — especiado, cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-dona-paula-estate-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_992207-MLA114120362979_072026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

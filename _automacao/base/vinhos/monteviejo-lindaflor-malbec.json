@@ -1,0 +1,104 @@
+{
+  "slug": "monteviejo-lindaflor-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 113,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Ficha sensorial de safra antiga (2009)",
+    "Preços muito diferentes entre lojas"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Lindaflor Malbec",
+    "produtor": "Bodega Monteviejo",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 15.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 24 meses em carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+lindaflor+malbec",
+    "https://southamericawineguide.com/tasting-note/lindaflor-malbec/"
+  ],
+  "preco": {
+    "referencia": 399.0,
+    "min": 399.0,
+    "max": 619.3,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (safra 2018): R$ 399,0, 27/10/2026",
+      "Google Shopping — Magalu: R$ 619,3, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.0,
+    "complexidade": 8.4,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja escura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 8.2,
+    "tanino_docura": 8.0,
+    "intensidade": 8.0,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Encorpado — rico",
+      "Firme, de guarda",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado pela fonte)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-monteviejo-lindaflor-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_612386-MLB118073179101_092026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

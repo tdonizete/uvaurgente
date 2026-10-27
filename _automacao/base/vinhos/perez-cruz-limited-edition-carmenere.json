@@ -1,0 +1,101 @@
+{
+  "slug": "perez-cruz-limited-edition-carmenere",
+  "rank_amazon": null,
+  "pos_lista300": 227,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Pérez Cruz Limited Edition Carménère",
+    "produtor": "Viña Pérez Cruz",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Alto Maipo",
+    "safra": null,
+    "uvas": "Carménère",
+    "teor": 13.5,
+    "servir": "17 °C",
+    "estilo": "Seco, com carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+perez+cruz+limited+edition+carmenere",
+    "https://www.nataliemaclean.com/winepicks/wine-reviews/perez-cruz-limited-edition-carmenere-2016/299166"
+  ],
+  "preco": {
+    "referencia": 97.0,
+    "min": 93.9,
+    "max": 138.75,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Loja Tani: R$ 97,0, 27/10/2026",
+      "Mercado Livre: R$ 93,9, 27/10/2026",
+      "Bing Shopping — Amazon: R$ 129,0, 27/10/2026",
+      "Bing Shopping — Magalu: R$ 138,75, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 7.8,
+    "familias": [
+      "Frutas",
+      "Vegetal/herbáceo",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta vermelha silvestre",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Folha de tomate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Moca",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Fumo",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Encorpado — potente",
+      "Sedoso",
+      "Pronunciada",
+      "Médio — moca e fumo"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-perez-cruz-limited-edition-carmenere.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_776990-MLA99821645767_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

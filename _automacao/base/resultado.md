@@ -78,6 +78,9 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L27 | Santa Rita 120 Cabernet Sauvignon | Chile | Tinto | R$ 49,99 | 7,4 | 7,0 | 6,2 | 6,2 | B | **6,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar, leve 3 pague 2) |
 | L28 | Santa Rita 120 Merlot | Chile | Tinto | R$ 39,89 | 7,8 | 7,5 | 6,5 | 8,4 | BC | **7,4** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar) |
 | L29 | Santa Rita 120 Carménère | Chile | Tinto | R$ 49,99 | 7,6 | 7,3 | 6,3 | 6,3 | B | **6,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar) |
+| L30 | Concha y Toro Frontera Cabernet Sauvignon | Chile | Tinto | R$ 31,56 | 7,6 | 7,1 | 6,4 | 7,9 | B | **7,1** | Sem Pressa | média | — |
+| L31 | Concha y Toro Frontera Merlot | Chile | Tinto | R$ 31,56 | 7,6 | 7,0 | 6,3 | 7,9 | B | **7,0** | Sem Pressa | baixa | Ficha sensorial resumida (varejista dos EUA); teor não informado |
+| L32 | Concha y Toro Frontera Carménère | Chile | Tinto | R$ 42,50 | 7,6 | 7,3 | 6,4 | 6,3 | B | **6,7** | Sem Pressa | média | Preço em 1 só loja; Preço em 1 só fonte |
 | L33 | José Maria da Fonseca Periquita Original Tinto | Portugal | Tinto | R$ 59,99 | 8,0 | 7,7 | 6,7 | 7,0 | BC | **7,2** | Sem Pressa | alta | — |
 | L34 | José Maria da Fonseca Periquita Branco | Portugal | Branco | R$ 59,99 | 8,0 | 7,8 | 7,4 | 7,4 | B | **7,6** | Sem Pressa | alta | — |
 | L36 | Aveleda Casal Garcia Tinto | Portugal | Tinto | R$ 51,99 | 7,6 | 7,2 | 6,1 | 6,4 | B | **6,6** | Sem Pressa | média | Castas não informadas |
@@ -94,9 +97,12 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L56 | Bodega Garzón Garzón Estate Tannat de Corte | Uruguai | Tinto | R$ 124,99 | 8,4 | 7,8 | 7,3 | 6,6 | BC | **7,4** | Sem Pressa | média | A lista diz 'Estate Tannat'; no Brasil a linha Estate vendida é o Tannat de Corte |
 | L57 | Bodega Garzón Garzón Reserva Tannat | Uruguai | Tinto | R$ 128,06 | 8,6 | 8,1 | 7,7 | 7,2 | BIC | **7,8** | Sem Pressa | alta | Preço de referência é o Pix da Fast Shop; no Pão de Açúcar custa R$ 189,90 |
 | L58 | Montes Toscanini Reserva Familiar Tannat | Uruguai | Tinto | R$ 79,00 | 8,4 | 7,9 | 7,4 | 7,7 | BIC | **7,7** | Sem Pressa | média | Teor não informado; Ficha sensorial de fonte estrangeira (Vinovoss) |
+| L60 | Artesana Tannat | Uruguai | Tinto | R$ 147,25 | 8,4 | 7,9 | 7,5 | 6,8 | BIC | **7,5** | Sem Pressa | baixa | Ficha sensorial de safra antiga (2011); Preço em 1 só loja |
 | L61 | Viña Pérez Cruz Pérez Cruz Gran Reserva Cabernet Sauvignon | Chile | Tinto | R$ 94,00 | 8,6 | 8,1 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | alta | Preço em 1 só fonte (Wine.com.br, esgotado) |
 | L64 | Viña El Principal Calicanto | Chile | Tinto | R$ 151,90 | 8,4 | 7,9 | 7,4 | 5,9 | BIC | **7,3** | Sem Pressa | média | Preço em 1 só fonte (Amazon) |
+| L73 | Adega de Cantanhede Conde de Cantanhede Reserva Tinto | Portugal | Tinto | R$ 89,99 | 8,0 | 7,4 | 7,2 | 6,1 | B | **7,1** | Sem Pressa | baixa | Preço em 1 só loja; anúncio não indica a cor; Teor não informado; Preço em 1 só fonte |
 | L77 | Esporão Monte Velho Tinto | Portugal | Tinto | R$ 79,99 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, promoção de R$ 106,99) |
+| L79 | Cantine Truentum 968 Montepulciano d'Abruzzo | Itália | Tinto | R$ 125,91 | 8,0 | 7,3 | 6,9 | 5,9 | B | **6,9** | Sem Pressa | baixa | Ficha sensorial curta |
 | L83 | Miolo Reserva Cabernet Sauvignon | Brasil | Tinto | R$ 91,99 | 8,2 | 7,5 | 6,9 | 6,1 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar |
 | L84 | Miolo Reserva Merlot | Brasil | Tinto | R$ 91,99 | 8,2 | 7,6 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar |
 | L86 | Vinícola Guaspari Guaspari Vista do Chá Syrah | Brasil | Tinto | R$ 397,00 | 8,8 | 8,3 | 7,8 | 5,7 | BIC | **7,5** | Sem Pressa | média | Ficha sensorial da safra 2020 (IWSC); teor não informado |
@@ -110,6 +116,9 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L102 | Catena Zapata Angélica Zapata Malbec Alta | Argentina | Tinto | R$ 439,99 | 8,8 | 8,3 | 7,9 | 5,7 | BIC | **7,5** | Sem Pressa | alta | James Suckling 96 (safra 2022); final longo não confirmado por fonte de duração |
 | L106 | Rutini Colección Cabernet-Malbec | Argentina | Tinto | R$ 116,00 | 8,2 | 7,6 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | baixa | Preço em 1 só anúncio; Preço de referência é o preço atual do anúncio; o 'de' declarado é maior; Preço em 1 só fonte |
 | L109 | Domaine Bousquet Jean Bousquet Malbec | Argentina | Tinto | R$ 123,75 | 8,2 | 7,6 | 7,1 | 6,3 | B | **7,1** | Sem Pressa | baixa | Preço em 1 só anúncio; Ficha sensorial de safra antiga (2013); Preço em 1 só fonte |
+| L112 | Bodega Monteviejo Festivo Malbec | Argentina | Tinto | R$ 119,90 | 8,2 | 7,6 | 7,1 | 6,3 | B | **7,1** | Sem Pressa | média | — |
+| L113 | Bodega Monteviejo Lindaflor Malbec | Argentina | Tinto | R$ 399,00 | 8,8 | 8,3 | 7,8 | 5,7 | BIC | **7,5** | Sem Pressa | baixa | Ficha sensorial de safra antiga (2009); Preços muito diferentes entre lojas |
+| L114 | Bodegas López Vasco Viejo Malbec | Argentina | Tinto | R$ 77,35 | 7,8 | 7,1 | 6,7 | 6,5 | B | **6,9** | Sem Pressa | média | Teor não informado |
 | L116 | Catena Zapata (Alamos) Alamos Malbec | Argentina | Tinto | R$ 114,99 | 8,2 | 7,9 | 6,9 | 6,5 | BC | **7,2** | Sem Pressa | alta | — |
 | L117 | Catena Zapata (Alamos) Alamos Cabernet Sauvignon | Argentina | Tinto | R$ 139,90 | 8,2 | 7,9 | 7,0 | 6,5 | BC | **7,2** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar) |
 | L118 | Terrazas de los Andes Reserva Malbec | Argentina | Tinto | R$ 107,99 | 8,4 | 7,7 | 7,0 | 6,5 | B | **7,2** | Sem Pressa | média | Preço e perfil em 1 só fonte (Imigrantes) |
@@ -124,17 +133,25 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L145 | Esporão Monte Velho Rosé | Portugal | Rosé | R$ 89,90 | 8,2 | 7,4 | 7,2 | 6,3 | B | **7,1** | Sem Pressa | média | Preço e perfil em 1 só fonte (Degusti) |
 | L146 | Esporão Reserva Branco | Portugal | Branco | R$ 249,90 | 8,6 | 8,1 | 7,8 | 6,5 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar) |
 | L147 | Esporão Reserva Tinto | Portugal | Tinto | R$ 229,90 | 8,8 | 8,3 | 7,8 | 6,6 | BIC | **7,7** | Sem Pressa | alta | Final longo citado só pelo produtor; usado final médio |
+| L148 | Esporão Private Selection Tinto | Portugal | Tinto | R$ 734,90 | 9,0 | 8,6 | 7,9 | 5,2 | BIC | **7,5** | Sem Pressa | média | Preço com desconto em uma loja; regular acima de R$ 880 |
 | L149 | Quinta do Crasto Crasto Douro Tinto | Portugal | Tinto | R$ 203,99 | 8,4 | 7,8 | 7,4 | 5,9 | BI | **7,2** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L150 | Quinta do Crasto Crasto Branco | Portugal | Branco | R$ 149,90 | 8,2 | 7,7 | 7,4 | 6,6 | BC | **7,4** | Sem Pressa | alta | — |
+| L155 | Bodegas Valdemar Conde de Valdemar Crianza | Espanha | Tinto | R$ 193,48 | 8,2 | 7,7 | 7,3 | 5,6 | BI | **7,1** | Sem Pressa | média | Ficha sensorial de safra antiga (2015, Falstaff 88) |
 | L156 | Marqués de Cáceres Crianza | Espanha | Tinto | R$ 161,40 | 8,4 | 8,0 | 7,4 | 5,9 | BIC | **7,3** | Sem Pressa | alta | — |
+| L160 | Familia Torres Sangre de Toro | Espanha | Tinto | R$ 60,25 | 8,0 | 7,4 | 6,8 | 7,1 | B | **7,1** | Sem Pressa | alta | — |
+| L165 | Zonin Chianti | Itália | Tinto | R$ 79,80 | 7,8 | 7,4 | 7,0 | 6,8 | B | **7,1** | Sem Pressa | média | Preço em 1 só loja; Preço em 1 só fonte |
+| L166 | Zonin Pinot Grigio | Itália | Branco | R$ 56,99 | 7,6 | 6,9 | 6,6 | 6,4 | — | **6,0** | Sem Urgência | baixa | Teor varia entre fontes; Preço com desconto em 1 só loja; Preço em 1 só fonte |
 | L169 | Ruffino Chianti DOCG | Itália | Tinto | R$ 124,99 | 8,0 | 7,8 | 7,0 | 6,3 | BC | **7,1** | Sem Pressa | alta | — |
 | L171 | Masi Modello Rosso | Itália | Tinto | R$ 137,85 | 7,8 | 7,2 | 6,6 | 5,6 | B | **6,6** | Sem Pressa | média | Preço só no Mercado Livre |
-| L173 | Louis Jadot Beaujolais-Villages Combe aux Jacques | França | Tinto | R$ 233,45 | 8,2 | 7,6 | 7,0 | 5,4 | B | **6,9** | Sem Pressa | baixa | Preço só em kit de 3 no Mercado Livre (dividido por garrafa); Preço em 1 só fonte |
+| L172 | Masi Modello Bianco | Itália | Branco | R$ 149,90 | 7,8 | 7,0 | 6,8 | 5,6 | B | **6,7** | Sem Pressa | média | Preço em 1 só loja; Preço em 1 só fonte |
+| L173 | Louis Jadot Beaujolais-Villages Combe aux Jacques | França | Tinto | R$ 179,90 | 8,2 | 7,6 | 7,0 | 5,4 | B | **6,9** | Sem Pressa | baixa | Preço avulso achado no Google Shopping (R$ 179,90); kit de 3 no ML sai a R$ 233,45 por garrafa |
 | L174 | Louis Jadot Bourgogne Pinot Noir Couvent des Jacobins | França | Tinto | R$ 336,90 | 8,4 | 7,7 | 7,1 | 4,7 | BC | **6,8** | Sem Pressa | baixa | Preço em 1 só anúncio; Preço em 1 só fonte |
 | L176 | Barton & Guestier Reserve Cabernet Sauvignon | França | Tinto | R$ 105,99 | 8,2 | 7,7 | 7,0 | 6,3 | BC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'Cabernet Sauvignon': avaliado o Reserve, o vendido no Brasil |
 | L177 | Veuve Clicquot Brut (Yellow Label) | França | Espumante | R$ 449,99 | 9,0 | 8,3 | 8,0 | 5,9 | BI | **7,7** | Sem Pressa | alta | — |
 | L178 | Moët & Chandon Brut Impérial | França | Espumante | R$ 399,99 | 9,0 | 8,3 | 7,9 | 5,9 | BIC | **7,6** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, anunciado como 'Extra Brut'; confirmar rótulo) |
 | L181 | Salton Classic Cabernet Sauvignon | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
 | L182 | Salton Classic Merlot | Brasil | Tinto | R$ 27,99 | 7,6 | 7,3 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
+| L183 | Salton Classic Tannat | Brasil | Tinto | R$ 23,90 | 7,6 | 7,1 | 6,5 | 8,1 | B | **7,2** | Sem Pressa | alta | — |
 | L188 | Vinícola Aurora Aurora Reserva Chardonnay | Brasil | Branco | R$ 54,99 | 7,8 | 7,3 | 7,0 | 6,8 | B | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes) |
 | L189 | Vinícola Aurora Aurora Colheita Tardia Branco (500 ml) | Brasil | Branco | R$ 31,49 | 8,0 | 7,4 | 6,8 | 8,6 | B | **7,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Vinho de sobremesa: comparar só com outros doces |
 | L190 | Vinícola Aurora Marcus James Cabernet Sauvignon | Brasil | Tinto | R$ 25,90 | 7,4 | 7,0 | 6,0 | 7,5 | B | **6,8** | Sem Pressa | média | — |
@@ -142,18 +159,27 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L194 | Casa Valduga Origem Cabernet Sauvignon | Brasil | Tinto | R$ 74,99 | 7,8 | 7,4 | 6,4 | 6,5 | B | **6,8** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A Werle vende um 'Origem Cabernet Sauvignon Chile': confirmar a origem do rótulo |
 | L195 | Casa Valduga Arte Marselan e Malbec | Brasil | Tinto | R$ 54,29 | 8,0 | 7,3 | 6,5 | 6,6 | B | **6,9** | Sem Pressa | média | Teor não informado; Na Amazon só em caixa; Preço em 1 só fonte |
 | L196 | Casa Perini Vitis Marselan | Brasil | Tinto | R$ 60,90 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Perfil em 1 só fonte (Werle); teor não informado |
+| L197 | Salton Campanha Marselan-Tannat | Brasil | Tinto | R$ 89,90 | 8,4 | 8,3 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | alta | — |
 | L200 | Salton Brut Rosé | Brasil | Espumante | R$ 37,90 | 8,0 | 7,4 | 7,0 | 8,8 | B | **7,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
 | L202 | Viña Cobos Bramare Malbec | Argentina | Tinto | R$ 265,90 | 8,8 | 8,4 | 7,8 | 6,6 | BIC | **7,8** | Sem Pressa | média | Preço em 1 só fonte (Amazon); anúncio é da linha Luján de Cuyo; Link da ficha sensorial não registrado; refazer a consulta da fonte |
+| L203 | Achaval-Ferrer Malbec Mendoza | Argentina | Tinto | R$ 91,90 | 8,6 | 8,1 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | média | Diferença grande entre lojas (R$ 91,90 a R$ 139,90) |
 | L204 | Achaval-Ferrer Quimera | Argentina | Tinto | R$ 299,90 | 8,6 | 8,2 | 7,7 | 6,5 | BIC | **7,6** | Sem Pressa | média | Ficha sensorial de fonte estrangeira (Jeroboams, Vinous 90) |
 | L206 | Familia Zuccardi Zuccardi Serie A Cabernet Sauvignon | Argentina | Tinto | R$ 102,40 | 8,2 | 7,5 | 7,2 | 6,3 | B | **7,2** | Sem Pressa | baixa | Preço só em caixa de 2 (dividido por garrafa); Teor não informado; Preço em 1 só fonte |
+| L207 | Familia Zuccardi Zuccardi Q Malbec | Argentina | Tinto | R$ 119,90 | 8,6 | 8,4 | 7,7 | 7,4 | BIC | **7,9** | Sem Pressa | alta | — |
+| L208 | Finca Sophenia Synthesis Malbec | Argentina | Tinto | R$ 355,90 | 8,8 | 8,2 | 7,6 | 5,6 | BIC | **7,4** | Sem Pressa | baixa | Teor não informado; Preço em 1 loja no Google |
+| L209 | Doña Paula Estate Malbec | Argentina | Tinto | R$ 67,50 | 8,4 | 8,2 | 7,1 | 7,7 | BIC | **7,7** | Sem Pressa | alta | — |
 | L210 | Doña Paula Estate Cabernet Sauvignon | Argentina | Tinto | R$ 79,99 | 8,4 | 8,0 | 7,4 | 7,7 | BIC | **7,7** | Sem Pressa | alta | Teor não informado |
+| L212 | Susana Balbo Wines Crios Malbec | Argentina | Tinto | R$ 69,66 | 8,2 | 7,6 | 7,0 | 7,2 | B | **7,3** | Sem Pressa | alta | — |
 | L213 | Susana Balbo Wines BenMarco Malbec | Argentina | Tinto | R$ 131,95 | 8,6 | 7,8 | 7,6 | 7,0 | BI | **7,6** | Sem Pressa | alta | — |
 | L214 | Viña Las Perdices Las Perdices Reserva Malbec | Argentina | Tinto | R$ 92,96 | 8,4 | 8,0 | 7,4 | 6,8 | BIC | **7,5** | Sem Pressa | média | Preço em 1 só fonte (Amazon); Ficha sensorial de safra antiga (Vinovoss) |
+| L215 | Finca La Celia La Celia Reserva Malbec | Argentina | Tinto | R$ 65,80 | 8,2 | 7,5 | 7,1 | 7,2 | B | **7,3** | Sem Pressa | média | Diferença grande entre lojas (R$ 65,80 a R$ 143) |
 | L216 | Alta Vista Vive Classic Malbec | Argentina | Tinto | R$ 73,05 | 8,2 | 7,5 | 6,9 | 7,0 | B | **7,2** | Sem Pressa | alta | — |
 | L217 | Alta Vista Estate Premium Malbec | Argentina | Tinto | R$ 158,99 | 8,4 | 7,5 | 7,0 | 5,4 | B | **6,9** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); perfil resumido |
 | L219 | Bodega Garzón Garzón Single Vineyard Tannat | Uruguai | Tinto | R$ 368,94 | 8,8 | 8,4 | 7,8 | 5,7 | BIC | **7,5** | Sem Pressa | média | Preço em 1 só anúncio; Ficha sensorial de fonte estrangeira (Wine.com: Suckling 93, Wong 92); Preço em 1 só fonte |
 | L220 | Bodega Garzón Garzón Reserva Cabernet Franc | Uruguai | Tinto | R$ 106,99 | 8,4 | 7,8 | 7,2 | 6,6 | B | **7,3** | Sem Pressa | alta | — |
 | L226 | Viña Pérez Cruz Pérez Cruz Limited Edition Cabernet Sauvignon | Chile | Tinto | R$ 129,00 | 8,6 | 8,2 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | média | Teor não informado; Ficha sensorial de fonte estrangeira (Vinovoss) |
+| L227 | Viña Pérez Cruz Pérez Cruz Limited Edition Carménère | Chile | Tinto | R$ 97,00 | 8,4 | 7,9 | 7,4 | 6,8 | BIC | **7,5** | Sem Pressa | média | — |
+| L228 | Viña Pérez Cruz Pérez Cruz Reserva Sauvignon Blanc | Chile | Branco | R$ 51,92 | 8,0 | 7,6 | 7,3 | 7,2 | B | **7,4** | Sem Pressa | média | Ficha sensorial de safra antiga (2015); Acidez descrita como muito alta pela fonte; desvio acidez × corpo ajustado ao limite do pilar B (conferir na prova) |
 | L229 | Santa Rita Medalla Real Gran Reserva Cabernet Sauvignon | Chile | Tinto | R$ 159,90 | 8,4 | 7,8 | 7,3 | 5,7 | BC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar; ficha cita 'Albariño' por erro) |
 | L233 | Viña Montes Montes Alpha Merlot | Chile | Tinto | R$ 141,00 | 8,4 | 8,3 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | média | Diferença grande entre fontes (R$ 141 no ML x R$ 221 na Amazon) |
 | L234 | Viña Errazuriz Errazuriz Max Reserva Cabernet Sauvignon | Chile | Tinto | R$ 109,00 | 8,2 | 7,7 | 7,2 | 6,5 | BC | **7,3** | Sem Pressa | média | Teor não informado |
@@ -162,18 +188,27 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L237 | Concha y Toro Marqués de Casa Concha Carménère | Chile | Tinto | R$ 164,99 | 8,6 | 8,1 | 7,6 | 6,6 | BIC | **7,6** | Sem Pressa | média | Preço de referência é o regular da Imigrantes; Pão de Açúcar tinha promoção de 47% |
 | L238 | Marqués de Riscal Reserva | Espanha | Tinto | R$ 299,89 | 8,6 | 8,3 | 7,6 | 6,5 | BIC | **7,6** | Sem Pressa | alta | — |
 | L240 | Bodegas Protos Protos Crianza | Espanha | Tinto | R$ 299,67 | 8,6 | 8,0 | 7,5 | 6,1 | BIC | **7,4** | Sem Pressa | média | Teor não informado; Link da ficha sensorial não registrado; refazer a consulta da fonte |
+| L241 | Poggio Cavalieri Chianti Governo all'Uso Toscano | Itália | Tinto | R$ 122,55 | 8,0 | 7,6 | 7,0 | 6,1 | B | **7,0** | Sem Pressa | média | Ficha sensorial curta |
 | L245 | Marchesi Antinori Santa Cristina Toscana Rosso | Itália | Tinto | R$ 89,51 | 8,0 | 7,4 | 7,0 | 6,1 | B | **7,0** | Sem Pressa | média | Preço em 1 só anúncio; Preço em 1 só fonte |
 | L247 | Marchesi Antinori Pèppoli Chianti Classico | Itália | Tinto | R$ 211,56 | 8,4 | 7,8 | 7,3 | 5,7 | BC | **7,1** | Sem Pressa | média | Preço em 1 só anúncio; Preço de referência é o preço atual do anúncio; o 'de' declarado é maior; Preço em 1 só fonte |
+| L250 | Zonin Prosecco DOC Cuvée 1821 Brut | Itália | Espumante | R$ 119,90 | 8,2 | 7,6 | 7,3 | 6,5 | B | **7,3** | Sem Pressa | média | Preço em 1 só loja; Ficha da Falstaff é do Cuvée 1821 Brut; confirmar o rótulo vendido; Preço em 1 só fonte |
+| L251 | La Marca Prosecco Extra Dry | Itália | Espumante | R$ 163,21 | 8,2 | 7,5 | 7,0 | 5,4 | B | **6,8** | Sem Pressa | baixa | Preço em 1 só oferta (Bing); Preço alto para o estilo; Preço em 1 só fonte |
 | L252 | Mionetto Prosecco DOC Treviso Brut | Itália | Espumante | R$ 109,99 | 8,2 | 7,4 | 7,0 | 6,1 | B | **7,0** | Sem Pressa | alta | — |
 | L256 | E. Guigal Côtes du Rhône Rouge | França | Tinto | R$ 166,56 | 8,4 | 7,9 | 7,4 | 5,9 | BI | **7,3** | Sem Pressa | média | Anúncio da Amazon não deixa clara a cor; confirmar que é o tinto |
 | L257 | E. Guigal Côtes du Rhône Blanc | França | Branco | R$ 281,97 | 8,4 | 7,9 | 7,4 | 5,9 | BI | **7,3** | Sem Pressa | baixa | Preço em 1 só anúncio, acima do que se espera para o vinho; Preço em 1 só fonte |
 | L258 | Esporão Monte Velho Reserva Tinto | Portugal | Tinto | R$ 120,25 | 8,2 | 7,5 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | baixa | Preço em 1 só anúncio; Preço de referência é o preço atual do anúncio; o 'de' declarado é maior; Ficha sensorial resumida (lançamento da safra 2022); Preço em 1 só fonte |
+| L259 | Quinta do Crasto Crasto Reserva Vinhas Velhas | Portugal | Tinto | R$ 398,94 | 9,0 | 8,6 | 8,0 | 6,1 | BIC | **7,8** | Sem Pressa | alta | — |
 | L260 | Quinta do Vallado Douro Tinto | Portugal | Tinto | R$ 169,90 | 8,4 | 7,9 | 7,3 | 5,9 | BIC | **7,2** | Sem Pressa | média | Preço em 1 só fonte (Degusti); Pão de Açúcar indisponível |
+| L261 | Casa Valduga Maria Valduga Brut Vintage | Brasil | Espumante | R$ 519,00 | 9,0 | 8,5 | 8,0 | 6,1 | BIC | **7,8** | Sem Pressa | alta | A família 'Madeira' aqui representa o tostado da autólise (sem barrica) |
 | L265 | Cave Geisse Nature | Brasil | Espumante | R$ 179,90 | 8,6 | 8,1 | 7,8 | 6,5 | BIC | **7,6** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle, esgotado) |
 | L266 | Cave Geisse Brut | Brasil | Espumante | R$ 179,90 | 8,6 | 7,8 | 7,6 | 6,1 | B | **7,4** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle) |
+| L270 | Ponto Nero Celebration Brut | Brasil | Espumante | R$ 42,74 | 7,8 | 7,2 | 7,0 | 6,6 | B | **7,0** | Sem Pressa | média | A lista diz 'Prosecco': avaliado o Celebration Brut, que leva Glera (Prosecco) no corte |
+| L271 | Chandon Riche Demi-Sec | Brasil | Espumante | R$ 119,90 | 8,0 | 7,2 | 6,7 | 6,0 | B | **6,8** | Sem Pressa | média | A lista diz 'Réserve Demi-Sec'; no Brasil o demi-sec da Chandon é o Riche; Comparar só com outros espumantes doces |
 | L273 | Chandon Brut Rosé | Brasil | Espumante | R$ 99,99 | 8,4 | 7,7 | 7,3 | 6,6 | BC | **7,3** | Sem Pressa | alta | — |
 | L276 | Salton Prosecco Rosé | Brasil | Espumante | R$ 37,90 | 8,0 | 7,3 | 6,9 | 8,6 | B | **7,5** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
 | L277 | Cooperativa Vinícola Garibaldi Vero Demi-Sec Rosé | Brasil | Espumante | R$ 31,90 | 7,8 | 7,2 | 6,5 | 8,3 | B | **6,9** | Sem Pressa | média | Lojas informam uvas diferentes |
+| L281 | Vinícola Almaúnica Almaúnica Parte 2 Cabernet Sauvignon | Brasil | Tinto | R$ 345,60 | 8,8 | 8,4 | 7,8 | 5,7 | BIC | **7,5** | Sem Pressa | alta | — |
+| L285 | Vinícola Guaspari Guaspari Vista da Serra Syrah | Brasil | Tinto | R$ 292,60 | 8,6 | 8,1 | 7,5 | 6,3 | BIC | **7,5** | Sem Pressa | baixa | Ficha sensorial de safra antiga (2015, Vert de Vin 90); Teor não informado |
 | L288 | Miolo Lote 43 | Brasil | Tinto | R$ 249,90 | 8,6 | 8,1 | 7,5 | 6,3 | BIC | **7,5** | Sem Pressa | média | Preço e perfil em 1 só fonte (Werle, esgotado) |
 | L289 | Miolo Cuvée Tradition Brut | Brasil | Espumante | R$ 86,90 | 8,4 | 7,6 | 7,3 | 6,6 | B | **7,3** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
 | L293 | Pizzato Merlot | Brasil | Tinto | R$ 153,99 | 8,4 | 7,9 | 7,2 | 5,7 | BIC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'Vinho de Altitude Merlot'; a loja não informa a linha; Teor na página com erro (2,7%) |

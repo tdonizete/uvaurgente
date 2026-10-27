@@ -1,0 +1,98 @@
+{
+  "slug": "artesana-tannat",
+  "rank_amazon": null,
+  "pos_lista300": 60,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Ficha sensorial de safra antiga (2011)",
+    "Preço em 1 só loja"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Artesana Tannat",
+    "produtor": "Artesana",
+    "tipo": "Tinto",
+    "pais": "Uruguai",
+    "regiao": "Canelones",
+    "safra": null,
+    "uvas": "Tannat",
+    "teor": 15.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês e americano, sem filtrar"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+artesana+tannat",
+    "https://www.reversewinesnob.com/2013/09/artesana-tannat-uruguay.html"
+  ],
+  "preco": {
+    "referencia": 147.25,
+    "min": 147.25,
+    "max": 205.0,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Wine Lovers: R$ 147,25, 27/10/2026",
+      "Google Shopping — Tudo e Vinho (Reserva): R$ 205,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.6,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta negra",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Chocolate amargo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Floral",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas secas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.8,
+    "tanino_docura": 8.0,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado",
+      "Muito tânico",
+      "Pronunciada",
+      "Médio — seco, cerca de 7 segundos (final longo citado pela fonte)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}

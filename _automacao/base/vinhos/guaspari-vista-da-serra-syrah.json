@@ -1,0 +1,103 @@
+{
+  "slug": "guaspari-vista-da-serra-syrah",
+  "rank_amazon": null,
+  "pos_lista300": 285,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Ficha sensorial de safra antiga (2015, Vert de Vin 90)",
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Guaspari Vista da Serra Syrah",
+    "produtor": "Vinícola Guaspari",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Espírito Santo do Pinhal (SP)",
+    "safra": null,
+    "uvas": "Syrah",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, colheita de inverno, com carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+guaspari+syrah+vista+da+serra",
+    "https://vertdevin.com/?p=156618"
+  ],
+  "preco": {
+    "referencia": 292.6,
+    "min": 292.6,
+    "max": 370.78,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Le Grand Terroir: R$ 292,6, 27/10/2026",
+      "Magalu: R$ 370,78, 27/10/2026",
+      "Zoom: R$ 370,78, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.6
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.8,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca",
+      "Médio a encorpado — concentrado",
+      "Firme",
+      "Pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-guaspari-vista-da-serra-syrah.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_984977-MLA99843483731_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

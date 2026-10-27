@@ -6,7 +6,7 @@
   "status": "base",
   "confianca": "baixa",
   "pendencias": [
-    "Preço só em kit de 3 no Mercado Livre (dividido por garrafa)"
+    "Preço avulso achado no Google Shopping (R$ 179,90); kit de 3 no ML sai a R$ 233,45 por garrafa"
   ],
   "provado": false,
   "vinho": {
@@ -24,14 +24,16 @@
   "canal": "Supermercado",
   "fontes": [
     "https://lista.mercadolivre.com.br/louis-jadot-beaujolais-villages",
-    "https://www.saq.com/en/365924"
+    "https://www.saq.com/en/365924",
+    "https://www.google.com/search?udm=28&q=vinho+louis+jadot+beaujolais+villages"
   ],
   "preco": {
-    "referencia": 233.45,
-    "min": 233.45,
+    "referencia": 179.9,
+    "min": 179.9,
     "max": 233.45,
     "ajustes": [],
     "fontes": [
+      "Google Shopping (garrafa avulsa): R$ 179,90, 27/10/2026",
       "Mercado Livre (kit de 3, R$ 700,34): R$ 233,45, 27/10/2026"
     ]
   },

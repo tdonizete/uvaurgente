@@ -1,0 +1,96 @@
+{
+  "slug": "zonin-chianti",
+  "rank_amazon": null,
+  "pos_lista300": 165,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só loja"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Zonin Chianti",
+    "produtor": "Zonin",
+    "tipo": "Tinto",
+    "pais": "Itália",
+    "regiao": "Chianti DOCG",
+    "safra": null,
+    "uvas": "Sangiovese",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.google.com/search?udm=28&q=vinho+zonin+chianti",
+    "https://unitedcellars.co.nz/products/zonin-classici-chianti-doc-2023"
+  ],
+  "preco": {
+    "referencia": 79.8,
+    "min": 79.8,
+    "max": 79.8,
+    "ajustes": [],
+    "fontes": [
+      "Google Shopping — Zaffari Online: R$ 79,8, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ginja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Terroso",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 6.6,
+    "tanino_docura": 7.2,
+    "intensidade": 6.8,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva",
+      "Médio — elegante",
+      "Macio",
+      "Moderada",
+      "Médio — saboroso"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: rótulo exato não encontrado no Mercado Livre nem no Magalu (só outros rótulos, kits ou caixas)"
+  }
+}
