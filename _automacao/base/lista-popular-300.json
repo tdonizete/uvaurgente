@@ -208,22 +208,22 @@
    "pos": 30,
    "nome": "Frontera Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Cabernet Sauvignon: perfil encontrado (Canadá), mas sem preço em loja brasileira"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Cabernet Sauvignon: perfil encontrado (Canadá), mas sem preço em loja brasileira | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 31,
    "nome": "Frontera Merlot",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Merlot: sem preço em loja brasileira"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Merlot: sem preço em loja brasileira | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 32,
    "nome": "Frontera Carménère",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Carménère: sem preço nem ficha"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Carménère: sem preço nem ficha | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 33,
@@ -278,8 +278,8 @@
    "pos": 40,
    "nome": "Mucho Más Tinto",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Mucho Más Tinto (Félix Solís): perfil encontrado (Finlândia), mas sem preço em loja brasileira"
+   "status": "preco_nao_encontrado",
+   "motivo": "Mucho Más Tinto (Félix Solís): perfil encontrado (Finlândia), mas sem preço em loja brasileira | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 41,
@@ -376,15 +376,15 @@
    "pos": 54,
    "nome": "Novecento Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Novecento Malbec (Dante Robino): perfil encontrado, sem preço em loja brasileira consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Novecento Malbec (Dante Robino): perfil encontrado, sem preço em loja brasileira consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 55,
    "nome": "Novecento Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Novecento Cabernet Sauvignon: perfil encontrado, sem preço em loja brasileira consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Novecento Cabernet Sauvignon: perfil encontrado, sem preço em loja brasileira consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 56,
@@ -404,8 +404,8 @@
    "pos": 58,
    "nome": "Montes Toscanini Reserva Familiar Tannat",
    "pais": "Uruguai",
-   "status": "sem_preco",
-   "motivo": "Montes Toscanini Reserva Familiar Tannat: perfil de agregador, sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Montes Toscanini Reserva Familiar Tannat: perfil de agregador, sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 59,
@@ -418,8 +418,8 @@
    "pos": 60,
    "nome": "Artesana Tannat",
    "pais": "Uruguai",
-   "status": "sem_preco",
-   "motivo": "Artesana Tannat: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Artesana Tannat: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 61,
@@ -439,15 +439,15 @@
    "pos": 63,
    "nome": "Doña Dominga Gran Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Doña Dominga Gran Reserva CS: só encontrado no Chile"
+   "status": "preco_nao_encontrado",
+   "motivo": "Doña Dominga Gran Reserva CS: só encontrado no Chile | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 64,
    "nome": "El Principal Calicanto",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "El Principal Calicanto: só encontrado na Holanda"
+   "status": "preco_nao_encontrado",
+   "motivo": "El Principal Calicanto: só encontrado na Holanda | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 65,
@@ -509,8 +509,8 @@
    "pos": 73,
    "nome": "Conde de Cantanhede Reserva",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Conde de Cantanhede Reserva (Baga, Bairrada): perfil encontrado, sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Conde de Cantanhede Reserva (Baga, Bairrada): perfil encontrado, sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 74,
@@ -530,8 +530,8 @@
    "pos": 76,
    "nome": "Piranha Vinho Verde",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Piranha Vinho Verde: só promoção expirada (Pelando)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Piranha Vinho Verde: só promoção expirada (Pelando) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 77,
@@ -551,8 +551,8 @@
    "pos": 79,
    "nome": "Cantine Truentum 968 Montepulciano d’Abruzzo",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Cantine Truentum 968 Montepulciano: perfil encontrado (vino.com), sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Cantine Truentum 968 Montepulciano: perfil encontrado (vino.com), sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 80,
@@ -600,8 +600,8 @@
    "pos": 86,
    "nome": "Guaspari Syrah Vista do Chá",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Guaspari Syrah Vista do Chá: notas Decanter de safras antigas, sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guaspari Syrah Vista do Chá: notas Decanter de safras antigas, sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 87,
@@ -670,8 +670,8 @@
    "pos": 96,
    "nome": "La Flor de Pulenta Sauvignon Blanc",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "La Flor de Pulenta Sauvignon Blanc: só lojas do Reino Unido/EUA"
+   "status": "preco_nao_encontrado",
+   "motivo": "La Flor de Pulenta Sauvignon Blanc: só lojas do Reino Unido/EUA | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 97,
@@ -692,8 +692,8 @@
    "pos": 99,
    "nome": "Domaine L. Chatelain Chablis",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Domaine L. Chatelain Chablis: só Vivino/James Suckling; sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Domaine L. Chatelain Chablis: só Vivino/James Suckling; sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 100,
@@ -741,8 +741,8 @@
    "pos": 106,
    "nome": "Rutini Colección Cabernet Sauvignon-Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Rutini Colección Cabernet-Malbec: Pão de Açúcar sem estoque e sem preço"
+   "status": "preco_nao_encontrado",
+   "motivo": "Rutini Colección Cabernet-Malbec: Pão de Açúcar sem estoque e sem preço | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 107,
@@ -762,43 +762,43 @@
    "pos": 109,
    "nome": "Jean Bousquet Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Jean Bousquet Malbec: perfil do produtor, sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Jean Bousquet Malbec: perfil do produtor, sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 110,
    "nome": "4 Estaciones Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "4 Estaciones Malbec: não encontrado em lojas brasileiras"
+   "status": "preco_nao_encontrado",
+   "motivo": "4 Estaciones Malbec: não encontrado em lojas brasileiras | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 111,
    "nome": "Chateau Vieux Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Chateau Vieux Malbec: não encontrado em lojas brasileiras"
+   "status": "preco_nao_encontrado",
+   "motivo": "Chateau Vieux Malbec: não encontrado em lojas brasileiras | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 112,
    "nome": "Festivo Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Festivo Malbec (Monteviejo): só lojas do exterior"
+   "status": "preco_nao_encontrado",
+   "motivo": "Festivo Malbec (Monteviejo): só lojas do exterior | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 113,
    "nome": "Lindaflor Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Lindaflor Malbec (Monteviejo): só lojas do exterior"
+   "status": "preco_nao_encontrado",
+   "motivo": "Lindaflor Malbec (Monteviejo): só lojas do exterior | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 114,
    "nome": "Vasco Viejo Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Vasco Viejo Malbec: não encontrado em lojas brasileiras"
+   "status": "preco_nao_encontrado",
+   "motivo": "Vasco Viejo Malbec: não encontrado em lojas brasileiras | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 115,
@@ -839,8 +839,8 @@
    "pos": 120,
    "nome": "Graffigna Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Graffigna Malbec: fichas do exterior, sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Graffigna Malbec: fichas do exterior, sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 121,
@@ -867,8 +867,8 @@
    "pos": 124,
    "nome": "Santa Loreto Varietal Sauvignon Blanc",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Santa Loreto Sauvignon Blanc: perfil encontrado (Mali), sem preço"
+   "status": "preco_nao_encontrado",
+   "motivo": "Santa Loreto Sauvignon Blanc: perfil encontrado (Mali), sem preço | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 125,
@@ -928,43 +928,43 @@
    "pos": 132,
    "nome": "Frontera Sauvignon Blanc",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Sauvignon Blanc: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Sauvignon Blanc: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 133,
    "nome": "Frontera Rosé",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Rosé: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Rosé: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 134,
    "nome": "Frontera Sweet Red",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Frontera Sweet Red: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Frontera Sweet Red: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 135,
    "nome": "Santa Rita Reservado Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Santa Rita Reservado Cabernet Sauvignon: linha não encontrada nas lojas brasileiras consultadas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Santa Rita Reservado Cabernet Sauvignon: linha não encontrada nas lojas brasileiras consultadas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 136,
    "nome": "Santa Rita Reservado Carménère",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Santa Rita Reservado Carménère: linha não encontrada nas lojas brasileiras consultadas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Santa Rita Reservado Carménère: linha não encontrada nas lojas brasileiras consultadas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 137,
    "nome": "Santa Rita Reservado Merlot",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Santa Rita Reservado Merlot: linha não encontrada nas lojas brasileiras consultadas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Santa Rita Reservado Merlot: linha não encontrada nas lojas brasileiras consultadas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 138,
@@ -977,8 +977,8 @@
    "pos": 139,
    "nome": "Montes Reserva Carménère",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Montes Classic Reserva Carménère: não encontrado em loja brasileira consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Montes Classic Reserva Carménère: não encontrado em loja brasileira consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 140,
@@ -1013,8 +1013,8 @@
    "pos": 144,
    "nome": "Monte Velho Branco",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Monte Velho Branco: ficha do produtor, sem preço (Degusti e Pão de Açúcar indisponíveis)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Monte Velho Branco: ficha do produtor, sem preço (Degusti e Pão de Açúcar indisponíveis) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 145,
@@ -1041,8 +1041,8 @@
    "pos": 148,
    "nome": "Herdade do Esporão Private Selection",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Esporão Private Selection: ficha do produtor, sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Esporão Private Selection: ficha do produtor, sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 149,
@@ -1055,134 +1055,134 @@
    "pos": 150,
    "nome": "Quinta do Crasto Douro Branco",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Crasto Douro Branco: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Crasto Douro Branco: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 151,
    "nome": "Douro Val Moreira Tinto",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Val Moreira Tinto: só Portugal"
+   "status": "preco_nao_encontrado",
+   "motivo": "Val Moreira Tinto: só Portugal | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 152,
    "nome": "Douro Val Moreira Branco",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Val Moreira Branco: só Portugal"
+   "status": "preco_nao_encontrado",
+   "motivo": "Val Moreira Branco: só Portugal | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 153,
    "nome": "Vale do Sílio Tinto",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Vale do Sílio Tinto: não encontrado no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Vale do Sílio Tinto: não encontrado no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 154,
    "nome": "Vale do Sílio Branco",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Vale do Sílio Branco: não encontrado no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Vale do Sílio Branco: não encontrado no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 155,
    "nome": "Conde de Valdemar Crianza",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Conde de Valdemar Crianza: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Conde de Valdemar Crianza: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 156,
    "nome": "Marqués de Cáceres Crianza",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Marqués de Cáceres Crianza: só anúncio antigo (safra 2013, esgotado)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Marqués de Cáceres Crianza: só anúncio antigo (safra 2013, esgotado) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 157,
    "nome": "Marqués de Cáceres Rosado",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Marqués de Cáceres Rosado: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Marqués de Cáceres Rosado: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 158,
    "nome": "Campo Viejo Tempranillo",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Campo Viejo Tempranillo: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Campo Viejo Tempranillo: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 159,
    "nome": "Campo Viejo Crianza",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Campo Viejo Crianza: sem preço no Brasil"
+   "status": "preco_nao_encontrado",
+   "motivo": "Campo Viejo Crianza: sem preço no Brasil | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 160,
    "nome": "Torres Sangre de Toro",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Torres Sangre de Toro: página do Pão de Açúcar fora do ar; só anúncio antigo na Wine"
+   "status": "preco_nao_encontrado",
+   "motivo": "Torres Sangre de Toro: página do Pão de Açúcar fora do ar; só anúncio antigo na Wine | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 161,
    "nome": "Castello del Poggio Montepulciano d’Abruzzo",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello del Poggio Montepulciano: não encontrado em lojas brasileiras consultadas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello del Poggio Montepulciano: não encontrado em lojas brasileiras consultadas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 162,
    "nome": "Castello del Poggio Primitivo",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello del Poggio Primitivo: não encontrado"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello del Poggio Primitivo: não encontrado | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 163,
    "nome": "Castello del Poggio Chianti",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello del Poggio Chianti: não encontrado"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello del Poggio Chianti: não encontrado | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 164,
    "nome": "Castello del Poggio Rosso",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello del Poggio Rosso: não encontrado"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello del Poggio Rosso: não encontrado | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 165,
    "nome": "Zonin Chianti",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Zonin Chianti: página do Pão de Açúcar fora do ar"
+   "status": "preco_nao_encontrado",
+   "motivo": "Zonin Chianti: página do Pão de Açúcar fora do ar | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 166,
    "nome": "Zonin Pinot Grigio",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Zonin Pinot Grigio: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Zonin Pinot Grigio: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 167,
    "nome": "Folonari Valpolicella",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Folonari Valpolicella: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Folonari Valpolicella: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 168,
    "nome": "Folonari Chianti",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Folonari Chianti: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Folonari Chianti: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 169,
@@ -1195,43 +1195,43 @@
    "pos": 170,
    "nome": "Ruffino Lumina Pinot Grigio",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Ruffino Lumina Pinot Grigio: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Ruffino Lumina Pinot Grigio: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 171,
    "nome": "Masi Modello delle Venezie Rosso",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Masi Modello Rosso: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Masi Modello Rosso: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 172,
    "nome": "Masi Modello delle Venezie Bianco",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Masi Modello Bianco: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Masi Modello Bianco: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 173,
    "nome": "Louis Jadot Beaujolais-Villages",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Louis Jadot Beaujolais-Villages: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Louis Jadot Beaujolais-Villages: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 174,
    "nome": "Louis Jadot Bourgogne Pinot Noir",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Louis Jadot Bourgogne Pinot Noir: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Louis Jadot Bourgogne Pinot Noir: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 175,
    "nome": "Barton & Guestier Vouvray",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Barton & Guestier Vouvray: sem preço em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Barton & Guestier Vouvray: sem preço em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 176,
@@ -1286,22 +1286,22 @@
    "pos": 183,
    "nome": "Salton Classic Tannat",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Classic Tannat: perfil encontrado (Imigrantes), produto em falta e sem preço"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Classic Tannat: perfil encontrado (Imigrantes), produto em falta e sem preço | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 184,
    "nome": "Salton Volpi Merlot",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Volpi Merlot: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Volpi Merlot: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 185,
    "nome": "Salton Volpi Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Volpi Cabernet Sauvignon: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Volpi Cabernet Sauvignon: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 186,
@@ -1314,8 +1314,8 @@
    "pos": 187,
    "nome": "Aurora Reserva Pinot Noir",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Aurora Reserva Pinot Noir: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Aurora Reserva Pinot Noir: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 188,
@@ -1349,15 +1349,15 @@
    "pos": 192,
    "nome": "Rio Sol Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Rio Sol Cabernet Sauvignon: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Rio Sol Cabernet Sauvignon: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 193,
    "nome": "Rio Sol Syrah",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Rio Sol Syrah: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Rio Sol Syrah: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 194,
@@ -1370,8 +1370,8 @@
    "pos": 195,
    "nome": "Casa Valduga Arte Marselan-Malbec",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Casa Valduga Arte Marselan-Malbec: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Casa Valduga Arte Marselan-Malbec: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 196,
@@ -1384,15 +1384,15 @@
    "pos": 197,
    "nome": "Salton Campanha Marselan-Tannat",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Campanha Marselan-Tannat: só anúncio antigo (safra 2016)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Campanha Marselan-Tannat: só anúncio antigo (safra 2016) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 198,
    "nome": "Miolo Seival Tempranillo",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Miolo Seival Tempranillo: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Miolo Seival Tempranillo: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 199,
@@ -1412,29 +1412,29 @@
    "pos": 201,
    "nome": "Catena Appellation Vista Flores Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Catena Appellation Vista Flores Malbec: Mistral vende a linha Appellation Lunlunta, não Vista Flores"
+   "status": "preco_nao_encontrado",
+   "motivo": "Catena Appellation Vista Flores Malbec: Mistral vende a linha Appellation Lunlunta, não Vista Flores | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 202,
    "nome": "Bramare Malbec Vale do Uco",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Bramare Malbec Valle de Uco: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Bramare Malbec Valle de Uco: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 203,
    "nome": "Achaval-Ferrer Mendoza Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Achaval-Ferrer Mendoza Malbec: só anúncios de safras antigas (2013–2016)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Achaval-Ferrer Mendoza Malbec: só anúncios de safras antigas (2013–2016) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 204,
    "nome": "Achaval-Ferrer Quimera",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Achaval-Ferrer Quimera: só anúncios de safras antigas (2010–2012)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Achaval-Ferrer Quimera: só anúncios de safras antigas (2010–2012) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 205,
@@ -1447,36 +1447,36 @@
    "pos": 206,
    "nome": "Zuccardi Serie A Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Zuccardi Serie A Cabernet Sauvignon: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Zuccardi Serie A Cabernet Sauvignon: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 207,
    "nome": "Zuccardi Q Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Zuccardi Q Malbec: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Zuccardi Q Malbec: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 208,
    "nome": "Finca Sophenia Synthesis Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Finca Sophenia Synthesis Malbec: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Finca Sophenia Synthesis Malbec: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 209,
    "nome": "Doña Paula Estate Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Doña Paula Estate Malbec: só anúncio antigo"
+   "status": "preco_nao_encontrado",
+   "motivo": "Doña Paula Estate Malbec: só anúncio antigo | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 210,
    "nome": "Doña Paula Estate Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Doña Paula Estate Cabernet: só anúncio antigo"
+   "status": "preco_nao_encontrado",
+   "motivo": "Doña Paula Estate Cabernet: só anúncio antigo | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 211,
@@ -1489,36 +1489,36 @@
    "pos": 212,
    "nome": "Crios Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Crios Malbec: só anúncios de safras antigas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Crios Malbec: só anúncios de safras antigas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 213,
    "nome": "BenMarco Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "BenMarco Malbec: só anúncio de 2014"
+   "status": "preco_nao_encontrado",
+   "motivo": "BenMarco Malbec: só anúncio de 2014 | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 214,
    "nome": "Las Perdices Malbec Reserva",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Las Perdices Malbec Reserva: só anúncios de safras antigas"
+   "status": "preco_nao_encontrado",
+   "motivo": "Las Perdices Malbec Reserva: só anúncios de safras antigas | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 215,
    "nome": "La Celia Reserva Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "La Celia Reserva Malbec: página da Imigrantes fora do ar"
+   "status": "preco_nao_encontrado",
+   "motivo": "La Celia Reserva Malbec: página da Imigrantes fora do ar | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 216,
    "nome": "Alta Vista Classic Malbec",
    "pais": "Argentina",
-   "status": "sem_preco",
-   "motivo": "Alta Vista Classic Malbec: só a linha Premium encontrada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Alta Vista Classic Malbec: só a linha Premium encontrada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 217,
@@ -1531,22 +1531,22 @@
    "pos": 218,
    "nome": "Bodega Garzón Estate Cabernet Franc",
    "pais": "Uruguai",
-   "status": "sem_preco",
-   "motivo": "Garzón Estate Cabernet Franc: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Garzón Estate Cabernet Franc: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 219,
    "nome": "Bodega Garzón Single Vineyard Tannat",
    "pais": "Uruguai",
-   "status": "sem_preco",
-   "motivo": "Garzón Single Vineyard Tannat: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Garzón Single Vineyard Tannat: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 220,
    "nome": "Garzón Reserva Cabernet Franc",
    "pais": "Uruguai",
-   "status": "sem_preco",
-   "motivo": "Garzón Reserva Cabernet Franc: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Garzón Reserva Cabernet Franc: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 221,
@@ -1590,22 +1590,22 @@
    "pos": 226,
    "nome": "Pérez Cruz Limited Edition Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Pérez Cruz Limited Edition CS: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Pérez Cruz Limited Edition CS: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 227,
    "nome": "Pérez Cruz Limited Edition Carménère",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Pérez Cruz Limited Edition Carménère: só no Canadá (LCBO)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Pérez Cruz Limited Edition Carménère: só no Canadá (LCBO) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 228,
    "nome": "Pérez Cruz Reserva Sauvignon Blanc",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Pérez Cruz Reserva Sauvignon Blanc: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Pérez Cruz Reserva Sauvignon Blanc: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 229,
@@ -1639,22 +1639,22 @@
    "pos": 233,
    "nome": "Montes Alpha Merlot",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Montes Alpha Merlot: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Montes Alpha Merlot: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 234,
    "nome": "Errazuriz Max Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Errazuriz Max Reserva CS: perfil no Pão de Açúcar, sem estoque e sem preço"
+   "status": "preco_nao_encontrado",
+   "motivo": "Errazuriz Max Reserva CS: perfil no Pão de Açúcar, sem estoque e sem preço | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 235,
    "nome": "Errazuriz Max Reserva Carménère",
    "pais": "Chile",
-   "status": "sem_preco",
-   "motivo": "Errazuriz Max Reserva Carménère: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Errazuriz Max Reserva Carménère: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 236,
@@ -1681,92 +1681,92 @@
    "pos": 239,
    "nome": "Marqués de Riscal Rosado",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Marqués de Riscal Rosado: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Marqués de Riscal Rosado: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 240,
    "nome": "Protos Crianza",
    "pais": "Espanha",
-   "status": "sem_preco",
-   "motivo": "Protos Crianza: só anúncio antigo (magnum 2012)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Protos Crianza: só anúncio antigo (magnum 2012) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 241,
    "nome": "Poggio Cavalieri Governo Toscana",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Poggio Cavalieri Governo Toscana: não encontrado em loja consultada"
+   "status": "preco_nao_encontrado",
+   "motivo": "Poggio Cavalieri Governo Toscana: não encontrado em loja consultada | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 242,
    "nome": "Borghetto Chianti",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Borghetto Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Borghetto Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 243,
    "nome": "Poggio Cavalieri Chianti",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Poggio Cavalieri Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Poggio Cavalieri Chianti: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 244,
    "nome": "Ruffino Riserva Ducale Chianti Classico",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Ruffino Riserva Ducale Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Ruffino Riserva Ducale Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 245,
    "nome": "Antinori Santa Cristina Toscana",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Antinori Santa Cristina Toscana: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Antinori Santa Cristina Toscana: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 246,
    "nome": "Antinori Santa Cristina Pinot Grigio",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Antinori Santa Cristina Pinot Grigio: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Antinori Santa Cristina Pinot Grigio: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 247,
    "nome": "Antinori Peppoli Chianti Classico",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Antinori Peppoli Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Antinori Peppoli Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 248,
    "nome": "Castello di Albola Chianti Classico",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello di Albola Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello di Albola Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 249,
    "nome": "Castello di Albola Accademia Chianti Classico",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Castello di Albola Accademia Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Castello di Albola Accademia Chianti Classico: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 250,
    "nome": "Zonin Prosecco DOC",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "Zonin Prosecco DOC: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Zonin Prosecco DOC: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 251,
    "nome": "La Marca Prosecco",
    "pais": "Itália",
-   "status": "sem_preco",
-   "motivo": "La Marca Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "La Marca Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 252,
@@ -1786,43 +1786,43 @@
    "pos": 254,
    "nome": "Louis Jadot Mâcon-Villages Chardonnay",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Louis Jadot Mâcon-Villages Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Louis Jadot Mâcon-Villages Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 255,
    "nome": "Louis Jadot Beaujolais Nouveau",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Louis Jadot Beaujolais Nouveau: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Louis Jadot Beaujolais Nouveau: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 256,
    "nome": "Guigal Côtes du Rhône Rouge",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Guigal Côtes du Rhône Rouge: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guigal Côtes du Rhône Rouge: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 257,
    "nome": "Guigal Côtes du Rhône Blanc",
    "pais": "França",
-   "status": "sem_preco",
-   "motivo": "Guigal Côtes du Rhône Blanc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guigal Côtes du Rhône Blanc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 258,
    "nome": "Esporão Monte Velho Reserva",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Esporão Monte Velho Reserva: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Esporão Monte Velho Reserva: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 259,
    "nome": "Quinta do Crasto Reserva Vinhas Velhas",
    "pais": "Portugal",
-   "status": "sem_preco",
-   "motivo": "Quinta do Crasto Reserva Vinhas Velhas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Quinta do Crasto Reserva Vinhas Velhas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 260,
@@ -1835,8 +1835,8 @@
    "pos": 261,
    "nome": "Casa Valduga Maria Valduga Brut Vintage",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Casa Valduga Maria Valduga Brut Vintage: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Casa Valduga Maria Valduga Brut Vintage: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 262,
@@ -1884,36 +1884,36 @@
    "pos": 268,
    "nome": "Peterlongo Presence Brut",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Peterlongo Presence Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Peterlongo Presence Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 269,
    "nome": "Don Giovanni Brut Rosé",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Don Giovanni Brut Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Don Giovanni Brut Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 270,
    "nome": "Ponto Nero Celebration Prosecco",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Ponto Nero Celebration Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Ponto Nero Celebration Prosecco: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 271,
    "nome": "Chandon Réserve Demi-Sec",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Chandon Réserve Demi-Sec: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Chandon Réserve Demi-Sec: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 272,
    "nome": "Chandon Névoa das Encantadas",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Chandon Névoa das Encantadas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Chandon Névoa das Encantadas: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 273,
@@ -1933,8 +1933,8 @@
    "pos": 275,
    "nome": "Salton Intenso Brut",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Intenso Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Intenso Brut: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 276,
@@ -1954,15 +1954,15 @@
    "pos": 278,
    "nome": "Bertoletti Espumante Brut Charmat",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Bertoletti Espumante Brut Charmat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Bertoletti Espumante Brut Charmat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 279,
    "nome": "Adolfo Lona Silvia Nature Rosé",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Adolfo Lona Silvia Nature Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Adolfo Lona Silvia Nature Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 280,
@@ -1975,43 +1975,43 @@
    "pos": 281,
    "nome": "Almaúnica Parte 2 Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Almaúnica Parte 2 Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Almaúnica Parte 2 Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 282,
    "nome": "Almaúnica Corte",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Almaúnica Corte: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Almaúnica Corte: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 283,
    "nome": "Almaúnica Reserva Cabernet Franc",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Almaúnica Reserva Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Almaúnica Reserva Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 284,
    "nome": "Guaspari Cabernet Franc",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Guaspari Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guaspari Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 285,
    "nome": "Guaspari Syrah Vista da Serra",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Guaspari Syrah Vista da Serra: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guaspari Syrah Vista da Serra: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 286,
    "nome": "Guaspari Chardonnay Vista do Chá",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Guaspari Chardonnay Vista do Chá: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Guaspari Chardonnay Vista do Chá: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 287,
@@ -2038,8 +2038,8 @@
    "pos": 290,
    "nome": "Miolo Millêsse Chardonnay",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Miolo Millêsse Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Miolo Millêsse Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 291,
@@ -2052,8 +2052,8 @@
    "pos": 292,
    "nome": "Pizzato Allumé Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Pizzato Allumé Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Pizzato Allumé Cabernet Sauvignon: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 293,
@@ -2073,15 +2073,15 @@
    "pos": 295,
    "nome": "Salton Intenso Tannat",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Intenso Tannat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Intenso Tannat: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 296,
    "nome": "Salton Volpi Chardonnay",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Salton Volpi Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Salton Volpi Chardonnay: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 297,
@@ -2101,15 +2101,15 @@
    "pos": 299,
    "nome": "Valmarino Rosé Cabernet Franc",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Valmarino Rosé Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Valmarino Rosé Cabernet Franc: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   },
   {
    "pos": 300,
    "nome": "Villa Francioni Joaquim Rosé",
    "pais": "Brasil",
-   "status": "sem_preco",
-   "motivo": "Villa Francioni Joaquim Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti)"
+   "status": "preco_nao_encontrado",
+   "motivo": "Villa Francioni Joaquim Rosé: não encontrado com preço nas lojas consultadas (Imigrantes, Pão de Açúcar, Werle, Degusti) | Buscado só em: Imigrantes, Pão de Açúcar, Werle, Degusti (e em parte Wine, Mistral, Grand Cru, Fast Shop, Super Adega). Amazon, Mercado Livre, Magalu, Carrefour, Zoom e Buscapé bloqueiam a leitura automática."
   }
  ]
 }
