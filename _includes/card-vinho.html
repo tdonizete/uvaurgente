@@ -7,7 +7,7 @@
 {%- if pmax <= 50 -%}{%- assign faixa = "ate-50" -%}
 {%- elsif pmax <= 100 -%}{%- assign faixa = "50-100" -%}
 {%- else -%}{%- assign faixa = "100-mais" -%}{%- endif -%}
-<article class="card" data-tipo="{{ v.tipo | slugify }}" data-faixa="{{ faixa }}" data-nota="{{ v.nota }}" data-preco="{{ pmax }}" data-data="{{ v.date | date: '%Y%m%d' }}">
+<article class="card" data-tipo="{{ v.tipo | slugify }}" data-pais="{{ v.pais | slugify }}" data-faixa="{{ faixa }}" data-nota="{{ v.nota }}" data-preco="{{ pmax }}" data-data="{{ v.date | date: '%Y%m%d' }}">
   <a class="card-link" href="{{ v.url | relative_url }}">
     <div class="card-garrafa">{% include garrafa.html item=v %}</div>
     <div class="card-topo">

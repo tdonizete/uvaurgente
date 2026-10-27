@@ -10,6 +10,7 @@
   function aplicar() {
     var tipo = form.tipo.value;
     var faixa = form.faixa.value;
+    var pais = form.pais ? form.pais.value : '';
     var ordem = form.ordem.value;
 
     cards.sort(function (a, b) {
@@ -20,7 +21,7 @@
 
     var visiveis = 0;
     cards.forEach(function (c) {
-      var ok = (!tipo || c.dataset.tipo === tipo) && (!faixa || c.dataset.faixa === faixa);
+      var ok = (!tipo || c.dataset.tipo === tipo) && (!faixa || c.dataset.faixa === faixa) && (!pais || c.dataset.pais === pais);
       c.hidden = !ok;
       if (ok) visiveis++;
       lista.appendChild(c);
@@ -32,6 +33,7 @@
     var params = new URLSearchParams();
     if (tipo) params.set('tipo', tipo);
     if (faixa) params.set('faixa', faixa);
+    if (pais) params.set('pais', pais);
     if (ordem !== 'data') params.set('ordem', ordem);
     var qs = params.toString();
     history.replaceState(null, '', qs ? '?' + qs : location.pathname);
@@ -39,7 +41,7 @@
 
   // Lê filtros da URL (ex.: /vereditos/?faixa=ate-50 nos links do Instagram)
   var inicial = new URLSearchParams(location.search);
-  ['tipo', 'faixa', 'ordem'].forEach(function (k) {
+  ['tipo', 'pais', 'faixa', 'ordem'].forEach(function (k) {
     if (inicial.get(k) && form[k]) form[k].value = inicial.get(k);
   });
 

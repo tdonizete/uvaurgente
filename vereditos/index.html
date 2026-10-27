@@ -9,7 +9,7 @@ scripts:
 <section class="wrap secao">
   <p class="kicker">Base de vereditos</p>
   <h1 class="h1">Todos os vinhos avaliados.</h1>
-  <p class="lead">Filtre por tipo e preço. A nota vai de 0 a 10 e o selo diz se vale correr para a gôndola.</p>
+  <p class="lead">Filtre por tipo, país e preço. A nota vai de 0 a 10 e o selo diz se vale correr para a gôndola.</p>
 
   <form class="filtros" aria-label="Filtrar vereditos" data-filtros>
     <div class="campo">
@@ -21,6 +21,15 @@ scripts:
         <option value="rose">Rosé</option>
         <option value="espumante">Espumante</option>
         <option value="fortificado">Fortificado</option>
+      </select>
+    </div>
+    <div class="campo">
+      <label for="f-pais">País</label>
+      <select id="f-pais" name="pais">
+        <option value="">Todos</option>
+        {%- assign paises = site.vereditos | map: "pais" | uniq | sort %}
+        {%- for p in paises %}{% if p %}
+        <option value="{{ p | slugify }}">{{ p }}</option>{% endif %}{% endfor %}
       </select>
     </div>
     <div class="campo">
