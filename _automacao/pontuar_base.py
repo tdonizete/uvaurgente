@@ -59,9 +59,13 @@ def main():
             f"{virgula(c['visual'])} | {virgula(c['aroma'])} | {virgula(c['paladar'])} | {virgula(c['custo_beneficio'])} | "
             f"{pil} | **{virgula(r['nota'])}** | {r['selo']['nome']} | {d.get('confianca', '')} | "
             f"{'; '.join(pend + alertas) or '—'} |")
+    top = json.load(open(os.path.join(BASE, "top100-amazon.json")))
+    sem = [it for it in top["itens"] if it["status"] == "sem_ficha"]
+    if sem:
+        out += ["", "## Sem ficha (fora da pontuação)", "", "| # | Vinho | Motivo |", "| --- | --- | --- |"]
+        out += [f"| {it['rank']} | {it['nome'][:70]} | {it.get('motivo', '')} |" for it in sem]
     open(os.path.join(BASE, "resultado.md"), "w").write("\n".join(out) + "\n")
 
-    top = json.load(open(os.path.join(BASE, "top100-amazon.json")))
     for it in top["itens"]:
         if it["rank"] in por_rank and it["status"] == "a_avaliar" or it.get("status") == "avaliado_base":
             if it["rank"] in por_rank:

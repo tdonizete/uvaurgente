@@ -1,0 +1,90 @@
+{
+  "slug": "chilano-sauvignon-blanc",
+  "rank_amazon": 77,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Perfil em 1 só fonte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Chilano Sauvignon Blanc",
+    "produtor": "Ventisquero",
+    "tipo": "Branco",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Sauvignon Blanc",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-chilano-sauvignon-blanc-750ml"
+  ],
+  "preco": {
+    "referencia": 35.99,
+    "min": 35.99,
+    "max": 36.41,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 36,41, 26/10/2026",
+      "Imigrantes Bebidas: R$ 35,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 7.0,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Abacaxi",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Banana",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maracujá",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Lima",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 6.4,
+    "tanino_docura": 8.0,
+    "intensidade": 6.4,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Leve — suave",
+      "Seco — coerente",
+      "Moderada — fruta tropical",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

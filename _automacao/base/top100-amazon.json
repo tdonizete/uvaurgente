@@ -722,35 +722,46 @@
       "nome": "Chilano Vinho Chileno Branco Sauvignon Blanc 750Ml",
       "preco_amazon": 36.41,
       "avaliacoes_amazon": 567,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "chilano-sauvignon-blanc",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 78,
       "nome": "Concha y Toro Casillero Del Diablo Merlot 750ml",
       "preco_amazon": 57.89,
       "avaliacoes_amazon": 583,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "casillero-del-diablo-reserva-merlot",
+      "nota": 7.0,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 79,
       "nome": "Espumante Quinta do Morgado moscatel rose 187 mL",
       "preco_amazon": 12.85,
       "avaliacoes_amazon": 1,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Quinta do Morgado Moscatel Rosé 187 ml: sem ficha publicada (1 avaliação na Amazon)"
     },
     {
       "rank": 80,
       "nome": "Vinho Tinto Manzanos Wines, Cabernet Sauvignon, 750ml | El Torito, Espanha",
       "preco_amazon": 36.09,
       "avaliacoes_amazon": 178,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "El Torito Cabernet Sauvignon (Manzanos, Castilla): só nota agregada Vivino 3,6; sem notas de degustação"
     },
     {
       "rank": 81,
       "nome": "Concha y Toro Casillero Del Diablo Rosé 750ml",
       "preco_amazon": 56.99,
       "avaliacoes_amazon": 327,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "casillero-del-diablo-reserva-rose",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 82,
@@ -765,84 +776,108 @@
       "nome": "Picarón Vinho Chileno Sauvignon Blanc 750Ml",
       "preco_amazon": 38.99,
       "avaliacoes_amazon": 278,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Picarón Sauvignon Blanc: sem notas publicadas acessíveis"
     },
     {
       "rank": 84,
       "nome": "Vinho Rosé Santa Rita 3 Medallas, Chileno, 750ml",
       "preco_amazon": 28.98,
       "avaliacoes_amazon": 1,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Santa Rita 3 Medallas Rosé: sem notas publicadas acessíveis"
     },
     {
       "rank": 85,
       "nome": "Don Nicolás Vinho Tinto Argentino Cabernet Sauvignon 750Ml",
       "preco_amazon": 39.9,
       "avaliacoes_amazon": 184,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "don-nicolas-cabernet-sauvignon",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 86,
       "nome": "I Puri Vinho Italiano Lambrusco Branco 750Ml",
       "preco_amazon": 40.9,
       "avaliacoes_amazon": 2133,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "I Puri Lambrusco Branco: páginas com ficha bloqueadas; produtor não confirmado"
     },
     {
       "rank": 87,
       "nome": "Vinho Tinto Chileno Santa Rita Heroes Cabernet Sauvignon 750 Ml",
       "preco_amazon": 59.9,
       "avaliacoes_amazon": null,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "santa-rita-heroes-cabernet-sauvignon",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 88,
       "nome": "I Puri Vinho Italiano Lambrusco Tinto 750Ml",
       "preco_amazon": 34.5,
       "avaliacoes_amazon": 1618,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "I Puri Lambrusco Tinto: páginas com ficha bloqueadas; produtor não confirmado"
     },
     {
       "rank": 89,
       "nome": "Vinho Tinto Seco Miolo Seleção, 3L, Pack com 3 Unidades | Cabernet/Merlot, BIB",
       "preco_amazon": 100.0,
       "avaliacoes_amazon": 133,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "miolo-selecao-cabernet-sauvignon-merlot",
+      "nota": 6.7,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 90,
       "nome": "Calamares Vinho Verde Português Branco 750Ml",
       "preco_amazon": 49.9,
       "avaliacoes_amazon": 212,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "calamares-vinho-verde",
+      "nota": 6.8,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 91,
       "nome": "Concha y Toro Trivento Reserve Malbec Tinto 750ml",
       "preco_amazon": 72.01,
       "avaliacoes_amazon": 214,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "trivento-reserve-malbec",
+      "nota": 7.3,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 92,
       "nome": "VINHO QUINTA DO SEIVAL TINTO SECO CASTAS PORTUGUESAS 750ML - 2022",
       "preco_amazon": 93.72,
       "avaliacoes_amazon": null,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Miolo Quinta do Seival Castas Portuguesas 2022: ficha da Miolo fora do ar; só dados de safras antigas"
     },
     {
       "rank": 93,
       "nome": "Concha y Toro Trivento Reserve White Malbec 750ml | Argentino",
       "preco_amazon": 61.65,
       "avaliacoes_amazon": 64,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "trivento-reserve-white-malbec",
+      "nota": 7.0,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 94,
       "nome": "Vinho Tinto Argentino Chac Chac, Cabernet Franc, 750ml",
       "preco_amazon": 53.89,
       "avaliacoes_amazon": 108,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Chac Chac Cabernet Franc: sem notas publicadas acessíveis"
     },
     {
       "rank": 95,
@@ -857,35 +892,42 @@
       "nome": "Gran Bodega Vinho Bonarda",
       "preco_amazon": 36.0,
       "avaliacoes_amazon": 364,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Gran Bodega Bonarda: produtor e notas não encontrados"
     },
     {
       "rank": 97,
       "nome": "Picarón Vinho Chileno Chardonnay 750Ml",
       "preco_amazon": 39.9,
       "avaliacoes_amazon": 582,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Picarón Chardonnay: sem notas publicadas acessíveis"
     },
     {
       "rank": 98,
       "nome": "Pergola Vinho Tinto Suave | Vinho tinto suave, sabor frutado e agradável, ideal para momentos especiais e para acompanhar refeições.",
       "preco_amazon": 29.99,
       "avaliacoes_amazon": 183,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "pergola-tinto-suave",
+      "nota": 6.0,
+      "selo": "Sem Urgência"
     },
     {
       "rank": 99,
       "nome": "Sierra Batuco Vinho Branco Chileno Chardonnay 750Ml",
       "preco_amazon": 36.5,
       "avaliacoes_amazon": 496,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Sierra Batuco Chardonnay: sem notas publicadas"
     },
     {
       "rank": 100,
       "nome": "Vinho Branco Chileno Metropolitano D.O. Valle Central Chardonnay",
       "preco_amazon": 41.1,
       "avaliacoes_amazon": 89,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Metropolitano Chardonnay: produtor e notas não encontrados"
     }
   ]
 }

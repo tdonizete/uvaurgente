@@ -1,0 +1,89 @@
+{
+  "slug": "pergola-tinto-suave",
+  "rank_amazon": 98,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Vinho de mesa de uvas americanas: a metodologia é para viníferas; nota apenas informativa"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Pérgola Tinto Suave",
+    "produtor": "Vinícola Campestre",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Campestre da Serra (RS)",
+    "safra": null,
+    "uvas": "Uvas de mesa (americanas)",
+    "teor": 10.5,
+    "servir": "12 °C",
+    "estilo": "Suave (doce), vinho de mesa"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-pergola-tinto-suave-1l"
+  ],
+  "preco": {
+    "referencia": 22.49,
+    "min": 22.49,
+    "max": 29.99,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 29,99, 26/10/2026",
+      "Imigrantes Bebidas (1 L = R$ 22,49 por 750 ml): R$ 22,49, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.0
+  },
+  "aroma": {
+    "limpeza": 7.6,
+    "intensidade": 6.2,
+    "complexidade": 6.4,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Uva",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 5.0,
+    "corpo": 5.0,
+    "tanino_docura": 4.8,
+    "intensidade": 5.6,
+    "final": 5.0,
+    "final_segundos": 4,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Baixa — o doce domina",
+      "Leve — simples",
+      "Macio — tanino quase ausente",
+      "Fraca a moderada — uva",
+      "Curto — cerca de 4 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

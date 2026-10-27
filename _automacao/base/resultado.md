@@ -58,3 +58,36 @@ Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.
 | 74 | Miolo (Terranova) Terranova Moscatel | Brasil | Espumante | R$ 39,75 | 7,8 | 7,5 | 6,5 | 8,4 | B | **7,4** | Sem Pressa | média | Perfil em 1 só fonte |
 | 75 | Aveleda Casal Garcia Rosé | Portugal | Rosé | R$ 58,99 | 7,8 | 7,4 | 6,9 | 6,8 | B | **6,9** | Sem Pressa | alta | — |
 | 76 | Concha y Toro Casillero del Diablo Reserva Malbec | Chile | Tinto | R$ 49,34 | 8,0 | 7,8 | 6,9 | 7,2 | BC | **7,3** | Sem Pressa | alta | — |
+| 77 | Ventisquero Chilano Sauvignon Blanc | Chile | Branco | R$ 35,99 | 7,6 | 7,2 | 6,8 | 8,3 | B | **7,4** | Sem Pressa | média | Perfil em 1 só fonte |
+| 78 | Concha y Toro Casillero del Diablo Reserva Merlot | Chile | Tinto | R$ 57,89 | 8,0 | 7,6 | 6,6 | 6,8 | BC | **7,0** | Sem Pressa | alta | — |
+| 81 | Concha y Toro Casillero del Diablo Reserva Rosé | Chile | Rosé | R$ 56,99 | 8,0 | 7,5 | 6,9 | 7,0 | B | **7,2** | Sem Pressa | média | Uvas e teor não informados; Perfil em 1 só fonte |
+| 85 | Don Nicolás Cabernet Sauvignon | Argentina | Tinto | R$ 39,90 | 7,6 | 7,4 | 6,2 | 8,1 | B | **7,1** | Sem Pressa | média | — |
+| 87 | Santa Rita Héroes Cabernet Sauvignon | Chile | Tinto | R$ 59,90 | 7,8 | 7,6 | 6,7 | 6,8 | BC | **7,1** | Sem Pressa | baixa | Preço em 1 só fonte (Amazon); Perfil em 1 só fonte (agregador) |
+| 89 | Miolo Seleção Cabernet Sauvignon & Merlot | Brasil | Tinto | R$ 55,99 | 7,6 | 7,3 | 6,4 | 6,3 | B | **6,7** | Sem Pressa | baixa | No ranking é o pack de bag-in-box 3 L: confirmar preço e formato antes de publicar; Preço de referência da garrafa de 750 ml em 1 só fonte |
+| 90 | Não informado Calamares Vinho Verde | Portugal | Branco | R$ 49,90 | 7,8 | 7,2 | 6,6 | 6,5 | B | **6,8** | Sem Pressa | baixa | Preço em 1 só fonte (Amazon); Produtor e teor não informados |
+| 91 | Trivento Reserve Malbec | Argentina | Tinto | R$ 72,01 | 8,2 | 7,8 | 6,9 | 7,2 | BC | **7,3** | Sem Pressa | alta | — |
+| 93 | Trivento Reserve White Malbec | Argentina | Branco | R$ 61,65 | 8,0 | 7,3 | 6,8 | 6,8 | B | **7,0** | Sem Pressa | média | — |
+| 98 | Vinícola Campestre Pérgola Tinto Suave | Brasil | Tinto | R$ 22,49 | 7,0 | 6,7 | 5,1 | 6,6 | — | **6,0** | Sem Urgência | média | Vinho de mesa de uvas americanas: a metodologia é para viníferas; nota apenas informativa |
+
+## Sem ficha (fora da pontuação)
+
+| # | Vinho | Motivo |
+| --- | --- | --- |
+| 29 | V IMP BENJAMIN NIETO CHARDONNAY 750ML | Nieto Senetiner Benjamín Chardonnay: nenhuma nota de degustação publicada encontrada |
+| 49 | Vinho Tinto Suave Collina 750 Ml | Collina Tinto Suave: produtor, uvas e perfil não encontrados |
+| 61 | Sierra Batuco Vinho Tinto Chileno Carmenere 750Ml | Sierra Batuco Carménère: nenhuma nota de degustação publicada encontrada |
+| 67 | Picarón Vinho Cabernet Sauvignon 750Ml | Picarón Cabernet Sauvignon: páginas com notas bloqueadas ou fora do ar |
+| 71 | Santa Helena Vinho Reservado Rose 750Ml | Santa Helena Reservado Rosé: só confirmado que é seco; sem uvas nem notas |
+| 73 | Le Rosé de Julie, Castel Freres, Vinho tinto, Rosé Grenache, 750ml | N | Le Rosé de Julie (Castel): não foi possível confirmar qual vinho é (há homônimos) |
+| 79 | Espumante Quinta do Morgado moscatel rose 187 mL | Quinta do Morgado Moscatel Rosé 187 ml: sem ficha publicada (1 avaliação na Amazon) |
+| 80 | Vinho Tinto Manzanos Wines, Cabernet Sauvignon, 750ml | El Torito, Esp | El Torito Cabernet Sauvignon (Manzanos, Castilla): só nota agregada Vivino 3,6; sem notas de degustação |
+| 83 | Picarón Vinho Chileno Sauvignon Blanc 750Ml | Picarón Sauvignon Blanc: sem notas publicadas acessíveis |
+| 84 | Vinho Rosé Santa Rita 3 Medallas, Chileno, 750ml | Santa Rita 3 Medallas Rosé: sem notas publicadas acessíveis |
+| 86 | I Puri Vinho Italiano Lambrusco Branco 750Ml | I Puri Lambrusco Branco: páginas com ficha bloqueadas; produtor não confirmado |
+| 88 | I Puri Vinho Italiano Lambrusco Tinto 750Ml | I Puri Lambrusco Tinto: páginas com ficha bloqueadas; produtor não confirmado |
+| 92 | VINHO QUINTA DO SEIVAL TINTO SECO CASTAS PORTUGUESAS 750ML - 2022 | Miolo Quinta do Seival Castas Portuguesas 2022: ficha da Miolo fora do ar; só dados de safras antigas |
+| 94 | Vinho Tinto Argentino Chac Chac, Cabernet Franc, 750ml | Chac Chac Cabernet Franc: sem notas publicadas acessíveis |
+| 96 | Gran Bodega Vinho Bonarda | Gran Bodega Bonarda: produtor e notas não encontrados |
+| 97 | Picarón Vinho Chileno Chardonnay 750Ml | Picarón Chardonnay: sem notas publicadas acessíveis |
+| 99 | Sierra Batuco Vinho Branco Chileno Chardonnay 750Ml | Sierra Batuco Chardonnay: sem notas publicadas |
+| 100 | Vinho Branco Chileno Metropolitano D.O. Valle Central Chardonnay | Metropolitano Chardonnay: produtor e notas não encontrados |

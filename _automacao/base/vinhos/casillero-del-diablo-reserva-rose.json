@@ -1,0 +1,95 @@
+{
+  "slug": "casillero-del-diablo-reserva-rose",
+  "rank_amazon": 81,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Uvas e teor não informados",
+    "Perfil em 1 só fonte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Casillero del Diablo Reserva Rosé",
+    "produtor": "Concha y Toro",
+    "tipo": "Rosé",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Uvas não informadas",
+    "teor": null,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/456534/vinho-chileno-rose-seco-reserva-casillero-del-diablo-garrafa-750ml",
+    "https://www.werlecomercial.com.br/vinho-casillero-del-diablo-rose-750ml"
+  ],
+  "preco": {
+    "referencia": 56.99,
+    "min": 56.99,
+    "max": 62.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 56,99, 26/10/2026",
+      "Pão de Açúcar: R$ 59,9, 26/10/2026",
+      "Werle Comercial: R$ 62,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Pétalas de rosa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pêssego branco",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Mineral",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.4,
+    "tanino_docura": 8.0,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — fresca",
+      "Leve — coerente com o estilo",
+      "Seco — coerente",
+      "Moderada — floral e fruta",
+      "Médio — toque mineral"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

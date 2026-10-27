@@ -1,0 +1,91 @@
+{
+  "slug": "casillero-del-diablo-reserva-merlot",
+  "rank_amazon": 78,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Casillero del Diablo Reserva Merlot",
+    "produtor": "Concha y Toro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Merlot",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco, com madeira"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.lcbo.com/en/casillero-del-diablo-reserva-merlot-427088",
+    "https://www.paodeacucar.com/produto/150385/vinho-chileno-tinto-concha-y-toro-casillero-del-diablo-reserva-merlot-garrafa-750ml"
+  ],
+  "preco": {
+    "referencia": 57.89,
+    "min": 57.89,
+    "max": 59.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 57,89, 26/10/2026",
+      "Pão de Açúcar: R$ 59,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.5,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Tosta",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.6,
+    "corpo": 6.6,
+    "tanino_docura": 6.6,
+    "intensidade": 6.8,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Leve a médio",
+      "Macio — redondo",
+      "Moderada — fruta e tosta",
+      "Médio — final suave"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

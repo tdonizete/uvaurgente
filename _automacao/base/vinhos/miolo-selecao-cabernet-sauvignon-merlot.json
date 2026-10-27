@@ -1,0 +1,92 @@
+{
+  "slug": "miolo-selecao-cabernet-sauvignon-merlot",
+  "rank_amazon": 89,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "No ranking é o pack de bag-in-box 3 L: confirmar preço e formato antes de publicar",
+    "Preço de referência da garrafa de 750 ml em 1 só fonte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Seleção Cabernet Sauvignon & Merlot",
+    "produtor": "Miolo",
+    "tipo": "Tinto",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon, Merlot",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco, com madeira"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-miolo-selecao-cabernet-sauvignon-e-merlot-750ml"
+  ],
+  "preco": {
+    "referencia": 55.99,
+    "min": 55.99,
+    "max": 55.99,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas (garrafa 750 ml): R$ 55,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas secas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Madeira",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.4,
+    "tanino_docura": 6.4,
+    "intensidade": 6.4,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio — macio",
+      "Macio — redondo",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
