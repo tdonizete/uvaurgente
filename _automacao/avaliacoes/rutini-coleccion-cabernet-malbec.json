@@ -1,0 +1,133 @@
+{
+ "slug": "rutini-coleccion-cabernet-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Rutini Colección Cabernet-Malbec",
+  "produtor": "Rutini Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon, Malbec",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, parte em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/rutini-coleccion-cabernet-sauvignon-malbec",
+  "https://www.vino.com/en/dettaglio/mendoza-ig-cabernet-malbec-rutini-wines-2023.html"
+ ],
+ "preco": {
+  "referencia": 116.0,
+  "min": 116.0,
+  "max": 157.0,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre (com desconto; 'de' R$ 179): R$ 116,0, 27/10/2026",
+   "Google Shopping — Loja Tani: R$ 157,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 7.2,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio",
+   "Firme — equilibrado",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Corte argentino correto e equilibrado, sem surpresa.",
+  "kicker_identidade": "Corte clássico argentino",
+  "historico": "A Rutini foi fundada em 1885 em Mendoza. A Colección junta Cabernet Sauvignon e Malbec.",
+  "degustacao": "Cereja, ervas e especiarias, com cassis. Na boca é médio, firme e equilibrado.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhoargentina",
+  "#rutiniwines"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/rutini-coleccion-cabernet-malbec.png"
+}

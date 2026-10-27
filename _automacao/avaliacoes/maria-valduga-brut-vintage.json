@@ -1,0 +1,136 @@
+{
+ "slug": "maria-valduga-brut-vintage",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Maria Valduga Brut Vintage",
+  "produtor": "Casa Valduga",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Vale dos Vinhedos",
+  "safra": null,
+  "uvas": "Chardonnay 80%, Pinot Noir 20%",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Brut (9,7 g/L), método tradicional, 60 meses sobre borras"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+casa+valduga+maria+valduga+brut+vintage",
+  "https://casavalduga.com.br/api/media/file/Ficha%20T%C3%83%C2%A9cnica%20-%20Maria%20Valduga%20-%20Brut%20Vintage.pdf"
+ ],
+ "preco": {
+  "referencia": 519.0,
+  "min": 519.0,
+  "max": 650.0,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Famiglia Valduga: R$ 519,0, 27/10/2026",
+   "Bing Shopping — Amazon: R$ 539,0, 27/10/2026",
+   "Bing Shopping — Magalu: R$ 650,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 9.0
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.2,
+  "complexidade": 8.4,
+  "familias": [
+   "Frutas",
+   "Fermentação",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Pera",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Brioche amanteigado",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pão tostado",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Notas evoluídas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 7.6,
+  "tanino_docura": 8.8,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vigoroso",
+   "Médio — cremoso",
+   "Brut — coerente",
+   "Pronunciada — complexa",
+   "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante nacional de topo, cremoso e complexo.",
+  "kicker_identidade": "Topo da Casa Valduga",
+  "historico": "A Casa Valduga é uma vinícola familiar do Vale dos Vinhedos fundada em 1875. O Maria Valduga passa 60 meses sobre as leveduras, pelo método tradicional.",
+  "degustacao": "Pera e maçã, com brioche amanteigado e pão tostado. Na boca é cremoso, fresco e termina longo.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay80",
+  "#vinhobrasil",
+  "#casavalduga"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/maria-valduga-brut-vintage.png"
+}

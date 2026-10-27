@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 202,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Preço em 1 só fonte (Amazon); anúncio é da linha Luján de Cuyo",
@@ -28,11 +28,12 @@
   ],
   "preco": {
     "referencia": 265.9,
-    "min": 265.9,
+    "min": 241.4,
     "max": 265.9,
     "ajustes": [],
     "fontes": [
-      "Amazon.com.br: R$ 265,9, 27/10/2026"
+      "Amazon.com.br: R$ 265,9, 27/10/2026",
+      "Google Shopping — Vino&Amore (Bramare Valle de Uco, com desconto): R$ 241,4, 27/10/2026"
     ]
   },
   "visual": {
@@ -94,9 +95,7 @@
     "aproxima_9": false
   },
   "foto": {
-    "arquivo": "uvaurgente-bramare-malbec",
-    "origem": "Google Shopping (miniatura do anúncio, cerca de 200 px — baixa resolução)",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/bramare-malbec.png"
   }
 }

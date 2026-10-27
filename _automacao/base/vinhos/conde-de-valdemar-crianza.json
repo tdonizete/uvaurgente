@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 155,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Ficha sensorial de safra antiga (2015, Falstaff 88)"
@@ -91,9 +91,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-conde-de-valdemar-crianza",
-    "origem": "Google Shopping (miniatura do anúncio, cerca de 200 px — baixa resolução)",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/conde-de-valdemar-crianza.png"
   }
 }

@@ -1,0 +1,133 @@
+{
+ "slug": "artesana-tannat",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Artesana Tannat",
+  "produtor": "Artesana",
+  "tipo": "Tinto",
+  "pais": "Uruguai",
+  "regiao": "Canelones",
+  "safra": null,
+  "uvas": "Tannat",
+  "teor": 15.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês e americano, sem filtrar"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+artesana+tannat",
+  "https://www.reversewinesnob.com/2013/09/artesana-tannat-uruguay.html"
+ ],
+ "preco": {
+  "referencia": 147.25,
+  "min": 147.25,
+  "max": 205.0,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Wine Lovers: R$ 147,25, 27/10/2026",
+   "Google Shopping — Tudo e Vinho (Reserva): R$ 205,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta negra",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas secas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Alcaçuz",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.8,
+  "tanino_docura": 8.0,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado",
+   "Muito tânico",
+   "Pronunciada",
+   "Médio — seco, cerca de 7 segundos (final longo citado pela fonte)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tannat uruguaio robusto, para quem gosta de tanino.",
+  "kicker_identidade": "Tannat de Canelones",
+  "historico": "A Artesana fica em Canelones, no sul do Uruguai. O Tannat passa 12 meses em carvalho francês e americano e é engarrafado sem filtrar.",
+  "degustacao": "Fruta negra, chocolate amargo, flores e ervas secas. Na boca é encorpado, bem tânico e termina seco e longo.",
+  "harmonizacao": [
+   {
+    "prato": "Costela no fogo de chão",
+    "porque": "Tanino forte pede gordura e brasa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cupim assado",
+    "porque": "Carne gorda amacia o tanino.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Feijoada",
+    "porque": "Estrutura para um prato pesado.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo serrano",
+    "porque": "Sal e gordura domam o vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos na manteiga",
+    "porque": "Terroso para quem não come carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tannat",
+  "#vinhouruguai",
+  "#artesana"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/artesana-tannat.png"
+}

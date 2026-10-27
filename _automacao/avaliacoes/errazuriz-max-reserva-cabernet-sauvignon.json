@@ -1,0 +1,133 @@
+{
+ "slug": "errazuriz-max-reserva-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Errazuriz Max Reserva Cabernet Sauvignon",
+  "produtor": "Viña Errazuriz",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Aconcagua",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+errazuriz+max+reserva+cabernet+sauvignon",
+  "https://www.paodeacucar.com/busca?terms=errazuriz%20max"
+ ],
+ "preco": {
+  "referencia": 109.0,
+  "min": 109.0,
+  "max": 149.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 109,0, 27/10/2026",
+   "Mercado Livre (linha Max Edición): R$ 149,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.4,
+  "tanino_docura": 7.4,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio a encorpado",
+   "Firme",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet chileno correto, com tabaco e fruta, sem surpresa.",
+  "kicker_identidade": "Cabernet do Aconcagua",
+  "historico": "A Errazuriz foi fundada em 1870 no Vale do Aconcagua. A linha Max homenageia o fundador, Maximiano Errázuriz.",
+  "degustacao": "Cereja e frutas vermelhas, com tabaco e especiarias. Na boca é firme, de corpo médio a encorpado.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinaerrazuriz"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/errazuriz-max-reserva-cabernet-sauvignon.png"
+}

@@ -1,0 +1,134 @@
+{
+ "slug": "marques-de-caceres-crianza",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Cáceres Crianza",
+  "produtor": "Marqués de Cáceres",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O.Ca. Rioja",
+  "safra": null,
+  "uvas": "Tempranillo",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho (60% francês, 40% americano)"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+marques+de+caceres+crianza",
+  "https://lista.mercadolivre.com.br/marques-de-caceres-crianza",
+  "https://marquesdecaceres.com/en/wines/crianza"
+ ],
+ "preco": {
+  "referencia": 161.4,
+  "min": 161.4,
+  "max": 185.06,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 161,4, 27/10/2026",
+   "Mercado Livre: R$ 185,06, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta negra madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Balsâmico",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Alcaçuz",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias suaves",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.4,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado",
+   "Sedoso",
+   "Pronunciada",
+   "Médio — final mentolado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rioja Crianza clássico e sedoso, preço ok.",
+  "kicker_identidade": "Crianza clássico",
+  "historico": "A Marqués de Cáceres foi fundada em 1970 em Cenicero, na Rioja. O Crianza passa 12 meses em carvalho francês e americano.",
+  "degustacao": "Fruta negra madura e balsâmico, com alcaçuz e especiarias. Na boca é encorpado, sedoso e termina mentolado.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhoespanha",
+  "#marquesdecaceres"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/marques-de-caceres-crianza.png"
+}

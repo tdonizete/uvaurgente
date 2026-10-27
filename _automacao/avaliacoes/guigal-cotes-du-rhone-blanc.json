@@ -1,0 +1,132 @@
+{
+ "slug": "guigal-cotes-du-rhone-blanc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "E. Guigal Côtes du Rhône Blanc",
+  "produtor": "E. Guigal",
+  "tipo": "Branco",
+  "pais": "França",
+  "regiao": "Côtes du Rhône AOC",
+  "safra": null,
+  "uvas": "Viognier, Marsanne e outras",
+  "teor": 14.0,
+  "servir": "10 °C",
+  "estilo": "Seco, inox"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/guigal-cotes-du-rhone-blanc",
+  "https://www.saq.com/en/290296"
+ ],
+ "preco": {
+  "referencia": 159.9,
+  "min": 159.9,
+  "max": 281.97,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 281,97, 27/10/2026",
+   "Google Shopping — Bodega del Sol: R$ 159,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.6,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Damasco",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mel",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.6,
+  "tanino_docura": 8.4,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — macia",
+   "Encorpado — cheio e quente",
+   "Seco — coerente",
+   "Pronunciada — floral",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco do Rhône cheio e floral, caro no Brasil.",
+  "kicker_identidade": "Viognier do Rhône",
+  "historico": "A E. Guigal foi fundada em 1946 em Ampuis, no norte do Rhône. O branco tem base de Viognier e é feito em inox.",
+  "degustacao": "Pêssego, damasco e flores brancas. Na boca é cheio, quente e redondo.",
+  "harmonizacao": [
+   {
+    "prato": "Frango ao curry",
+    "porque": "Fruta de caroço com especiaria.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bacalhau ao forno",
+    "porque": "Corpo para um peixe intenso.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Risoto de queijo",
+    "porque": "Cremoso com cremoso.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijos maduros",
+    "porque": "Untuosidade com a textura do vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Peixe com molho de manteiga",
+    "porque": "Volume para o molho.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#viognier",
+  "#vinhofranca",
+  "#eguigal"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/guigal-cotes-du-rhone-blanc.png"
+}

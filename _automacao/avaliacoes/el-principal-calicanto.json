@@ -1,0 +1,134 @@
+{
+ "slug": "el-principal-calicanto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Calicanto",
+  "produtor": "Viña El Principal",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Pirque (Valle del Maipo)",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon, Carménère, Syrah, Malbec, Cabernet Franc",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+el+principal+calicanto",
+  "https://www.grandcruwijnen.nl/en/2021-el-principal-calicanto"
+ ],
+ "preco": {
+  "referencia": 148.83,
+  "min": 148.83,
+  "max": 151.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 151,9, 27/10/2026",
+   "Google Shopping — Wine Time Brasil: R$ 148,83, 27/10/2026",
+   "Google Shopping — adegavix.com: R$ 151,05, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.2,
+  "tanino_docura": 7.8,
+  "intensidade": 7.4,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — refrescante",
+   "Médio",
+   "Fino e redondo",
+   "Pronunciada — frutada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Corte chileno fino e fácil de gostar, preço justo.",
+  "kicker_identidade": "Corte do Alto Maipo",
+  "historico": "A Viña El Principal fica em Pirque, no Alto Maipo. O Calicanto junta cinco uvas e passa 12 meses em carvalho francês.",
+  "degustacao": "Frutas vermelhas, ervas e cassis, com especiarias. Na boca é médio, de tanino fino e redondo.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinaelprincipal"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/el-principal-calicanto.png"
+}

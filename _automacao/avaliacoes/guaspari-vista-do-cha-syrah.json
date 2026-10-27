@@ -1,0 +1,136 @@
+{
+ "slug": "guaspari-vista-do-cha-syrah",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Guaspari Vista do Chá Syrah",
+  "produtor": "Vinícola Guaspari",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Espírito Santo do Pinhal (SP)",
+  "safra": null,
+  "uvas": "Syrah",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, colheita de inverno, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+guaspari+vista+do+cha+syrah",
+  "https://lista.mercadolivre.com.br/guaspari-syrah-vista-do-cha",
+  "https://iwsc.net/results/detail/169922/vista-do-ch-syrah-2020"
+ ],
+ "preco": {
+  "referencia": 397.0,
+  "min": 397.0,
+  "max": 417.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 397,0, 27/10/2026",
+   "Mercado Livre (safra 2020, com desconto): R$ 417,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.4,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja escura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Romã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Folha de chá",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas secas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 8.0,
+  "tanino_docura": 7.8,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Encorpado — profundo",
+   "Firme, madeira presente",
+   "Pronunciada — fruta e especiaria",
+   "Médio — cerca de 7 segundos (final longo citado só pela fonte)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Syrah brasileiro de destaque, mas o preço pesa.",
+  "kicker_identidade": "Syrah de inverno",
+  "historico": "A Guaspari fica em Espírito Santo do Pinhal, no interior de São Paulo. As uvas são colhidas no inverno, pela técnica da dupla poda.",
+  "degustacao": "Cereja escura, romã e folha de chá, com cassis. Na boca é profundo, encorpado e de madeira presente.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro com alecrim",
+    "porque": "Pimenta e ervas no mesmo tom.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de sol",
+    "porque": "Sal e fumaça com fruta escura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer com bacon",
+    "porque": "Defumado com pimenta-preta.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Embutidos",
+    "porque": "Salame e copa com especiaria.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela à parmegiana",
+    "porque": "Molho e queijo com acidez viva.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#syrah",
+  "#vinhobrasil",
+  "#vinicolaguaspari"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/guaspari-vista-do-cha-syrah.png"
+}

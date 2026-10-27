@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 204,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Ficha sensorial de fonte estrangeira (Jeroboams, Vinous 90)"
@@ -94,10 +94,7 @@
     "aproxima_9": false
   },
   "foto": {
-    "arquivo": "uvaurgente-achaval-ferrer-quimera.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_895293-MLB85495104936_062025-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/achaval-ferrer-quimera.png"
   }
 }

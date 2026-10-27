@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 99,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "baixa",
   "pendencias": [
     "Preço em 1 só anúncio",
@@ -28,12 +28,13 @@
     "https://www.jamessuckling.com/tasting-notes/260854/domaine-l-chatelain-chablis-2023"
   ],
   "preco": {
-    "referencia": 339.4,
-    "min": 339.4,
+    "referencia": 279.9,
+    "min": 279.9,
     "max": 339.4,
     "ajustes": [],
     "fontes": [
-      "Mercado Livre (com desconto; 'de' R$ 369): R$ 339,4, 27/10/2026"
+      "Mercado Livre (com desconto; 'de' R$ 369): R$ 339,4, 27/10/2026",
+      "Google Shopping — Ary Delicatessen: R$ 279,9, 27/10/2026"
     ]
   },
   "visual": {
@@ -91,10 +92,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-domaine-l-chatelain-chablis.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_754942-MLB100861141507_122025-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/domaine-l-chatelain-chablis.png"
   }
 }

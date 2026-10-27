@@ -1,0 +1,133 @@
+{
+ "slug": "protos-crianza",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Protos Crianza",
+  "produtor": "Bodegas Protos",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O. Ribera del Duero",
+  "safra": null,
+  "uvas": "Tempranillo (Tinto Fino)",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+protos+crianza",
+  "https://lista.mercadolivre.com.br/protos-crianza"
+ ],
+ "preco": {
+  "referencia": 299.67,
+  "min": 299.67,
+  "max": 399.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 299,67, 27/10/2026",
+   "Mercado Livre: R$ 399,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Especiarias doces",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.8,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado",
+   "Suave",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Ribera del Duero encorpado e suave, mas caro.",
+  "kicker_identidade": "Crianza da Ribera",
+  "historico": "A Protos foi fundada em 1927 em Peñafiel, na Ribera del Duero. O Crianza passa 12 meses em carvalho.",
+  "degustacao": "Fruta madura e especiarias doces, com tostado. Na boca é encorpado e suave.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhoespanha",
+  "#bodegasprotos"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/protos-crianza.png"
+}

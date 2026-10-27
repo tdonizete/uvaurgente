@@ -1,0 +1,133 @@
+{
+ "slug": "poggio-cavalieri-chianti-governo",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Poggio Cavalieri Chianti Governo all'Uso Toscano",
+  "produtor": "Poggio Cavalieri",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Chianti DOCG",
+  "safra": null,
+  "uvas": "Sangiovese",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, governo all'uso toscano"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+poggio+cavalieri+governo+toscana",
+  "https://www.wineconnection.com.sg/products/poggio-cavalieri-chianti-governo-alluso-toscano-tuscany-italy"
+ ],
+ "preco": {
+  "referencia": 122.55,
+  "min": 122.55,
+  "max": 125.8,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Vinoteca São Paulo: R$ 122,55, 27/10/2026",
+   "Bing Shopping — oferta: R$ 125,8, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Balsâmico",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — redondo",
+   "Equilibrado",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chianti redondo e frutado, preço um pouco alto.",
+  "kicker_identidade": "Chianti governo",
+  "historico": "O governo all'uso toscano é uma técnica antiga de refermentar o vinho com uvas passificadas. Este Chianti é 100% Sangiovese.",
+  "degustacao": "Amora, frutas silvestres e violeta, com toque balsâmico. Na boca é frutado, redondo e equilibrado.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao ragu",
+    "porque": "Acidez da Sangiovese corta o molho.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bisteca à fiorentina",
+    "porque": "Toscana no prato e no copo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza margherita",
+    "porque": "Tomate e manjericão com fruta vermelha.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo pecorino",
+    "porque": "Sal e acidez em equilíbrio.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso sem pesar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#sangiovese",
+  "#vinhoitalia",
+  "#poggiocavalieri"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/poggio-cavalieri-chianti-governo.png"
+}

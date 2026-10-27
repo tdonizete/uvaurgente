@@ -1,0 +1,133 @@
+{
+ "slug": "zonin-chianti",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Zonin Chianti",
+  "produtor": "Zonin",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Chianti DOCG",
+  "safra": null,
+  "uvas": "Sangiovese",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+zonin+chianti",
+  "https://unitedcellars.co.nz/products/zonin-classici-chianti-doc-2023"
+ ],
+ "preco": {
+  "referencia": 79.8,
+  "min": 79.8,
+  "max": 227.0,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Zaffari Online: R$ 79,8, 27/10/2026",
+   "Mercado Livre: R$ 227,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ginja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Terroso",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.6,
+  "tanino_docura": 7.2,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Médio — elegante",
+   "Macio",
+   "Moderada",
+   "Médio — saboroso"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chianti simples e honesto, com boa acidez.",
+  "kicker_identidade": "Chianti de entrada",
+  "historico": "A Zonin foi fundada em 1821 em Gambellara, no Vêneto. O Chianti é feito com Sangiovese.",
+  "degustacao": "Cereja, violeta e ervas, com ginja. Na boca tem acidez viva e tanino macio.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao ragu",
+    "porque": "Acidez da Sangiovese corta o molho.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bisteca à fiorentina",
+    "porque": "Toscana no prato e no copo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza margherita",
+    "porque": "Tomate e manjericão com fruta vermelha.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo pecorino",
+    "porque": "Sal e acidez em equilíbrio.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso sem pesar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#sangiovese",
+  "#vinhoitalia",
+  "#zonin"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/zonin-chianti.png"
+}

@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 210,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "alta",
   "pendencias": [
     "Teor não informado"
@@ -93,10 +93,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-dona-paula-estate-cabernet-sauvignon.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_931415-MLB110692561312_052026-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/dona-paula-estate-cabernet-sauvignon.png"
   }
 }

@@ -1,0 +1,135 @@
+{
+ "slug": "finca-sophenia-synthesis-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Synthesis Malbec",
+  "produtor": "Finca Sophenia",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Gualtallary (Valle de Uco)",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em barricas de carvalho francês novo"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+finca+sophenia+synthesis+malbec",
+  "https://www.davywine.co.uk/product/finca-sophenia-synthesis-malbec/"
+ ],
+ "preco": {
+  "referencia": 355.9,
+  "min": 355.9,
+  "max": 436.25,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Chiossi Wines: R$ 355,9, 27/10/2026",
+   "Mercado Livre: R$ 436,25, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.8,
+  "tanino_docura": 7.8,
+  "intensidade": 7.8,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — rico e generoso",
+   "Refinado",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos (final longo citado pela fonte)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de Gualtallary rico e refinado, mas caro.",
+  "kicker_identidade": "Malbec de Gualtallary",
+  "historico": "A Finca Sophenia fica em Gualtallary, no Valle de Uco. O Synthesis passa 12 meses em barricas novas de carvalho francês.",
+  "degustacao": "Ameixa, cassis e violeta, com pimenta-preta e tabaco. Na boca é rico, generoso e de tanino refinado.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#fincasophenia"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/finca-sophenia-synthesis-malbec.png"
+}

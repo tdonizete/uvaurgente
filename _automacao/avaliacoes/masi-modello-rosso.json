@@ -1,0 +1,130 @@
+{
+ "slug": "masi-modello-rosso",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Masi Modello Rosso",
+  "produtor": "Masi",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Trevenezie IGT",
+  "safra": null,
+  "uvas": "Merlot, Refosco, Raboso Veronese",
+  "teor": 12.0,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/masi-modello-delle-venezie-rosso",
+  "https://www.masi.it/files/masi_modello_trevenezierosso_eng.pdf"
+ ],
+ "preco": {
+  "referencia": 137.85,
+  "min": 137.85,
+  "max": 154.9,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 137,85, 27/10/2026",
+   "Mercado Livre (outro anúncio): R$ 154,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.6,
+  "tanino_docura": 6.8,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — fácil",
+   "Macio",
+   "Moderada — frutado",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto italiano fácil, mas caro para o que entrega.",
+  "kicker_identidade": "Tinto do Vêneto",
+  "historico": "A Masi é uma casa do Vêneto conhecida pelos Amarones. O Modello Rosso junta Merlot, Refosco e Raboso.",
+  "degustacao": "Frutas vermelhas e silvestres, com especiarias. Na boca é macio, médio e fácil.",
+  "harmonizacao": [
+   {
+    "prato": "Pato com molho de frutas",
+    "porque": "Fruta vermelha delicada com carne rica.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Tanino baixo que respeita o peixe.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Leveza para o almoço de domingo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Acidez para embutidos leves.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso e delicado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhoitalia",
+  "#masi"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/masi-modello-rosso.png"
+}

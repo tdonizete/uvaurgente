@@ -1,0 +1,137 @@
+{
+ "slug": "dona-paula-estate-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Doña Paula Estate Malbec",
+  "produtor": "Doña Paula",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês de 1º a 3º uso"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+dona+paula+estate+malbec",
+  "https://theliquorbarn.com/products/dona-paula-estate-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 67.5,
+  "min": 67.5,
+  "max": 101.39,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Zaffari Online: R$ 67,5, 27/10/2026",
+   "Google Shopping — Cia do Vinho (com desconto): R$ 77,5, 27/10/2026",
+   "Bing Shopping — Magalu: R$ 101,39, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Azeitona preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grafite",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 7.2,
+  "intensidade": 7.4,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — moderada",
+   "Médio — focado",
+   "Gentil",
+   "Pronunciada",
+   "Médio — especiado, cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de Uco com fruta, grafite e ótimo preço.",
+  "kicker_identidade": "Malbec de altitude",
+  "historico": "A Doña Paula pertence ao grupo chileno Santa Rita e cultiva no Valle de Uco. O Estate Malbec passa 12 meses em carvalho francês.",
+  "degustacao": "Cereja preta, amora, violeta e azeitona preta, com grafite. Na boca é focado, de tanino gentil e final especiado.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#donapaula"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/dona-paula-estate-malbec.png"
+}

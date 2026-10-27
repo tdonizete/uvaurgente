@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 270,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "A lista diz 'Prosecco': avaliado o Celebration Brut, que leva Glera (Prosecco) no corte"
@@ -91,10 +91,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-ponto-nero-celebration-brut.jpg",
-    "origem": "Bing Shopping (foto do anúncio)",
-    "url": "https://th.bing.com/th/id/OPHS.pYzDBeAQRsZJug474C474?w=600&h=800&pid=21.1",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/ponto-nero-celebration-brut.png"
   }
 }

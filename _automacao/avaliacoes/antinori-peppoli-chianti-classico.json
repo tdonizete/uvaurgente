@@ -1,0 +1,133 @@
+{
+ "slug": "antinori-peppoli-chianti-classico",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pèppoli Chianti Classico",
+  "produtor": "Marchesi Antinori",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Chianti Classico DOCG",
+  "safra": null,
+  "uvas": "Sangiovese, Merlot, Syrah",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, cerca de 9 meses em tonéis de carvalho da Eslavônia"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/antinori-peppoli-chianti-classico",
+  "https://www.vino.com/dettaglio/chianti-classico-docg-peppoli-marchesi-antinori-2024.html"
+ ],
+ "preco": {
+  "referencia": 211.56,
+  "min": 211.56,
+  "max": 469.4,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre (com desconto; 'de' R$ 348): R$ 211,56, 27/10/2026",
+   "Google Shopping — Vinteria Adega: R$ 469,4, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Fumo leve",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.0,
+  "tanino_docura": 7.6,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — salina",
+   "Médio — estruturado",
+   "Sedoso",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chianti Classico correto, mas caro para o que entrega.",
+  "kicker_identidade": "Chianti Classico da Antinori",
+  "historico": "A família Antinori faz vinho na Toscana desde 1385. O Pèppoli passa cerca de 9 meses em grandes tonéis de carvalho.",
+  "degustacao": "Cereja, violeta e framboesa, com um fumo leve. Na boca tem acidez salina, tanino sedoso e corpo médio.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao ragu",
+    "porque": "Acidez da Sangiovese corta o molho.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bisteca à fiorentina",
+    "porque": "Toscana no prato e no copo.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza margherita",
+    "porque": "Tomate e manjericão com fruta vermelha.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo pecorino",
+    "porque": "Sal e acidez em equilíbrio.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso sem pesar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#sangiovese",
+  "#vinhoitalia",
+  "#marchesiantinori"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/antinori-peppoli-chianti-classico.png"
+}

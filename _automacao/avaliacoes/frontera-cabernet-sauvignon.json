@@ -1,0 +1,131 @@
+{
+ "slug": "frontera-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Frontera Cabernet Sauvignon",
+  "produtor": "Concha y Toro",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon (com um pouco de Syrah)",
+  "teor": 12.0,
+  "servir": "16 °C",
+  "estilo": "Seco (8,7 g/L de açúcar)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+frontera+cabernet+sauvignon",
+  "https://www.saq.com/en/116426"
+ ],
+ "preco": {
+  "referencia": 31.56,
+  "min": 31.56,
+  "max": 42.5,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — La Casa de Bebidas: R$ 31,56, 27/10/2026",
+   "Google Shopping — Armazém Aliança: R$ 42,5, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimentão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — presente",
+   "Médio",
+   "Macio — arredondado pelo açúcar",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet de entrada, simples e barato. Cumpre o básico.",
+  "kicker_identidade": "Cabernet de entrada",
+  "historico": "Frontera é a linha de entrada da Concha y Toro, fundada no Chile em 1883. O vinho tem um toque de açúcar residual.",
+  "degustacao": "Frutas vermelhas, pimentão e tabaco. Na boca é macio, de corpo médio e fácil de beber.",
+  "harmonizacao": [
+   {
+    "prato": "Costela suína com páprica",
+    "porque": "Especiaria e pimentão conversam com o tempero.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de panela",
+    "porque": "Tanino macio e molho encorpado.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de pepperoni",
+    "porque": "Picância que pede fruta escura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Chili com carne",
+    "porque": "Cominho e pimenta no mesmo registro.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Legumes grelhados",
+    "porque": "Notas herbáceas com pimentão assado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#conchaytoro"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/frontera-cabernet-sauvignon.png"
+}

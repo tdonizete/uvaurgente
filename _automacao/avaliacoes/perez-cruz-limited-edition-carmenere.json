@@ -1,0 +1,135 @@
+{
+ "slug": "perez-cruz-limited-edition-carmenere",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pérez Cruz Limited Edition Carménère",
+  "produtor": "Viña Pérez Cruz",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Alto Maipo",
+  "safra": null,
+  "uvas": "Carménère",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+perez+cruz+limited+edition+carmenere",
+  "https://www.nataliemaclean.com/winepicks/wine-reviews/perez-cruz-limited-edition-carmenere-2016/299166"
+ ],
+ "preco": {
+  "referencia": 97.0,
+  "min": 93.9,
+  "max": 138.75,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Loja Tani: R$ 97,0, 27/10/2026",
+   "Mercado Livre: R$ 93,9, 27/10/2026",
+   "Bing Shopping — Amazon: R$ 129,0, 27/10/2026",
+   "Bing Shopping — Magalu: R$ 138,75, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta vermelha silvestre",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Folha de tomate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Moca",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Fumo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado — potente",
+   "Sedoso",
+   "Pronunciada",
+   "Médio — moca e fumo"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Carménère potente e sedoso, com moca no final.",
+  "kicker_identidade": "Carménère do Alto Maipo",
+  "historico": "A Viña Pérez Cruz é uma vinícola familiar do Alto Maipo. A linha Limited Edition passa por carvalho.",
+  "degustacao": "Fruta vermelha silvestre, folha de tomate e ervas. Na boca é potente, sedoso e termina com moca e fumo.",
+  "harmonizacao": [
+   {
+    "prato": "Costela suína com páprica",
+    "porque": "Especiaria e pimentão conversam com o tempero.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de panela",
+    "porque": "Tanino macio e molho encorpado.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de pepperoni",
+    "porque": "Picância que pede fruta escura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Chili com carne",
+    "porque": "Cominho e pimenta no mesmo registro.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Legumes grelhados",
+    "porque": "Notas herbáceas com pimentão assado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#carmenere",
+  "#vinhochile",
+  "#vinaperezcruz"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/perez-cruz-limited-edition-carmenere.png"
+}

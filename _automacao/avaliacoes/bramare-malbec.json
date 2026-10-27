@@ -1,0 +1,135 @@
+{
+ "slug": "bramare-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Bramare Malbec",
+  "produtor": "Viña Cobos",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco, mais de 12 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+bramare+malbec"
+ ],
+ "preco": {
+  "referencia": 265.9,
+  "min": 241.4,
+  "max": 265.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 265,9, 27/10/2026",
+   "Google Shopping — Vino&Amore (Bramare Valle de Uco, com desconto): R$ 241,4, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 8.0,
+  "tanino_docura": 8.0,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Encorpado",
+   "Polido",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos (final longo citado só pela fonte)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec potente e polido, mas o preço pesa.",
+  "kicker_identidade": "Malbec de Paul Hobbs",
+  "historico": "Bramare é da Viña Cobos, projeto do enólogo americano Paul Hobbs em Mendoza. O vinho passa mais de 12 meses em carvalho.",
+  "degustacao": "Cereja preta, ameixa e violeta, com chocolate amargo e baunilha. Na boca é encorpado, fresco e de tanino polido.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#vinacobos"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/bramare-malbec.png"
+}

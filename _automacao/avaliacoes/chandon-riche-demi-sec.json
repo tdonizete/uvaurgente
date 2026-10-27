@@ -1,0 +1,134 @@
+{
+ "slug": "chandon-riche-demi-sec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Chandon Riche Demi-Sec",
+  "produtor": "Chandon do Brasil",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Riesling Itálico 70%, Chardonnay 15%, Pinot Noir 15%",
+  "teor": 11.7,
+  "servir": "6 °C",
+  "estilo": "Demi-Sec, método Charmat"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+chandon+reserve+demi-sec",
+  "https://iwsc.net/results/detail/117762/riche-demi-sec-nv"
+ ],
+ "preco": {
+  "referencia": 119.9,
+  "min": 100.91,
+  "max": 134.9,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Google Shopping — Super dos Amigos: R$ 119,9, 27/10/2026",
+   "Bing Shopping — Bebidas do Sul (com desconto): R$ 100,91, 27/10/2026",
+   "Bing Shopping — Espumantes do Brasil: R$ 134,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.4,
+  "tanino_docura": 7.4,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — sustenta o açúcar",
+   "Leve — cremoso",
+   "Demi-sec — coerente com o estilo",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante doce e leve, feito para sobremesa e festa.",
+  "kicker_identidade": "O demi-sec da Chandon",
+  "historico": "A Chandon do Brasil produz espumantes na Serra Gaúcha desde 1973. O Riche Demi-Sec é feito pelo método Charmat, com base de Riesling Itálico.",
+  "degustacao": "Pêssego e fruta tropical, com toque de maçã. Na boca é cremoso e doce, com acidez que sustenta o açúcar.",
+  "harmonizacao": [
+   {
+    "prato": "Torta de frutas",
+    "porque": "Doçura do vinho com a do doce.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Panetone",
+    "porque": "Clássico das festas.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Bolo de laranja",
+    "porque": "Cítrico e leve.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo gorgonzola",
+    "porque": "Doce contra o salgado.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutas",
+    "porque": "Leve e refrescante.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#rieslingitalico70",
+  "#vinhobrasil",
+  "#chandondobrasil"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/chandon-riche-demi-sec.png"
+}

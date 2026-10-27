@@ -1,0 +1,137 @@
+{
+ "slug": "salton-campanha-marselan-tannat",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Campanha Marselan-Tannat",
+  "produtor": "Salton",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Campanha Gaúcha",
+  "safra": null,
+  "uvas": "Marselan 78%, Tannat 22%",
+  "teor": 13.0,
+  "servir": "17 °C",
+  "estilo": "Seco; Tannat 15 meses em carvalho francês novo, 18 meses em garrafa"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+salton+campanha+marselan+tannat",
+  "https://www.salton.com.br/upload/produto/ficha/campanhas-marselan-tannat-us.pdf"
+ ],
+ "preco": {
+  "referencia": 89.9,
+  "min": 89.9,
+  "max": 136.48,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Dinho Bebidas: R$ 89,9, 27/10/2026",
+   "Google Shopping — Zaffari Online: R$ 99,8, 27/10/2026",
+   "Mercado Livre: R$ 136,48, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Eucalipto",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Moca",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Médio a encorpado — elegante",
+   "Macio",
+   "Pronunciada — complexa",
+   "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Corte gaúcho elegante e complexo, com ótimo preço.",
+  "kicker_identidade": "Corte da Campanha",
+  "historico": "A Salton foi fundada em 1910 em Bento Gonçalves. As uvas deste corte vêm da Campanha Gaúcha, e o Tannat passa 15 meses em carvalho francês novo.",
+  "degustacao": "Cassis, mirtilo e violeta, com eucalipto e moca. Na boca é elegante, de acidez viva e tanino macio.",
+  "harmonizacao": [
+   {
+    "prato": "Costela no fogo de chão",
+    "porque": "Tanino forte pede gordura e brasa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cupim assado",
+    "porque": "Carne gorda amacia o tanino.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Feijoada",
+    "porque": "Estrutura para um prato pesado.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo serrano",
+    "porque": "Sal e gordura domam o vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos na manteiga",
+    "porque": "Terroso para quem não come carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#marselan78",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-campanha-marselan-tannat.png"
+}

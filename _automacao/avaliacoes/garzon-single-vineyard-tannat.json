@@ -1,0 +1,137 @@
+{
+ "slug": "garzon-single-vineyard-tannat",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Garzón Single Vineyard Tannat",
+  "produtor": "Bodega Garzón",
+  "tipo": "Tinto",
+  "pais": "Uruguai",
+  "regiao": "Garzón (Maldonado)",
+  "safra": null,
+  "uvas": "Tannat",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/bodega-garzon-single-vineyard-tannat",
+  "https://www.wine.com/product/bodega-garzon-uruguay-single-vineyard-tannat-2019/980796"
+ ],
+ "preco": {
+  "referencia": 335.85,
+  "min": 335.85,
+  "max": 368.94,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 368,94, 27/10/2026",
+   "Google Shopping — Vino Bianco: R$ 335,85, 27/10/2026",
+   "Google Shopping — Vino Mundi: R$ 348,66, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.8
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Mirtilo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate amargo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Noz-moscada",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.0,
+  "tanino_docura": 8.0,
+  "intensidade": 8.0,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — suculenta",
+   "Encorpado — aveludado",
+   "Firme e de grão fino",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos (final longo citado pelas fontes)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tannat elegante e firme, com preço de topo.",
+  "kicker_identidade": "Tannat de vinhedo único",
+  "historico": "A Bodega Garzón fica em Maldonado, perto de Punta del Este. O Single Vineyard vem de uma parcela escolhida da propriedade.",
+  "degustacao": "Cereja preta, mirtilo e violeta, com chocolate amargo e noz-moscada. Na boca é aveludado, de tanino firme e grão fino.",
+  "harmonizacao": [
+   {
+    "prato": "Costela no fogo de chão",
+    "porque": "Tanino forte pede gordura e brasa.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cupim assado",
+    "porque": "Carne gorda amacia o tanino.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Feijoada",
+    "porque": "Estrutura para um prato pesado.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo serrano",
+    "porque": "Sal e gordura domam o vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos na manteiga",
+    "porque": "Terroso para quem não come carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tannat",
+  "#vinhouruguai",
+  "#bodegagarzon"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/garzon-single-vineyard-tannat.png"
+}

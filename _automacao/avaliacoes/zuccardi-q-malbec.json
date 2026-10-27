@@ -1,0 +1,136 @@
+{
+ "slug": "zuccardi-q-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Zuccardi Q Malbec",
+  "produtor": "Familia Zuccardi",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.9,
+  "servir": "17 °C",
+  "estilo": "Seco, 50% por 10 meses em carvalho francês usado"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+zuccardi+q+malbec",
+  "https://bottlebarn.com/products/2019-zuccardi-q-malbec"
+ ],
+ "preco": {
+  "referencia": 119.9,
+  "min": 119.9,
+  "max": 189.9,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Moema Vinhos: R$ 119,9, 27/10/2026",
+   "Google Shopping — Ary Delicatessen: R$ 189,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Mirtilo",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa escura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Folha de chá",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pedra",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.8,
+  "tanino_docura": 7.8,
+  "intensidade": 7.8,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — equilibrada",
+   "Encorpado — firme",
+   "Calcário e firme",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec de Uco firme e mineral, ótimo pelo preço.",
+  "kicker_identidade": "Malbec de Uco",
+  "historico": "A Familia Zuccardi faz vinho em Mendoza há três gerações. Metade do Q Malbec passa 10 meses em carvalho francês usado.",
+  "degustacao": "Mirtilo, ameixa escura e violeta, com folha de chá e pedra. Na boca é firme, mineral e de acidez equilibrada.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#familiazuccardi"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/zuccardi-q-malbec.png"
+}

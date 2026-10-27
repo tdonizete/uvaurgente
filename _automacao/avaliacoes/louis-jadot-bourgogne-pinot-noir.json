@@ -1,0 +1,133 @@
+{
+ "slug": "louis-jadot-bourgogne-pinot-noir",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Louis Jadot Bourgogne Pinot Noir Couvent des Jacobins",
+  "produtor": "Louis Jadot",
+  "tipo": "Tinto",
+  "pais": "França",
+  "regiao": "Bourgogne AOC",
+  "safra": null,
+  "uvas": "Pinot Noir",
+  "teor": 13.0,
+  "servir": "15 °C",
+  "estilo": "Seco, madeira discreta"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/louis-jadot-bourgogne-pinot-noir",
+  "https://www.saq.com/en/966804"
+ ],
+ "preco": {
+  "referencia": 336.9,
+  "min": 336.9,
+  "max": 402.38,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 336,9, 27/10/2026",
+   "Google Shopping — TodoVino: R$ 402,38, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ginja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Leve a médio — delicado",
+   "Fino",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Pinot Noir delicado da Borgonha, com preço alto.",
+  "kicker_identidade": "Pinot da Borgonha",
+  "historico": "A Maison Louis Jadot foi fundada em 1859 em Beaune, na Borgonha. O Couvent des Jacobins é o Bourgogne de entrada da casa.",
+  "degustacao": "Cereja, ginja e flores, com toque mineral. Na boca é delicado, de acidez viva e tanino fino.",
+  "harmonizacao": [
+   {
+    "prato": "Pato com molho de frutas",
+    "porque": "Fruta vermelha delicada com carne rica.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Salmão grelhado",
+    "porque": "Tanino baixo que respeita o peixe.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Leveza para o almoço de domingo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Acidez para embutidos leves.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Risoto de cogumelos",
+    "porque": "Terroso e delicado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#pinotnoir",
+  "#vinhofranca",
+  "#louisjadot"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/louis-jadot-bourgogne-pinot-noir.png"
+}

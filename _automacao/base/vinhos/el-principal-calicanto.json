@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 64,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Preço em 1 só fonte (Amazon)"
@@ -27,12 +27,14 @@
     "https://www.grandcruwijnen.nl/en/2021-el-principal-calicanto"
   ],
   "preco": {
-    "referencia": 151.9,
-    "min": 151.9,
+    "referencia": 148.83,
+    "min": 148.83,
     "max": 151.9,
     "ajustes": [],
     "fontes": [
-      "Amazon.com.br: R$ 151,9, 27/10/2026"
+      "Amazon.com.br: R$ 151,9, 27/10/2026",
+      "Google Shopping — Wine Time Brasil: R$ 148,83, 27/10/2026",
+      "Google Shopping — adegavix.com: R$ 151,05, 27/10/2026"
     ]
   },
   "visual": {
@@ -91,10 +93,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-el-principal-calicanto.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_879662-MLB118937600257_102026-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/el-principal-calicanto.png"
   }
 }

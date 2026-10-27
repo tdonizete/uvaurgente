@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 219,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Preço em 1 só anúncio",
@@ -28,12 +28,14 @@
     "https://www.wine.com/product/bodega-garzon-uruguay-single-vineyard-tannat-2019/980796"
   ],
   "preco": {
-    "referencia": 368.94,
-    "min": 368.94,
+    "referencia": 335.85,
+    "min": 335.85,
     "max": 368.94,
     "ajustes": [],
     "fontes": [
-      "Mercado Livre: R$ 368,94, 27/10/2026"
+      "Mercado Livre: R$ 368,94, 27/10/2026",
+      "Google Shopping — Vino Bianco: R$ 335,85, 27/10/2026",
+      "Google Shopping — Vino Mundi: R$ 348,66, 27/10/2026"
     ]
   },
   "visual": {
@@ -95,10 +97,7 @@
     "aproxima_9": false
   },
   "foto": {
-    "arquivo": "uvaurgente-garzon-single-vineyard-tannat.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_719323-MLB114324473164_082026-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/garzon-single-vineyard-tannat.png"
   }
 }

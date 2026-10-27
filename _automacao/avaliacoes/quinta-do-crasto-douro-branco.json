@@ -1,0 +1,134 @@
+{
+ "slug": "quinta-do-crasto-douro-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Crasto Branco",
+  "produtor": "Quinta do Crasto",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Douro DOC",
+  "safra": null,
+  "uvas": "Viosinho, Gouveio, Rabigato",
+  "teor": 12.0,
+  "servir": "10 °C",
+  "estilo": "Seco, 15% por 3 meses em carvalho francês com bâtonnage"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+quinta+do+crasto+douro+branco",
+  "https://www.bodeboca.fr/vino/quinta-do-crasto-branco-2022"
+ ],
+ "preco": {
+  "referencia": 149.9,
+  "min": 149.9,
+  "max": 199.9,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Língua Roxa Wine: R$ 149,9, 27/10/2026",
+   "Google Shopping — cav.net.br: R$ 166,0, 27/10/2026",
+   "Bing Shopping — Divvino: R$ 199,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Maçã",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Louro",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Fruta de caroço",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.8,
+  "tanino_docura": 8.6,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Leve a médio — redondo e macio",
+   "Seco — coerente",
+   "Moderada a pronunciada",
+   "Médio — frutado, cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco do Douro fresco e mineral, preço justo.",
+  "kicker_identidade": "Branco do Douro",
+  "historico": "A Quinta do Crasto fica no Douro. O branco junta Viosinho, Gouveio e Rabigato, com uma parte em barrica.",
+  "degustacao": "Maçã, cítricos e flores, com louro. Na boca é redondo, fresco e mineral.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#viosinho",
+  "#vinhoportugal",
+  "#quintadocrasto"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/quinta-do-crasto-douro-branco.png"
+}

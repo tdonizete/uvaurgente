@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 113,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "baixa",
   "pendencias": [
     "Ficha sensorial de safra antiga (2009)",
@@ -95,10 +95,7 @@
     "aproxima_9": false
   },
   "foto": {
-    "arquivo": "uvaurgente-monteviejo-lindaflor-malbec.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_612386-MLB118073179101_092026-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/monteviejo-lindaflor-malbec.png"
   }
 }

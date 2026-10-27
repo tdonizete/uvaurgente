@@ -1,0 +1,134 @@
+{
+ "slug": "crios-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Crios Malbec",
+  "produtor": "Susana Balbo Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco (2,2 g/L), toque de madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+crios+malbec",
+  "https://www.enotria.com/products/susana-balbo-crios-malbec-2023"
+ ],
+ "preco": {
+  "referencia": 69.66,
+  "min": 69.66,
+  "max": 88.9,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 69,66, 27/10/2026",
+   "Google Shopping — Super Adega: R$ 79,9, 27/10/2026",
+   "Bing Shopping — Amazon: R$ 88,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.0,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — bem dosada",
+   "Médio",
+   "Macio",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec frutado e fácil, com custo-benefício correto.",
+  "kicker_identidade": "Malbec jovem de Uco",
+  "historico": "Crios é a linha jovem de Susana Balbo, a primeira mulher enóloga da Argentina. As uvas vêm do Valle de Uco.",
+  "degustacao": "Cereja, violeta e especiarias, com fruta vermelha madura. Na boca é macio, frutado e tem acidez bem dosada.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#susanabalbowines"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/crios-malbec.png"
+}

@@ -1,0 +1,134 @@
+{
+ "slug": "guaspari-vista-da-serra-syrah",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Guaspari Vista da Serra Syrah",
+  "produtor": "Vinícola Guaspari",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Espírito Santo do Pinhal (SP)",
+  "safra": null,
+  "uvas": "Syrah",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, colheita de inverno, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+guaspari+syrah+vista+da+serra",
+  "https://vertdevin.com/?p=156618"
+ ],
+ "preco": {
+  "referencia": 292.6,
+  "min": 292.6,
+  "max": 370.78,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Le Grand Terroir: R$ 292,6, 27/10/2026",
+   "Magalu: R$ 370,78, 27/10/2026",
+   "Zoom: R$ 370,78, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — fresca",
+   "Médio a encorpado — concentrado",
+   "Firme",
+   "Pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Syrah paulista de inverno, especiado e fresco.",
+  "kicker_identidade": "Syrah de inverno",
+  "historico": "A Guaspari fica em Espírito Santo do Pinhal, no interior de São Paulo. As uvas são colhidas no inverno, pela técnica da dupla poda.",
+  "degustacao": "Amora, pimenta e violeta, com framboesa. Na boca tem acidez fresca e tanino firme.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro com alecrim",
+    "porque": "Pimenta e ervas no mesmo tom.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Carne de sol",
+    "porque": "Sal e fumaça com fruta escura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer com bacon",
+    "porque": "Defumado com pimenta-preta.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Embutidos",
+    "porque": "Salame e copa com especiaria.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela à parmegiana",
+    "porque": "Molho e queijo com acidez viva.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#syrah",
+  "#vinhobrasil",
+  "#vinicolaguaspari"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/guaspari-vista-da-serra-syrah.png"
+}

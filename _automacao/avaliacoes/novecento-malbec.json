@@ -1,0 +1,131 @@
+{
+ "slug": "novecento-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Novecento Malbec",
+  "produtor": "Dante Robino",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/novecento-malbec",
+  "https://specsonline.com/shop/wine/dante-robino-novecento-malbec/"
+ ],
+ "preco": {
+  "referencia": 45.0,
+  "min": 45.0,
+  "max": 90.0,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 45,0, 27/10/2026",
+   "Mercado Livre (outro anúncio): R$ 90,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — frutado",
+   "Macio — fácil de beber",
+   "Moderada — fruta suculenta",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec simples e barato, bom para o dia a dia.",
+  "kicker_identidade": "Malbec de supermercado",
+  "historico": "Novecento é uma linha da Dante Robino, vinícola de Mendoza fundada por um imigrante italiano. É um Malbec jovem.",
+  "degustacao": "Frutas vermelhas e negras maduras, com ameixa. Na boca é frutado, macio e fácil de beber.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#danterobino"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/novecento-malbec.png"
+}

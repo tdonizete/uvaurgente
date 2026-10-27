@@ -1,0 +1,132 @@
+{
+ "slug": "jean-bousquet-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Jean Bousquet Malbec",
+  "produtor": "Domaine Bousquet",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Tupungato (Valle de Uco)",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco, uvas orgânicas"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/jean-bousquet-malbec",
+  "https://www.nataliemaclean.com/wine-reviews/domaine-jean-bousquet-malbec-2013/207512"
+ ],
+ "preco": {
+  "referencia": 123.75,
+  "min": 123.75,
+  "max": 129.0,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 123,75, 27/10/2026",
+   "Google Shopping — Reserva del Vino: R$ 129,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja vermelha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Fumo",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 7.4,
+  "tanino_docura": 7.2,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — rico",
+   "Maduro — macio",
+   "Pronunciada — fruta madura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec orgânico de Tupungato, maduro e saboroso.",
+  "kicker_identidade": "Malbec orgânico",
+  "historico": "A Bodega Jean Bousquet é de origem francesa e fica em Tupungato, no Valle de Uco. As uvas são orgânicas.",
+  "degustacao": "Amora, framboesa e cereja vermelha, com pimenta e fumo. Na boca é rico e macio.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#domainebousquet"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/jean-bousquet-malbec.png"
+}

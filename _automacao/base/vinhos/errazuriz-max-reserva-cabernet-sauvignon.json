@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 234,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Teor não informado"
@@ -92,11 +92,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-errazuriz-max-reserva-cabernet-sauvignon.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_952630-MLA99925974949_112025-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir",
-    "obs": "Foto do anúncio 'Max Edición': conferir se o rótulo é o mesmo"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/errazuriz-max-reserva-cabernet-sauvignon.png"
   }
 }

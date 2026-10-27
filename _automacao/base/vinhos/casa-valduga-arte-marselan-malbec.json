@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 195,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "média",
   "pendencias": [
     "Teor não informado",
@@ -29,12 +29,14 @@
     "https://www.casavalduga.com.br/en/produtos/arte/marselan-e-malbec"
   ],
   "preco": {
-    "referencia": 54.29,
-    "min": 54.29,
-    "max": 54.29,
+    "referencia": 53.9,
+    "min": 53.9,
+    "max": 55.5,
     "ajustes": [],
     "fontes": [
-      "Mercado Livre (com desconto): R$ 54,29, 27/10/2026"
+      "Mercado Livre (com desconto): R$ 54,29, 27/10/2026",
+      "Google Shopping — Cainelli Bebidas: R$ 55,5, 27/10/2026",
+      "Google Shopping — Ingá Vinhos: R$ 53,9, 27/10/2026"
     ]
   },
   "visual": {
@@ -91,10 +93,7 @@
     "supera_cartuxa": false
   },
   "foto": {
-    "arquivo": "uvaurgente-casa-valduga-arte-marselan-malbec.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_672382-MLA99340230452_112025-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/casa-valduga-arte-marselan-malbec.png"
   }
 }

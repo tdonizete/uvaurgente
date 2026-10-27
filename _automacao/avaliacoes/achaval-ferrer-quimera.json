@@ -1,0 +1,135 @@
+{
+ "slug": "achaval-ferrer-quimera",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Quimera",
+  "produtor": "Achaval-Ferrer",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec, Cabernet Sauvignon, Cabernet Franc, Merlot, Petit Verdot",
+  "teor": 14.6,
+  "servir": "17 °C",
+  "estilo": "Seco, 50% em barricas usadas"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/achaval-ferrer-quimera",
+  "https://jeroboams.co.uk/product/2021-quimera-tinto-achaval-ferrer"
+ ],
+ "preco": {
+  "referencia": 299.9,
+  "min": 299.9,
+  "max": 349.99,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre (safra 2021): R$ 299,9, 27/10/2026",
+   "Mercado Livre (outro anúncio): R$ 349,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.4,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Marmelada de ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiaria de carvalho",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cânfora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 7.8,
+  "tanino_docura": 7.8,
+  "intensidade": 7.6,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — bonita",
+   "Encorpado — quente",
+   "Fino e cheio",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Corte argentino caro, bem feito, mas com concorrência forte.",
+  "kicker_identidade": "O corte da casa",
+  "historico": "Quimera é o corte de cinco uvas da Achaval-Ferrer, de Mendoza. Metade do vinho passa por barricas usadas.",
+  "degustacao": "Cereja preta, framboesa e marmelada de ameixa, com especiaria de carvalho. Na boca é quente e cheio, com tanino fino e boa acidez.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#achavalferrer"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/achaval-ferrer-quimera.png"
+}

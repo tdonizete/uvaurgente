@@ -1,0 +1,132 @@
+{
+ "slug": "salton-classic-tannat",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Salton Classic Tannat",
+  "produtor": "Salton",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Tannat",
+  "teor": 12.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+salton+classic+tannat",
+  "https://www.salton.com.br/upload/produto/ficha/salton-classic-tannat-us.pdf"
+ ],
+ "preco": {
+  "referencia": 23.9,
+  "min": 23.9,
+  "max": 26.91,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Atacadão: R$ 23,9, 27/10/2026",
+   "Google Shopping — Meu Vinho: R$ 23,9, 27/10/2026",
+   "Zoom: R$ 26,91, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Groselha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Menta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 6.6,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Médio — fresco",
+   "Sedoso",
+   "Moderada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tannat gaúcho barato, fresco e sem tanino agressivo.",
+  "kicker_identidade": "Tannat de supermercado",
+  "historico": "A Salton foi fundada em 1910 em Bento Gonçalves. A linha Classic é a de entrada da vinícola.",
+  "degustacao": "Groselha e ameixa, com toque de menta. Na boca é fresco e de tanino sedoso.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tannat",
+  "#vinhobrasil",
+  "#salton"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/salton-classic-tannat.png"
+}

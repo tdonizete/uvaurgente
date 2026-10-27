@@ -1,0 +1,132 @@
+{
+ "slug": "esporao-monte-velho-branco",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Monte Velho Branco",
+  "produtor": "Esporão",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Alentejo",
+  "safra": null,
+  "uvas": "Antão Vaz, Arinto, Roupeiro, Gouveio",
+  "teor": 13.0,
+  "servir": "10 °C",
+  "estilo": "Seco (2,1 g/L)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+monte+velho+branco",
+  "https://esporao.com/pt/vinhos/monte-velho-branco/"
+ ],
+ "preco": {
+  "referencia": 75.05,
+  "min": 75.05,
+  "max": 94.91,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 75,05, 27/10/2026",
+   "Google Shopping — Via Vinum: R$ 94,91, 27/10/2026",
+   "Google Shopping — Casas Bahia: R$ 89,6, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.0,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta branca",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.6,
+  "tanino_docura": 8.2,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve a médio — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — frutado",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco alentejano fresco e honesto, para o calor.",
+  "kicker_identidade": "Branco do Alentejo",
+  "historico": "Monte Velho é a linha de entrada da Herdade do Esporão, no Alentejo. O branco junta Antão Vaz, Arinto e Roupeiro.",
+  "degustacao": "Fruta branca e cítricos, com flores brancas. Na boca é fresco, seco e leve.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#antaovaz",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-monte-velho-branco.png"
+}

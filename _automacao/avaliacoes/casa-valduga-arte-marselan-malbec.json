@@ -1,0 +1,133 @@
+{
+ "slug": "casa-valduga-arte-marselan-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Arte Marselan e Malbec",
+  "produtor": "Casa Valduga",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Marselan, Malbec",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco, jovem"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/casa-valduga-arte-marselan-malbec",
+  "https://www.amazon.com.br/s?k=vinho+valduga+arte+marselan+malbec",
+  "https://www.casavalduga.com.br/en/produtos/arte/marselan-e-malbec"
+ ],
+ "preco": {
+  "referencia": 53.9,
+  "min": 53.9,
+  "max": 55.5,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre (com desconto): R$ 54,29, 27/10/2026",
+   "Google Shopping — Cainelli Bebidas: R$ 55,5, 27/10/2026",
+   "Google Shopping — Ingá Vinhos: R$ 53,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.2,
+  "tanino_docura": 6.6,
+  "intensidade": 6.6,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Leve a médio",
+   "Macio",
+   "Moderada — fruta fresca",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto gaúcho jovem e frutado, para beber sem cerimônia.",
+  "kicker_identidade": "Fruité da Serra Gaúcha",
+  "historico": "A Casa Valduga é uma vinícola familiar do Vale dos Vinhedos fundada em 1875. A linha Arte Fruité faz vinhos jovens, sem madeira.",
+  "degustacao": "Morango, framboesa e cereja frescos. Na boca é leve, equilibrado e de tanino macio.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#marselan",
+  "#vinhobrasil",
+  "#casavalduga"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/casa-valduga-arte-marselan-malbec.png"
+}

@@ -1,0 +1,132 @@
+{
+ "slug": "domaine-l-chatelain-chablis",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Domaine L. Chatelain Chablis",
+  "produtor": "Domaine L. Chatelain",
+  "tipo": "Branco",
+  "pais": "França",
+  "regiao": "Chablis (Borgonha)",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": null,
+  "servir": "10 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/domaine-l-chatelain-chablis",
+  "https://www.jamessuckling.com/tasting-notes/260854/domaine-l-chatelain-chablis-2023"
+ ],
+ "preco": {
+  "referencia": 279.9,
+  "min": 279.9,
+  "max": 339.4,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre (com desconto; 'de' R$ 369): R$ 339,4, 27/10/2026",
+   "Google Shopping — Ary Delicatessen: R$ 279,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã verde",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.2,
+  "corpo": 6.8,
+  "tanino_docura": 8.6,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — brilhante",
+   "Médio — cremoso",
+   "Seco — coerente",
+   "Moderada a pronunciada — pura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chablis correto, mas caro demais para o que entrega.",
+  "kicker_identidade": "Chardonnay de Chablis",
+  "historico": "Chablis fica no norte da Borgonha e dá Chardonnay de clima frio. O estilo é de acidez alta e pouca ou nenhuma madeira.",
+  "degustacao": "Limão, maçã verde e toque mineral. Na boca tem acidez brilhante e textura cremosa.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#chardonnay",
+  "#vinhofranca",
+  "#domainelchatelain"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/domaine-l-chatelain-chablis.png"
+}

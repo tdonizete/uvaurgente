@@ -1,0 +1,133 @@
+{
+ "slug": "garzon-reserva-cabernet-franc",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Garzón Reserva Cabernet Franc",
+  "produtor": "Bodega Garzón",
+  "tipo": "Tinto",
+  "pais": "Uruguai",
+  "regiao": "Garzón (Maldonado)",
+  "safra": null,
+  "uvas": "Cabernet Franc",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco (1,8 g/L), 6 a 12 meses em tonéis de carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/garzon-reserva-cabernet-franc",
+  "https://www.amazon.com.br/s?k=vinho+garzon+reserva+cabernet+franc",
+  "https://bodegagarzon.com/wp-content/uploads/2023/11/Technical-Sheet-Cabernet-Franc-Reserva-2022-ENG.pdf"
+ ],
+ "preco": {
+  "referencia": 106.99,
+  "min": 106.99,
+  "max": 145.08,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 106,99, 27/10/2026",
+   "Amazon.com.br: R$ 145,08, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas negras",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.0,
+  "tanino_docura": 7.4,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Médio",
+   "Redondo",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet Franc uruguaio especiado e bem equilibrado.",
+  "kicker_identidade": "Cabernet Franc de Garzón",
+  "historico": "A Bodega Garzón fica em Maldonado, perto de Punta del Este. O Reserva passa de 6 a 12 meses em tonéis de carvalho francês.",
+  "degustacao": "Frutas negras e vermelhas, com pimenta e especiarias. Na boca é médio, de tanino redondo.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetfranc",
+  "#vinhouruguai",
+  "#bodegagarzon"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/garzon-reserva-cabernet-franc.png"
+}

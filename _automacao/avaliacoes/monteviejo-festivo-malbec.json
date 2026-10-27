@@ -1,0 +1,133 @@
+{
+ "slug": "monteviejo-festivo-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Festivo Malbec",
+  "produtor": "Bodega Monteviejo",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco (4 g/L)"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+festivo+malbec",
+  "https://www.lcbo.com/en/monteviejo-festivo-malbec-2022-38501",
+  "https://www.saq.com/en/14312064"
+ ],
+ "preco": {
+  "referencia": 119.9,
+  "min": 119.9,
+  "max": 139.0,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 119,9, 27/10/2026",
+   "Google Shopping — Reserva Premier: R$ 139,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja vermelha",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.0,
+  "tanino_docura": 7.2,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca, toque salino",
+   "Médio — macio",
+   "Macio e presente",
+   "Moderada a pronunciada",
+   "Médio — frutado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec fresco e frutado, fácil de gostar.",
+  "kicker_identidade": "Malbec de Uco",
+  "historico": "A Bodega Monteviejo faz parte do Clos de los Siete, no Valle de Uco. O Festivo é a linha jovem da casa.",
+  "degustacao": "Cereja vermelha, morango e ameixa, com ervas. Na boca é fresco, macio e tem um toque salino.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#bodegamonteviejo"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/monteviejo-festivo-malbec.png"
+}

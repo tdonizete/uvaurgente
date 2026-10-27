@@ -1,0 +1,132 @@
+{
+ "slug": "conde-de-valdemar-crianza",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Conde de Valdemar Crianza",
+  "produtor": "Bodegas Valdemar",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "D.O.Ca. Rioja",
+  "safra": null,
+  "uvas": "Tempranillo, Graciano",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, em barricas"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+conde+de+valdemar+crianza",
+  "https://www.falstaff.com/nordics/wines/bodegas-valdemar-2015-conde-de-valdemar-crianza-rioja-doca"
+ ],
+ "preco": {
+  "referencia": 193.48,
+  "min": 193.48,
+  "max": 208.0,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Berkmann: R$ 193,48, 27/10/2026",
+   "Google Shopping — Du Vin Carioca: R$ 208,0, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.6,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas escuras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.6,
+  "tanino_docura": 7.4,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Encorpado — potente",
+   "Integrado",
+   "Pronunciada",
+   "Médio — frutado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Rioja Crianza potente e frutado, mas caro aqui.",
+  "kicker_identidade": "Crianza da Rioja",
+  "historico": "A Bodegas Valdemar é uma vinícola familiar da Rioja. Este Crianza junta Tempranillo e Graciano e passa por barrica.",
+  "degustacao": "Cereja, ameixa e frutas escuras, com tostado sutil. Na boca é potente, encorpado e de tanino integrado.",
+  "harmonizacao": [
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Clássico espanhol com Tempranillo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Paella de carnes",
+    "porque": "Páprica e açafrão com madeira suave.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Tábua de jamón e queijos",
+    "porque": "Sal e gordura com fruta madura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Cogumelos salteados",
+    "porque": "Terroso com notas de barrica.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Lombo suíno",
+    "porque": "Carne macia para tanino sedoso.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#tempranillo",
+  "#vinhoespanha",
+  "#bodegasvaldemar"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/conde-de-valdemar-crianza.png"
+}

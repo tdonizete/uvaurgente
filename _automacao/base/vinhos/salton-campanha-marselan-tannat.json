@@ -3,7 +3,7 @@
   "rank_amazon": null,
   "pos_lista300": 197,
   "data": "2026-10-27",
-  "status": "base",
+  "status": "publicado",
   "confianca": "alta",
   "pendencias": [],
   "provado": false,
@@ -94,10 +94,7 @@
     "aproxima_9": false
   },
   "foto": {
-    "arquivo": "uvaurgente-salton-campanha-marselan-tannat.jpg",
-    "origem": "Mercado Livre (foto do anúncio)",
-    "url": "https://http2.mlstatic.com/D_NQ_NP_961213-MLB70582087311_072023-F.jpg",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+    "status": "publicada (foto enviada pelo Tiago em 27/10/2026)",
+    "arquivo": "assets/img/vereditos/salton-campanha-marselan-tannat.png"
   }
 }

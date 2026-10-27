@@ -1,0 +1,137 @@
+{
+ "slug": "montes-alpha-merlot",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Montes Alpha Merlot",
+  "produtor": "Viña Montes",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Colchagua",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês (55% do lote)"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/montes-alpha-merlot",
+  "https://www.amazon.com.br/s?k=vinho+montes+alpha+merlot",
+  "https://www.monteswines.com/en/wines/montes-alpha-merlot"
+ ],
+ "preco": {
+  "referencia": 141.0,
+  "min": 141.0,
+  "max": 221.48,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 141,0, 27/10/2026",
+   "Amazon.com.br: R$ 221,48, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Menta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva",
+   "Encorpado",
+   "Macio e firme",
+   "Pronunciada — complexa",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Merlot chileno complexo, com tabaco e menta.",
+  "kicker_identidade": "Merlot premium chileno",
+  "historico": "A Viña Montes foi fundada em 1988 no Chile, e a linha Alpha foi a primeira de alta gama da casa. O Merlot vem de Colchagua.",
+  "degustacao": "Ameixa e amora, com tabaco, baunilha e menta. Na boca é encorpado, de acidez viva e tanino macio e firme.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#merlot",
+  "#vinhochile",
+  "#vinamontes"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/montes-alpha-merlot.png"
+}

@@ -1,0 +1,131 @@
+{
+ "slug": "vasco-viejo-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Vasco Viejo Malbec",
+  "produtor": "Bodegas López",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco, 3 meses em tonéis de carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+vasco+viejo+malbec",
+  "https://leonandsonwine.com/products/2025-bodegas-lopez-vasco-viejo-malbec-mendoza-argentina"
+ ],
+ "preco": {
+  "referencia": 77.35,
+  "min": 77.35,
+  "max": 89.87,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Delwine: R$ 77,35, 27/10/2026",
+   "Mercado Livre: R$ 89,87, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 6.6,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.6,
+  "tanino_docura": 6.8,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — boa",
+   "Médio",
+   "Redondo",
+   "Moderada — fresca",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec simples e redondo, bom para o churrasco.",
+  "kicker_identidade": "Malbec de Maipú",
+  "historico": "A Bodegas López fica em Maipú, Mendoza, e existe desde 1898. O Vasco Viejo passa 3 meses em grandes tonéis de carvalho francês.",
+  "degustacao": "Framboesa e ameixa, com baunilha leve. Na boca é fresco, redondo e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#bodegaslopez"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/vasco-viejo-malbec.png"
+}

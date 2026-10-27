@@ -1,0 +1,133 @@
+{
+ "slug": "las-perdices-reserva-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Las Perdices Reserva Malbec",
+  "produtor": "Viña Las Perdices",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Luján de Cuyo",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+las+perdices+reserva+malbec",
+  "https://vinovoss.com/wine/vina-las-perdices-reserva-malbec-2014"
+ ],
+ "preco": {
+  "referencia": 92.96,
+  "min": 92.96,
+  "max": 185.67,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 92,96, 27/10/2026",
+   "Google Shopping — Magalu: R$ 185,67, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta negra madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cravo",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.4,
+  "final": 7.2,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado — denso e elegante",
+   "Firme",
+   "Pronunciada",
+   "Médio — terroso e especiado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec denso e elegante, com bom preço.",
+  "kicker_identidade": "Malbec de Luján de Cuyo",
+  "historico": "A Viña Las Perdices é uma vinícola familiar de Luján de Cuyo, em Mendoza. O Reserva passa 12 meses em carvalho francês.",
+  "degustacao": "Fruta negra madura e cassis, com cravo, chocolate e baunilha. Na boca é encorpado, de tanino firme e final terroso.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Fruta madura e tanino firme pedem carne grelhada.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela no bafo",
+    "porque": "Gordura e fumaça casam com a madeira.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Hambúrguer artesanal",
+    "porque": "Fruta escura que segura o molho.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo meia-cura",
+    "porque": "Sal e textura para o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos grelhados",
+    "porque": "Terroso e suculento, sem carne.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#vinalasperdices"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/las-perdices-reserva-malbec.png"
+}

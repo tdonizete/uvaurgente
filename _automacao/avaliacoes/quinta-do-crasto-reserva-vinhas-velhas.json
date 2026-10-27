@@ -1,0 +1,138 @@
+{
+ "slug": "quinta-do-crasto-reserva-vinhas-velhas",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Crasto Reserva Vinhas Velhas",
+  "produtor": "Quinta do Crasto",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Douro DOC",
+  "safra": null,
+  "uvas": "Vinhas velhas (castas misturadas)",
+  "teor": 14.0,
+  "servir": "16 °C",
+  "estilo": "Seco, 18 meses em carvalho (85% francês, 15% americano)"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+quinta+do+crasto+reserva+vinhas+velhas",
+  "https://www.bodeboca.pt/vino/quinta-do-crasto-reserva-vinhas-velhas-2019",
+  "https://www.falstaff.com/nordics/wines/quinta-do-crasto-2021-vinhas-velhas-reserva"
+ ],
+ "preco": {
+  "referencia": 398.94,
+  "min": 398.94,
+  "max": 460.75,
+  "ajustes": [],
+  "fontes": [
+   "Google Shopping — Wine Time Brasil: R$ 398,94, 27/10/2026",
+   "Google Shopping — Super Adega: R$ 440,9, 27/10/2026",
+   "Amazon.com.br: R$ 460,75, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 9.0
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.2,
+  "complexidade": 8.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Vegetal/herbáceo",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta escura silvestre",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas provençais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Sous-bois",
+    "nivel": "moderado"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.2,
+  "tanino_docura": 8.4,
+  "intensidade": 8.2,
+  "final": 7.4,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — elegante",
+   "Médio a encorpado — volume e estrutura",
+   "Aveludado e fino",
+   "Pronunciada",
+   "Médio — saboroso, cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Douro de vinhas velhas, elegante e complexo.",
+  "kicker_identidade": "Vinhas velhas do Douro",
+  "historico": "A Quinta do Crasto fica no Douro. O Reserva Vinhas Velhas vem de vinhas antigas com castas misturadas e passa 18 meses em carvalho.",
+  "degustacao": "Fruta escura silvestre, framboesa e cereja, com ervas e sous-bois. Na boca é elegante, de volume e tanino aveludado.",
+  "harmonizacao": [
+   {
+    "prato": "Bacalhau à Brás",
+    "porque": "Tinto português com prato português.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Leitão assado",
+    "porque": "Gordura e pele crocante com fruta madura.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Arroz de pato",
+    "porque": "Estrutura para um prato rico.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo da Serra",
+    "porque": "Cremoso e salgado com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Cogumelos assados",
+    "porque": "Terroso e macio.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#vinhasvelhas",
+  "#vinhoportugal",
+  "#quintadocrasto"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/quinta-do-crasto-reserva-vinhas-velhas.png"
+}

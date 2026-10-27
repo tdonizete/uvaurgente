@@ -1,0 +1,136 @@
+{
+ "slug": "perez-cruz-limited-edition-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pérez Cruz Limited Edition Cabernet Sauvignon",
+  "produtor": "Viña Pérez Cruz",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Alto Maipo",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/perez-cruz-limited-edition-cabernet-sauvignon",
+  "https://www.amazon.com.br/s?k=vinho+perez+cruz+limited+edition+cabernet+sauvignon",
+  "https://vinovoss.com/wine/perez-cruz-limited-edition-cabernet-sauvignon"
+ ],
+ "preco": {
+  "referencia": 129.0,
+  "min": 129.0,
+  "max": 180.4,
+  "ajustes": [],
+  "fontes": [
+   "Mercado Livre: R$ 129,0, 27/10/2026",
+   "Amazon.com.br: R$ 180,4, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.8,
+  "complexidade": 8.4,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cedro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Sous-bois",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.8,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — equilibrada",
+   "Encorpado — rico",
+   "Firme",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet do Alto Maipo rico, com cedro e cassis.",
+  "kicker_identidade": "Cabernet do Alto Maipo",
+  "historico": "A Viña Pérez Cruz é uma vinícola familiar do Alto Maipo. A linha Limited Edition passa por carvalho.",
+  "degustacao": "Cassis, amora e cedro, com sous-bois e baunilha. Na boca é rico, encorpado e de tanino firme.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhochile",
+  "#vinaperezcruz"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/perez-cruz-limited-edition-cabernet-sauvignon.png"
+}

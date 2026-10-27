@@ -1,0 +1,134 @@
+{
+ "slug": "dona-paula-estate-cabernet-sauvignon",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Doña Paula Estate Cabernet Sauvignon",
+  "produtor": "Doña Paula",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.amazon.com.br/s?k=vinho+dona+paula+estate+cabernet+sauvignon",
+  "https://lista.mercadolivre.com.br/dona-paula-estate-cabernet-sauvignon",
+  "https://donapaula.com/wine/dona-paula-estate-cabernet-sauvignon/"
+ ],
+ "preco": {
+  "referencia": 79.99,
+  "min": 79.99,
+  "max": 99.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon.com.br: R$ 79,99, 27/10/2026",
+   "Mercado Livre: R$ 99,9, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.4
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 8.0,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Fruta negra",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta vermelha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grafite",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.6,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Encorpado — concentrado",
+   "Abundante e maduro",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Cabernet concentrado e barato para a faixa. Vale olhar.",
+  "kicker_identidade": "Cabernet de altitude",
+  "historico": "A Doña Paula pertence ao grupo chileno Santa Rita e tem vinhedos de altitude em Mendoza. O Estate passa 12 meses em carvalho francês.",
+  "degustacao": "Fruta negra, cassis, grafite e pimenta vermelha. Na boca é concentrado, de tanino abundante e maduro.",
+  "harmonizacao": [
+   {
+    "prato": "Picanha na brasa",
+    "porque": "Tanino e cassis para carne gorda.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Cordeiro assado",
+    "porque": "Ervas e especiarias no mesmo tom.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Lasanha",
+    "porque": "Estrutura que segura molho e queijo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo curado",
+    "porque": "Parmesão e gouda velho com o tanino.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela assada",
+    "porque": "Defumado vegetal com fruta escura.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#cabernetsauvignon",
+  "#vinhoargentina",
+  "#donapaula"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/dona-paula-estate-cabernet-sauvignon.png"
+}
