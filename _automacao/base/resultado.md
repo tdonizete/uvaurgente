@@ -127,6 +127,11 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L194 | Casa Valduga Origem Cabernet Sauvignon | Brasil | Tinto | R$ 74,99 | 7,8 | 7,4 | 6,4 | 6,5 | B | **6,8** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A Werle vende um 'Origem Cabernet Sauvignon Chile': confirmar a origem do rótulo |
 | L196 | Casa Perini Vitis Marselan | Brasil | Tinto | R$ 60,90 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Perfil em 1 só fonte (Werle); teor não informado |
 | L200 | Salton Brut Rosé | Brasil | Espumante | R$ 37,90 | 8,0 | 7,4 | 7,0 | 8,8 | B | **7,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Werle) |
+| L217 | Alta Vista Estate Premium Malbec | Argentina | Tinto | R$ 158,99 | 8,4 | 7,5 | 7,0 | 5,4 | B | **6,9** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); perfil resumido |
+| L229 | Santa Rita Medalla Real Gran Reserva Cabernet Sauvignon | Chile | Tinto | R$ 159,90 | 8,4 | 7,8 | 7,3 | 5,7 | BC | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Pão de Açúcar; ficha cita 'Albariño' por erro) |
+| L236 | Concha y Toro Marqués de Casa Concha Cabernet Sauvignon | Chile | Tinto | R$ 149,90 | 8,8 | 8,4 | 7,8 | 7,5 | BIC | **8,0** | Sem Pressa | alta | — |
+| L237 | Concha y Toro Marqués de Casa Concha Carménère | Chile | Tinto | R$ 164,99 | 8,6 | 8,1 | 7,6 | 6,6 | BIC | **7,6** | Sem Pressa | média | Preço de referência é o regular da Imigrantes; Pão de Açúcar tinha promoção de 47% |
+| L238 | Marqués de Riscal Reserva | Espanha | Tinto | R$ 299,89 | 8,6 | 8,3 | 7,6 | 6,5 | BIC | **7,6** | Sem Pressa | alta | — |
 
 ## Sem ficha (fora da pontuação)
 

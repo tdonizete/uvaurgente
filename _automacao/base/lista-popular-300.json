@@ -1468,73 +1468,85 @@
    "pos": 209,
    "nome": "Doña Paula Estate Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Doña Paula Estate Malbec: só anúncio antigo"
   },
   {
    "pos": 210,
    "nome": "Doña Paula Estate Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Doña Paula Estate Cabernet: só anúncio antigo"
   },
   {
    "pos": 211,
    "nome": "Susana Balbo Signature Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Susana Balbo Signature Malbec: Wine.com.br R$ 449,90 (esgotado), sem descrição sensorial"
   },
   {
    "pos": 212,
    "nome": "Crios Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Crios Malbec: só anúncios de safras antigas"
   },
   {
    "pos": 213,
    "nome": "BenMarco Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "BenMarco Malbec: só anúncio de 2014"
   },
   {
    "pos": 214,
    "nome": "Las Perdices Malbec Reserva",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Las Perdices Malbec Reserva: só anúncios de safras antigas"
   },
   {
    "pos": 215,
    "nome": "La Celia Reserva Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "La Celia Reserva Malbec: página da Imigrantes fora do ar"
   },
   {
    "pos": 216,
    "nome": "Alta Vista Classic Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Alta Vista Classic Malbec: só a linha Premium encontrada"
   },
   {
    "pos": 217,
    "nome": "Alta Vista Premium Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "alta-vista-premium-malbec"
   },
   {
    "pos": 218,
    "nome": "Bodega Garzón Estate Cabernet Franc",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Garzón Estate Cabernet Franc: não encontrado em loja consultada"
   },
   {
    "pos": 219,
    "nome": "Bodega Garzón Single Vineyard Tannat",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Garzón Single Vineyard Tannat: não encontrado em loja consultada"
   },
   {
    "pos": 220,
    "nome": "Garzón Reserva Cabernet Franc",
    "pais": "Uruguai",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Garzón Reserva Cabernet Franc: não encontrado em loja consultada"
   },
   {
    "pos": 221,
@@ -1556,13 +1568,15 @@
    "pos": 223,
    "nome": "Château de los Hermanos Merlot",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Château de los Hermanos Merlot: vinho não identificado"
   },
   {
    "pos": 224,
    "nome": "Château de los Hermanos Sauvignon Blanc",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Château de los Hermanos Sauvignon Blanc: vinho não identificado"
   },
   {
    "pos": 225,
@@ -1576,97 +1590,113 @@
    "pos": 226,
    "nome": "Pérez Cruz Limited Edition Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Pérez Cruz Limited Edition CS: não encontrado em loja consultada"
   },
   {
    "pos": 227,
    "nome": "Pérez Cruz Limited Edition Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Pérez Cruz Limited Edition Carménère: só no Canadá (LCBO)"
   },
   {
    "pos": 228,
    "nome": "Pérez Cruz Reserva Sauvignon Blanc",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Pérez Cruz Reserva Sauvignon Blanc: não encontrado em loja consultada"
   },
   {
    "pos": 229,
    "nome": "Santa Rita Medalla Real Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "santa-rita-medalla-real-gran-reserva-cabernet-sauvignon"
   },
   {
    "pos": 230,
    "nome": "Santa Rita Medalla Real Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Medalla Real Gran Reserva Carménère: Pão de Açúcar R$ 109,89, sem descrição sensorial"
   },
   {
    "pos": 231,
    "nome": "Montes Alpha Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Montes Alpha Cabernet Sauvignon: preços Super Adega R$ 157,90 e Imigrantes R$ 220,99, sem descrição sensorial"
   },
   {
    "pos": 232,
    "nome": "Montes Alpha Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Montes Alpha Carménère: preço Super Adega R$ 166,90 (sem estoque), sem descrição sensorial"
   },
   {
    "pos": 233,
    "nome": "Montes Alpha Merlot",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Montes Alpha Merlot: não encontrado em loja consultada"
   },
   {
    "pos": 234,
    "nome": "Errazuriz Max Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Errazuriz Max Reserva CS: perfil no Pão de Açúcar, sem estoque e sem preço"
   },
   {
    "pos": 235,
    "nome": "Errazuriz Max Reserva Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Errazuriz Max Reserva Carménère: não encontrado em loja consultada"
   },
   {
    "pos": 236,
    "nome": "Marqués de Casa Concha Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "marques-de-casa-concha-cabernet-sauvignon"
   },
   {
    "pos": 237,
    "nome": "Marqués de Casa Concha Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "marques-de-casa-concha-carmenere"
   },
   {
    "pos": 238,
    "nome": "Marqués de Riscal Reserva",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "marques-de-riscal-reserva"
   },
   {
    "pos": 239,
    "nome": "Marqués de Riscal Rosado",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Marqués de Riscal Rosado: não encontrado em loja consultada"
   },
   {
    "pos": 240,
    "nome": "Protos Crianza",
    "pais": "Espanha",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Protos Crianza: só anúncio antigo (magnum 2012)"
   },
   {
    "pos": 241,
    "nome": "Poggio Cavalieri Governo Toscana",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Poggio Cavalieri Governo Toscana: não encontrado em loja consultada"
   },
   {
    "pos": 242,

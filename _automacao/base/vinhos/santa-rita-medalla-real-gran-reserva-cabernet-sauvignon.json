@@ -1,0 +1,92 @@
+{
+  "slug": "santa-rita-medalla-real-gran-reserva-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 229,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço e perfil em 1 só fonte (Pão de Açúcar; ficha cita 'Albariño' por erro)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Medalla Real Gran Reserva Cabernet Sauvignon",
+    "produtor": "Santa Rita",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Chile",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 14.1,
+    "servir": "17 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/418883/vinho-chileno-tinto--santa-rita-medalla-real-gran-reserva-cabernet-sauvignon-garrafa-750ml-"
+  ],
+  "preco": {
+    "referencia": 159.9,
+    "min": 159.9,
+    "max": 159.9,
+    "ajustes": [],
+    "fontes": [
+      "Pão de Açúcar: R$ 159,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas negras",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado — saboroso",
+      "Firme",
+      "Pronunciada",
+      "Médio — persistente"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
