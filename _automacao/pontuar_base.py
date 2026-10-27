@@ -28,6 +28,10 @@ def virgula(x):
     return f"{x:.1f}".replace(".", ",")
 
 
+def preco_br(x):
+    return f"{x:.2f}".replace(".", ",")
+
+
 def main():
     linhas, por_rank = [], {}
     for f in sorted(glob.glob(os.path.join(BASE, "vinhos", "*.json"))):
@@ -51,8 +55,7 @@ def main():
         v = d["vinho"]
         out.append(
             f"| {rank} | {v['title'] if v['title'].startswith(v['produtor'].split()[0]) else v['produtor'] + ' ' + v['title']} | {v['pais']} | {v['tipo']} | "
-            f"R$ {d['preco']['referencia']:.2f} | ".replace(".", ",") +
-            f""
+            f"R$ {preco_br(d['preco']['referencia'])} | "
             f"{virgula(c['visual'])} | {virgula(c['aroma'])} | {virgula(c['paladar'])} | {virgula(c['custo_beneficio'])} | "
             f"{pil} | **{virgula(r['nota'])}** | {r['selo']['nome']} | {d.get('confianca', '')} | "
             f"{'; '.join(pend + alertas) or '—'} |")

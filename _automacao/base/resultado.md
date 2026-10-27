@@ -21,6 +21,6 @@ Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.
 | 22 | Concha y Toro Casillero del Diablo Reserva Carménère | Chile | Tinto | R$ 44,42 | 8,0 | 7,8 | 6,8 | 7,0 | BC | **7,2** | Sem Pressa | alta | — |
 | 23 | Casa La Primavera (Agrovit) Prófugo Frutos Rojos Malbec | Argentina | Tinto | R$ 29,90 | 7,6 | 7,5 | 6,4 | 8,3 | B | **7,3** | Sem Pressa | baixa | Preço em 1 só fonte (Amazon, 4 avaliações); Fontes divergem no teor (12,5% x 13,4%) e no local de engarrafamento |
 | 24 | Concha y Toro Reservado Sauvignon Blanc | Chile | Branco | R$ 34,99 | 7,6 | 7,1 | 7,0 | 8,3 | B | **7,4** | Sem Pressa | média | — |
-| 25 | L,G,B, Tonéletce Cuvée Spéciale | França | Tinto | R$ 39,00 | 7,2 | 6,7 | 5,5 | 7,0 | — | **6,0** | Sem Urgência | média | Sem denominação de origem informada (vinho de mesa francês com uvas espanholas) |
+| 25 | L.G.B. Tonéletce Cuvée Spéciale | França | Tinto | R$ 39,00 | 7,2 | 6,7 | 5,5 | 7,0 | — | **6,0** | Sem Urgência | média | Sem denominação de origem informada (vinho de mesa francês com uvas espanholas) |
 | 26 | Trapiche Roble Pinot Noir | Argentina | Tinto | R$ 47,99 | 7,8 | 7,6 | 6,6 | 6,6 | BC | **7,0** | Sem Pressa | média | — |
 | 27 | Concha y Toro Reservado Sweet Red | Chile | Tinto | R$ 33,99 | 7,4 | 7,2 | 5,2 | 7,2 | — | **6,0** | Sem Urgência | média | — |
