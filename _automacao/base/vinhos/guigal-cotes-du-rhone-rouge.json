@@ -1,0 +1,102 @@
+{
+  "slug": "guigal-cotes-du-rhone-rouge",
+  "rank_amazon": null,
+  "pos_lista300": 256,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Anúncio da Amazon não deixa clara a cor; confirmar que é o tinto"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "E. Guigal Côtes du Rhône Rouge",
+    "produtor": "E. Guigal",
+    "tipo": "Tinto",
+    "pais": "França",
+    "regiao": "Côtes du Rhône AOC",
+    "safra": null,
+    "uvas": "Syrah, Grenache, Mourvèdre",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco, 18 meses em foudres"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+guigal+cotes+du+rhone",
+    "https://lista.mercadolivre.com.br/guigal-cotes-du-rhone-rouge",
+    "https://www.guigal.com/en/wine/cotes-du-rhone-rouge/"
+  ],
+  "preco": {
+    "referencia": 166.56,
+    "min": 166.56,
+    "max": 212.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 166,56, 27/10/2026",
+      "Mercado Livre: R$ 212,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 7.8,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Encorpado — redondo",
+      "Macio",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-guigal-cotes-du-rhone-rouge.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_803556-MLB73000289831_112023-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir",
+    "obs": "Anúncio não diz a cor: conferir se a foto é do tinto"
+  }
+}

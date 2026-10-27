@@ -1,0 +1,102 @@
+{
+  "slug": "dona-paula-estate-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 210,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Doña Paula Estate Cabernet Sauvignon",
+    "produtor": "Doña Paula",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Valle de Uco",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+dona+paula+estate+cabernet+sauvignon",
+    "https://lista.mercadolivre.com.br/dona-paula-estate-cabernet-sauvignon",
+    "https://donapaula.com/wine/dona-paula-estate-cabernet-sauvignon/"
+  ],
+  "preco": {
+    "referencia": 79.99,
+    "min": 79.99,
+    "max": 99.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 79,99, 27/10/2026",
+      "Mercado Livre: R$ 99,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta negra",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta vermelha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Grafite",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Encorpado — concentrado",
+      "Abundante e maduro",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado pelo produtor)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-dona-paula-estate-cabernet-sauvignon.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_931415-MLB110692561312_052026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

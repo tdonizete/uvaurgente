@@ -1,0 +1,101 @@
+{
+  "slug": "antinori-peppoli-chianti-classico",
+  "rank_amazon": null,
+  "pos_lista300": 247,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só anúncio",
+    "Preço de referência é o preço atual do anúncio; o 'de' declarado é maior"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Pèppoli Chianti Classico",
+    "produtor": "Marchesi Antinori",
+    "tipo": "Tinto",
+    "pais": "Itália",
+    "regiao": "Chianti Classico DOCG",
+    "safra": null,
+    "uvas": "Sangiovese, Merlot, Syrah",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco, cerca de 9 meses em tonéis de carvalho da Eslavônia"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/antinori-peppoli-chianti-classico",
+    "https://www.vino.com/dettaglio/chianti-classico-docg-peppoli-marchesi-antinori-2024.html"
+  ],
+  "preco": {
+    "referencia": 211.56,
+    "min": 211.56,
+    "max": 211.56,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (com desconto; 'de' R$ 348): R$ 211,56, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Fumo leve",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 7.0,
+    "tanino_docura": 7.6,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — salina",
+      "Médio — estruturado",
+      "Sedoso",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-antinori-peppoli-chianti-classico.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_649394-MLA99887736271_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

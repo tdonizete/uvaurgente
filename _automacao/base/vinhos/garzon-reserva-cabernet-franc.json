@@ -1,0 +1,99 @@
+{
+  "slug": "garzon-reserva-cabernet-franc",
+  "rank_amazon": null,
+  "pos_lista300": 220,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Garzón Reserva Cabernet Franc",
+    "produtor": "Bodega Garzón",
+    "tipo": "Tinto",
+    "pais": "Uruguai",
+    "regiao": "Garzón (Maldonado)",
+    "safra": null,
+    "uvas": "Cabernet Franc",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco (1,8 g/L), 6 a 12 meses em tonéis de carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/garzon-reserva-cabernet-franc",
+    "https://www.amazon.com.br/s?k=vinho+garzon+reserva+cabernet+franc",
+    "https://bodegagarzon.com/wp-content/uploads/2023/11/Technical-Sheet-Cabernet-Franc-Reserva-2022-ENG.pdf"
+  ],
+  "preco": {
+    "referencia": 106.99,
+    "min": 106.99,
+    "max": 145.08,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 106,99, 27/10/2026",
+      "Amazon.com.br: R$ 145,08, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas negras",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ervas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.0,
+    "tanino_docura": 7.4,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — equilibrada",
+      "Médio",
+      "Redondo",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-garzon-reserva-cabernet-franc.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_675806-MLA99891249997_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

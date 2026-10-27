@@ -1,0 +1,99 @@
+{
+  "slug": "guigal-cotes-du-rhone-blanc",
+  "rank_amazon": null,
+  "pos_lista300": 257,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só anúncio, acima do que se espera para o vinho"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "E. Guigal Côtes du Rhône Blanc",
+    "produtor": "E. Guigal",
+    "tipo": "Branco",
+    "pais": "França",
+    "regiao": "Côtes du Rhône AOC",
+    "safra": null,
+    "uvas": "Viognier, Marsanne e outras",
+    "teor": 14.0,
+    "servir": "10 °C",
+    "estilo": "Seco, inox"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/guigal-cotes-du-rhone-blanc",
+    "https://www.saq.com/en/290296"
+  ],
+  "preco": {
+    "referencia": 281.97,
+    "min": 281.97,
+    "max": 281.97,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 281,97, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 7.6,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Pêssego",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Damasco",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Mel",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.6,
+    "tanino_docura": 8.4,
+    "intensidade": 7.4,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — macia",
+      "Encorpado — cheio e quente",
+      "Seco — coerente",
+      "Pronunciada — floral",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-guigal-cotes-du-rhone-blanc.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_821221-MLA99412761600_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

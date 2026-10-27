@@ -1,0 +1,101 @@
+{
+  "slug": "esporao-monte-velho-reserva",
+  "rank_amazon": null,
+  "pos_lista300": 258,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só anúncio",
+    "Preço de referência é o preço atual do anúncio; o 'de' declarado é maior",
+    "Ficha sensorial resumida (lançamento da safra 2022)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Monte Velho Reserva Tinto",
+    "produtor": "Esporão",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Alentejo",
+    "safra": null,
+    "uvas": "Touriga Nacional, Aragonez, Syrah, Trincadeira",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco (1 g/L), 8 meses em barricas usadas, uvas orgânicas"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/esporao-monte-velho-reserva",
+    "https://wineindustryadvisor.com/2025/01/29/introducing-esporao-monte-velho-reserva-red-2022/"
+  ],
+  "preco": {
+    "referencia": 120.25,
+    "min": 120.25,
+    "max": 120.25,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (com desconto; 'de' R$ 190): R$ 120,25, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Carvalho",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.2,
+    "tanino_docura": 7.2,
+    "intensidade": 7.0,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio a encorpado",
+      "Macio",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-esporao-monte-velho-reserva.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_965478-MLA99397179636_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

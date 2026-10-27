@@ -1,0 +1,100 @@
+{
+  "slug": "novecento-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 54,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço com variação grande entre anúncios (R$ 45 a R$ 90)",
+    "Ficha sensorial resumida (Spec's)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Novecento Malbec",
+    "produtor": "Dante Robino",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/novecento-malbec",
+    "https://specsonline.com/shop/wine/dante-robino-novecento-malbec/"
+  ],
+  "preco": {
+    "referencia": 45.0,
+    "min": 45.0,
+    "max": 90.0,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 45,0, 27/10/2026",
+      "Mercado Livre (outro anúncio): R$ 90,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 6.6,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas negras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.4,
+    "tanino_docura": 6.4,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio — frutado",
+      "Macio — fácil de beber",
+      "Moderada — fruta suculenta",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-novecento-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_608840-MLB111016786802_052026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

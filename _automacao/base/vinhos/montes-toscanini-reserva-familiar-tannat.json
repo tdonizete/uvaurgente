@@ -1,0 +1,102 @@
+{
+  "slug": "montes-toscanini-reserva-familiar-tannat",
+  "rank_amazon": null,
+  "pos_lista300": 58,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Teor não informado",
+    "Ficha sensorial de fonte estrangeira (Vinovoss)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Montes Toscanini Reserva Familiar Tannat",
+    "produtor": "Montes Toscanini",
+    "tipo": "Tinto",
+    "pais": "Uruguai",
+    "regiao": "Canelones",
+    "safra": null,
+    "uvas": "Tannat",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, com carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/montes-toscanini-reserva-familiar-tannat",
+    "https://vinovoss.com/wine/montes-toscanini-reserva-familiar-tannat"
+  ],
+  "preco": {
+    "referencia": 79.0,
+    "min": 79.0,
+    "max": 79.09,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 79,0, 27/10/2026",
+      "Mercado Livre (outro anúncio): R$ 79,09, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.6,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Madeira",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Couro",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Sous-bois",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.2,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Encorpado — aveludado",
+      "Firme e integrado",
+      "Pronunciada — fruta negra e baunilha",
+      "Médio — cerca de 6 segundos (final longo citado só pela fonte)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-montes-toscanini-reserva-familiar-tannat.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_925418-MLB117967897144_102026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

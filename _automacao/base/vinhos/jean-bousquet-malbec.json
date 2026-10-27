@@ -1,0 +1,100 @@
+{
+  "slug": "jean-bousquet-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 109,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só anúncio",
+    "Ficha sensorial de safra antiga (2013)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Jean Bousquet Malbec",
+    "produtor": "Domaine Bousquet",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Tupungato (Valle de Uco)",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.0,
+    "servir": "16 °C",
+    "estilo": "Seco, uvas orgânicas"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/jean-bousquet-malbec",
+    "https://www.nataliemaclean.com/wine-reviews/domaine-jean-bousquet-malbec-2013/207512"
+  ],
+  "preco": {
+    "referencia": 123.75,
+    "min": 123.75,
+    "max": 123.75,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 123,75, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.4,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja vermelha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Fumo",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.4,
+    "tanino_docura": 7.2,
+    "intensidade": 7.2,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Encorpado — rico",
+      "Maduro — macio",
+      "Pronunciada — fruta madura",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-jean-bousquet-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_725145-MLB105955466652_022026-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

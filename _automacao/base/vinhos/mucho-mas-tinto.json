@@ -1,0 +1,104 @@
+{
+  "slug": "mucho-mas-tinto",
+  "rank_amazon": null,
+  "pos_lista300": 40,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Ficha sensorial de varejista estrangeiro (Alko)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Mucho Más Tinto",
+    "produtor": "Félix Solís",
+    "tipo": "Tinto",
+    "pais": "Espanha",
+    "regiao": "Vino de España",
+    "safra": null,
+    "uvas": "Tempranillo, Garnacha, Syrah",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Meio seco (cerca de 15 g/L de açúcar)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+mucho+mas",
+    "https://lista.mercadolivre.com.br/mucho-mas-tinto",
+    "https://www.alko.fi/en/products/001536/Mucho-Mas"
+  ],
+  "preco": {
+    "referencia": 78.9,
+    "min": 64.61,
+    "max": 78.9,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Amazon.com.br: R$ 78,9, 27/10/2026",
+      "Mercado Livre (com desconto): R$ 64,61, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja escura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias doces",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.2,
+    "corpo": 7.0,
+    "tanino_docura": 6.2,
+    "intensidade": 7.0,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-baixa — o açúcar arredonda",
+      "Médio a encorpado",
+      "Macio — meio seco",
+      "Moderada a pronunciada — fruta doce",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-mucho-mas-tinto.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_962043-MLA99821515983_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "louis-jadot-beaujolais-villages",
+  "rank_amazon": null,
+  "pos_lista300": 173,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço só em kit de 3 no Mercado Livre (dividido por garrafa)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Louis Jadot Beaujolais-Villages Combe aux Jacques",
+    "produtor": "Louis Jadot",
+    "tipo": "Tinto",
+    "pais": "França",
+    "regiao": "Beaujolais-Villages",
+    "safra": null,
+    "uvas": "Gamay",
+    "teor": 12.5,
+    "servir": "14 °C",
+    "estilo": "Seco, leve"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/louis-jadot-beaujolais-villages",
+    "https://www.saq.com/en/365924"
+  ],
+  "preco": {
+    "referencia": 233.45,
+    "min": 233.45,
+    "max": 233.45,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (kit de 3, R$ 700,34): R$ 233,45, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Framboesa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Mirtilo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Peônia",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 6.2,
+    "tanino_docura": 7.6,
+    "intensidade": 6.8,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca",
+      "Leve — coerente com o estilo",
+      "Leve e macio",
+      "Moderada — frutado",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-louis-jadot-beaujolais-villages.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_764905-MLA99428433844_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

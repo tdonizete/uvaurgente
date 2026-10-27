@@ -1,0 +1,100 @@
+{
+  "slug": "la-flor-de-pulenta-sauvignon-blanc",
+  "rank_amazon": null,
+  "pos_lista300": 96,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço só no Mercado Livre"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "La Flor Sauvignon Blanc",
+    "produtor": "Pulenta Estate",
+    "tipo": "Branco",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Sauvignon Blanc",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Seco, sem madeira, sem malolática"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/la-flor-de-pulenta-sauvignon-blanc",
+    "https://haywines.co.uk/product/pulenta-la-flor-sauvignon-blanc/"
+  ],
+  "preco": {
+    "referencia": 119.9,
+    "min": 119.9,
+    "max": 139.9,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 119,9, 27/10/2026",
+      "Mercado Livre (outro anúncio): R$ 139,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.1,
+    "familias": [
+      "Frutas",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Toranja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Limão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maracujá",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Erva fresca",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.0,
+    "corpo": 6.6,
+    "tanino_docura": 8.4,
+    "intensidade": 7.0,
+    "final": 6.8,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — cortante",
+      "Leve a médio — coerente com o estilo",
+      "Seco — coerente",
+      "Moderada a pronunciada — cítrica",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-la-flor-de-pulenta-sauvignon-blanc.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_916550-MLA79882559357_102024-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

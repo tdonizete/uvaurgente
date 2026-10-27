@@ -1,0 +1,99 @@
+{
+  "slug": "alta-vista-classic-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 216,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Alta Vista Vive Classic Malbec",
+    "produtor": "Alta Vista",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 13.5,
+    "servir": "16 °C",
+    "estilo": "Seco, 25% por 6 meses em carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+alta+vista+classic+malbec",
+    "https://lista.mercadolivre.com.br/alta-vista-classic-malbec",
+    "https://www.kobrandwineandspirits.com/release/vive-malbec-2024/"
+  ],
+  "preco": {
+    "referencia": 73.05,
+    "min": 73.05,
+    "max": 77.5,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 73,05, 27/10/2026",
+      "Mercado Livre (pacote de 12, R$ 930): R$ 77,5, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.1,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Café",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.8,
+    "tanino_docura": 6.8,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — viva",
+      "Médio — jovem",
+      "Macio",
+      "Moderada a pronunciada",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-alta-vista-classic-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_931665-MLA99857552373_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

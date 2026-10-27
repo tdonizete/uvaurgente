@@ -1,0 +1,102 @@
+{
+  "slug": "errazuriz-max-reserva-cabernet-sauvignon",
+  "rank_amazon": null,
+  "pos_lista300": 234,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Errazuriz Max Reserva Cabernet Sauvignon",
+    "produtor": "Viña Errazuriz",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Aconcagua",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, com carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+errazuriz+max+reserva+cabernet+sauvignon",
+    "https://www.paodeacucar.com/busca?terms=errazuriz%20max"
+  ],
+  "preco": {
+    "referencia": 109.0,
+    "min": 109.0,
+    "max": 149.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 109,0, 27/10/2026",
+      "Mercado Livre (linha Max Edición): R$ 149,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.4,
+    "complexidade": 7.6,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Carvalho",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.4,
+    "tanino_docura": 7.4,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Médio a encorpado",
+      "Firme",
+      "Moderada a pronunciada",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-errazuriz-max-reserva-cabernet-sauvignon.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_952630-MLA99925974949_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir",
+    "obs": "Foto do anúncio 'Max Edición': conferir se o rótulo é o mesmo"
+  }
+}

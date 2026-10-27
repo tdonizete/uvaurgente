@@ -1,0 +1,105 @@
+{
+  "slug": "montes-alpha-merlot",
+  "rank_amazon": null,
+  "pos_lista300": 233,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Diferença grande entre fontes (R$ 141 no ML x R$ 221 na Amazon)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Montes Alpha Merlot",
+    "produtor": "Viña Montes",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Colchagua",
+    "safra": null,
+    "uvas": "Merlot",
+    "teor": 14.5,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês (55% do lote)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/montes-alpha-merlot",
+    "https://www.amazon.com.br/s?k=vinho+montes+alpha+merlot",
+    "https://www.monteswines.com/en/wines/montes-alpha-merlot"
+  ],
+  "preco": {
+    "referencia": 141.0,
+    "min": 141.0,
+    "max": 221.48,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre: R$ 141,0, 27/10/2026",
+      "Amazon.com.br: R$ 221,48, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.8,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira",
+      "Vegetal/herbáceo"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Menta",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.6,
+    "final": 7.2,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — viva",
+      "Encorpado",
+      "Macio e firme",
+      "Pronunciada — complexa",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-montes-alpha-merlot.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_676221-MLA99901725075_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

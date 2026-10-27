@@ -1,0 +1,99 @@
+{
+  "slug": "bramare-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 202,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon); anúncio é da linha Luján de Cuyo",
+    "Link da ficha sensorial não registrado; refazer a consulta da fonte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Bramare Malbec",
+    "produtor": "Viña Cobos",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.5,
+    "servir": "17 °C",
+    "estilo": "Seco, mais de 12 meses em carvalho"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+bramare+malbec"
+  ],
+  "preco": {
+    "referencia": 265.9,
+    "min": 265.9,
+    "max": 265.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 265,9, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 8.6,
+    "intensidade": 8.0,
+    "complexidade": 8.6,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Madeira",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja preta",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate amargo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.6,
+    "corpo": 8.0,
+    "tanino_docura": 8.0,
+    "intensidade": 8.0,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca",
+      "Encorpado",
+      "Polido",
+      "Pronunciada",
+      "Médio — cerca de 7 segundos (final longo citado só pela fonte)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  },
+  "foto": {
+    "status": "sem foto: no Mercado Livre só havia kit, caixa, garrafa mini ou outro rótulo"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "las-perdices-reserva-malbec",
+  "rank_amazon": null,
+  "pos_lista300": 214,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)",
+    "Ficha sensorial de safra antiga (Vinovoss)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Las Perdices Reserva Malbec",
+    "produtor": "Viña Las Perdices",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Luján de Cuyo",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": null,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 meses em carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+las+perdices+reserva+malbec",
+    "https://vinovoss.com/wine/vina-las-perdices-reserva-malbec-2014"
+  ],
+  "preco": {
+    "referencia": 92.96,
+    "min": 92.96,
+    "max": 92.96,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 92,96, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.6,
+    "complexidade": 8.0,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Fruta negra madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Cassis",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cravo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Chocolate",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 7.6,
+    "tanino_docura": 7.6,
+    "intensidade": 7.4,
+    "final": 7.2,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — equilibrada",
+      "Encorpado — denso e elegante",
+      "Firme",
+      "Pronunciada",
+      "Médio — terroso e especiado"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-las-perdices-reserva-malbec.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_878901-MLB74227142579_012024-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

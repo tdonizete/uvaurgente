@@ -1,0 +1,99 @@
+{
+  "slug": "antinori-santa-cristina-toscana",
+  "rank_amazon": null,
+  "pos_lista300": 245,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só anúncio"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Santa Cristina Toscana Rosso",
+    "produtor": "Marchesi Antinori",
+    "tipo": "Tinto",
+    "pais": "Itália",
+    "regiao": "Toscana IGT",
+    "safra": null,
+    "uvas": "Sangiovese e outras",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco (1,8 g/L), sem madeira"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/antinori-santa-cristina-toscana",
+    "https://www.saq.com/en/76521"
+  ],
+  "preco": {
+    "referencia": 89.51,
+    "min": 89.51,
+    "max": 89.51,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (com desconto): R$ 89,51, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Cereja",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Alcaçuz",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Especiarias",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 6.8,
+    "tanino_docura": 7.0,
+    "intensidade": 7.0,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — presente",
+      "Médio — generoso",
+      "Macio",
+      "Moderada a pronunciada",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-antinori-santa-cristina-toscana.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_647346-MLA99900283785_112025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}

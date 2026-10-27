@@ -1,0 +1,93 @@
+{
+  "slug": "santa-loreto-sauvignon-blanc",
+  "rank_amazon": null,
+  "pos_lista300": 124,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Santa Loreto Varietal Sauvignon Blanc",
+    "produtor": "Santa Loreto",
+    "tipo": "Branco",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Sauvignon Blanc",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.amazon.com.br/s?k=vinho+santa+loreto+sauvignon+blanc",
+    "https://lista.mercadolivre.com.br/santa-loreto-varietal-sauvignon-blanc"
+  ],
+  "preco": {
+    "referencia": 28.73,
+    "min": 28.73,
+    "max": 33.0,
+    "ajustes": [],
+    "fontes": [
+      "Amazon.com.br: R$ 28,73, 27/10/2026",
+      "Mercado Livre: R$ 33,0, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.6,
+    "complexidade": 6.6,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Limão",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.4,
+    "tanino_docura": 8.0,
+    "intensidade": 6.4,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — fresca",
+      "Leve — coerente com o estilo",
+      "Seco — coerente",
+      "Moderada — simples",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "status": "sem foto: no Mercado Livre só havia kit, caixa, garrafa mini ou outro rótulo"
+  }
+}

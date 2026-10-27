@@ -1,0 +1,100 @@
+{
+  "slug": "domaine-l-chatelain-chablis",
+  "rank_amazon": null,
+  "pos_lista300": 99,
+  "data": "2026-10-27",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só anúncio",
+    "Ficha sensorial curta (trecho público da James Suckling)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Domaine L. Chatelain Chablis",
+    "produtor": "Domaine L. Chatelain",
+    "tipo": "Branco",
+    "pais": "França",
+    "regiao": "Chablis (Borgonha)",
+    "safra": null,
+    "uvas": "Chardonnay",
+    "teor": null,
+    "servir": "10 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://lista.mercadolivre.com.br/domaine-l-chatelain-chablis",
+    "https://www.jamessuckling.com/tasting-notes/260854/domaine-l-chatelain-chablis-2023"
+  ],
+  "preco": {
+    "referencia": 339.4,
+    "min": 339.4,
+    "max": 339.4,
+    "ajustes": [],
+    "fontes": [
+      "Mercado Livre (com desconto; 'de' R$ 369): R$ 339,4, 27/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.4
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.2,
+    "complexidade": 7.4,
+    "familias": [
+      "Frutas",
+      "Terra/mineral"
+    ],
+    "top5": [
+      {
+        "nome": "Limão",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã verde",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Mineral",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 6.8,
+    "tanino_docura": 8.6,
+    "intensidade": 7.2,
+    "final": 7.0,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — brilhante",
+      "Médio — cremoso",
+      "Seco — coerente",
+      "Moderada a pronunciada — pura",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  },
+  "foto": {
+    "arquivo": "uvaurgente-domaine-l-chatelain-chablis.jpg",
+    "origem": "Mercado Livre (foto do anúncio)",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_754942-MLB100861141507_122025-F.jpg",
+    "baixada_em": "2026-10-27",
+    "status": "baixada no Chrome do Tiago (pasta Downloads); falta subir"
+  }
+}
