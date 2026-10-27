@@ -1,0 +1,90 @@
+{
+  "slug": "gato-negro-sauvignon-blanc",
+  "rank_amazon": null,
+  "pos_lista300": 130,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Gato Negro Sauvignon Blanc",
+    "produtor": "San Pedro",
+    "tipo": "Branco",
+    "pais": "Chile",
+    "regiao": "Molina (Valle Central)",
+    "safra": null,
+    "uvas": "Sauvignon Blanc",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-gato-negro-sauvignon-blanc-750ml",
+    "https://www.paodeacucar.com/produto/214877/vinho-chileno-gato-negro-sauvignon-blanc-750ml"
+  ],
+  "preco": {
+    "referencia": 39.99,
+    "min": 39.99,
+    "max": 49.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 39,99, 26/10/2026",
+      "Pão de Açúcar: R$ 49,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maracujá",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Herbáceo",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.4,
+    "tanino_docura": 8.2,
+    "intensidade": 6.4,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — boa acidez",
+      "Leve — coerente com o estilo",
+      "Seco — coerente",
+      "Moderada — fruta tropical",
+      "Médio — persistente"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

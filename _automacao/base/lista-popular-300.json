@@ -769,31 +769,36 @@
    "pos": 110,
    "nome": "4 Estaciones Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "4 Estaciones Malbec: não encontrado em lojas brasileiras"
   },
   {
    "pos": 111,
    "nome": "Chateau Vieux Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Chateau Vieux Malbec: não encontrado em lojas brasileiras"
   },
   {
    "pos": 112,
    "nome": "Festivo Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Festivo Malbec (Monteviejo): só lojas do exterior"
   },
   {
    "pos": 113,
    "nome": "Lindaflor Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Lindaflor Malbec (Monteviejo): só lojas do exterior"
   },
   {
    "pos": 114,
    "nome": "Vasco Viejo Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Vasco Viejo Malbec: não encontrado em lojas brasileiras"
   },
   {
    "pos": 115,
@@ -806,31 +811,36 @@
    "pos": 116,
    "nome": "Alamos Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "alamos-malbec"
   },
   {
    "pos": 117,
    "nome": "Alamos Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "alamos-cabernet-sauvignon"
   },
   {
    "pos": 118,
    "nome": "Terrazas de los Andes Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "terrazas-reserva-malbec"
   },
   {
    "pos": 119,
    "nome": "Terrazas de los Andes Cabernet Sauvignon",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Terrazas Reserva Cabernet Sauvignon: preço Imigrantes R$ 99,99, sem descrição sensorial"
   },
   {
    "pos": 120,
    "nome": "Graffigna Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Graffigna Malbec: fichas do exterior, sem preço no Brasil"
   },
   {
    "pos": 121,
@@ -850,13 +860,15 @@
    "pos": 123,
    "nome": "Santa Loreto Varietal Merlot",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "santa-loreto-merlot"
   },
   {
    "pos": 124,
    "nome": "Santa Loreto Varietal Sauvignon Blanc",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Santa Loreto Sauvignon Blanc: perfil encontrado (Mali), sem preço"
   },
   {
    "pos": 125,
@@ -870,22 +882,25 @@
    "pos": 126,
    "nome": "Almadén Merlot Suave",
    "pais": "Chile",
-   "status": "a_avaliar",
-   "obs": "lista diz Chile; Almadén é brasileira"
+   "status": "sem_ficha",
+   "obs": "lista diz Chile; Almadén é brasileira",
+   "motivo": "Almadén Merlot: só a versão seca encontrada (Werle R$ 32,90), sem notas; 'Suave' não confirmado"
   },
   {
    "pos": 127,
    "nome": "Almadén Carménère Suave",
    "pais": "Chile",
-   "status": "a_avaliar",
-   "obs": "lista diz Chile; Almadén é brasileira"
+   "status": "nao_identificado",
+   "obs": "lista diz Chile; Almadén é brasileira",
+   "motivo": "Almadén Carménère Suave: não existe na linha Almadén"
   },
   {
    "pos": 128,
    "nome": "Almadén Sauvignon Blanc Suave",
    "pais": "Chile",
-   "status": "a_avaliar",
-   "obs": "lista diz Chile; Almadén é brasileira"
+   "status": "sem_ficha",
+   "obs": "lista diz Chile; Almadén é brasileira",
+   "motivo": "Almadén Sauvignon Blanc: página da Werle fora do ar"
   },
   {
    "pos": 129,
@@ -899,55 +914,64 @@
    "pos": 130,
    "nome": "Gato Negro Sauvignon Blanc",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "gato-negro-sauvignon-blanc"
   },
   {
    "pos": 131,
    "nome": "Gato Negro Rosé",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Gato Negro Rosé: única ficha (Tenda) descreve um tinto; dados inconsistentes"
   },
   {
    "pos": 132,
    "nome": "Frontera Sauvignon Blanc",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Frontera Sauvignon Blanc: sem preço no Brasil"
   },
   {
    "pos": 133,
    "nome": "Frontera Rosé",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Frontera Rosé: sem preço no Brasil"
   },
   {
    "pos": 134,
    "nome": "Frontera Sweet Red",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Frontera Sweet Red: sem preço no Brasil"
   },
   {
    "pos": 135,
    "nome": "Santa Rita Reservado Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Santa Rita Reservado Cabernet Sauvignon: linha não encontrada nas lojas brasileiras consultadas"
   },
   {
    "pos": 136,
    "nome": "Santa Rita Reservado Carménère",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Santa Rita Reservado Carménère: linha não encontrada nas lojas brasileiras consultadas"
   },
   {
    "pos": 137,
    "nome": "Santa Rita Reservado Merlot",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Santa Rita Reservado Merlot: linha não encontrada nas lojas brasileiras consultadas"
   },
   {
    "pos": 138,
    "nome": "Montes Reserva Cabernet Sauvignon",
    "pais": "Chile",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "montes-classic-reserva-cabernet-sauvignon"
   },
   {
    "pos": 139,

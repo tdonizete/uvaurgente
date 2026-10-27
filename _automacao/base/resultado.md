@@ -101,6 +101,12 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L100 | Freixenet Italian Rosé | Itália | Espumante | R$ 79,99 | 8,2 | 7,3 | 6,8 | 6,8 | B | **7,1** | Sem Pressa | alta | — |
 | L101 | San Telmo Malbec | Argentina | Tinto | R$ 67,99 | 7,8 | 7,3 | 6,3 | 6,3 | B | **6,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'The Grill Master': não confirmado; avaliado o San Telmo Malbec |
 | L102 | Catena Zapata Angélica Zapata Malbec Alta | Argentina | Tinto | R$ 439,99 | 8,8 | 8,3 | 7,9 | 5,7 | BIC | **7,5** | Sem Pressa | alta | James Suckling 96 (safra 2022); final longo não confirmado por fonte de duração |
+| L116 | Catena Zapata (Alamos) Alamos Malbec | Argentina | Tinto | R$ 114,99 | 8,2 | 7,9 | 6,9 | 6,5 | BC | **7,2** | Sem Pressa | alta | — |
+| L117 | Catena Zapata (Alamos) Alamos Cabernet Sauvignon | Argentina | Tinto | R$ 139,90 | 8,2 | 7,9 | 7,0 | 6,5 | BC | **7,2** | Sem Pressa | média | Preço em 1 só fonte (Pão de Açúcar) |
+| L118 | Terrazas de los Andes Reserva Malbec | Argentina | Tinto | R$ 107,99 | 8,4 | 7,7 | 7,0 | 6,5 | B | **7,2** | Sem Pressa | média | Preço e perfil em 1 só fonte (Imigrantes) |
+| L123 | Viña de Aguirre Santa Loreto Merlot | Chile | Tinto | R$ 18,90 | 7,4 | 7,2 | 6,0 | 7,7 | B | **6,9** | Sem Pressa | baixa | Preço em 1 só fonte (Super Adega) |
+| L130 | San Pedro Gato Negro Sauvignon Blanc | Chile | Branco | R$ 39,99 | 7,6 | 7,2 | 6,9 | 8,3 | B | **7,4** | Sem Pressa | média | — |
+| L138 | Viña Montes Montes Classic Series Reserva Cabernet Sauvignon | Chile | Tinto | R$ 125,90 | 8,2 | 7,7 | 6,7 | 6,1 | BC | **7,0** | Sem Pressa | média | — |
 
 ## Sem ficha (fora da pontuação)
 

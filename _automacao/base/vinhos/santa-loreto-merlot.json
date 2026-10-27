@@ -1,0 +1,91 @@
+{
+  "slug": "santa-loreto-merlot",
+  "rank_amazon": null,
+  "pos_lista300": 123,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Preço em 1 só fonte (Super Adega)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Santa Loreto Merlot",
+    "produtor": "Viña de Aguirre",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Merlot",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-santa-loreto-merlot-750ml",
+    "https://www.superadega.com.br/produtos/vinho-santa-loreto-merlot-750ml/"
+  ],
+  "preco": {
+    "referencia": 18.9,
+    "min": 18.9,
+    "max": 18.9,
+    "ajustes": [],
+    "fontes": [
+      "Super Adega: R$ 18,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.4
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.4,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas maduras",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Defumado",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.0,
+    "corpo": 6.2,
+    "tanino_docura": 6.0,
+    "intensidade": 6.0,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — aveludado",
+      "Macio — integrado",
+      "Moderada — fruta simples",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}
