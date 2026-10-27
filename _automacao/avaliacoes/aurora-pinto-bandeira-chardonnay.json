@@ -1,0 +1,132 @@
+{
+ "slug": "aurora-pinto-bandeira-chardonnay",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Aurora Pinto Bandeira Chardonnay",
+  "produtor": "Vinícola Aurora",
+  "tipo": "Branco",
+  "pais": "Brasil",
+  "regiao": "Pinto Bandeira (Serra Gaúcha)",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": 13.5,
+  "servir": "10 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.werlecomercial.com.br/vinho-aurora-pinto-bandeira-chardonnay-750ml"
+ ],
+ "preco": {
+  "referencia": 63.9,
+  "min": 63.9,
+  "max": 66.99,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 63,9, 26/10/2026",
+   "Bing Shopping — Amazon: R$ 66,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.5,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Floral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Coco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.0,
+  "tanino_docura": 8.4,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — refrescante",
+   "Médio — cremoso",
+   "Seco — coerente",
+   "Moderada a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Chardonnay de Pinto Bandeira, floral e elegante.",
+  "kicker_identidade": "Chardonnay de IP",
+  "historico": "A Vinícola Aurora é de Bento Gonçalves. Este Chardonnay vem da Indicação de Procedência Pinto Bandeira.",
+  "degustacao": "Frutas brancas, floral e coco no nariz. Na boca é fresco, médio e de final limpo.",
+  "harmonizacao": [
+   {
+    "prato": "Frango ao curry",
+    "porque": "Fruta de caroço com especiaria.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Bacalhau ao forno",
+    "porque": "Corpo para um peixe intenso.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Risoto de queijo",
+    "porque": "Cremoso com cremoso.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijos maduros",
+    "porque": "Untuosidade com a textura do vinho.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Peixe com molho de manteiga",
+    "porque": "Volume para o molho.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#vinicolaaurora"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/aurora-pinto-bandeira-chardonnay.png"
+}

@@ -1,99 +1,98 @@
 {
-  "slug": "zuccardi-serie-a-cabernet-sauvignon",
-  "rank_amazon": null,
-  "pos_lista300": 206,
-  "data": "2026-10-27",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço só em caixa de 2 (dividido por garrafa)",
-    "Teor não informado"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Zuccardi Serie A Cabernet Sauvignon",
-    "produtor": "Familia Zuccardi",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon",
-    "teor": null,
-    "servir": "17 °C",
-    "estilo": "Seco"
-  },
-  "canal": "Supermercado",
+ "slug": "zuccardi-serie-a-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": 206,
+ "data": "2026-10-27",
+ "status": "base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço só em caixa de 2 (dividido por garrafa)",
+  "Teor não informado",
+  "Foto recebida em 27/10/2026; falta 2ª fonte de preço (exigência 11.1) para publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Zuccardi Serie A Cabernet Sauvignon",
+  "produtor": "Familia Zuccardi",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": null,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://lista.mercadolivre.com.br/zuccardi-serie-a-cabernet-sauvignon",
+  "https://www.wine.com/product/zuccardi-serie-a-cabernet-sauvignon-2017/516489"
+ ],
+ "preco": {
+  "referencia": 102.4,
+  "min": 102.4,
+  "max": 102.4,
+  "ajustes": [],
   "fontes": [
-    "https://lista.mercadolivre.com.br/zuccardi-serie-a-cabernet-sauvignon",
-    "https://www.wine.com/product/zuccardi-serie-a-cabernet-sauvignon-2017/516489"
+   "Mercado Livre (caixa com 2, R$ 204,79): R$ 102,4, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo"
   ],
-  "preco": {
-    "referencia": 102.4,
-    "min": 102.4,
-    "max": 102.4,
-    "ajustes": [],
-    "fontes": [
-      "Mercado Livre (caixa com 2, R$ 204,79): R$ 102,4, 27/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.2,
-    "complexidade": 7.2,
-    "familias": [
-      "Frutas",
-      "Vegetal/herbáceo"
-    ],
-    "top5": [
-      {
-        "nome": "Cassis",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Groselha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimentão",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas negras",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.2,
-    "corpo": 7.4,
-    "tanino_docura": 7.4,
-    "intensidade": 7.2,
-    "final": 7.0,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Encorpado — denso",
-      "Integrado",
-      "Moderada a pronunciada",
-      "Médio — final fresco"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  },
-  "foto": {
-    "arquivo": "uvaurgente-zuccardi-serie-a-cabernet-sauvignon",
-    "origem": "Google Shopping (miniatura do anúncio, cerca de 200 px — baixa resolução)",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
-  }
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Groselha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimentão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas negras",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.4,
+  "tanino_docura": 7.4,
+  "intensidade": 7.2,
+  "final": 7.0,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Encorpado — denso",
+   "Integrado",
+   "Moderada a pronunciada",
+   "Médio — final fresco"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "recebida (27/10/2026), aguardando 2ª fonte de preço",
+  "arquivo": "fotos_png/zuccardi-serie-a-cabernet-sauvignon.png"
+ }
 }

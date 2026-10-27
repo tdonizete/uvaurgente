@@ -1,0 +1,133 @@
+{
+ "slug": "cordero-con-piel-de-lobo-malbec",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Cordero con Piel de Lobo Malbec",
+  "produtor": "Mosquita Muerta Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.4,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-cordero-con-piel-de-lobo-malbec-750ml",
+  "https://www.paodeacucar.com/produto/584617/vinho-argentino-tinto-cordero-con-piel-de-lobo-750ml-"
+ ],
+ "preco": {
+  "referencia": 46.9,
+  "min": 46.9,
+  "max": 59.9,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 46,9, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 59,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — frescor frutado",
+   "Médio — sedoso",
+   "Macio — suave",
+   "Moderada — fruta madura",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Malbec barato de rótulo divertido e fruta madura.",
+  "kicker_identidade": "Malbec de rótulo",
+  "historico": "O Cordero con Piel de Lobo é da Mosquita Muerta Wines, de Mendoza. Este Malbec é seco e frutado.",
+  "degustacao": "Frutas vermelhas maduras, ameixa e especiarias no nariz. Na boca é macio e de final médio.",
+  "harmonizacao": [
+   {
+    "prato": "Pizza de calabresa",
+    "porque": "Fruta viva contra o picante e o queijo.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Churrasco de domingo",
+    "porque": "Tinto fácil para linguiça e fraldinha.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa à bolonhesa",
+    "porque": "Acidez para o molho de tomate.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Empanadas",
+    "porque": "Combinação argentina de sempre.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tanino macio não briga com carne branca.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentina",
+  "#mosquitamuertawines"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/cordero-con-piel-de-lobo-malbec.png"
+}

@@ -1,100 +1,101 @@
 {
-  "slug": "zonin-pinot-grigio",
-  "rank_amazon": null,
-  "pos_lista300": 166,
-  "data": "2026-10-27",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Teor varia entre fontes",
-    "Preço com desconto em 1 só loja"
+ "slug": "zonin-pinot-grigio",
+ "rank_amazon": null,
+ "pos_lista300": 166,
+ "data": "2026-10-27",
+ "status": "base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Teor varia entre fontes",
+  "Preço com desconto em 1 só loja",
+  "Foto enviada é do Pinot Grigio Friuli; base é Delle Venezie"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Zonin Pinot Grigio",
+  "produtor": "Zonin",
+  "tipo": "Branco",
+  "pais": "Itália",
+  "regiao": "Delle Venezie",
+  "safra": null,
+  "uvas": "Pinot Grigio",
+  "teor": null,
+  "servir": "8 °C",
+  "estilo": "Seco a meio seco (6 g/L)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+zonin+pinot+grigio",
+  "https://www.lcbo.com/fr/pinot-grigio-zonin-43956"
+ ],
+ "preco": {
+  "referencia": 56.99,
+  "min": 56.99,
+  "max": 56.99,
+  "ajustes": [
+   "promocao_frequente"
   ],
-  "provado": false,
-  "vinho": {
-    "title": "Zonin Pinot Grigio",
-    "produtor": "Zonin",
-    "tipo": "Branco",
-    "pais": "Itália",
-    "regiao": "Delle Venezie",
-    "safra": null,
-    "uvas": "Pinot Grigio",
-    "teor": null,
-    "servir": "8 °C",
-    "estilo": "Seco a meio seco (6 g/L)"
-  },
-  "canal": "Supermercado",
   "fontes": [
-    "https://www.google.com/search?udm=28&q=vinho+zonin+pinot+grigio",
-    "https://www.lcbo.com/fr/pinot-grigio-zonin-43956"
+   "Google Shopping — Pão de Açúcar (com desconto; 'de' R$ 95,90): R$ 56,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 6.4,
+  "familias": [
+   "Frutas"
   ],
-  "preco": {
-    "referencia": 56.99,
-    "min": 56.99,
-    "max": 56.99,
-    "ajustes": [
-      "promocao_frequente"
-    ],
-    "fontes": [
-      "Google Shopping — Pão de Açúcar (com desconto; 'de' R$ 95,90): R$ 56,99, 27/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 7.6
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 6.4,
-    "complexidade": 6.4,
-    "familias": [
-      "Frutas"
-    ],
-    "top5": [
-      {
-        "nome": "Cítricos",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Maçã",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pera",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Limão",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Frutas brancas",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.0,
-    "corpo": 6.2,
-    "tanino_docura": 7.8,
-    "intensidade": 6.2,
-    "final": 5.8,
-    "final_segundos": 4,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média-alta — fresca",
-      "Leve — coerente com o estilo",
-      "Seco — coerente",
-      "Moderada — simples",
-      "Curto a médio — cerca de 4 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": false
-  },
-  "foto": {
-    "arquivo": "uvaurgente-zonin-pinot-grigio.jpg",
-    "origem": "Bing Shopping (foto do anúncio)",
-    "url": "https://th.bing.com/th/id/OPHS.ZTuGbTsZfIbWQQ474C474?w=600&h=800&pid=21.1",
-    "baixada_em": "2026-10-27",
-    "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
-  }
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 7.8,
+  "intensidade": 6.2,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — simples",
+   "Curto a médio — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "arquivo": "uvaurgente-zonin-pinot-grigio.jpg",
+  "origem": "Bing Shopping (foto do anúncio)",
+  "url": "https://th.bing.com/th/id/OPHS.ZTuGbTsZfIbWQQ474C474?w=600&h=800&pid=21.1",
+  "baixada_em": "2026-10-27",
+  "status": "no ZIP uvaurgente-fotos-2026-10-27.zip (Downloads do Tiago); falta subir"
+ }
 }

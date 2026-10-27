@@ -1,94 +1,95 @@
 {
-  "slug": "trapiche-roble-oak-cask-malbec",
-  "rank_amazon": null,
-  "pos_lista300": 45,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "média",
-  "pendencias": [
-    "Preço em 1 só fonte (Pão de Açúcar)",
-    "No Brasil é vendido como 'Roble'; Oak Cask é o nome de exportação"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Trapiche Roble (Oak Cask) Malbec",
-    "produtor": "Trapiche",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Malbec",
-    "teor": 13.5,
-    "servir": "16 °C",
-    "estilo": "Seco, 12 meses em carvalho francês e americano"
-  },
-  "canal": "Supermercado",
+ "slug": "trapiche-roble-oak-cask-malbec",
+ "rank_amazon": null,
+ "pos_lista300": 45,
+ "data": "2026-10-26",
+ "status": "base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (Pão de Açúcar)",
+  "No Brasil é vendido como 'Roble'; Oak Cask é o nome de exportação",
+  "Foto enviada é do Trapiche Reserva Malbec; base é Roble (Oak Cask)"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Trapiche Roble (Oak Cask) Malbec",
+  "produtor": "Trapiche",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, 12 meses em carvalho francês e americano"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://trapiche.com.ar/comex/en/producto/oak-cask-malbec-2/",
+  "https://www.paodeacucar.com/produto/60466/vinho-tinto-argentino-trapiche-roble-malbec-750ml"
+ ],
+ "preco": {
+  "referencia": 79.9,
+  "min": 79.9,
+  "max": 79.9,
+  "ajustes": [],
   "fontes": [
-    "https://trapiche.com.ar/comex/en/producto/oak-cask-malbec-2/",
-    "https://www.paodeacucar.com/produto/60466/vinho-tinto-argentino-trapiche-roble-malbec-750ml"
+   "Pão de Açúcar: R$ 79,9, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Especiarias"
   ],
-  "preco": {
-    "referencia": 79.9,
-    "min": 79.9,
-    "max": 79.9,
-    "ajustes": [],
-    "fontes": [
-      "Pão de Açúcar: R$ 79,9, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.4,
-    "complexidade": 7.6,
-    "familias": [
-      "Frutas",
-      "Madeira",
-      "Especiarias"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Cereja preta",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pão tostado",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Pimenta-preta",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Mineral",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.6,
-    "corpo": 6.8,
-    "tanino_docura": 7.0,
-    "intensidade": 7.0,
-    "final": 6.6,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — correta",
-      "Médio — redondo e rico",
-      "Firme — mastigável",
-      "Moderada a pronunciada",
-      "Médio — final especiado"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pão tostado",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.8,
+  "tanino_docura": 7.0,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — correta",
+   "Médio — redondo e rico",
+   "Firme — mastigável",
+   "Moderada a pronunciada",
+   "Médio — final especiado"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ }
 }

@@ -1,91 +1,92 @@
 {
-  "slug": "montes-classic-reserva-merlot",
-  "rank_amazon": null,
-  "pos_lista300": 140,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Montes Classic Series Reserva Merlot",
-    "produtor": "Viña Montes",
-    "tipo": "Tinto",
-    "pais": "Chile",
-    "regiao": "Valle Central",
-    "safra": null,
-    "uvas": "Merlot",
-    "teor": 14.0,
-    "servir": "17 °C",
-    "estilo": "Seco, com carvalho"
-  },
-  "canal": "Supermercado",
+ "slug": "montes-classic-reserva-merlot",
+ "rank_amazon": null,
+ "pos_lista300": 140,
+ "data": "2026-10-26",
+ "status": "base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)",
+  "Chegou só a página salva (.htm) sem a imagem; enviar a foto em arquivo"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Montes Classic Series Reserva Merlot",
+  "produtor": "Viña Montes",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-montes-classic-series-reserva-merlot-750-ml"
+ ],
+ "preco": {
+  "referencia": 119.99,
+  "min": 119.99,
+  "max": 119.99,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-montes-classic-series-reserva-merlot-750-ml"
+   "Imigrantes Bebidas: R$ 119,99, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.2,
+  "complexidade": 7.3,
+  "familias": [
+   "Frutas",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 119.99,
-    "min": 119.99,
-    "max": 119.99,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas: R$ 119,99, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.2
-  },
-  "aroma": {
-    "limpeza": 8.2,
-    "intensidade": 7.2,
-    "complexidade": 7.3,
-    "familias": [
-      "Frutas",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Frutas vermelhas maduras",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Ameixa",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Carvalho",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.8,
-    "corpo": 6.8,
-    "tanino_docura": 6.8,
-    "intensidade": 7.0,
-    "final": 6.8,
-    "final_segundos": 6,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — integrada",
-      "Médio — elegante",
-      "Integrado — macio",
-      "Moderada a pronunciada",
-      "Médio — boa persistência"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Carvalho",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — integrada",
+   "Médio — elegante",
+   "Integrado — macio",
+   "Moderada a pronunciada",
+   "Médio — boa persistência"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ }
 }

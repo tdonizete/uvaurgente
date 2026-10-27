@@ -1,0 +1,131 @@
+{
+ "slug": "esporao-pe-tinto",
+ "data": "2026-10-27",
+ "provado": false,
+ "vinho": {
+  "title": "Pé Tinto",
+  "produtor": "Esporão",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Portugal (vinho de lote)",
+  "safra": null,
+  "uvas": "Castelão, Trincadeira, Touriga Nacional e outras",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://esporao.com/pt/vinhos/pe-tinto/2023",
+  "https://www.degusti.com.br/tipo-de-vinho/vinho-tinto/vinho-esporao-pe-tinto-750ml"
+ ],
+ "preco": {
+  "referencia": 42.0,
+  "min": 42.0,
+  "max": 51.22,
+  "ajustes": [],
+  "fontes": [
+   "Amazon (Mais vendidos): R$ 42,0, 26/10/2026",
+   "Bing Shopping — Magazine Luiza: R$ 51,22, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 6.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Frutos silvestres",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.4,
+  "tanino_docura": 6.4,
+  "intensidade": 6.4,
+  "final": 6.2,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — fresca",
+   "Médio — boa textura",
+   "Fino — macio",
+   "Moderada — fruta jovem",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto português de entrada, leve e frutado.",
+  "kicker_identidade": "Português do dia a dia",
+  "historico": "O Pé Tinto é a linha de entrada do Esporão, produtor do Alentejo. É um vinho de lote seco e sem madeira.",
+  "degustacao": "Frutos silvestres, cereja e framboesa no nariz. Na boca é leve, macio e de final curto.",
+  "harmonizacao": [
+   {
+    "prato": "Massa ao sugo",
+    "porque": "Acidez e fruta para o molho de tomate.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Frango assado",
+    "porque": "Tinto leve que não pesa na carne branca.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Pizza de muçarela",
+    "porque": "Combinação fácil de sexta-feira.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Tábua de frios",
+    "porque": "Salame e queijo com fruta fresca.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Sanduíche de pernil",
+    "porque": "Tempero e gordura com tanino baixo.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#castelao",
+  "#vinhoportugal",
+  "#esporao"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/esporao-pe-tinto.png"
+}

@@ -1,92 +1,97 @@
 {
-  "slug": "aurora-colheita-tardia-branco",
-  "rank_amazon": null,
-  "pos_lista300": 189,
-  "data": "2026-10-26",
-  "status": "base",
-  "confianca": "baixa",
-  "pendencias": [
-    "Preço e perfil em 1 só fonte (Imigrantes)",
-    "Vinho de sobremesa: comparar só com outros doces"
-  ],
-  "provado": false,
-  "vinho": {
-    "title": "Aurora Colheita Tardia Branco (500 ml)",
-    "produtor": "Vinícola Aurora",
-    "tipo": "Branco",
-    "pais": "Brasil",
-    "regiao": "Serra Gaúcha",
-    "safra": null,
-    "uvas": "Malvasia, Moscato",
-    "teor": 12.5,
-    "servir": "8 °C",
-    "estilo": "Doce, colheita tardia"
-  },
-  "canal": "Supermercado",
+ "slug": "aurora-colheita-tardia-branco",
+ "rank_amazon": null,
+ "pos_lista300": 189,
+ "data": "2026-10-26",
+ "status": "base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço e perfil em 1 só fonte (Imigrantes)",
+  "Vinho de sobremesa: comparar só com outros doces",
+  "Foto recebida em 27/10/2026; falta 2ª fonte de preço (exigência 11.1) para publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Aurora Colheita Tardia Branco (500 ml)",
+  "produtor": "Vinícola Aurora",
+  "tipo": "Branco",
+  "pais": "Brasil",
+  "regiao": "Serra Gaúcha",
+  "safra": null,
+  "uvas": "Malvasia, Moscato",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Doce, colheita tardia"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-aurora-colheita-tardia-branco-500ml"
+ ],
+ "preco": {
+  "referencia": 31.49,
+  "min": 31.49,
+  "max": 31.49,
+  "ajustes": [],
   "fontes": [
-    "https://www.imigrantesbebidas.com.br/vinho-aurora-colheita-tardia-branco-500ml"
+   "Imigrantes Bebidas (500 ml = R$ 31,49 por 750 ml): R$ 31,49, 26/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.0
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 7.2,
+  "complexidade": 7.2,
+  "familias": [
+   "Florais",
+   "Oxidativo"
   ],
-  "preco": {
-    "referencia": 31.49,
-    "min": 31.49,
-    "max": 31.49,
-    "ajustes": [],
-    "fontes": [
-      "Imigrantes Bebidas (500 ml = R$ 31,49 por 750 ml): R$ 31,49, 26/10/2026"
-    ]
-  },
-  "visual": {
-    "nota": 8.0
-  },
-  "aroma": {
-    "limpeza": 8.0,
-    "intensidade": 7.2,
-    "complexidade": 7.2,
-    "familias": [
-      "Florais",
-      "Oxidativo"
-    ],
-    "top5": [
-      {
-        "nome": "Mel",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Flores brancas",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Nozes",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Castanha",
-        "nivel": "fraco"
-      },
-      {
-        "nome": "Damasco",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 6.4,
-    "corpo": 6.8,
-    "tanino_docura": 7.4,
-    "intensidade": 7.0,
-    "final": 6.4,
-    "final_segundos": 5,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Média — sustenta o doce",
-      "Médio — aveludado",
-      "Doce — coerente com o estilo",
-      "Moderada a pronunciada",
-      "Médio — cerca de 5 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": false
-  }
+  "top5": [
+   {
+    "nome": "Mel",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Nozes",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Castanha",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Damasco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 6.8,
+  "tanino_docura": 7.4,
+  "intensidade": 7.0,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — sustenta o doce",
+   "Médio — aveludado",
+   "Doce — coerente com o estilo",
+   "Moderada a pronunciada",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "recebida (27/10/2026), aguardando 2ª fonte de preço",
+  "arquivo": "fotos_png/aurora-colheita-tardia-branco.png"
+ }
 }
