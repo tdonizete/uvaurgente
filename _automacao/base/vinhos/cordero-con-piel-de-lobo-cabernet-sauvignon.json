@@ -1,0 +1,92 @@
+{
+  "slug": "cordero-con-piel-de-lobo-cabernet-sauvignon",
+  "rank_amazon": 46,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon); Pão de Açúcar indisponível"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Cordero con Piel de Lobo Cabernet Sauvignon",
+    "produtor": "Mosquita Muerta Wines",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/584620/vinho-tinto-argentino-cordero-en-piel-de-lobo-cabernet-sauvignon-750ml",
+    "https://argentina.guides.winefolly.com/wineries/mosquita-muerta-wines/wines"
+  ],
+  "preco": {
+    "referencia": 54.9,
+    "min": 54.9,
+    "max": 54.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 54,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.5,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Cassis",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Tabaco",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cedro",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.6,
+    "corpo": 6.8,
+    "tanino_docura": 6.6,
+    "intensidade": 6.8,
+    "final": 6.4,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca",
+      "Médio — estruturado",
+      "Médio — presente",
+      "Moderada — fruta escura",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

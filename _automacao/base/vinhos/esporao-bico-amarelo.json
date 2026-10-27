@@ -1,0 +1,90 @@
+{
+  "slug": "esporao-bico-amarelo",
+  "rank_amazon": 38,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Bico Amarelo",
+    "produtor": "Esporão",
+    "tipo": "Branco",
+    "pais": "Portugal",
+    "regiao": "Vinho Verde",
+    "safra": null,
+    "uvas": "Loureiro, Alvarinho, Avesso",
+    "teor": 11.0,
+    "servir": "8 °C",
+    "estilo": "Seco, sem gás"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://esporao.com/pt/vinhos/bico-amarelo/2024",
+    "https://esporao.com/en/press-center/bico-amarelo-is-the-new-vinho-verde-from-esporao"
+  ],
+  "preco": {
+    "referencia": 74.95,
+    "min": 74.95,
+    "max": 74.95,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 74,95, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.4,
+    "complexidade": 7.0,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Limão",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Lima",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maracujá",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Toranja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 8.2,
+    "corpo": 6.8,
+    "tanino_docura": 8.6,
+    "intensidade": 7.2,
+    "final": 6.8,
+    "final_segundos": 6,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — 6,3 g/L, pH 3,2",
+      "Médio — bom volume",
+      "Seco — 1,5 g/L",
+      "Pronunciada — cítrica",
+      "Médio — cerca de 6 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

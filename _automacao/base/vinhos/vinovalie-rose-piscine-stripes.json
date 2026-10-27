@@ -1,0 +1,93 @@
+{
+  "slug": "vinovalie-rose-piscine-stripes",
+  "rank_amazon": 45,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)",
+    "Castas e região de 1 só fonte (resenha)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Rosé Piscine Stripes",
+    "produtor": "Vinovalie",
+    "tipo": "Rosé",
+    "pais": "França",
+    "regiao": "Sudoeste (Fronton)",
+    "safra": null,
+    "uvas": "Négrette",
+    "teor": 11.0,
+    "servir": "8 °C",
+    "estilo": "Meio seco, pensado para servir com gelo"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.delectable.com/wine/vinovalie/piscine-rose-blend/--",
+    "https://www.auchan.fr/vin-de-france-rose-piscine-rose/pr-C1280969"
+  ],
+  "preco": {
+    "referencia": 59.0,
+    "min": 59.0,
+    "max": 59.0,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 59,0, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 7.5,
+    "familias": [
+      "Frutas",
+      "Florais",
+      "Especiarias"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Flores brancas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pimenta-branca",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 6.4,
+    "tanino_docura": 7.4,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — crocante",
+      "Leve a médio",
+      "Meio seco — leve dulçor",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

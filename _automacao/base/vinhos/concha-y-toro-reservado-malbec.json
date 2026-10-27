@@ -1,0 +1,92 @@
+{
+  "slug": "concha-y-toro-reservado-malbec",
+  "rank_amazon": 35,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Reservado Malbec",
+    "produtor": "Concha y Toro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 12.5,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-malbec-750ml",
+    "https://www.werlecomercial.com.br/vinho-concha-y-toro-reservado-malbec-750ml"
+  ],
+  "preco": {
+    "referencia": 24.99,
+    "min": 24.99,
+    "max": 33.66,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 33,66, 26/10/2026",
+      "Imigrantes Bebidas: R$ 24,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 6.8,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Florais"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.2,
+    "corpo": 6.4,
+    "tanino_docura": 6.2,
+    "intensidade": 6.4,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — redondo",
+      "Macio — sem adstringência",
+      "Moderada — fruta madura",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

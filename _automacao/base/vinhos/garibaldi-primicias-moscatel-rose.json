@@ -1,0 +1,89 @@
+{
+  "slug": "garibaldi-primicias-moscatel-rose",
+  "rank_amazon": 48,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon), convertido para 750 ml"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Primícias Moscatel Rosé (660 ml)",
+    "produtor": "Cooperativa Vinícola Garibaldi",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Moscato de Hamburgo, Moscato Branco",
+    "teor": 7.5,
+    "servir": "6 °C",
+    "estilo": "Doce (70 g/L), processo Asti"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://vinicolagaribaldi.com.br/produtos/primicias-moscatel-rose/",
+    "https://www.vinicolagaribaldi.com.br/produto/espumante-primicias-moscatel-rose-660ml/185"
+  ],
+  "preco": {
+    "referencia": 33.86,
+    "min": 33.86,
+    "max": 33.86,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos) (660 ml = R$ 33,86 por 750 ml): R$ 33,86, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 7.0,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Uva moscatel",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.0,
+    "tanino_docura": 7.0,
+    "intensidade": 6.6,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — dá frescor",
+      "Leve — cremoso",
+      "Doce — 70 g/L",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

@@ -262,21 +262,28 @@
       "nome": "Concha y Toro Casillero Del Diablo Sauvignon Blanc 750ml",
       "preco_amazon": 44.42,
       "avaliacoes_amazon": 949,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "casillero-del-diablo-reserva-sauvignon-blanc",
+      "nota": 7.3,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 29,
       "nome": "V IMP BENJAMIN NIETO CHARDONNAY 750ML",
       "preco_amazon": 39.9,
       "avaliacoes_amazon": null,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Nieto Senetiner Benjamín Chardonnay: nenhuma nota de degustação publicada encontrada"
     },
     {
       "rank": 30,
       "nome": "Vinho Pé Tinto Esporão 750ml",
       "preco_amazon": 42.0,
       "avaliacoes_amazon": 67,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "esporao-pe-tinto",
+      "nota": 6.7,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 31,
@@ -291,7 +298,10 @@
       "nome": "Casa Perini Espumante Moskatel 750 Ml",
       "preco_amazon": 50.21,
       "avaliacoes_amazon": 742,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "casa-perini-moscatel",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 33,
@@ -314,112 +324,158 @@
       "nome": "Concha y Toro Reservado Malbec 750ml",
       "preco_amazon": 33.66,
       "avaliacoes_amazon": 64,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "concha-y-toro-reservado-malbec",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 36,
       "nome": "Vinho Chileno Diablo Crystal Sauvignon Blanc 750ml 2023",
       "preco_amazon": 49.36,
       "avaliacoes_amazon": null,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "diablo-crystal-sauvignon-blanc",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 37,
       "nome": "Espumante Salton Series Moscatel Salton Abbuoto",
       "preco_amazon": 38.77,
       "avaliacoes_amazon": 78,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "salton-series-moscatel",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 38,
       "nome": "Vinho Verde Bico Amarelo Esporão 750ml",
       "preco_amazon": 74.95,
       "avaliacoes_amazon": 20,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "esporao-bico-amarelo",
+      "nota": 7.5,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 39,
       "nome": "Sierra Batuco Vinho Tinto Chileno Cabernet Sauvignon, seco, 750Ml",
       "preco_amazon": 35.0,
       "avaliacoes_amazon": 676,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "sierra-batuco-cabernet-sauvignon",
+      "nota": 6.8,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 40,
       "nome": "Espumante Cava Rosado Freixenet, Brut, 750ml | Cava Rosado",
       "preco_amazon": 78.9,
       "avaliacoes_amazon": 29,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "freixenet-cava-rosado-brut",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 41,
       "nome": "Espumante Salton Brut Ouro Salton",
       "preco_amazon": 44.16,
       "avaliacoes_amazon": 65,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "salton-ouro-brut",
+      "nota": 7.7,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 42,
       "nome": "Vinho Branco Bodegas Esteban Martin, Chardonnay Macabeo, 750ml | D.O.P. Cariñena",
       "preco_amazon": 37.9,
       "avaliacoes_amazon": 281,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "esteban-martin-blanco-chardonnay-macabeo",
+      "nota": 7.6,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 43,
       "nome": "Vinho Fino Tinto Português Intimista Alentejo 750ml",
       "preco_amazon": 38.89,
       "avaliacoes_amazon": 180,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "intimista-alentejo-tinto",
+      "nota": 7.4,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 44,
       "nome": "Quinta de Bons Ventos Vinho Tinto",
       "preco_amazon": 50.9,
       "avaliacoes_amazon": 381,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "casa-santos-lima-quinta-de-bons-ventos",
+      "nota": 7.2,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 45,
       "nome": "HAO BOSCH Vinho Rose Piscine Stripes Listras 750Ml",
       "preco_amazon": 59.0,
       "avaliacoes_amazon": 832,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "vinovalie-rose-piscine-stripes",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 46,
       "nome": "Vinho Tinto Argentino Cordero Con Piel de Lobo Cabernet Sauvignon 750ml",
       "preco_amazon": 54.9,
       "avaliacoes_amazon": 86,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "cordero-con-piel-de-lobo-cabernet-sauvignon",
+      "nota": 7.0,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 47,
       "nome": "Finca La Linda Malbec 750ml, Vinho Tinto",
       "preco_amazon": 62.9,
       "avaliacoes_amazon": 73,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "luigi-bosca-finca-la-linda-malbec",
+      "nota": 7.3,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 48,
       "nome": "Garibaldi Espumante Primícias Moscatel Rosé 660ml",
       "preco_amazon": 29.8,
       "avaliacoes_amazon": 80,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "garibaldi-primicias-moscatel-rose",
+      "nota": 6.9,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 49,
       "nome": "Vinho Tinto Suave Collina 750 Ml",
       "preco_amazon": 15.62,
       "avaliacoes_amazon": 14,
-      "status": "a_avaliar"
+      "status": "sem_ficha",
+      "motivo": "Collina Tinto Suave: produtor, uvas e perfil não encontrados"
     },
     {
       "rank": 50,
       "nome": "Don Nicolás Vinho Tinto Argentino Malbec 750Ml",
       "preco_amazon": 39.9,
       "avaliacoes_amazon": 250,
-      "status": "a_avaliar"
+      "status": "avaliado_base",
+      "slug": "don-nicolas-malbec",
+      "nota": 7.1,
+      "selo": "Sem Pressa"
     },
     {
       "rank": 51,

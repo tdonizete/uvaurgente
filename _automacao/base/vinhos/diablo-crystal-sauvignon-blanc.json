@@ -1,0 +1,91 @@
+{
+  "slug": "diablo-crystal-sauvignon-blanc",
+  "rank_amazon": 36,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Preço em 1 só fonte (Amazon)",
+    "Teor não informado"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Diablo Crystal Sauvignon Blanc",
+    "produtor": "Concha y Toro",
+    "tipo": "Branco",
+    "pais": "Chile",
+    "regiao": "Valle de Curicó",
+    "safra": null,
+    "uvas": "Sauvignon Blanc, Chardonnay, Pedro Ximénez",
+    "teor": null,
+    "servir": "8 °C",
+    "estilo": "Seco, cremoso"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://conchaytoro.com/en/?p=79131",
+    "https://winedrinker.co.uk/diablo-crystal-sauvignon-blanc/"
+  ],
+  "preco": {
+    "referencia": 49.36,
+    "min": 49.36,
+    "max": 49.36,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 49,36, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.2,
+    "complexidade": 7.0,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Maracujá",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pêssego branco",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.8,
+    "corpo": 7.0,
+    "tanino_docura": 7.6,
+    "intensidade": 7.0,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca",
+      "Médio — cremoso",
+      "Seco, com fruta doce aparente",
+      "Moderada a pronunciada",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
