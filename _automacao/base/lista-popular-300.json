@@ -579,25 +579,29 @@
    "pos": 83,
    "nome": "Miolo Reserva Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "miolo-reserva-cabernet-sauvignon"
   },
   {
    "pos": 84,
    "nome": "Miolo Reserva Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "miolo-reserva-merlot"
   },
   {
    "pos": 85,
    "nome": "Villa Francioni Pinot Noir",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Villa Francioni Pinot Noir: não encontrado em lojas nem fichas"
   },
   {
    "pos": 86,
    "nome": "Guaspari Syrah Vista do Chá",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Guaspari Syrah Vista do Chá: notas Decanter de safras antigas, sem preço em loja consultada"
   },
   {
    "pos": 87,
@@ -610,104 +614,121 @@
    "pos": 88,
    "nome": "Perini Rosé",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "casa-perini-brut-rose"
   },
   {
    "pos": 89,
    "nome": "Aurora Reserva Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-reserva-cabernet-sauvignon"
   },
   {
    "pos": 90,
    "nome": "Aurora Reserva Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "aurora-reserva-merlot"
   },
   {
    "pos": 91,
    "nome": "Salton Reserva Cabernet Sauvignon",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Salton Reserva Cabernet Sauvignon: linha não existe (provável Salton Classic, item 181)"
   },
   {
    "pos": 92,
    "nome": "Salton Reserva Merlot",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Salton Reserva Merlot: linha não existe (provável Salton Classic, item 182)"
   },
   {
    "pos": 93,
    "nome": "Pizzato Fausto Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Pizzato Fausto Chardonnay: páginas bloqueadas"
   },
   {
    "pos": 94,
    "nome": "Luiz Argenta Chardonnay Clássico",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Luiz Argenta Clássico Chardonnay: sem ficha nem preço"
   },
   {
    "pos": 95,
    "nome": "Los Riscos Chardonnay",
    "pais": "Brasil",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Los Riscos Chardonnay (Brasil): vinho não identificado"
   },
   {
    "pos": 96,
    "nome": "La Flor de Pulenta Sauvignon Blanc",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "La Flor de Pulenta Sauvignon Blanc: só lojas do Reino Unido/EUA"
   },
   {
    "pos": 97,
    "nome": "Benjamin Nieto Suave",
    "pais": "Brasil",
-   "status": "a_avaliar",
-   "obs": "lista diz Brasil; Benjamín é da Nieto Senetiner (Argentina)"
+   "status": "sem_ficha",
+   "obs": "lista diz Brasil; Benjamín é da Nieto Senetiner (Argentina)",
+   "motivo": "Benjamín (Nieto Senetiner) Suave: sem ficha publicada"
   },
   {
    "pos": 98,
    "nome": "Les Celliers de Sorën Chablis",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "nao_identificado",
+   "motivo": "Les Celliers de Sorën Chablis: produtor não identificado"
   },
   {
    "pos": 99,
    "nome": "Domaine L. Chatelain Chablis",
    "pais": "França",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Domaine L. Chatelain Chablis: só Vivino/James Suckling; sem preço no Brasil"
   },
   {
    "pos": 100,
    "nome": "Freixenet Italian Sparkling Rosé",
    "pais": "Itália",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "freixenet-italian-rose"
   },
   {
    "pos": 101,
    "nome": "San Telmo The Grill Master Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "san-telmo-malbec"
   },
   {
    "pos": 102,
    "nome": "Angelica Zapata Malbec Alta",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "avaliado_base",
+   "slug": "catena-zapata-angelica-zapata-malbec-alta"
   },
   {
    "pos": 103,
    "nome": "Chac Chac Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Chac Chac Malbec (Las Perdices): preço Wine.com.br R$ 56,35, sem descrição sensorial"
   },
   {
    "pos": 104,
    "nome": "Viña Las Perdices Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Las Perdices Malbec: preço Wine.com.br R$ 88,12, sem descrição sensorial"
   },
   {
    "pos": 105,
@@ -720,7 +741,8 @@
    "pos": 106,
    "nome": "Rutini Colección Cabernet Sauvignon-Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Rutini Colección Cabernet-Malbec: Pão de Açúcar sem estoque e sem preço"
   },
   {
    "pos": 107,
@@ -733,13 +755,15 @@
    "pos": 108,
    "nome": "Malacara Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_ficha",
+   "motivo": "Malacara Malbec: não encontrado"
   },
   {
    "pos": 109,
    "nome": "Jean Bousquet Malbec",
    "pais": "Argentina",
-   "status": "a_avaliar"
+   "status": "sem_preco",
+   "motivo": "Jean Bousquet Malbec: perfil do produtor, sem preço no Brasil"
   },
   {
    "pos": 110,

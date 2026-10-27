@@ -1,0 +1,90 @@
+{
+  "slug": "freixenet-italian-rose",
+  "rank_amazon": null,
+  "pos_lista300": 100,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Freixenet Italian Rosé",
+    "produtor": "Freixenet (Mionetto)",
+    "tipo": "Espumante",
+    "pais": "Itália",
+    "regiao": "Vêneto",
+    "safra": null,
+    "uvas": "Glera, Pinot Noir",
+    "teor": 11.0,
+    "servir": "6 °C",
+    "estilo": "Extra dry (16 g/L), método Charmat"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.lcbo.com/en/freixenet-italian-rose-11222",
+    "https://www.imigrantesbebidas.com.br/vinho-freixenet-italian-rose-750ml"
+  ],
+  "preco": {
+    "referencia": 79.99,
+    "min": 79.99,
+    "max": 119.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 79,99, 26/10/2026",
+      "Werle Comercial: R$ 119,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 6.8,
+    "complexidade": 6.9,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas vermelhas frescas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Melão",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.4,
+    "corpo": 6.4,
+    "tanino_docura": 7.6,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — refrescante",
+      "Leve — coerente com o estilo",
+      "Extra dry — dulçor leve",
+      "Moderada — fruta vermelha",
+      "Médio — final crocante"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "casa-perini-brut-rose",
+  "rank_amazon": null,
+  "pos_lista300": 88,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "A lista diz 'Perini Rosé': avaliado o espumante Brut Rosé (há também um vinho rosé tranquilo)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Casa Perini Brut Rosé",
+    "produtor": "Casa Perini",
+    "tipo": "Espumante",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha (Farroupilha)",
+    "safra": null,
+    "uvas": "Chardonnay, Gamay, Pinot Noir",
+    "teor": 11.8,
+    "servir": "6 °C",
+    "estilo": "Brut"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://loja.casaperini.com.br/espumante-brut-rose-750ml-casa-perini",
+    "https://www.imigrantesbebidas.com.br/espumante-casa-perini-brut-rose-750ml"
+  ],
+  "preco": {
+    "referencia": 67.99,
+    "min": 67.99,
+    "max": 68.9,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 67,99, 26/10/2026",
+      "Loja Casa Perini: R$ 68,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.2
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 6.8,
+    "tanino_docura": 8.4,
+    "intensidade": 6.8,
+    "final": 6.6,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — refrescante",
+      "Leve — coerente com o estilo",
+      "Brut — coerente",
+      "Moderada — fruta vermelha",
+      "Médio — boa persistência"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

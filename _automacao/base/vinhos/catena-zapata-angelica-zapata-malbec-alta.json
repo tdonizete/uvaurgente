@@ -1,0 +1,96 @@
+{
+  "slug": "catena-zapata-angelica-zapata-malbec-alta",
+  "rank_amazon": null,
+  "pos_lista300": 102,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [
+    "James Suckling 96 (safra 2022); final longo não confirmado por fonte de duração"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Angélica Zapata Malbec Alta",
+    "produtor": "Catena Zapata",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 14.0,
+    "servir": "17 °C",
+    "estilo": "Seco, 12 a 24 meses em carvalho francês"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-angelica-zapata-malbec-750ml",
+    "https://www.mistral.com.br/produto/angelica-zapata-malbec-2021-catena-zapata"
+  ],
+  "preco": {
+    "referencia": 439.99,
+    "min": 439.99,
+    "max": 501.2,
+    "ajustes": [],
+    "fontes": [
+      "Imigrantes Bebidas: R$ 439,99, 26/10/2026",
+      "Mistral: R$ 501,2, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.8
+  },
+  "aroma": {
+    "limpeza": 8.8,
+    "intensidade": 8.0,
+    "complexidade": 8.2,
+    "familias": [
+      "Frutas",
+      "Especiarias",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Ameixa madura",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Pimenta-preta",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cravo",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Carvalho francês",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas negras",
+        "nivel": "moderado"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 8.2,
+    "tanino_docura": 8.0,
+    "intensidade": 8.2,
+    "final": 7.4,
+    "final_segundos": 7,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — elegante",
+      "Encorpado — concentrado",
+      "Firme — macio e elegante",
+      "Pronunciada — concentrada",
+      "Médio — cerca de 7 segundos (sem dado de duração)"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": true,
+    "algo_alem_do_cartuxa": true,
+    "aproxima_9": false
+  }
+}

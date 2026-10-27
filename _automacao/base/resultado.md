@@ -93,6 +93,14 @@ Coluna #: número = posição no top 100 Amazon; L + número = posição na list
 | L57 | Bodega Garzón Garzón Reserva Tannat | Uruguai | Tinto | R$ 128,06 | 8,6 | 8,1 | 7,7 | 7,2 | BIC | **7,8** | Sem Pressa | alta | Preço de referência é o Pix da Fast Shop; no Pão de Açúcar custa R$ 189,90 |
 | L61 | Viña Pérez Cruz Pérez Cruz Gran Reserva Cabernet Sauvignon | Chile | Tinto | R$ 94,00 | 8,6 | 8,1 | 7,5 | 7,2 | BIC | **7,7** | Sem Pressa | alta | Preço em 1 só fonte (Wine.com.br, esgotado) |
 | L77 | Esporão Monte Velho Tinto | Portugal | Tinto | R$ 79,99 | 8,0 | 7,5 | 6,7 | 6,8 | B | **7,1** | Sem Pressa | média | Preço em 1 só fonte (Imigrantes, promoção de R$ 106,99) |
+| L83 | Miolo Reserva Cabernet Sauvignon | Brasil | Tinto | R$ 91,99 | 8,2 | 7,5 | 6,9 | 6,1 | B | **7,0** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar |
+| L84 | Miolo Reserva Merlot | Brasil | Tinto | R$ 91,99 | 8,2 | 7,6 | 7,0 | 6,3 | B | **7,1** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); Pão de Açúcar fora do ar |
+| L88 | Casa Perini Brut Rosé | Brasil | Espumante | R$ 67,99 | 8,2 | 7,3 | 7,3 | 7,2 | B | **7,4** | Sem Pressa | média | A lista diz 'Perini Rosé': avaliado o espumante Brut Rosé (há também um vinho rosé tranquilo) |
+| L89 | Vinícola Aurora Aurora Reserva Cabernet Sauvignon | Brasil | Tinto | R$ 49,90 | 7,6 | 7,3 | 6,1 | 6,1 | B | **6,6** | Sem Pressa | média | — |
+| L90 | Vinícola Aurora Aurora Reserva Merlot | Brasil | Tinto | R$ 55,60 | 7,6 | 7,1 | 6,4 | 6,1 | B | **6,6** | Sem Pressa | média | — |
+| L100 | Freixenet Italian Rosé | Itália | Espumante | R$ 79,99 | 8,2 | 7,3 | 6,8 | 6,8 | B | **7,1** | Sem Pressa | alta | — |
+| L101 | San Telmo Malbec | Argentina | Tinto | R$ 67,99 | 7,8 | 7,3 | 6,3 | 6,3 | B | **6,7** | Sem Pressa | baixa | Preço e perfil em 1 só fonte (Imigrantes); A lista diz 'The Grill Master': não confirmado; avaliado o San Telmo Malbec |
+| L102 | Catena Zapata Angélica Zapata Malbec Alta | Argentina | Tinto | R$ 439,99 | 8,8 | 8,3 | 7,9 | 5,7 | BIC | **7,5** | Sem Pressa | alta | James Suckling 96 (safra 2022); final longo não confirmado por fonte de duração |
 
 ## Sem ficha (fora da pontuação)
 
