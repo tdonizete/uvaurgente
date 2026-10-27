@@ -1,0 +1,94 @@
+{
+  "slug": "diablo-red",
+  "rank_amazon": 59,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Uvas e teor não informados",
+    "Perfil vago (apenas fruta negra, mocha e baunilha)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Diablo Red (Dark Red)",
+    "produtor": "Concha y Toro",
+    "tipo": "Tinto",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Corte (uvas não informadas)",
+    "teor": null,
+    "servir": "16 °C",
+    "estilo": "Seco, estilo moderno"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.paodeacucar.com/produto/456531/vinho-chileno-tinto-diablo-dark-red-garrafa-750ml",
+    "https://www.werlecomercial.com.br/vinho-diablo-dark-red-1x750ml"
+  ],
+  "preco": {
+    "referencia": 65.89,
+    "min": 65.89,
+    "max": 93.2,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 77,92, 26/10/2026",
+      "Pão de Açúcar: R$ 65,89, 26/10/2026",
+      "Werle Comercial: R$ 93,2, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 8.0
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 7.2,
+    "complexidade": 7.2,
+    "familias": [
+      "Frutas",
+      "Madeira"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas negras",
+        "nivel": "pronunciado"
+      },
+      {
+        "nome": "Mocha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Baunilha",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 7.0,
+    "tanino_docura": 6.6,
+    "intensidade": 7.0,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — madura",
+      "Médio a encorpado",
+      "Macio — redondo",
+      "Moderada — fruta e madeira",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

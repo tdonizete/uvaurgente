@@ -1,0 +1,89 @@
+{
+  "slug": "miolo-selecao-rose",
+  "rank_amazon": 52,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Seleção Rosé Cabernet Sauvignon & Tempranillo",
+    "produtor": "Miolo",
+    "tipo": "Rosé",
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon, Tempranillo",
+    "teor": 11.5,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-miolo-selecao-rose-cabernet-sauvignon-e-tempranillo-750ml",
+    "https://www.paodeacucar.com/produto/138171/vinho-brasileiro-rose-miolo-selcao-cabernet-sauvignon-tempranillo-garrafa-750ml"
+  ],
+  "preco": {
+    "referencia": 35.55,
+    "min": 35.55,
+    "max": 55.99,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 35,55, 26/10/2026",
+      "Imigrantes Bebidas: R$ 55,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 7.0,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.0,
+    "corpo": 6.4,
+    "tanino_docura": 8.2,
+    "intensidade": 6.4,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média-alta — fresca",
+      "Leve — macio",
+      "Seco — coerente",
+      "Moderada — perfumado",
+      "Médio — média persistência"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

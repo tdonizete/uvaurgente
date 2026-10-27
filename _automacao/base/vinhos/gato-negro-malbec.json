@@ -1,0 +1,89 @@
+{
+  "slug": "gato-negro-malbec",
+  "rank_amazon": 54,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Perfil em 1 só fonte, que se contradiz (seco x 'sabor doce')"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Gato Negro Malbec",
+    "produtor": "San Pedro",
+    "tipo": "Tinto",
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "safra": null,
+    "uvas": "Malbec",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-gato-negro-malbec-750ml"
+  ],
+  "preco": {
+    "referencia": 32.99,
+    "min": 32.99,
+    "max": 39.99,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 32,99, 26/10/2026",
+      "Imigrantes Bebidas: R$ 39,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.6,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Amora",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas negras",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Violeta",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.2,
+    "corpo": 6.4,
+    "tanino_docura": 6.0,
+    "intensidade": 6.2,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — correta",
+      "Médio — sedoso",
+      "Sutil — macio",
+      "Moderada — fruta escura",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

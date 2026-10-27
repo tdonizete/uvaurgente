@@ -1,0 +1,88 @@
+{
+  "slug": "casal-garcia-rose",
+  "rank_amazon": 75,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "alta",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Casal Garcia Rosé",
+    "produtor": "Aveleda",
+    "tipo": "Rosé",
+    "pais": "Portugal",
+    "regiao": "Vinho Verde",
+    "safra": null,
+    "uvas": "Touriga Nacional, Sousão, Syrah, Tinta Roriz",
+    "teor": 9.5,
+    "servir": "8 °C",
+    "estilo": "Meio seco (16 g/L), levemente frisante"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://casalgarcia.com/wp-content/uploads/2025/07/FT-Casal-Garcia-Rose-1.pdf",
+    "https://www.paodeacucar.com/produto/129104/vinho-portugues-rose-meio-seco-casal-garcia-vinho-verde-garrafa-750ml"
+  ],
+  "preco": {
+    "referencia": 58.99,
+    "min": 58.99,
+    "max": 69.9,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 58,99, 26/10/2026",
+      "Pão de Açúcar: R$ 69,9, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.4,
+    "intensidade": 7.0,
+    "complexidade": 7.0,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Framboesa",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Groselha",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.8,
+    "corpo": 6.6,
+    "tanino_docura": 7.4,
+    "intensidade": 6.6,
+    "final": 6.2,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — 6,5 g/L",
+      "Leve — coerente com o estilo",
+      "Meio seco — 16 g/L, equilibrado",
+      "Moderada — fruta vermelha",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

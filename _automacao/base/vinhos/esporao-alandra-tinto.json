@@ -1,0 +1,89 @@
+{
+  "slug": "esporao-alandra-tinto",
+  "rank_amazon": 66,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [],
+  "provado": false,
+  "vinho": {
+    "title": "Alandra Tinto",
+    "produtor": "Esporão",
+    "tipo": "Tinto",
+    "pais": "Portugal",
+    "regiao": "Portugal (vinho de lote)",
+    "safra": null,
+    "uvas": "Castelão, Trincadeira, Touriga Nacional e outras",
+    "teor": 13.0,
+    "servir": "16 °C",
+    "estilo": "Seco, sem madeira"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://esporao.com/pt/vinhos/alandra-red/2023",
+    "https://www.imigrantesbebidas.com.br/vinho-alandra-tinto-750ml"
+  ],
+  "preco": {
+    "referencia": 32.5,
+    "min": 32.5,
+    "max": 45.99,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 32,5, 26/10/2026",
+      "Imigrantes Bebidas: R$ 45,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.6
+  },
+  "aroma": {
+    "limpeza": 8.2,
+    "intensidade": 6.6,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutos silvestres",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Amora",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Ameixa",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.4,
+    "corpo": 6.2,
+    "tanino_docura": 6.2,
+    "intensidade": 6.2,
+    "final": 6.0,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca",
+      "Médio — boa textura",
+      "Fino — macio",
+      "Moderada — fruta jovem",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}

@@ -42,3 +42,19 @@ Gerado por `_automacao/pontuar_base.py`. Nenhum destes vinhos está no site.
 | 47 | Luigi Bosca Finca La Linda Malbec | Argentina | Tinto | R$ 62,90 | 8,2 | 7,7 | 7,0 | 7,2 | B | **7,3** | Sem Pressa | média | Preço em 1 só fonte (Amazon) |
 | 48 | Cooperativa Vinícola Garibaldi Primícias Moscatel Rosé (660 ml) | Brasil | Espumante | R$ 33,86 | 7,8 | 7,2 | 6,4 | 8,1 | B | **6,9** | Sem Pressa | média | Preço em 1 só fonte (Amazon), convertido para 750 ml |
 | 50 | Don Nicolás Malbec | Argentina | Tinto | R$ 39,90 | 7,6 | 7,4 | 6,2 | 8,1 | B | **7,1** | Sem Pressa | média | — |
+| 51 | Concha y Toro Reservado Sweet Rosé | Chile | Rosé | R$ 24,99 | 7,4 | 7,1 | 6,0 | 7,8 | B | **6,9** | Sem Pressa | média | Perfil em 1 só fonte |
+| 52 | Miolo Seleção Rosé Cabernet Sauvignon & Tempranillo | Brasil | Rosé | R$ 35,55 | 7,8 | 7,3 | 6,9 | 8,4 | B | **7,5** | Sem Pressa | média | — |
+| 54 | San Pedro Gato Negro Malbec | Argentina | Tinto | R$ 32,99 | 7,6 | 7,1 | 6,2 | 7,9 | B | **6,9** | Sem Pressa | baixa | Perfil em 1 só fonte, que se contradiz (seco x 'sabor doce') |
+| 57 | Abegoaria Wines Intimista Alentejo Branco | Portugal | Branco | R$ 39,00 | 7,8 | 7,2 | 6,9 | 8,4 | B | **7,4** | Sem Pressa | baixa | Perfil em 1 só fonte; Produtor diverge do Intimista Tinto (Abegoaria x Adega da Granja) |
+| 58 | Salton Demi-Sec | Brasil | Espumante | R$ 35,25 | 8,0 | 7,5 | 6,7 | 8,6 | B | **7,5** | Sem Pressa | média | Perfil em 1 só fonte |
+| 59 | Concha y Toro Diablo Red (Dark Red) | Chile | Tinto | R$ 65,89 | 8,0 | 7,4 | 6,7 | 6,8 | B | **7,0** | Sem Pressa | baixa | Uvas e teor não informados; Perfil vago (apenas fruta negra, mocha e baunilha) |
+| 60 | Mosquita Muerta Wines Cordero con Piel de Lobo Malbec | Argentina | Tinto | R$ 46,90 | 7,8 | 7,5 | 6,6 | 6,6 | B | **6,9** | Sem Pressa | média | Preço em 1 só fonte (Amazon); Imigrantes sem estoque |
+| 63 | Freixenet Cordon Negro Brut | Espanha | Espumante | R$ 77,67 | 8,2 | 7,5 | 7,1 | 7,2 | B | **7,3** | Sem Pressa | alta | — |
+| 65 | Concha y Toro Diablo Black (Dark Black) | Chile | Tinto | R$ 66,69 | 8,0 | 7,6 | 6,8 | 7,0 | BC | **7,2** | Sem Pressa | baixa | Preço em 1 só fonte (Amazon); Perfil em 1 só fonte (Tesco); confirmar se o 'Dark Black' do Brasil é o mesmo Diablo Black |
+| 66 | Esporão Alandra Tinto | Portugal | Tinto | R$ 32,50 | 7,6 | 7,2 | 6,2 | 7,9 | B | **7,0** | Sem Pressa | média | — |
+| 69 | Miolo Seleção Chardonnay & Viognier (375 ml) | Brasil | Branco | R$ 40,90 | 7,8 | 7,1 | 6,7 | 6,5 | B | **6,9** | Sem Pressa | baixa | Perfil em 1 só fonte; Preço de referência da garrafa de 750 ml; na Amazon a meia garrafa sai mais cara por litro |
+| 70 | San Pedro Gato Negro Chardonnay | Chile | Branco | R$ 33,55 | 7,6 | 7,0 | 6,7 | 8,1 | B | **6,9** | Sem Pressa | média | — |
+| 72 | Viña Aresti Picarón Carménère | Chile | Tinto | R$ 39,00 | 7,6 | 7,5 | 6,4 | 8,3 | B | **7,3** | Sem Pressa | média | — |
+| 74 | Miolo (Terranova) Terranova Moscatel | Brasil | Espumante | R$ 39,75 | 7,8 | 7,5 | 6,5 | 8,4 | B | **7,4** | Sem Pressa | média | Perfil em 1 só fonte |
+| 75 | Aveleda Casal Garcia Rosé | Portugal | Rosé | R$ 58,99 | 7,8 | 7,4 | 6,9 | 6,8 | B | **6,9** | Sem Pressa | alta | — |
+| 76 | Concha y Toro Casillero del Diablo Reserva Malbec | Chile | Tinto | R$ 49,34 | 8,0 | 7,8 | 6,9 | 7,2 | BC | **7,3** | Sem Pressa | alta | — |

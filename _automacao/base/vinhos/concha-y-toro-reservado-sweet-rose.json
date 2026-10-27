@@ -1,0 +1,91 @@
+{
+  "slug": "concha-y-toro-reservado-sweet-rose",
+  "rank_amazon": 51,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "média",
+  "pendencias": [
+    "Perfil em 1 só fonte"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Reservado Sweet Rosé",
+    "produtor": "Concha y Toro",
+    "tipo": "Rosé",
+    "pais": "Chile",
+    "regiao": "Valle Central",
+    "safra": null,
+    "uvas": "Cabernet Sauvignon",
+    "teor": 12.0,
+    "servir": "8 °C",
+    "estilo": "Suave (doce)"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.imigrantesbebidas.com.br/vinho-concha-y-toro-reservado-sweet-rose-suave-750ml"
+  ],
+  "preco": {
+    "referencia": 24.99,
+    "min": 24.99,
+    "max": 39.89,
+    "ajustes": [
+      "promocao_frequente"
+    ],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 39,89, 26/10/2026",
+      "Imigrantes Bebidas: R$ 24,99, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.4
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.6,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Morango",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cereja",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Framboesa",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Frutas vermelhas",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 6.0,
+    "corpo": 5.6,
+    "tanino_docura": 6.6,
+    "intensidade": 6.2,
+    "final": 5.6,
+    "final_segundos": 4,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Média — fresca para um suave",
+      "Leve — simples",
+      "Suave — final adocicado",
+      "Moderada — fruta vermelha",
+      "Curto — cerca de 4 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": false
+  }
+}

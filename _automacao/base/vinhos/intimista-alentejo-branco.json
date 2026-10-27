@@ -1,0 +1,91 @@
+{
+  "slug": "intimista-alentejo-branco",
+  "rank_amazon": 57,
+  "data": "2026-10-26",
+  "status": "base",
+  "confianca": "baixa",
+  "pendencias": [
+    "Perfil em 1 só fonte",
+    "Produtor diverge do Intimista Tinto (Abegoaria x Adega da Granja)"
+  ],
+  "provado": false,
+  "vinho": {
+    "title": "Intimista Alentejo Branco",
+    "produtor": "Abegoaria Wines",
+    "tipo": "Branco",
+    "pais": "Portugal",
+    "regiao": "Alentejo",
+    "safra": null,
+    "uvas": "Arinto, Antão Vaz, Roupeiro, Manteúdo",
+    "teor": 12.5,
+    "servir": "8 °C",
+    "estilo": "Seco"
+  },
+  "canal": "Supermercado",
+  "fontes": [
+    "https://www.acheiseuvinho.com.br/intimista-branco"
+  ],
+  "preco": {
+    "referencia": 39.0,
+    "min": 39.0,
+    "max": 42.42,
+    "ajustes": [],
+    "fontes": [
+      "Amazon (Mais vendidos): R$ 39,0, 26/10/2026",
+      "Achei Seu Vinho: R$ 42,42, 26/10/2026"
+    ]
+  },
+  "visual": {
+    "nota": 7.8
+  },
+  "aroma": {
+    "limpeza": 8.0,
+    "intensidade": 6.8,
+    "complexidade": 6.8,
+    "familias": [
+      "Frutas"
+    ],
+    "top5": [
+      {
+        "nome": "Frutas tropicais",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Cítricos",
+        "nivel": "moderado"
+      },
+      {
+        "nome": "Maçã",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Pera",
+        "nivel": "fraco"
+      },
+      {
+        "nome": "Abacaxi",
+        "nivel": "fraco"
+      }
+    ]
+  },
+  "paladar": {
+    "acidez": 7.2,
+    "corpo": 6.6,
+    "tanino_docura": 8.0,
+    "intensidade": 6.4,
+    "final": 6.4,
+    "final_segundos": 5,
+    "ajuste_equilibrio": 0.0,
+    "descritores": [
+      "Alta — fresca",
+      "Médio — macio",
+      "Seco — leve açúcar",
+      "Moderada — fruta tropical",
+      "Médio — cerca de 5 segundos"
+    ]
+  },
+  "ancoras": {
+    "melhor_que_7": true,
+    "supera_cartuxa": false
+  }
+}
