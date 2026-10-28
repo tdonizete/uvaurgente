@@ -1,0 +1,103 @@
+{
+ "slug": "a-mare-primitivo-puglia",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Produtor não encontrado: conferir no rótulo",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "A Mare Primitivo Puglia",
+  "produtor": "Não informado",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Puglia",
+  "safra": null,
+  "uvas": "Primitivo",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 70.75,
+  "min": 70.75,
+  "max": 70.75,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — loja não identificada (link ofertei.tech): R$ 70,75, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Doces/confeitaria"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Geleia de frutas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Tinto A. Mare Primitivo Puglia IGT Italiano 750ml",
+   "preco": "70,75",
+   "loja": "loja não identificada (link ofertei.tech)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "marques-de-tomares-reserva",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Marqués de Tomares Reserva",
+  "produtor": "Bodegas Marqués de Tomares",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "Rioja",
+  "safra": null,
+  "uvas": "Tempranillo",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Reserva: 18 meses em carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 189.0,
+  "min": 189.0,
+  "max": 189.0,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — loja não identificada (link ofertei.tech): R$ 189,00, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Terrosos"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio a encorpado — redondo",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Marques De Tomares Reserva (tto) Rioja",
+   "preco": "189,00",
+   "loja": "loja não identificada (link ofertei.tech)"
+  }
+ ]
+}

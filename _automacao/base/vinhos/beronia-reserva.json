@@ -1,0 +1,103 @@
+{
+ "slug": "beronia-reserva",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "alta",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Beronia Reserva",
+  "produtor": "Beronia (González Byass)",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "Rioja",
+  "safra": null,
+  "uvas": "Tempranillo, Garnacha (Mazuelo) e Graciano",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Reserva: 20 meses em carvalho e 2 anos em garrafa"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 267.94,
+  "min": 267.94,
+  "max": 267.94,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 267,94, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Terrosos"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 8.0,
+  "tanino_docura": 7.8,
+  "intensidade": 8.0,
+  "final": 7.6,
+  "final_segundos": 8,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Encorpado — estrutura firme",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Longo — cerca de 8 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Beronia Vinho Espanhol Tinto Seco Reserva Tempranillo Mazuelo Graciano Rioja 750Ml",
+   "preco": "267,94",
+   "loja": "Amazon"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "santa-helena-reservado-chardonnay",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Helena Reservado Chardonnay",
+  "produtor": "Viña Santa Helena",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central (Molina)",
+  "safra": null,
+  "uvas": "Chardonnay",
+  "teor": 12.5,
+  "servir": "9 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.imigrantesbebidas.com.br/vinho-santa-helena-chardonnay-reservado-750ml"
+ ],
+ "preco": {
+  "referencia": 39.99,
+  "min": 23.99,
+  "max": 39.99,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 39,99, 27/10/2026",
+   "Imigrantes Bebidas: R$ 23,99, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pêssego",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 5.8,
+  "tanino_docura": 7.0,
+  "intensidade": 6.2,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Leve",
+   "Seco a meio seco",
+   "Moderada — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Santa Helena Vinho Reservado Chardonnay 750Ml",
+   "preco": "39,99",
+   "loja": "Amazon"
+  }
+ ]
+}

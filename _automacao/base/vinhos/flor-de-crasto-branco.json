@@ -1,0 +1,102 @@
+{
+ "slug": "flor-de-crasto-branco",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Flor de Crasto Branco",
+  "produtor": "Quinta do Crasto",
+  "tipo": "Branco",
+  "pais": "Portugal",
+  "regiao": "Douro",
+  "safra": null,
+  "uvas": "Viosinho, Gouveio e Rabigato",
+  "teor": 12.5,
+  "servir": "9 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 119.0,
+  "min": 119.0,
+  "max": 119.0,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 119,00, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Cítricos",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas brancas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Flores brancas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.8,
+  "tanino_docura": 7.6,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio — coerente com o estilo",
+   "Seco — bem integrado",
+   "Média a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Branco Flor de Crasto 750ml",
+   "preco": "119,00",
+   "loja": "Amazon"
+  }
+ ]
+}

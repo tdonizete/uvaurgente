@@ -1,0 +1,102 @@
+{
+ "slug": "las-perdices-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Las Perdices Cabernet Sauvignon",
+  "produtor": "Viña Las Perdices",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Luján de Cuyo, Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, parte com carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 68.2,
+  "min": 68.2,
+  "max": 68.2,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 68,20, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimentão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 7.0,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio a encorpado — redondo",
+   "Macio a firme",
+   "Média a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Tinto Argentino Las Perdices Cabernet Sauvignon 750 ml",
+   "preco": "68,20",
+   "loja": "Amazon"
+  }
+ ]
+}

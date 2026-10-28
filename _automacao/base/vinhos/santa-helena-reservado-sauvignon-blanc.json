@@ -1,0 +1,105 @@
+{
+ "slug": "santa-helena-reservado-sauvignon-blanc",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Oferta é da meia garrafa (375 ml): preço não comparável com 750 ml",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Helena Reservado Sauvignon Blanc (375 ml)",
+  "produtor": "Viña Santa Helena",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/96418/vinho-chileno-branco-santa-helena-reservado-sauvignon-blanc-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 35.87,
+  "min": 35.87,
+  "max": 35.87,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 35,87, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Cítricos",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Maracujá",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Grama cortada",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimentão verde",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 5.8,
+  "tanino_docura": 7.0,
+  "intensidade": 6.2,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Leve",
+   "Seco a meio seco",
+   "Moderada — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Santa Helena Reservado Sauvignon Blanc 375Ml",
+   "preco": "35,87",
+   "loja": "Amazon"
+  }
+ ]
+}

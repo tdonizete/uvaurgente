@@ -1,0 +1,102 @@
+{
+ "slug": "toro-de-piedra-reserva-pinot-noir",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Toro de Piedra Reserva Pinot Noir",
+  "produtor": "Viña Requingua",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Pinot Noir",
+  "teor": 13.5,
+  "servir": "15 °C",
+  "estilo": "Seco, leve passagem por carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 56.3,
+  "min": 56.3,
+  "max": 56.3,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Shopee: R$ 56,30, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Terrosos",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Terra úmida",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Média a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "VINHO CHILENO TORO DE PIEDRA RESERVA PINOT NOIR 750ML",
+   "preco": "56,30",
+   "loja": "Shopee"
+  }
+ ]
+}

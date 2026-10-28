@@ -1,0 +1,105 @@
+{
+ "slug": "casa-geraldo-vinho-de-inverno-gran-reserva-syrah",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Ficha técnica do produtor não encontrada: conferir teor e estágio",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Casa Geraldo Gran Reserva Syrah (vinho de inverno)",
+  "produtor": "Casa Geraldo",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Andradas (MG), Serra da Mantiqueira",
+  "safra": null,
+  "uvas": "Syrah",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Seco, colheita de inverno (dupla poda), com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://diariodocomercio.com.br/opiniao/coluna/vinho-da-casa/andradas-tecnologia-e-pesquisa-se-unem-tradicao/"
+ ],
+ "preco": {
+  "referencia": 241.0,
+  "min": 241.0,
+  "max": 241.0,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Mercado Livre: R$ 241,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Defumado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio a encorpado — redondo",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho De Inverno Gran Reserva Syrah Casa Geraldo 750ml",
+   "preco": "241,00",
+   "loja": "Mercado Livre"
+  }
+ ]
+}

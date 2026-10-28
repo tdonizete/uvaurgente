@@ -1,0 +1,105 @@
+{
+ "slug": "terre-san-vincenzo-primitivo-di-manduria",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço alto para a categoria (R$ 269,90): conferir",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Terre di San Vincenzo Primitivo di Manduria",
+  "produtor": "Terre di San Vincenzo",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Puglia (Manduria)",
+  "safra": null,
+  "uvas": "Primitivo",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://vinofyi.com/wine/terre-di-san-vincenzo-dal-1947-primitivo-di-manduria"
+ ],
+ "preco": {
+  "referencia": 269.9,
+  "min": 269.9,
+  "max": 269.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — loja não identificada (link ofertei.tech): R$ 269,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Doces/confeitaria"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Geleia de frutas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.4,
+  "tanino_docura": 7.4,
+  "intensidade": 7.6,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio a encorpado — redondo",
+   "Macio a firme",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Terre San Vicenzo Tt Primitivo Di Manduria 750 Ml",
+   "preco": "269,90",
+   "loja": "loja não identificada (link ofertei.tech)"
+  }
+ ]
+}

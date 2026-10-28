@@ -1,0 +1,103 @@
+{
+ "slug": "calamares-vinho-verde-rose",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Conferir produtor e uvas no rótulo",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Calamares Vinho Verde Rosé",
+  "produtor": "Não informado",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Vinho Verde",
+  "safra": null,
+  "uvas": "Vinhão, Borraçal e Espadeiro",
+  "teor": 10.5,
+  "servir": "8 °C",
+  "estilo": "Meio seco, leve agulha"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 49.9,
+  "min": 49.9,
+  "max": 49.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 49,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.0,
+  "tanino_docura": 7.2,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Leve",
+   "Seco — bem integrado",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Calamares Vinho Verde Português Rosé 750Ml",
+   "preco": "49,90",
+   "loja": "Amazon"
+  }
+ ]
+}

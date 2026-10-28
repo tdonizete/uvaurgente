@@ -1,0 +1,104 @@
+{
+ "slug": "chilano-merlot",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Produtor e teor não encontrados: conferir no rótulo",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Chilano Merlot",
+  "produtor": "Não informado",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.tendaatacado.com.br/produto/vinho-chileno-chilano-merlot-750ml"
+ ],
+ "preco": {
+  "referencia": 33.9,
+  "min": 33.9,
+  "max": 33.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 33,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.2
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.2,
+  "tanino_docura": 5.8,
+  "intensidade": 6.0,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Ralo",
+   "Moderada — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Chilano Vinho Chileno Tinto Merlot 750Ml",
+   "preco": "33,90",
+   "loja": "Amazon"
+  }
+ ]
+}

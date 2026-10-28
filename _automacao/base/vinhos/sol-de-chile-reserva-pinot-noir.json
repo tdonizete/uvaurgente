@@ -1,0 +1,105 @@
+{
+ "slug": "sol-de-chile-reserva-pinot-noir",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Ficha técnica não encontrada: conferir região e teor",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Sol de Chile Reserva Pinot Noir",
+  "produtor": "Viña Sol de Chile",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle del Maule",
+  "safra": null,
+  "uvas": "Pinot Noir",
+  "teor": 13.5,
+  "servir": "15 °C",
+  "estilo": "Seco, leve passagem por madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.vivino.com/fr/wineries/sol-de-chile"
+ ],
+ "preco": {
+  "referencia": 58.0,
+  "min": 58.0,
+  "max": 58.0,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 58,00, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Terrosos",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Terra úmida",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Fino Tinto Chileno Sol de Chile Reserva Pinot Noir 750ml",
+   "preco": "58,00",
+   "loja": "Amazon"
+  }
+ ]
+}

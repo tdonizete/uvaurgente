@@ -1,0 +1,103 @@
+{
+ "slug": "faustino-i-gran-reserva",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "alta",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Faustino I Gran Reserva",
+  "produtor": "Bodegas Faustino",
+  "tipo": "Tinto",
+  "pais": "Espanha",
+  "regiao": "Rioja",
+  "safra": null,
+  "uvas": "Tempranillo, Graciano e Mazuelo",
+  "teor": 13.5,
+  "servir": "17 °C",
+  "estilo": "Gran Reserva: 26 meses em carvalho e 3 anos em garrafa"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 270.63,
+  "min": 270.63,
+  "max": 270.63,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Mercado Livre: R$ 270,63, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.2,
+  "complexidade": 8.4,
+  "familias": [
+   "Frutas",
+   "Madeira",
+   "Terrosos"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja madura",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Couro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tabaco",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.2,
+  "tanino_docura": 8.0,
+  "intensidade": 8.2,
+  "final": 7.8,
+  "final_segundos": 8,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Encorpado — estrutura firme",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Longo — cerca de 8 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Faustino I Gran Reserva Rioja",
+   "preco": "270,63",
+   "loja": "Mercado Livre"
+  }
+ ]
+}

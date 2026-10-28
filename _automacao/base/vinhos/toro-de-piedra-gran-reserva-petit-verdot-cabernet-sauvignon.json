@@ -1,0 +1,102 @@
+{
+ "slug": "toro-de-piedra-gran-reserva-petit-verdot-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Toro de Piedra Gran Reserva Petit Verdot e Cabernet Sauvignon",
+  "produtor": "Viña Requingua",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle de Curicó",
+  "safra": null,
+  "uvas": "Petit Verdot e Cabernet Sauvignon",
+  "teor": 14.5,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 meses em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 180.71,
+  "min": 180.71,
+  "max": 180.71,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Shopee: R$ 180,71, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio a encorpado — redondo",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "VINHO CHILENO TORO DE PIEDRA GRAN RESERVA PETIT VERDOT/ CAB SAUVIGNON 750ML",
+   "preco": "180,71",
+   "loja": "Shopee"
+  }
+ ]
+}

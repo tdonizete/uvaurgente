@@ -1,0 +1,104 @@
+{
+ "slug": "perro-callejero-blend-de-malbec",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Perro Callejero Blend de Malbec",
+  "produtor": "Mosquita Muerta Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec, com Cabernet Franc e Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.jamessuckling.com/tasting-notes/176584/mosquita-muerta-mendoza-perro-callejero-blend-de-malbec-2021"
+ ],
+ "preco": {
+  "referencia": 69.9,
+  "min": 69.9,
+  "max": 69.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Mercado Livre: R$ 69,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 7.0,
+  "tanino_docura": 7.0,
+  "intensidade": 7.2,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio a encorpado — redondo",
+   "Macio a firme",
+   "Média a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Tinto Argentino Perro Callejero Blend De Malbec 750 Ml",
+   "preco": "69,90",
+   "loja": "Mercado Livre"
+  }
+ ]
+}

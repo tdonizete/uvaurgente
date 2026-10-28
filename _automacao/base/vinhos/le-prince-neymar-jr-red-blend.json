@@ -1,0 +1,105 @@
+{
+ "slug": "le-prince-neymar-jr-red-blend",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Vinícola parceira, uvas e teor não encontrados: conferir no rótulo",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Le Prince Red Blend (Neymar Jr)",
+  "produtor": "Le Prince (Neymar Jr)",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Chile",
+  "safra": null,
+  "uvas": "Blend de tintas (uvas não informadas)",
+  "teor": null,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.vinetur.com/en/20260623103115/neymar-jr-launches-le-prince-a-premium-wine-brand-with-six-bottles-from-three-countries.html",
+  "https://www.band.com.br/agro/noticias/neymar-investe-em-vinicola-e-comeca-vender-vinhos-202606070733"
+ ],
+ "preco": {
+  "referencia": 53.96,
+  "min": 53.96,
+  "max": 53.96,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 53,96, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.6,
+  "corpo": 6.6,
+  "tanino_docura": 6.6,
+  "intensidade": 6.8,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Chileno Le Prince Neymar Jr 750ml (Red Blend)",
+   "preco": "53,96",
+   "loja": "Amazon"
+  }
+ ]
+}

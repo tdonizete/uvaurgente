@@ -1,0 +1,103 @@
+{
+ "slug": "siegel-s-reserva-merlot",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "S de Siegel Reserva Merlot",
+  "produtor": "Viña Siegel",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle de Colchagua",
+  "safra": null,
+  "uvas": "Merlot",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco, parte com carvalho"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.vivino.com/pt-BR/siegel-s-de-siegel-reserva-merlot/w/13140584"
+ ],
+ "preco": {
+  "referencia": 44.9,
+  "min": 44.9,
+  "max": 44.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 44,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Chocolate",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.4,
+  "tanino_docura": 6.0,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Chileno Tinto S de Siegel Reserva Merlot 750ml",
+   "preco": "44,90",
+   "loja": "Amazon"
+  }
+ ]
+}

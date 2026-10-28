@@ -1,0 +1,105 @@
+{
+ "slug": "gran-tarapaca-reserva-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "alta",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Tarapacá Gran Reserva Cabernet Sauvignon",
+  "produtor": "Viña Tarapacá",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle del Maipo",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 65% do vinho 12 meses em carvalho francês e americano"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://gumcjsjfpsjnqyuzwbyv.supabase.co/storage/v1/object/public/catalogo/vina-tarapaca/gran-reserva-cabernet-sauvignon-ficha-tecnica.pdf",
+  "https://www.lider.cl/ip/vinos-por-cepas/vino-tinto-tarapaca-gran-reserva-cabernet-sauvignon-botella/00780434090905"
+ ],
+ "preco": {
+  "referencia": 69.8,
+  "min": 69.8,
+  "max": 69.8,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 69,80, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.6,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 7.4,
+  "tanino_docura": 7.4,
+  "intensidade": 7.6,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio a encorpado — redondo",
+   "Macio a firme",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Tinto Gran Tarapaca Reserva Cabernet Sauvignon 750ml",
+   "preco": "69,80",
+   "loja": "Amazon"
+  }
+ ]
+}

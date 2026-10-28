@@ -1,0 +1,102 @@
+{
+ "slug": "santa-helena-reservado-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Helena Reservado Cabernet Sauvignon",
+  "produtor": "Viña Santa Helena",
+  "tipo": "Tinto",
+  "pais": "Chile",
+  "regiao": "Valle Central",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 30.99,
+  "min": 30.99,
+  "max": 30.99,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 30,99, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.2
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimentão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.2,
+  "tanino_docura": 5.8,
+  "intensidade": 6.0,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — coerente com o estilo",
+   "Ralo",
+   "Moderada — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Santa Helena Vinho Reservado Cabernet Sauvignon 750Ml",
+   "preco": "30,99",
+   "loja": "Amazon"
+  }
+ ]
+}

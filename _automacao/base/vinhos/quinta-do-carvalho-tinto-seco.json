@@ -1,0 +1,101 @@
+{
+ "slug": "quinta-do-carvalho-tinto-seco",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Rótulo não identificado na pesquisa: conferir origem, uvas e se é vinho fino ou de mesa",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Quinta do Carvalho Tinto Seco",
+  "produtor": "Não informado",
+  "tipo": "Tinto",
+  "pais": "Brasil",
+  "regiao": "Não informada",
+  "safra": null,
+  "uvas": "Não informadas (provável uva americana)",
+  "teor": null,
+  "servir": "14 °C",
+  "estilo": "Seco, vinho de mesa"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 15.88,
+  "min": 15.88,
+  "max": 15.88,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 15,88, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.0
+ },
+ "aroma": {
+  "limpeza": 7.4,
+  "intensidade": 6.0,
+  "complexidade": 5.8,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Uva fresca",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Geleia de frutas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 5.4,
+  "corpo": 5.0,
+  "tanino_docura": 4.8,
+  "intensidade": 5.4,
+  "final": 4.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Baixa — macia",
+   "Leve",
+   "Ralo",
+   "Discreta",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho tinto seco Quinta do Carvalho 750 ML",
+   "preco": "15,88",
+   "loja": "Amazon"
+  }
+ ]
+}

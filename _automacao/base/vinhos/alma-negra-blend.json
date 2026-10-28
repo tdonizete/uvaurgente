@@ -1,0 +1,113 @@
+{
+ "slug": "alma-negra-blend",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço calculado do kit de 3 e da caixa de 6",
+  "Conferir se o kit é o Alma Negra Blend ou o M Blend",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Alma Negra Blend",
+  "produtor": "Ernesto Catena Vineyards",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Blend de tintas (segredo do produtor; base Malbec e Bonarda)",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, com carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://theargentino.com/products/alma-negra-wines-by-ernesto-catena-750ml-25-36oz-u",
+  "https://site.fastshop.com.br/alma-negra-m-blend-2023--tikal---ernesto-catena--750ml-149624/p"
+ ],
+ "preco": {
+  "referencia": 139.31,
+  "min": 139.31,
+  "max": 139.31,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 139,31 (média por garrafa, kit de 6), 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio a encorpado — redondo",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinhos Alma Negra -750ml - 3 unidades",
+   "preco": "427,39",
+   "loja": "Amazon"
+  },
+  {
+   "data": "28/10/2026",
+   "titulo": "Caixa Fechada - Vinho Argentino Alma Negra - 6 unidades",
+   "preco": "835,89",
+   "loja": "Amazon"
+  }
+ ]
+}

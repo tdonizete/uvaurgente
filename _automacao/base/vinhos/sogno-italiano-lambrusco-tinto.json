@@ -1,0 +1,102 @@
+{
+ "slug": "sogno-italiano-lambrusco-tinto",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Produtor e doçura não confirmados: conferir no rótulo (seco ou amável)",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Sogno Italiano Lambrusco Tinto",
+  "produtor": "Não informado",
+  "tipo": "Tinto",
+  "pais": "Itália",
+  "regiao": "Emília-Romanha",
+  "safra": null,
+  "uvas": "Lambrusco",
+  "teor": 8.0,
+  "servir": "8 °C",
+  "estilo": "Frisante, amável (levemente doce)"
+ },
+ "canal": "Supermercado",
+ "fontes": [],
+ "preco": {
+  "referencia": 44.9,
+  "min": 44.9,
+  "max": 44.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 44,90, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 7.8,
+  "intensidade": 6.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.4,
+  "corpo": 5.4,
+  "tanino_docura": 5.6,
+  "intensidade": 5.8,
+  "final": 5.2,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Leve",
+   "Doce — açúcar aparente",
+   "Discreta",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Lambrusco Sogno Italiano Tinto 750ml",
+   "preco": "44,90",
+   "loja": "Amazon"
+  }
+ ]
+}

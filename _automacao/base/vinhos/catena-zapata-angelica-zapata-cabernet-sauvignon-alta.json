@@ -1,0 +1,104 @@
+{
+ "slug": "catena-zapata-angelica-zapata-cabernet-sauvignon-alta",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço só do kit com 3 garrafas (média por garrafa): pesquisar a garrafa avulsa",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Angélica Zapata Cabernet Sauvignon Alta",
+  "produtor": "Catena Zapata",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, 12 a 18 meses em carvalho francês"
+ },
+ "canal": "Loja especializada",
+ "fontes": [],
+ "preco": {
+  "referencia": 126.63,
+  "min": 126.63,
+  "max": 126.63,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Shopee: R$ 126,63 (média por garrafa, kit de 3), 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 8.0,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
+  ],
+  "top5": [
+   {
+    "nome": "Cassis",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Pimenta-preta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 8.0,
+  "tanino_docura": 7.8,
+  "intensidade": 8.0,
+  "final": 7.6,
+  "final_segundos": 8,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Encorpado — estrutura firme",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Longo — cerca de 8 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Kit Vinho Tinto Angelica Zapata, MALBEC 2022, MERLOT 2021 E CABERNET SAUVIGNON 2019",
+   "preco": "379,90",
+   "loja": "Shopee"
+  }
+ ]
+}

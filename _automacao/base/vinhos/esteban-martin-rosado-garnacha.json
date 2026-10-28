@@ -1,0 +1,105 @@
+{
+ "slug": "esteban-martin-rosado-garnacha",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Esteban Martín Rosado Garnacha",
+  "produtor": "Bodegas Esteban Martín",
+  "tipo": "Rosé",
+  "pais": "Espanha",
+  "regiao": "Cariñena",
+  "safra": null,
+  "uvas": "Garnacha",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.systax.com.br/ean/08437005285569",
+  "https://bigredwine.co.uk/collections/esteban-martin-carinena-spain"
+ ],
+ "preco": {
+  "referencia": 39.45,
+  "min": 39.45,
+  "max": 39.45,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 39,45, 27/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.0,
+  "tanino_docura": 7.2,
+  "intensidade": 6.4,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Leve",
+   "Seco — bem integrado",
+   "Moderada — fruta simples",
+   "Médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Bodegas Esteban Martin Vinho Rosé Esteban Martín D.O.P. Cariñena Garnacha Rosado 750 Ml...",
+   "preco": "39,45",
+   "loja": "Amazon"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "sapo-de-otro-pozo-gran-reserva-blend",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "O anúncio diz Gran Reserva; o rótulo comum é só Blend: conferir"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Sapo de Otro Pozo Blend",
+  "produtor": "Mosquita Muerta Wines",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Blend de tintas (Malbec, Cabernet Sauvignon e outras)",
+  "teor": 14.0,
+  "servir": "17 °C",
+  "estilo": "Seco, com passagem por carvalho"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.paodeacucar.com/produto/584618/vinho-argentino-tinto-sapo-de-otro-pozo-750ml",
+  "https://www.wine.com/product/mosquita-muerta-sapo-de-otro-pozo-red-blend-2022/4127266"
+ ],
+ "preco": {
+  "referencia": 129.9,
+  "min": 129.9,
+  "max": 169.9,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — Amazon: R$ 129,90, 27/10/2026",
+   "Pão de Açúcar: R$ 169,90, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.2
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.8,
+  "complexidade": 7.8,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Amora",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 7.6,
+  "tanino_docura": 7.6,
+  "intensidade": 7.8,
+  "final": 7.2,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — frescor vivo",
+   "Médio a encorpado — redondo",
+   "Firme e de boa qualidade",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "27/10/2026",
+   "titulo": "Vinho Tinto Argentino Gran Reserva Sapo de Otro Pozo Blend 750ml",
+   "preco": "129,90",
+   "loja": "Amazon"
+  }
+ ]
+}

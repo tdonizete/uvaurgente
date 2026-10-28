@@ -1,0 +1,106 @@
+{
+ "slug": "rola-douro-tinto",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "whatsapp-sommelier-de-promo",
+ "data": "2026-10-28",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço no Brasil (R$ 127) bem acima do preço em Portugal: conferir se é o Rola Reserva",
+  "Preço em 1 só fonte: pesquisar a 2ª loja antes de publicar"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Rola Douro Tinto",
+  "produtor": "Rola",
+  "tipo": "Tinto",
+  "pais": "Portugal",
+  "regiao": "Douro",
+  "safra": null,
+  "uvas": "Touriga Nacional, Touriga Franca e Tinta Roriz",
+  "teor": 13.5,
+  "servir": "16 °C",
+  "estilo": "Seco"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.continente.pt/produto/rola-douro-vinho-tinto-7078764.html",
+  "https://www.deco.proteste.pt/alimentacao/vinho/comparar/rola-2023-tinto/224/116335"
+ ],
+ "preco": {
+  "referencia": 127.0,
+  "min": 127.0,
+  "max": 127.0,
+  "ajustes": [],
+  "fontes": [
+   "Grupo Sommelier de Promo — loja não identificada (link ofertei.tech): R$ 127,00, 28/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Vegetal/herbáceo",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas pretas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Esteva",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.8,
+  "corpo": 6.8,
+  "tanino_docura": 6.8,
+  "intensidade": 7.0,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — boa vivacidade",
+   "Médio — coerente com o estilo",
+   "Macio",
+   "Média a pronunciada",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "pendente (aguardando foto do Tiago)"
+ },
+ "oferta_grupo": [
+  {
+   "data": "28/10/2026",
+   "titulo": "Vinho Tinto Português Rola Douro 750ml",
+   "preco": "127,00",
+   "loja": "loja não identificada (link ofertei.tech)"
+  }
+ ]
+}
