@@ -13,7 +13,7 @@ image: /assets/img/alem/bastao-resfriador-aerador-prana.png
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/12iCYio
-preco_medio: 62,92
+preco_medio: "62,92"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Bastão de inox que vai ao congelador e mantém o vinho fresco dentro da garrafa.

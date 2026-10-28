@@ -13,7 +13,7 @@ image: /assets/img/alem/bolsa-termica-4-vinhos-isoprene-xadrez.png
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/167CXpG
-preco_medio: 125,62
+preco_medio: "125,62"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Bolsa térmica com divisórias para levar quatro garrafas em pé e separadas.

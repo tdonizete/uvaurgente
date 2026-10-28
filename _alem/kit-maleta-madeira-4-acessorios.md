@@ -11,7 +11,7 @@ destaques:
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/11ZYZqp
-preco_medio: 71,94
+preco_medio: "71,94"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Maleta de madeira para uma garrafa, com acessórios de serviço no compartimento.

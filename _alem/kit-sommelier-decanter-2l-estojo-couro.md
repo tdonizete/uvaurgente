@@ -13,7 +13,7 @@ image: /assets/img/alem/kit-sommelier-decanter-2l-estojo-couro.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0ip2aLzT
-preco_medio: 88,90
+preco_medio: "88,90"
 preco_data: '2026-10-28'
 preco_lojas: 2
 description: Decanter grande com termômetro e estojo, pronto para presentear.

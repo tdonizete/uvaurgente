@@ -13,7 +13,7 @@ image: /assets/img/alem/abridor-sommelier-aco-304-madeira.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0gffQOrT
-preco_medio: 56,88
+preco_medio: "56,88"
 preco_data: '2026-10-28'
 preco_lojas: 2
 description: O saca-rolha de garçom, que é o que os sommeliers usam no dia a dia.

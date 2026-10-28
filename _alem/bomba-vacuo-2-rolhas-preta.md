@@ -13,7 +13,7 @@ image: /assets/img/alem/bomba-vacuo-2-rolhas-preta.png
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/1AxrwVZ
-preco_medio: 27,53
+preco_medio: "27,53"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Tira o ar da garrafa aberta e ajuda o vinho a durar mais alguns dias.

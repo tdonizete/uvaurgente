@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-wine-folly-guia-essencial.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B06JvYTwt
-preco_medio: 60,61
+preco_medio: "60,61"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: O guia visual mais conhecido do mundo do vinho, em português.

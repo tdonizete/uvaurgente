@@ -43,7 +43,17 @@ def checar(d, tipo):
     return al
 
 
+class _Aspas(str):
+    pass
+
+
+# Jekyll (YAML 1.1) lê 36,91 sem aspas como o inteiro 3691; o preço sai sempre entre aspas.
+yaml.SafeDumper.add_representer(_Aspas, lambda d, v: d.represent_scalar("tag:yaml.org,2002:str", str(v), style='"'))
+
+
 def escrever_md(pasta, slug, fm, corpo):
+    if fm.get("preco_medio"):
+        fm["preco_medio"] = _Aspas(fm["preco_medio"])
     fm = {k: v for k, v in fm.items() if v not in (None, "", [], {})}
     txt = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n"
     if corpo:

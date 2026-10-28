@@ -13,7 +13,7 @@ image: /assets/img/alem/tacas-champanhe-orbital-full-fit-6.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B06UyOaei
-preco_medio: 175,18
+preco_medio: "175,18"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Taça flute de cristal para brindar com estilo.

@@ -13,7 +13,7 @@ image: /assets/img/alem/caixa-couro-4-acessorios-fracalanza.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0bEw4kNN
-preco_medio: 132,81
+preco_medio: "132,81"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: 'Presente pronto: a garrafa vai na caixa e as ferramentas vão junto.'

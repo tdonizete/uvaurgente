@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-a-historia-do-romanee-conti.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B05Z2B77T
-preco_medio: 89,90
+preco_medio: "89,90"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: A história do vinho mais caro do mundo, contada como um thriller.

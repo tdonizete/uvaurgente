@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-guia-de-vinhos-larousse.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B01XEWjwJ
-preco_medio: 28,48
+preco_medio: "28,48"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Guia de bolso para consultar na hora da compra.

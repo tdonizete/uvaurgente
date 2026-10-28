@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-harmonizacao-euclides-penedo-borges.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B03BoKLzf
-preco_medio: 180,70
+preco_medio: "180,70"
 preco_data: '2026-10-28'
 preco_lojas: 2
 description: Referência brasileira para casar vinho e comida.

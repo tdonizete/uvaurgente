@@ -13,7 +13,7 @@ image: /assets/img/alem/porta-vinho-neoprene-preto-3mm.png
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/23L8F1r
-preco_medio: 29,90
+preco_medio: "29,90"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Capa de neoprene que isola a garrafa e protege no transporte.

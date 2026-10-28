@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-sabores-do-vinho.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B01CfK8kK
-preco_medio: 63,30
+preco_medio: "63,30"
 preco_data: '2026-10-28'
 preco_lojas: 3
 description: Livro visual que responde às dúvidas práticas do vinho, da uva à taça.

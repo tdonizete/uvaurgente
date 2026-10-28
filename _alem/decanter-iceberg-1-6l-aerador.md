@@ -13,7 +13,7 @@ image: /assets/img/alem/decanter-iceberg-1-6l-aerador.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0gFUPfXE
-preco_medio: 214,05
+preco_medio: "214,05"
 preco_data: '2026-10-28'
 preco_lojas: 3
 description: Decanter com aerador e coador, para servir sem derramar.

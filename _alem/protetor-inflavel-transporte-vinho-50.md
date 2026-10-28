@@ -13,7 +13,7 @@ image: /assets/img/alem/protetor-inflavel-transporte-vinho-50.png
 lojas:
 - nome: Mercado Livre
   url: https://meli.la/2AqCsf1
-preco_medio: 67,49
+preco_medio: "67,49"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Bolsa de ar que envolve a garrafa e protege contra impacto em mala ou envio.

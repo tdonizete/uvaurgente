@@ -13,7 +13,7 @@ image: /assets/img/alem/livro-vinho-brasileiro-para-iniciantes.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0darFCw3
-preco_medio: 67,25
+preco_medio: "67,25"
 preco_data: '2026-10-28'
 preco_lojas: 1
 description: Introdução ao vinho nacional para quem está começando.

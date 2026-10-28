@@ -13,7 +13,7 @@ image: /assets/img/alem/conjunto-4-pecas-inox-madeira-wolff.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B00QdnfbB
-preco_medio: 44,81
+preco_medio: "44,81"
 preco_data: '2026-10-28'
 preco_lojas: 2
 description: Quatro ferramentas básicas de serviço numa caixa só, por um preço baixo.
