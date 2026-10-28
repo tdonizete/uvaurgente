@@ -110,9 +110,82 @@
     return { t: 'Seu vinho é ' + corpo + ', ' + aroma + '.', d: 'Você gosta de vinho ' + corpo + ', ' + aroma + bolha + ', para ' + COMIDA[R.comida] + '. Estes são os vinhos avaliados que mais combinam com você.' };
   }
 
+
+  // Arte 1080x1920 para story do Instagram, desenhada no navegador a partir do resultado.
+  var ARTE = null, ARTE_URL = '', ULTIMA = [];
+  function carregar(src) {
+    return new Promise(function (ok) { if (!src) return ok(null); var im = new Image(); im.onload = function () { ok(im); }; im.onerror = function () { ok(null); }; im.src = src; });
+  }
+  function quebrar(c, txt, larg) {
+    var pal = String(txt).split(/\s+/), linhas = [], l = '';
+    pal.forEach(function (w) { var t = l ? l + ' ' + w : w; if (c.measureText(t).width > larg && l) { linhas.push(l); l = w; } else { l = t; } });
+    if (l) linhas.push(l); return linhas;
+  }
+  function caber(c, txt, larg, max, fonte, tam, minimo) {
+    var linhas;
+    for (; tam >= minimo; tam -= 4) { c.font = fonte.replace('#', tam); linhas = quebrar(c, txt, larg); if (linhas.length <= max) break; }
+    if (linhas.length > max) { linhas = linhas.slice(0, max); linhas[max - 1] = linhas[max - 1].replace(/\s*\S*$/, '') + '…'; }
+    return { linhas: linhas, tam: tam };
+  }
+  function ret(c, x, y, w, h, r) { c.beginPath(); c.moveTo(x + r, y); c.arcTo(x + w, y, x + w, y + h, r); c.arcTo(x + w, y + h, x, y + h, r); c.arcTo(x, y + h, x, y, r); c.arcTo(x, y, x + w, y, r); c.closePath(); }
+  function gerarArte(pf, lista) {
+    var W = 1080, H = 1920, INK = '#1A1A1A', PAPER = '#F5F5F0', FLAME = '#F04E23', D = '"Archivo Black", "Arial Black", sans-serif', S = 'Inter, system-ui, sans-serif';
+    var top = lista[0], fontes = document.fonts ? Promise.all([document.fonts.load('80px "Archivo Black"'), document.fonts.load('600 32px Inter'), document.fonts.load('500 32px Inter')]) : Promise.resolve();
+    return fontes.catch(function () {}).then(function () {
+      return Promise.all([carregar(raiz.dataset.logo), carregar(top && top.v.img)]);
+    }).then(function (im) {
+      var cv = document.createElement('canvas'); cv.width = W; cv.height = H; var c = cv.getContext('2d');
+      c.fillStyle = INK; c.fillRect(0, 0, W, H);
+      c.fillStyle = FLAME; c.fillRect(0, 0, W, 14);
+      // topo: logo e chamada (abaixo da faixa que o Instagram cobre)
+      if (im[0]) { c.drawImage(im[0], 80, 230, 132, 132); c.strokeStyle = 'rgba(245,245,240,.25)'; c.lineWidth = 2; ret(c, 80, 230, 132, 132, 14); c.stroke(); }
+      c.fillStyle = 'rgba(245,245,240,.7)'; c.font = '600 30px ' + S; c.textBaseline = 'alphabetic';
+      c.fillText('TESTE · QUAL É O SEU VINHO?', 240, 290); c.fillStyle = PAPER; c.font = '500 30px ' + S; c.fillText('uvaurgente.com.br/teste', 240, 336);
+      // perfil
+      c.fillStyle = FLAME; c.font = '600 32px ' + S; c.fillText('MEU PERFIL', 80, 470);
+      var frase = pf.t.replace(/^Seu vinho é /, 'Meu vinho é ');
+      var f = caber(c, frase, W - 160, 3, '#px ' + D, 80, 56); c.fillStyle = PAPER;
+      f.linhas.forEach(function (l, k) { c.fillText(l, 80, 560 + k * f.tam * 1.08); });
+      // cartão do vinho
+      var cy = 610 + (f.linhas.length - 1) * f.tam * 1.08 + 40, ch = 480;
+      c.fillStyle = PAPER; ret(c, 60, cy, W - 120, ch, 28); c.fill();
+      c.fillStyle = '#E7E5DE'; ret(c, 90, cy + 30, 300, ch - 60, 18); c.fill();
+      if (im[1]) { var bh = ch - 100, bw = im[1].width * bh / im[1].height; if (bw > 260) { bw = 260; bh = im[1].height * bw / im[1].width; } c.drawImage(im[1], 240 - bw / 2, cy + ch / 2 - bh / 2, bw, bh); }
+      if (top) {
+        var x = 430, larg = W - 120 - (x - 60) - 40, pct = Math.round(Math.min(98, 62 + 36 * top.total / Math.max(top.total, 1)));
+        c.fillStyle = FLAME; c.font = '600 28px ' + S; c.fillText('MEU MATCH · ' + pct + '%', x, cy + 80);
+        var n = caber(c, top.v.t, larg, 3, '#px ' + D, 46, 32); c.fillStyle = INK;
+        n.linhas.forEach(function (l, k) { c.fillText(l, x, cy + 140 + k * n.tam * 1.1); });
+        var yy = cy + 140 + (n.linhas.length - 1) * n.tam * 1.1 + 48;
+        c.fillStyle = 'rgba(26,26,26,.6)'; c.font = '500 28px ' + S;
+        quebrar(c, [top.v.pr, top.v.sf].filter(Boolean).join(' · '), larg).slice(0, 1).forEach(function (l, k) { c.fillText(l, x, yy + k * 36); });
+        c.fillStyle = FLAME; c.font = '100px ' + D; var nt = virgula(top.v.n); c.fillText(nt, x, cy + ch - 86);
+        var nw = c.measureText(nt).width; c.fillStyle = 'rgba(26,26,26,.55)'; c.font = '600 36px ' + S; c.fillText('/10', x + nw + 10, cy + ch - 86);
+        c.fillStyle = INK; c.font = '600 26px ' + S; c.fillText(selo(top.v.n)[1].replace('⚡ ', '').toUpperCase(), x, cy + ch - 38);
+      }
+      // outros dois
+      var oy = cy + ch + 70;
+      if (lista.length > 1) {
+        c.fillStyle = 'rgba(245,245,240,.7)'; c.font = '600 28px ' + S; c.fillText('TAMBÉM COMBINA COMIGO', 80, oy);
+        lista.slice(1, 3).forEach(function (r, k) {
+          var y = oy + 60 + k * 64; if (y > 1560) return; c.font = '600 34px ' + S; c.fillStyle = PAPER;
+          var nota = virgula(r.v.n), nwid = c.measureText(nota).width, nome = r.v.t;
+          while (c.measureText(nome).width > W - 220 - nwid && nome.length > 4) nome = nome.slice(0, -2).replace(/\s*$/, '') ;
+          if (nome !== r.v.t) nome += '…';
+          c.fillText(nome, 80, y); c.fillStyle = FLAME; c.fillText(nota, W - 80 - nwid, y);
+        });
+      }
+      // chamada final (acima da área do campo de resposta)
+      c.fillStyle = FLAME; ret(c, 80, 1600, W - 160, 112, 18); c.fill();
+      c.fillStyle = PAPER; c.font = '42px ' + D; c.textAlign = 'center'; c.fillText('FAÇA O TESTE GRÁTIS', W / 2, 1672);
+      c.fillStyle = 'rgba(245,245,240,.7)'; c.font = '500 28px ' + S; c.fillText('Vinho sem mimimi · @uvaurgente', W / 2, 1770); c.textAlign = 'left';
+      return new Promise(function (ok) { cv.toBlob(ok, 'image/png'); });
+    });
+  }
+
   function resultado() {
     var lista = vinhos.map(avaliar).sort(function (a, b) { return b.total - a.total; }).slice(0, 3);
-    var pf = perfil();
+    var pf = perfil(); ULTIMA = lista;
     $('[data-perfil]').textContent = pf.t;
     $('[data-perfil-texto]').textContent = pf.d;
     var maior = lista.length ? lista[0].total : 1;
@@ -135,6 +208,8 @@
     }).join('');
     try { localStorage.setItem('uu-teste', JSON.stringify({ r: R, em: Date.now() })); } catch (e) {}
     if (typeof gtag === 'function') gtag('event', 'teste_concluido', { perfil_corpo: R.corpo, perfil_aroma: R.aroma, primeiro_vinho: lista[0] && lista[0].v.t });
+    ARTE = null; var bt = $('[data-compartilhar]'); bt.textContent = 'Compartilhar no story'; $('[data-arte]').hidden = true;
+    gerarArte(pf, lista).then(function (b) { ARTE = b; }).catch(function () {});
     tela('resultado');
     $('[data-perfil]').focus({ preventScroll: true });
   }
@@ -142,10 +217,22 @@
   $('[data-comecar]').addEventListener('click', function () { R = {}; i = 0; tela('quiz'); mostrar(); });
   $('[data-voltar]').addEventListener('click', function () { if (i > 0) { i--; mostrar(); } });
   $('[data-refazer]').addEventListener('click', function () { R = {}; i = 0; tela('quiz'); mostrar(); });
+  function mostrarArte(b) {
+    if (ARTE_URL) URL.revokeObjectURL(ARTE_URL); ARTE_URL = URL.createObjectURL(b);
+    var caixa = $('[data-arte]'); caixa.querySelector('img').src = ARTE_URL; caixa.querySelector('a').href = ARTE_URL; caixa.hidden = false;
+    caixa.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
   $('[data-compartilhar]').addEventListener('click', function () {
-    var txt = $('[data-perfil]').textContent + ' Descubra o seu vinho no teste do UVA URGENTE:';
+    var txt = $('[data-perfil]').textContent.replace(/^Seu vinho é/, 'Meu vinho é') + ' Descubra o seu no teste do UVA URGENTE:';
     var url = location.origin + location.pathname;
-    if (navigator.share) { navigator.share({ title: 'Qual é o seu vinho?', text: txt, url: url }).catch(function () {}); }
-    else if (navigator.clipboard) { navigator.clipboard.writeText(txt + ' ' + url).then(function () { $('[data-compartilhar]').textContent = 'Link copiado!'; }); }
+    function enviar(b) {
+      var arq = b && typeof File === 'function' ? new File([b], 'meu-vinho-uvaurgente.png', { type: 'image/png' }) : null;
+      if (arq && navigator.canShare && navigator.canShare({ files: [arq] })) {
+        navigator.share({ files: [arq], title: 'Qual é o seu vinho?', text: txt + ' ' + url }).catch(function () {});
+      } else if (b) { mostrarArte(b); }
+      else if (navigator.share) { navigator.share({ title: 'Qual é o seu vinho?', text: txt, url: url }).catch(function () {}); }
+      if (typeof gtag === 'function') gtag('event', 'teste_compartilhado', { com_arte: !!b });
+    }
+    if (ARTE) { enviar(ARTE); } else { gerarArte(perfil(), ULTIMA).then(enviar).catch(function () { enviar(null); }); }
   });
 })();

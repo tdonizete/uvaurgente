@@ -21,7 +21,7 @@ scripts:
 {%- endfor -%}]
 </script>
 
-<section class="wrap secao matcher" data-matcher>
+<section class="wrap secao matcher" data-matcher data-logo="{{ '/assets/img/logo.svg' | relative_url }}">
   <!-- Abertura -->
   <div class="m-tela" data-tela="inicio">
     <p class="kicker">Teste grátis · 2 minutos</p>
@@ -52,6 +52,14 @@ scripts:
       <button type="button" class="btn btn-ink" data-compartilhar>Compartilhar meu resultado</button>
       <button type="button" class="btn btn-linha" data-refazer>Refazer o teste</button>
       <a class="btn btn-linha" href="{{ '/vereditos/' | relative_url }}">Ver todos os vereditos</a>
+    </div>
+    <div class="m-arte" data-arte hidden>
+      <img alt="Arte do seu resultado para o story do Instagram" width="270" height="480">
+      <div>
+        <p class="h3">Sua arte para o story está pronta.</p>
+        <p class="apoio">Baixe a imagem e poste no story do Instagram. Marque o <b>@uvaurgente</b> e use o adesivo de link com uvaurgente.com.br/teste.</p>
+        <a class="btn btn-flame" download="meu-vinho-uvaurgente.png">Baixar a arte</a>
+      </div>
     </div>
     <p class="aviso">As recomendações cruzam suas respostas com as tags de estilo, o paladar, a nota e o preço de cada veredito. Alguns links são de afiliado: posso ganhar comissão, e a nota não muda por isso.</p>
   </div>

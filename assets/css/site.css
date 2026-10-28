@@ -369,5 +369,10 @@ a:hover { color: var(--ink); }
 .m-nota { font-family: var(--font-display); font-size: 36px; color: var(--flame); line-height: 1; }
 .m-nota small { font-family: var(--font-sans); font-size: 14px; color: var(--ink-60); margin-left: 2px; }
 .m-botoes { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-top: var(--space-3); }
+.m-arte { display: grid; grid-template-columns: 270px minmax(0, 1fr); gap: var(--space-6); align-items: center; margin: 0 0 var(--space-6); padding: var(--space-5); border: 1px solid var(--hairline); border-radius: 16px; }
+.m-arte[hidden] { display: none; }
+.m-arte img { width: 270px; height: 480px; border-radius: 12px; display: block; box-shadow: 0 8px 24px rgba(26, 26, 26, .18); }
+.m-arte .apoio { margin: var(--space-2) 0 var(--space-4); }
+@media (max-width: 600px) { .m-arte { grid-template-columns: 1fr; justify-items: center; text-align: center; } }
 .m-acoes { display: flex; flex-wrap: wrap; gap: var(--space-3); margin: var(--space-8) 0 var(--space-4); }
 @media (max-width: 600px) { .m-card { grid-template-columns: 90px minmax(0, 1fr); gap: var(--space-4); padding: var(--space-4); } .m-garrafa { min-height: 160px; } .m-garrafa img { max-height: 150px; } }
