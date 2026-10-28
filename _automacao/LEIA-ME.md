@@ -52,7 +52,7 @@ Para publicar: copie a ficha para `avaliacoes/`, complete textos, lojas, safra e
 ## Reavaliação semanal dos preços (Além do Vinho)
 
 Toda semana uma tarefa agendada refaz a pesquisa de preço dos produtos:
-1. Para cada item de `alem/_busca-precos.json`: abre o link da Amazon (preço da página) e pesquisa o termo `busca` no Bing Shopping
+1. Para cada item de `alem/_busca-precos.json`: abre o link da loja do item (campo `amazon` ou `mercadolivre`; no meli.la o produto aparece no perfil entre "Seguir" e "Ir para produto", vale o preço atual) e pesquisa o termo `busca` no Bing Shopping
    (lojas brasileiras; o título precisa conter todas as `palavras` e nenhuma de `excluir`; descarta kits, usados e preços fora de 50% a 200% do preço anterior).
 2. Grava os preços em um JSON `{slug: [[loja, preço], ...]}` e roda `python3 _automacao/atualizar_precos_alem.py precos.json`.
 3. O script recalcula `preco_medio`, `preco_data` e `preco_fontes`, regenera as páginas, grava `alem/_historico-precos.csv`
