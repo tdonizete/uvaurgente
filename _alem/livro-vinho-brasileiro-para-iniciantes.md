@@ -8,6 +8,8 @@ destaques:
 - Por Gelson de Medeiros
 - Foco nos vinhos brasileiros
 - Linguagem para iniciantes
+imagem: /assets/img/alem/livro-vinho-brasileiro-para-iniciantes.png
+image: /assets/img/alem/livro-vinho-brasileiro-para-iniciantes.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0darFCw3

@@ -3,11 +3,11 @@
  "data": "2026-10-28",
  "titulo": "Sabores do Vinho: da Uva à Taça",
  "categoria": "Livros",
- "frase": "Livro visual que explica o caminho do vinho, da uva à taça.",
+ "frase": "Livro visual que responde às dúvidas práticas do vinho, da uva à taça.",
  "destaques": [
-  "Edição em português",
-  "Muitas ilustrações",
-  "Bom para iniciantes"
+  "Por Marnie Old",
+  "Edição em português (Globo Livros)",
+  "Organizado em perguntas práticas e ilustradas"
  ],
  "aprovado": false,
  "lojas": [
@@ -18,7 +18,7 @@
  ],
  "vereditos": [],
  "texto": [
-  "Livro para quem aprende melhor com imagens, e não com páginas e mais páginas de texto."
+  "Responde em páginas ilustradas o que todo iniciante pergunta: como servir, em que temperatura, como guardar e o que dá cada sabor ao vinho."
  ],
  "preco_medio": 63.3,
  "preco_data": "2026-10-28",
@@ -26,5 +26,7 @@
   "Amazon: R$ 62,31",
   "Magazine Luiza: R$ 65,29",
   "Mercado Livre: R$ 62,31"
- ]
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/livro-sabores-do-vinho.png",
+ "marca": "Marnie Old"
 }

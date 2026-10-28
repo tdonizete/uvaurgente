@@ -8,6 +8,8 @@ destaques:
 - Cristal Bohemia
 - 400 ml
 - Uma taça para vários usos
+imagem: /assets/img/alem/tacas-espumante-bohemia-sommelier.png
+image: /assets/img/alem/tacas-espumante-bohemia-sommelier.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0i4LsMQK

@@ -8,6 +8,8 @@ destaques:
 - Jogo com 6 taças
 - 300 ml cada
 - Base em formato de esfera
+imagem: /assets/img/alem/tacas-champagne-bubble-hauskraft-6.png
+image: /assets/img/alem/tacas-champagne-bubble-hauskraft-6.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0effHzG3

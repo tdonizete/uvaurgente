@@ -8,6 +8,8 @@ destaques:
 - Jogo com 6 taças
 - 250 ml cada
 - Cristal, linha Orbital
+imagem: /assets/img/alem/tacas-champanhe-orbital-full-fit-6.png
+image: /assets/img/alem/tacas-champanhe-orbital-full-fit-6.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B06UyOaei

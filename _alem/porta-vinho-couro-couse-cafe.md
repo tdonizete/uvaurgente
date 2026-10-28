@@ -8,6 +8,8 @@ destaques:
 - Couro na cor café
 - Serve para vinho e espumante
 - Alça para carregar
+imagem: /assets/img/alem/porta-vinho-couro-couse-cafe.png
+image: /assets/img/alem/porta-vinho-couro-couse-cafe.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0hxjlkIB

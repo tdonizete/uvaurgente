@@ -8,6 +8,8 @@ destaques:
 - Por Tyler Balliet
 - Edição em português
 - Linguagem direta e visual
+imagem: /assets/img/alem/livro-guia-revolucionario-do-vinho.png
+image: /assets/img/alem/livro-guia-revolucionario-do-vinho.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0fejYKSF

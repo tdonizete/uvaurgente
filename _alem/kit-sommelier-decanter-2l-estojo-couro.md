@@ -8,6 +8,8 @@ destaques:
 - Decanter de cristal de 2 litros
 - Termômetro para vinhos
 - Estojo em couro
+imagem: /assets/img/alem/kit-sommelier-decanter-2l-estojo-couro.png
+image: /assets/img/alem/kit-sommelier-decanter-2l-estojo-couro.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0ip2aLzT
