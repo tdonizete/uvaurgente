@@ -1,0 +1,17 @@
+---
+title: Kit 6 Taças de Espumante Bubble 300 ml
+date: 2026-10-28
+categoria: Taças
+marca: Haüskraft
+frase: Taça de espumante com base em esfera, para mesa de festa.
+destaques:
+- Jogo com 6 taças
+- 300 ml cada
+- Base em formato de esfera
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0effHzG3
+description: Taça de espumante com base em esfera, para mesa de festa.
+---
+
+Formato alto que mantém a borbulha e uma base decorativa que chama atenção na mesa de festa.
