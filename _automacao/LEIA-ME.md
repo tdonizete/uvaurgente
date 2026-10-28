@@ -48,3 +48,13 @@ Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou m
 `base/vinhos/<slug>.json` tem a ficha de cada vinho avaliado, no mesmo formato de `avaliacoes/`, mas sem textos, lojas nem foto.
 `python3 _automacao/pontuar_base.py` recalcula as notas e grava `base/resultado.md`. Nada disso vai para o site.
 Para publicar: copie a ficha para `avaliacoes/`, complete textos, lojas, safra e foto, e rode `gerar.py`.
+
+## Reavaliação semanal dos preços (Além do Vinho)
+
+Toda semana uma tarefa agendada refaz a pesquisa de preço dos produtos:
+1. Para cada item de `alem/_busca-precos.json`: abre o link da Amazon (preço da página) e pesquisa o termo `busca` no Bing Shopping
+   (lojas brasileiras; o título precisa conter todas as `palavras` e nenhuma de `excluir`; descarta kits, usados e preços fora de 50% a 200% do preço anterior).
+2. Grava os preços em um JSON `{slug: [[loja, preço], ...]}` e roda `python3 _automacao/atualizar_precos_alem.py precos.json`.
+3. O script recalcula `preco_medio`, `preco_data` e `preco_fontes`, regenera as páginas, grava `alem/_historico-precos.csv`
+   e avisa variações acima de 30% ou diferença grande entre lojas. Depois é só commit e push.
+Produto sem preço encontrado na semana mantém o preço anterior.
