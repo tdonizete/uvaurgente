@@ -1,0 +1,23 @@
+{
+ "slug": "livro-sabores-do-vinho",
+ "data": "2026-10-28",
+ "titulo": "Sabores do Vinho: da Uva à Taça",
+ "categoria": "Livros",
+ "frase": "Livro visual que explica o caminho do vinho, da uva à taça.",
+ "destaques": [
+  "Edição em português",
+  "Muitas ilustrações",
+  "Bom para iniciantes"
+ ],
+ "aprovado": false,
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B01CfK8kK"
+  }
+ ],
+ "vereditos": [],
+ "texto": [
+  "Livro para quem aprende melhor com imagens, e não com páginas e mais páginas de texto."
+ ]
+}

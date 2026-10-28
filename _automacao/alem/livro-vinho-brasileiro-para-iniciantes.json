@@ -1,0 +1,24 @@
+{
+ "slug": "livro-vinho-brasileiro-para-iniciantes",
+ "data": "2026-10-28",
+ "titulo": "Vinho Brasileiro para Iniciantes",
+ "marca": "Gelson de Medeiros",
+ "categoria": "Livros",
+ "frase": "Introdução ao vinho nacional para quem está começando.",
+ "destaques": [
+  "Por Gelson de Medeiros",
+  "Foco nos vinhos brasileiros",
+  "Linguagem para iniciantes"
+ ],
+ "aprovado": false,
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B0darFCw3"
+  }
+ ],
+ "vereditos": [],
+ "texto": [
+  "Para quem quer conhecer melhor o que se faz no Brasil, da Serra Gaúcha ao Vale do São Francisco."
+ ]
+}
