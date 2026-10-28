@@ -11,6 +11,9 @@ destaques:
 lojas:
 - nome: Amazon
   url: https://link.amazon/B06UyOaei
+preco_medio: 175,18
+preco_data: '2026-10-28'
+preco_lojas: 1
 description: Taça flute de cristal para brindar com estilo.
 ---
 

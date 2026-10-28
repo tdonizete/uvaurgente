@@ -21,5 +21,10 @@
  "texto": [
   "Resolve o presente de quem gosta de vinho: você coloca a garrafa escolhida e entrega com os acessórios de serviço no mesmo estojo."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/caixa-couro-4-acessorios-fracalanza.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/caixa-couro-4-acessorios-fracalanza.png",
+ "preco_medio": 132.81,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 132,81"
+ ]
 }

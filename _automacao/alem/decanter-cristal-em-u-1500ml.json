@@ -21,5 +21,11 @@
  "texto": [
   "O formato em U espalha o vinho por uma área grande, o que acelera a aeração de tintos fechados, como Tannat, Cabernet e Malbec jovens."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/decanter-cristal-em-u-1500ml.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/decanter-cristal-em-u-1500ml.png",
+ "preco_medio": 132.4,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 94,90",
+  "Mercado Livre: R$ 169,90"
+ ]
 }

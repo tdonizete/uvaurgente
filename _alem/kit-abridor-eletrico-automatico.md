@@ -13,6 +13,9 @@ image: /assets/img/alem/kit-abridor-eletrico-automatico.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B05Q8wsFc
+preco_medio: 43,29
+preco_data: '2026-10-28'
+preco_lojas: 2
 description: Abridor elétrico que tira a rolha sem esforço, com acessórios.
 ---
 

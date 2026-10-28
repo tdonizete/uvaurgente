@@ -13,6 +13,9 @@ image: /assets/img/alem/abridor-pneumatico-agulha.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B05qcdkoS
+preco_medio: 36,91
+preco_data: '2026-10-28'
+preco_lojas: 2
 description: Abridor que usa pressão de ar para empurrar a rolha para fora.
 ---
 

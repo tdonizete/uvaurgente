@@ -13,6 +13,9 @@ image: /assets/img/alem/decanter-cristal-em-u-1500ml.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B07lIoCBi
+preco_medio: 132,40
+preco_data: '2026-10-28'
+preco_lojas: 2
 description: Decanter em U que areja o tinto e vira peça de mesa.
 ---
 

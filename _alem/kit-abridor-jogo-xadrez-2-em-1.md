@@ -13,6 +13,9 @@ image: /assets/img/alem/kit-abridor-jogo-xadrez-2-em-1.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B01ww1ATF
+preco_medio: 189,05
+preco_data: '2026-10-28'
+preco_lojas: 1
 description: Presente que junta abridores de vinho e um tabuleiro de xadrez.
 ---
 

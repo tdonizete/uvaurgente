@@ -11,6 +11,9 @@ destaques:
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0i4LsMQK
+preco_medio: 206,10
+preco_data: '2026-10-28'
+preco_lojas: 2
 description: Taça de cristal versátil para espumante, vinho e drinques.
 ---
 

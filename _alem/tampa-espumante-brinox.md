@@ -13,6 +13,9 @@ image: /assets/img/alem/tampa-espumante-brinox.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B084fiIZe
+preco_medio: 18,70
+preco_data: '2026-10-28'
+preco_lojas: 4
 description: Segura a pressão do espumante aberto para o dia seguinte.
 ---
 

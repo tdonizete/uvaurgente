@@ -11,6 +11,9 @@ destaques:
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0fejYKSF
+preco_medio: 69,90
+preco_data: '2026-10-28'
+preco_lojas: 1
 description: Guia leve e sem pompa para beber vinho com confiança.
 ---
 

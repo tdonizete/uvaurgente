@@ -21,5 +21,13 @@
  "texto": [
   "Espumante que sobrou não precisa ir para a pia: com a tampa e a garrafa na geladeira, a borbulha aguenta bem até o dia seguinte."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/tampa-espumante-brinox.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/tampa-espumante-brinox.png",
+ "preco_medio": 18.7,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 14,99",
+  "Mercado Livre: R$ 19,90",
+  "Magazine Luiza: R$ 22,00",
+  "Leroy Merlin: R$ 17,90"
+ ]
 }

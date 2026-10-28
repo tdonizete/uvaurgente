@@ -308,6 +308,11 @@ a:hover { color: var(--ink); }
 .card-nome a { color: inherit; text-decoration: none; }
 .card-nome a:hover { text-decoration: underline; }
 .produto-frase { margin: 0; font-size: 15px; line-height: 22px; }
+.produto-preco { margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; font-size: 13px; color: var(--ink-60, inherit); }
+.produto-preco b { font-size: 18px; color: var(--ink); font-variant-numeric: tabular-nums; }
+.produto-preco-grande { margin-top: var(--space-4); }
+.produto-preco-grande b { font-size: 28px; }
+.produto-preco small { flex-basis: 100%; font-size: 12px; color: var(--ink-40, inherit); }
 .produto-lojas { margin-top: auto; padding-top: var(--space-3); display: flex; flex-wrap: wrap; gap: var(--space-2); }
 .produto .produto-lojas { margin-top: var(--space-6); }
 .produto-topo { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: var(--space-8); align-items: start; }

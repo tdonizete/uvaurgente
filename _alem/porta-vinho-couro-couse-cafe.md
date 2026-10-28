@@ -11,6 +11,9 @@ destaques:
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0hxjlkIB
+preco_medio: 97,68
+preco_data: '2026-10-28'
+preco_lojas: 2
 description: Embalagem em couro para levar a garrafa de presente.
 ---
 

@@ -21,5 +21,10 @@
  "texto": [
   "Conta a trama real de chantagem contra o Domaine de la Romanée-Conti e ajuda a entender por que a Borgonha é tão cobiçada."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/livro-a-historia-do-romanee-conti.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/livro-a-historia-do-romanee-conti.png",
+ "preco_medio": 89.9,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 89,90"
+ ]
 }

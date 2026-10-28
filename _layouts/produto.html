@@ -11,9 +11,10 @@ layout: default
       {%- if page.marca %}<p class="vb-produtor">{{ page.marca }}</p>{% endif %}
       {%- if page.aprovado %}<div class="pills"><span class="selo selo-provado">Aprovado</span></div>{% endif %}
       {%- if page.frase %}<p class="lead">{{ page.frase }}</p>{% endif %}
+      {%- if page.preco_medio %}<p class="produto-preco produto-preco-grande"><span>Preço médio</span> <b>R$ {{ page.preco_medio }}</b><small>{% if page.preco_lojas > 1 %}Média de {{ page.preco_lojas }} lojas{% else %}Preço na loja{% endif %} em {{ page.preco_data | date: "%d/%m/%Y" }}. Pode mudar até a compra.</small></p>{% endif %}
       <div class="produto-lojas">
         {%- for loja in page.lojas %}
-        <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %}" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Ver preço {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
+        <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %}" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Compre {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
         {%- endfor %}
       </div>
       <p class="aviso">Posso ganhar comissão pelos links; a indicação não muda por isso. O preço e a disponibilidade são os da loja no momento da compra.</p>

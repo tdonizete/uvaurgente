@@ -37,7 +37,7 @@ Pilar B (Balance) do BLIC: ativo quando nenhum atributo do paladar fica 2,0 ou m
 - **Produto (Além do Vinho):** salve `_automacao/alem/<slug>.json` e rode o mesmo script.
   Campos: slug, data, titulo, marca, categoria, frase (até 120), destaques [3 itens], aprovado (true quando o Tiago usou e aprova o produto: selo "Aprovado", brincadeira com o "Provado" dos vinhos),
   imagem_origem (só foto enviada pelo Tiago), lojas [{nome, url}] (links do Tiago), vereditos [slugs], texto (opcional).
-  Nunca mostrar preço fixo da loja: o botão diz "Ver preço na Amazon / no Mercado Livre".
+  Preço: preco_medio (média das lojas pesquisadas), preco_data e preco_fontes [lista "Loja: R$ x"]. A página mostra "Preço médio" e o botão diz "Compre na Amazon / no Mercado Livre".
 - **Playlist:** acrescente um bloco em `_data/playlists.yml` (modelo no topo do arquivo). Os vinhos aparecem sozinhos
   pelas tags `tipos` (qualquer uma) e `estilos` (todas), usando as tags que o `gerar.py` grava em cada veredito (`estilos:`).
 - Os itens de menu Notícias, Além do Vinho e Playlists só aparecem quando houver ao menos um item publicado.

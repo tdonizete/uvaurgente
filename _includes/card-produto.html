@@ -12,9 +12,10 @@
     {%- if p.marca %}<p class="card-produtor">{{ p.marca }}</p>{% endif %}
     {%- if p.aprovado %}<div class="pills"><span class="selo selo-provado card-provado">Aprovado</span></div>{% endif %}
     {%- if p.frase %}<p class="produto-frase">{{ p.frase }}</p>{% endif %}
+    {%- if p.preco_medio %}<p class="produto-preco"><span>Preço médio</span> <b>R$ {{ p.preco_medio }}</b></p>{% endif %}
     <div class="produto-lojas">
       {%- for loja in p.lojas %}
-      <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %} btn-sm" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Ver preço {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
+      <a class="btn {% if forloop.first %}btn-cobalt{% else %}btn-linha{% endif %} btn-sm" href="{{ loja.url }}" rel="sponsored noopener" target="_blank">Compre {% if loja.nome == "Mercado Livre" %}no{% else %}na{% endif %} {{ loja.nome }}</a>
       {%- endfor %}
     </div>
   </div>

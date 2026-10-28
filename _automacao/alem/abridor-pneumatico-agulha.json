@@ -21,5 +21,11 @@
  "texto": [
   "É uma saída para rolha velha ou ressecada, que quebra no saca-rolha comum. Exige cuidado com garrafas antigas e frágeis."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/abridor-pneumatico-agulha.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/abridor-pneumatico-agulha.png",
+ "preco_medio": 36.91,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 35,90",
+  "Magazine Luiza: R$ 37,91"
+ ]
 }

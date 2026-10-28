@@ -13,6 +13,9 @@ image: /assets/img/alem/tacas-bordeaux-bohemia-hauskraft-6.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0eUrJ6zJ
+preco_medio: 125,19
+preco_data: '2026-10-28'
+preco_lojas: 3
 description: Taça Bordeaux de cristal para o tinto do dia a dia.
 ---
 

@@ -122,6 +122,7 @@ def main(caminho):
             "frase": d.get("frase"), "aprovado": bool(d.get("aprovado")) or None, "destaques": d.get("destaques"),
             "imagem": f"/assets/img/alem/{slug}.png" if img else None, "image": f"/assets/img/alem/{slug}.png" if img else None,
             "lojas": [{"nome": l["nome"], "url": l["url"]} for l in d["lojas"]], "vereditos": d.get("vereditos"),
+            "preco_medio": (f'{d["preco_medio"]:.2f}'.replace(".", ",") if d.get("preco_medio") else None), "preco_data": d.get("preco_data"), "preco_lojas": len(d.get("preco_fontes") or []) or None,
             "description": d.get("frase"),
         }, "\n\n".join(d.get("texto", [])))
         estouro = render({"tipo": "produto", "titulo": d["titulo"], "categoria": d["categoria"], "frase": d.get("frase"),

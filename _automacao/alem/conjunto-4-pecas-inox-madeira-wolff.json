@@ -21,5 +21,11 @@
  "texto": [
   "É o kit de entrada mais completo da lista: abre a garrafa, aera o vinho na hora de servir, mede a temperatura e evita a gota escorrendo na toalha."
  ],
- "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/conjunto-4-pecas-inox-madeira-wolff.png"
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/alem_png/conjunto-4-pecas-inox-madeira-wolff.png",
+ "preco_medio": 44.81,
+ "preco_data": "2026-10-28",
+ "preco_fontes": [
+  "Amazon: R$ 49,63",
+  "Mercado Livre: R$ 39,99"
+ ]
 }

@@ -13,6 +13,9 @@ image: /assets/img/alem/refrigerador-vinho-inox-oggi.png
 lojas:
 - nome: Amazon
   url: https://link.amazon/B0fAyvO6x
+preco_medio: 137,64
+preco_data: '2026-10-28'
+preco_lojas: 1
 description: Mantém branco e espumante gelados na mesa, sem balde de gelo.
 ---
 
