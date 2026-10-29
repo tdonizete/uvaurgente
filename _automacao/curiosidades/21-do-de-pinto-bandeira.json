@@ -1,0 +1,54 @@
+{
+  "n": 21,
+  "slug": "do-de-pinto-bandeira",
+  "capa": "O Brasil tem uma DO só de espumante.",
+  "sub": "Altos de Pinto Bandeira, na Serra Gaúcha.",
+  "slides": [
+    {
+      "k": "O que é",
+      "t": "A primeira DO brasileira de espumantes.",
+      "b": "Reconhecida em 2022, a Denominação de Origem Altos de Pinto Bandeira vale só para espumantes. É a mais exigente das regras de origem.",
+      "stat": [
+        "2022",
+        "ano do reconhecimento"
+      ]
+    },
+    {
+      "k": "Onde fica",
+      "t": "65 km² de serra.",
+      "b": "A área fica entre Pinto Bandeira, Farroupilha e Bento Gonçalves, a uma altitude média de 632 metros. O clima fresco segura a acidez da uva.",
+      "stat": [
+        "632 m",
+        "de altitude média"
+      ]
+    },
+    {
+      "k": "A regra",
+      "t": "Só método tradicional.",
+      "b": "O espumante precisa ter a segunda fermentação na garrafa, como o champanhe, com uvas como Chardonnay e Pinot Noir cultivadas na própria área."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Espumantes de Pinto Bandeira.",
+  "final_b": "",
+  "cta": "Salve e mostre para quem acha que espumante bom só vem de fora.",
+  "vinhos": [
+    "cave-geisse-brut",
+    "aurora-pinto-bandeira-chardonnay"
+  ],
+  "mostrar": null,
+  "legenda": "O Brasil tem uma Denominação de Origem só para espumantes: Altos de Pinto Bandeira, na Serra Gaúcha. 🇧🇷🥂\n\nReconhecida em 2022, ela exige método tradicional e uvas da própria região.\n\nArraste e veja os vereditos de quem está lá.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#pintobandeira",
+    "#espumantebrasileiro",
+    "#vinhobrasileiro"
+  ],
+  "fontes_ref": [
+    "Revista Pesquisa FAPESP, Espumantes com denominação de origem (revistapesquisa.fapesp.br)",
+    "Canal Rural (canalrural.com.br)"
+  ]
+}

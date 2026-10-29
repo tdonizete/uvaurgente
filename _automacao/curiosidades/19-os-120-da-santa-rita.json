@@ -1,0 +1,49 @@
+{
+  "n": 19,
+  "slug": "os-120-da-santa-rita",
+  "capa": "120 soldados escondidos numa adega.",
+  "sub": "De onde vem o nome Santa Rita 120.",
+  "slides": [
+    {
+      "k": "1814",
+      "t": "A guerra da independência.",
+      "b": "Depois de uma derrota para as tropas espanholas, 120 soldados chilenos fugiram e precisavam de esconderijo."
+    },
+    {
+      "k": "Doña Paula",
+      "t": "A fazenda virou abrigo.",
+      "b": "Doña Paula Jaraquemada, que administrava a fazenda Santa Rita, escondeu os homens nas adegas e impediu a entrada dos soldados da Coroa. Bernardo O'Higgins estava entre eles."
+    },
+    {
+      "k": "O nome",
+      "t": "Homenagem em forma de vinho.",
+      "b": "Quando a fazenda virou vinícola, o episódio deu nome à linha mais conhecida da casa: Santa Rita 120.",
+      "stat": [
+        "120",
+        "soldados escondidos"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar a história.",
+  "final_b": "",
+  "cta": "Salve e conte essa no próximo jantar.",
+  "vinhos": [
+    "santa-rita-120-cabernet-sauvignon",
+    "santa-rita-120-carmenere"
+  ],
+  "mostrar": null,
+  "legenda": "Por que o Santa Rita se chama 120? 🇨🇱\n\nEm 1814, 120 soldados da independência chilena se esconderam nas adegas da fazenda Santa Rita, protegidos por Doña Paula Jaraquemada.\n\nArraste para a história e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#santarita",
+    "#vinhochileno"
+  ],
+  "fontes_ref": [
+    "360meridianos, Vinícola Santa Rita (360meridianos.com)",
+    "Viña Santa Rita (santarita.com)"
+  ]
+}

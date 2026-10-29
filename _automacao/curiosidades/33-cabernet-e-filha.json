@@ -1,0 +1,45 @@
+{
+  "n": 33,
+  "slug": "cabernet-e-filha",
+  "capa": "A Cabernet Sauvignon é filha de duas uvas.",
+  "sub": "E uma delas é branca.",
+  "slides": [
+    {
+      "k": "A descoberta",
+      "t": "Teste de DNA.",
+      "b": "Nos anos 1990, pesquisadores da Universidade da Califórnia em Davis analisaram o DNA da Cabernet Sauvignon e descobriram os pais dela."
+    },
+    {
+      "k": "Os pais",
+      "t": "Cabernet Franc e Sauvignon Blanc.",
+      "b": "Ela é um cruzamento natural de uma uva tinta, a Cabernet Franc, com uma branca, a Sauvignon Blanc. O nome já dava a pista."
+    },
+    {
+      "k": "A herança",
+      "t": "Dá para sentir.",
+      "b": "O pimentão e as notas de ervas que aparecem em alguns Cabernets vêm de compostos que também marcam a Cabernet Franc e a Sauvignon Blanc."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Pai e filha na taça.",
+  "final_b": "",
+  "cta": "Salve e compare os dois.",
+  "vinhos": [
+    "garzon-reserva-cabernet-franc",
+    "perez-cruz-gran-reserva-cabernet-sauvignon"
+  ],
+  "mostrar": null,
+  "legenda": "A Cabernet Sauvignon é filha da Cabernet Franc com a Sauvignon Blanc. 🧬\n\nUm teste de DNA feito na Califórnia nos anos 1990 revelou o cruzamento. O nome já dava a pista.\n\nArraste e prove pai e filha nos nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#cabernetsauvignon",
+    "#cabernetfranc",
+    "#uvas"
+  ],
+  "fontes_ref": [
+    "Bowers e Meredith, Nature Genetics, 1997"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "n": 34,
+  "slug": "chablis-sem-maquiagem",
+  "capa": "Chablis é Chardonnay sem maquiagem.",
+  "sub": "O branco mais famoso da Borgonha.",
+  "slides": [
+    {
+      "k": "A uva",
+      "t": "Só Chardonnay.",
+      "b": "Chablis é uma região no norte da Borgonha, na França, e todo vinho de lá é Chardonnay. A maioria é feita sem madeira."
+    },
+    {
+      "k": "O solo",
+      "t": "Fósseis do mar.",
+      "b": "Os melhores vinhedos ficam sobre calcário kimmeridgiano, cheio de conchas de ostras fossilizadas de milhões de anos."
+    },
+    {
+      "k": "O estilo",
+      "t": "Fresco e mineral.",
+      "b": "Clima frio e solo calcário dão um branco de acidez alta, cítrico e com aquela nota de pedra molhada que chamam de mineral."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Chablis.",
+  "final_b": "",
+  "cta": "Salve e peça Chablis com frutos do mar.",
+  "vinhos": [
+    "domaine-l-chatelain-chablis"
+  ],
+  "mostrar": null,
+  "legenda": "Chablis é Chardonnay sem maquiagem. 🐚\n\nSem madeira, em clima frio e solo cheio de ostras fossilizadas, ele dá um branco fresco e mineral.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#chablis",
+    "#chardonnay",
+    "#vinhofrances"
+  ],
+  "fontes_ref": [
+    "Bourgogne Wines, Chablis (bourgogne-wines.com)"
+  ]
+}

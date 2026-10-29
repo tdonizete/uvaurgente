@@ -1,0 +1,46 @@
+{
+  "n": 26,
+  "slug": "sulfito-nao-e-o-vilao",
+  "capa": "Sulfito não é o vilão da dor de cabeça.",
+  "sub": "O que ele faz no vinho.",
+  "slides": [
+    {
+      "k": "Para que serve",
+      "t": "Protege o vinho.",
+      "b": "O sulfito evita que o vinho oxide e estrague. Uma pequena quantidade também se forma naturalmente na fermentação."
+    },
+    {
+      "k": "Quanto tem",
+      "t": "Menos que em frutas secas.",
+      "b": "Na Europa, o tinto seco pode ter até 150 mg por litro. O damasco seco pode ter até 2.000 mg por quilo.",
+      "stat": [
+        "150 mg/L",
+        "limite europeu para tinto seco"
+      ]
+    },
+    {
+      "k": "E a dor de cabeça?",
+      "t": "O álcool pesa mais.",
+      "b": "Para a maioria das pessoas, o que causa mal-estar é o álcool e a desidratação. Quem tem asma pode ser sensível ao sulfito: nesse caso, fale com o médico."
+    }
+  ],
+  "final_k": "Para beber melhor",
+  "final_t": "Água entre as taças.",
+  "final_b": "Beba com moderação, intercale água e coma junto. Isso ajuda mais do que trocar de vinho.",
+  "cta": "Salve e mande para quem culpa o sulfito.",
+  "vinhos": [],
+  "mostrar": null,
+  "legenda": "Sulfito não é o vilão da dor de cabeça. 🍷\n\nEle protege o vinho e aparece em quantidade menor do que em frutas secas. Na maioria dos casos, o que pesa é o álcool e a falta de água.\n\nArraste para entender. Beba com moderação.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#dicadevinho",
+    "#mitosdovinho"
+  ],
+  "fontes_ref": [
+    "Regulamento (UE) 2019/934, limites de sulfito",
+    "Regulamento (CE) 1333/2008, aditivos em frutas secas"
+  ]
+}

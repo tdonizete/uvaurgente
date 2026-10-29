@@ -1,0 +1,48 @@
+{
+  "n": 18,
+  "slug": "pressao-do-espumante",
+  "capa": "A garrafa de espumante aguenta mais que um pneu.",
+  "sub": "Por isso ela é tão grossa.",
+  "slides": [
+    {
+      "k": "A pressão",
+      "t": "Cerca de 6 atmosferas.",
+      "b": "O gás da segunda fermentação deixa a garrafa com 5 a 6 atmosferas. É quase três vezes a pressão de um pneu de carro.",
+      "stat": [
+        "6 atm",
+        "de pressão dentro da garrafa"
+      ]
+    },
+    {
+      "k": "O vidro",
+      "t": "Grosso e com fundo côncavo.",
+      "b": "O vidro é mais espesso e o fundo afundado espalha a força da pressão. Garrafa de vinho tranquilo não aguentaria."
+    },
+    {
+      "k": "A rolha",
+      "t": "Por isso a gaiola.",
+      "b": "A gaiola de arame segura a rolha. Ao abrir, mantenha a mão sobre ela, aponte para longe das pessoas e gire a garrafa, não a rolha."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Espumantes para abrir com cuidado.",
+  "final_b": "",
+  "cta": "Salve e mande para quem abre espumante apontando para o lustre.",
+  "vinhos": [
+    "salton-brut",
+    "chandon-reserve-brut"
+  ],
+  "mostrar": null,
+  "legenda": "Uma garrafa de espumante tem cerca de 6 atmosferas de pressão: quase três vezes um pneu de carro. 🍾\n\nArraste para entender o vidro grosso, o fundo côncavo e a gaiola, e aprenda a abrir sem acidentes.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#espumante",
+    "#dicadevinho"
+  ],
+  "fontes_ref": [
+    "Comité Champagne (champagne.fr), pressão nas garrafas"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "n": 31,
+  "slug": "marselan-uva-brasileira",
+  "capa": "A uva francesa que virou brasileira.",
+  "sub": "A história da Marselan.",
+  "slides": [
+    {
+      "k": "A origem",
+      "t": "Um cruzamento de 1961.",
+      "b": "A Marselan nasceu na França, em 1961, do cruzamento de Cabernet Sauvignon com Grenache. O nome vem da cidade de Marseillan.",
+      "stat": [
+        "1961",
+        "ano do cruzamento"
+      ]
+    },
+    {
+      "k": "Esquecida",
+      "t": "Ficou de lado por décadas.",
+      "b": "Ela dava cachos grandes demais para a produção que a pesquisa buscava na época, e só foi aprovada para cultivo nos anos 1990."
+    },
+    {
+      "k": "No Brasil",
+      "t": "Achou casa no Sul.",
+      "b": "Na Campanha Gaúcha e na Serra, a Marselan dá tintos de cor intensa, fruta madura e tanino macio. Virou uma marca do vinho brasileiro."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Marselans para provar.",
+  "final_b": "",
+  "cta": "Salve e peça um Marselan na próxima compra.",
+  "vinhos": [
+    "salton-campanha-marselan-tannat",
+    "casa-perini-vitis-marselan",
+    "casa-valduga-arte-marselan-malbec"
+  ],
+  "mostrar": null,
+  "legenda": "A Marselan nasceu na França em 1961, mas achou casa no Brasil. 🇧🇷\n\nCruzamento de Cabernet Sauvignon com Grenache, ela dá tintos de cor intensa e tanino macio no Sul do país.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#marselan",
+    "#vinhobrasileiro",
+    "#campanhagaucha"
+  ],
+  "fontes_ref": [
+    "Wine Folly, Marselan (winefolly.com)"
+  ]
+}

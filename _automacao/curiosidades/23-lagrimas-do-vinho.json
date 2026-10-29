@@ -1,0 +1,41 @@
+{
+  "n": 23,
+  "slug": "lagrimas-do-vinho",
+  "capa": "As lágrimas do vinho não dizem se ele é bom.",
+  "sub": "O que elas mostram de verdade.",
+  "slides": [
+    {
+      "k": "O que é",
+      "t": "Gotas que escorrem na taça.",
+      "b": "Ao girar a taça, o vinho forma um anel que desce em gotas pela parede. Também chamam de pernas."
+    },
+    {
+      "k": "Por que acontece",
+      "t": "Álcool evaporando.",
+      "b": "O álcool evapora mais rápido que a água e muda a tensão da superfície do líquido. É o efeito Marangoni, um fenômeno da física."
+    },
+    {
+      "k": "O que indica",
+      "t": "Mais álcool ou açúcar.",
+      "b": "Muitas lágrimas sugerem vinho com mais álcool ou mais doce. Não dizem nada sobre qualidade, sabor ou preço."
+    }
+  ],
+  "final_k": "Na hora de provar",
+  "final_t": "Prove, não conte as gotas.",
+  "final_b": "A qualidade aparece no nariz e na boca: fruta, equilíbrio e final. É isso que a nossa nota avalia.",
+  "cta": "Salve e mande para quem julga vinho pelas lágrimas.",
+  "vinhos": [],
+  "mostrar": null,
+  "legenda": "As lágrimas do vinho não mostram qualidade. 💧\n\nElas vêm do álcool evaporando (efeito Marangoni) e só indicam mais álcool ou mais açúcar.\n\nArraste para entender o que olhar de verdade na taça.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#dicadevinho",
+    "#degustacao"
+  ],
+  "fontes_ref": [
+    "Wine Folly, wine legs (winefolly.com)"
+  ]
+}

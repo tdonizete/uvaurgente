@@ -1,0 +1,52 @@
+{
+  "n": 30,
+  "slug": "socalcos-do-douro",
+  "capa": "Vinhedos em escada, patrimônio da humanidade.",
+  "sub": "O Douro, em Portugal.",
+  "slides": [
+    {
+      "k": "A paisagem",
+      "t": "Socalcos nas encostas.",
+      "b": "No Douro, as vinhas são plantadas em degraus cavados nas encostas íngremes do rio. Muitos foram feitos à mão, com muros de pedra."
+    },
+    {
+      "k": "A história",
+      "t": "Uma das primeiras regiões demarcadas.",
+      "b": "A região foi demarcada em 1756, por ordem do Marquês de Pombal, para proteger o Vinho do Porto.",
+      "stat": [
+        "1756",
+        "ano da demarcação"
+      ]
+    },
+    {
+      "k": "O título",
+      "t": "Patrimônio da UNESCO.",
+      "b": "Em 2001, o Alto Douro Vinhateiro entrou para a lista do Patrimônio Mundial como paisagem cultural.",
+      "stat": [
+        "2001",
+        "Patrimônio Mundial"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Douro.",
+  "final_b": "",
+  "cta": "Salve e coloque o Douro na lista de viagem.",
+  "vinhos": [
+    "quinta-do-crasto-douro-tinto",
+    "quinta-do-vallado-douro-tinto"
+  ],
+  "mostrar": null,
+  "legenda": "Os vinhedos em escada do Douro são Patrimônio da Humanidade. 🇵🇹\n\nA região foi demarcada em 1756 e entrou na lista da UNESCO em 2001.\n\nArraste e veja os nossos vereditos do Douro.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#douro",
+    "#vinhoportugues"
+  ],
+  "fontes_ref": [
+    "UNESCO, Alto Douro Wine Region (whc.unesco.org)"
+  ]
+}

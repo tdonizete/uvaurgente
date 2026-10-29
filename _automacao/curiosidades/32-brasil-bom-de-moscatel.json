@@ -1,0 +1,51 @@
+{
+  "n": 32,
+  "slug": "brasil-bom-de-moscatel",
+  "capa": "O Brasil é bom de Moscatel.",
+  "sub": "E tem até uma capital.",
+  "slides": [
+    {
+      "k": "A capital",
+      "t": "Farroupilha, na Serra Gaúcha.",
+      "b": "Por lei de 2019, Farroupilha é a Capital Nacional do Moscatel. A cidade concentra cerca de 40% do cultivo de uvas moscato do país.",
+      "stat": [
+        "40%",
+        "do moscato plantado no Brasil"
+      ]
+    },
+    {
+      "k": "O selo",
+      "t": "Indicação de origem desde 2015.",
+      "b": "A Indicação de Procedência Farroupilha protege os moscatéis da região, entre eles o espumante moscatel."
+    },
+    {
+      "k": "O estilo",
+      "t": "Doce, leve e aromático.",
+      "b": "O espumante moscatel tem pouco álcool, perto de 7,5%, e aroma de flores e frutas. Vai bem gelado, com sobremesa e fruta."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Moscatéis para provar.",
+  "final_b": "",
+  "cta": "Salve para a próxima sobremesa.",
+  "vinhos": [
+    "salton-moscatel",
+    "casa-perini-moscatel",
+    "terranova-moscatel"
+  ],
+  "mostrar": null,
+  "legenda": "O Brasil é bom de Moscatel, e Farroupilha (RS) é a Capital Nacional do Moscatel. 🍇🥂\n\nDoce, leve e aromático, o espumante moscatel brasileiro tem até selo de origem.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#moscatel",
+    "#espumantebrasileiro",
+    "#vinhobrasileiro"
+  ],
+  "fontes_ref": [
+    "Canal Rural, Farroupilha capital nacional do moscatel (canalrural.com.br)",
+    "Revista Cultivar, IP Farroupilha (revistacultivar.com.br)"
+  ]
+}

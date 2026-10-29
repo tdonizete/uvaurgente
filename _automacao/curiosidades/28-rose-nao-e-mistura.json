@@ -1,0 +1,44 @@
+{
+  "n": 28,
+  "slug": "rose-nao-e-mistura",
+  "capa": "Rosé não é tinto misturado com branco.",
+  "sub": "Como ele ganha a cor.",
+  "slides": [
+    {
+      "k": "Como se faz",
+      "t": "Pouco tempo com a casca.",
+      "b": "O rosé usa uvas tintas. O suco fica algumas horas em contato com as cascas, que soltam pouca cor, e depois fermenta como um branco."
+    },
+    {
+      "k": "A regra",
+      "t": "Misturar é proibido.",
+      "b": "Na União Europeia, fazer rosé tranquilo misturando vinho tinto com branco não é permitido."
+    },
+    {
+      "k": "A exceção",
+      "t": "O champanhe rosé.",
+      "b": "Em Champagne a mistura é permitida: um pouco de vinho tinto entra no espumante para dar a cor."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Rosés para provar.",
+  "final_b": "",
+  "cta": "Salve e mande para quem acha que rosé é mistura.",
+  "vinhos": [
+    "casal-garcia-rose",
+    "casillero-del-diablo-reserva-rose"
+  ],
+  "mostrar": null,
+  "legenda": "Rosé não é tinto misturado com branco. 🌸\n\nA cor vem de poucas horas de contato do suco com a casca da uva tinta. Na União Europeia a mistura é proibida, com exceção do champanhe rosé.\n\nArraste e veja os nossos vereditos de rosé.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhorose",
+    "#rose"
+  ],
+  "fontes_ref": [
+    "Regulamento (CE) 606/2009, práticas enológicas"
+  ]
+}

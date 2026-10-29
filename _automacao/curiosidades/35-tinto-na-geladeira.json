@@ -1,0 +1,49 @@
+{
+  "n": 35,
+  "slug": "tinto-na-geladeira",
+  "capa": "Tinto que vai à geladeira.",
+  "sub": "Nem todo tinto é de temperatura ambiente.",
+  "slides": [
+    {
+      "k": "Quais",
+      "t": "Tintos leves e frutados.",
+      "b": "Beaujolais, feito com a uva Gamay, e Pinot Noir leves ficam melhores levemente gelados, entre 12 °C e 14 °C.",
+      "stat": [
+        "13 °C",
+        "para um Beaujolais"
+      ]
+    },
+    {
+      "k": "Por quê",
+      "t": "Frio realça a fruta.",
+      "b": "Um pouco de frio deixa a fruta mais viva e o álcool menos aparente. No calor do Brasil, faz ainda mais diferença."
+    },
+    {
+      "k": "Como fazer",
+      "t": "Trinta minutos bastam.",
+      "b": "Deixe a garrafa uns 30 minutos na geladeira antes de servir. Tintos encorpados pedem menos frio, perto de 16 °C a 18 °C."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Tintos para gelar.",
+  "final_b": "",
+  "cta": "Salve e coloque o tinto na geladeira no próximo calor.",
+  "vinhos": [
+    "louis-jadot-beaujolais-villages",
+    "trapiche-roble-pinot-noir"
+  ],
+  "mostrar": "servir",
+  "legenda": "Tem tinto que vai à geladeira. 🧊🍷\n\nBeaujolais e Pinot Noir leves ficam melhores entre 12 °C e 14 °C. Meia hora na geladeira resolve.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#beaujolais",
+    "#pinotnoir",
+    "#dicadevinho"
+  ],
+  "fontes_ref": [
+    "Wine Folly, serving temperature (winefolly.com)"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "n": 25,
+  "slug": "malbec-nas-alturas",
+  "capa": "Malbec que mora nas alturas.",
+  "sub": "Por que Mendoza planta tão alto.",
+  "slides": [
+    {
+      "k": "Altitude",
+      "t": "Vinhedos a mais de mil metros.",
+      "b": "No Valle de Uco, em Mendoza, há vinhedos entre 900 e 1.500 metros. Na serra de Salta, passam de 2.000.",
+      "stat": [
+        "1.500 m",
+        "no alto do Valle de Uco"
+      ]
+    },
+    {
+      "k": "Amplitude",
+      "t": "Dia quente, noite fria.",
+      "b": "A diferença de temperatura entre dia e noite pode passar de 15 °C. O calor amadurece a uva e o frio da noite preserva a acidez."
+    },
+    {
+      "k": "O resultado",
+      "t": "Cor, fruta e frescor.",
+      "b": "O sol forte da altitude engrossa a casca da uva. Dá mais cor e tanino. É por isso que o Malbec argentino tem cor intensa e fruta viva."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Malbecs de altitude.",
+  "final_b": "",
+  "cta": "Salve e mande para quem só conhece o Malbec de churrasco.",
+  "vinhos": [
+    "catena-malbec",
+    "zuccardi-q-malbec",
+    "alta-vista-classic-malbec"
+  ],
+  "mostrar": null,
+  "legenda": "O Malbec argentino mora nas alturas. 🏔️\n\nEm Mendoza há vinhedos a mais de mil metros. Dia quente e noite fria dão cor, fruta e frescor ao vinho.\n\nArraste e veja os nossos vereditos de Malbec de altitude.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#malbec",
+    "#vinhoargentino",
+    "#mendoza"
+  ],
+  "fontes_ref": [
+    "Wines of Argentina (winesofargentina.org)"
+  ]
+}

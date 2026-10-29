@@ -1,0 +1,45 @@
+{
+  "n": 22,
+  "slug": "vinho-de-mesa-x-vinho-fino",
+  "capa": "Vinho de mesa não é vinho fino.",
+  "sub": "A diferença está na uva.",
+  "slides": [
+    {
+      "k": "Vinho de mesa",
+      "t": "Uvas americanas.",
+      "b": "No Brasil, vinho de mesa é feito com uvas americanas ou híbridas, como Isabel, Bordô e Niágara. São as mesmas do suco de uva."
+    },
+    {
+      "k": "Vinho fino",
+      "t": "Uvas europeias.",
+      "b": "Vinho fino usa uvas da espécie Vitis vinifera, como Cabernet Sauvignon, Merlot e Chardonnay. O rótulo precisa dizer qual é a categoria."
+    },
+    {
+      "k": "E o suave?",
+      "t": "Doçura é outra conversa.",
+      "b": "Suave quer dizer que o vinho tem açúcar. Existe vinho de mesa suave e vinho fino suave. Para saber a uva, leia a categoria no rótulo."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para comparar.",
+  "final_b": "",
+  "cta": "Salve e olhe o rótulo na próxima compra.",
+  "vinhos": [
+    "pergola-tinto-suave",
+    "concha-y-toro-reservado-sweet-red"
+  ],
+  "mostrar": null,
+  "legenda": "Vinho de mesa e vinho fino não são a mesma coisa. 🍇\n\nA diferença está na uva: americana (Isabel, Bordô) no vinho de mesa, europeia no vinho fino. Suave é outra coisa: fala de açúcar.\n\nArraste e aprenda a ler o rótulo.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinhosuave",
+    "#vinhobrasileiro",
+    "#dicadevinho"
+  ],
+  "fontes_ref": [
+    "Lei 7.678/1988 (classificação dos vinhos no Brasil)"
+  ]
+}

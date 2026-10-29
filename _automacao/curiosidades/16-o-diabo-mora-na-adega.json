@@ -1,0 +1,48 @@
+{
+  "n": 16,
+  "slug": "o-diabo-mora-na-adega",
+  "capa": "O diabo mora na adega.",
+  "sub": "A história por trás do Casillero del Diablo.",
+  "slides": [
+    {
+      "k": "O problema",
+      "t": "Garrafas sumiam da adega.",
+      "b": "No fim do século 19, em Pirque, no Chile, Don Melchor de Concha y Toro percebeu que vinhos da sua adega particular desapareciam, mesmo com o portão trancado."
+    },
+    {
+      "k": "A solução",
+      "t": "Um boato bem espalhado.",
+      "b": "Em vez de pôr guardas, ele fez correr a história de que o diabo morava naquele porão. Os furtos pararam."
+    },
+    {
+      "k": "Virou marca",
+      "t": "O casillero do diabo.",
+      "b": "Em 1966 a Concha y Toro transformou a lenda em rótulo. Hoje o Casillero del Diablo é vendido em mais de cem países.",
+      "stat": [
+        "1966",
+        "ano em que a lenda virou rótulo"
+      ]
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar a lenda.",
+  "final_b": "",
+  "cta": "Salve e conte essa história no próximo churrasco.",
+  "vinhos": [
+    "casillero-del-diablo-reserva-cabernet-sauvignon",
+    "casillero-del-diablo-reserva-carmenere"
+  ],
+  "mostrar": null,
+  "legenda": "Por que o vinho se chama Casillero del Diablo? 😈\n\nDon Melchor espalhou que o diabo morava na adega para espantar quem roubava as garrafas. Funcionou, e a lenda virou marca em 1966.\n\nArraste para a história completa e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#casillerodeldiablo",
+    "#vinhochileno"
+  ],
+  "fontes_ref": [
+    "Concha y Toro, The Legend of Casillero del Diablo (conchaytoro.com)"
+  ]
+}

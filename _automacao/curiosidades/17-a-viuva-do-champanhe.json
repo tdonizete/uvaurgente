@@ -1,0 +1,49 @@
+{
+  "n": 17,
+  "slug": "a-viuva-do-champanhe",
+  "capa": "Uma viúva mudou o champanhe.",
+  "sub": "Veuve quer dizer viúva.",
+  "slides": [
+    {
+      "k": "Quem foi",
+      "t": "Barbe-Nicole Clicquot.",
+      "b": "Ficou viúva em 1805, aos 27 anos, e assumiu a vinícola da família em Reims numa época em que mulheres não comandavam empresas.",
+      "stat": [
+        "27",
+        "anos quando assumiu a casa"
+      ]
+    },
+    {
+      "k": "A invenção",
+      "t": "A mesa que limpa o espumante.",
+      "b": "Por volta de 1816 ela criou a mesa de remuage: as garrafas ficam de cabeça para baixo e são giradas até a borra descer para o gargalo e ser retirada."
+    },
+    {
+      "k": "O legado",
+      "t": "Espumante límpido virou regra.",
+      "b": "Antes, o champanhe era turvo. O método se espalhou por toda a região e ainda é usado no espumante de método tradicional, inclusive no Brasil."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para brindar à viúva.",
+  "final_b": "",
+  "cta": "Salve e marque quem merece um brinde.",
+  "vinhos": [
+    "veuve-clicquot-brut-yellow-label",
+    "moet-chandon-brut-imperial"
+  ],
+  "mostrar": null,
+  "legenda": "Veuve, em francês, é viúva. 🥂\n\nBarbe-Nicole Clicquot assumiu a vinícola aos 27 anos e criou a mesa de remuage, que deixou o champanhe límpido. A técnica é usada até hoje.\n\nArraste e veja os nossos vereditos de Veuve Clicquot e Moët.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#veuveclicquot",
+    "#champagne",
+    "#espumante"
+  ],
+  "fontes_ref": [
+    "Veuve Clicquot, história da Maison (veuveclicquot.com)"
+  ]
+}

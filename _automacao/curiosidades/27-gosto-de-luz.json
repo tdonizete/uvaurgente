@@ -1,0 +1,45 @@
+{
+  "n": 27,
+  "slug": "gosto-de-luz",
+  "capa": "Garrafa transparente, vinho em perigo.",
+  "sub": "O defeito que vem da luz.",
+  "slides": [
+    {
+      "k": "O defeito",
+      "t": "Gosto de luz.",
+      "b": "A luz, inclusive a das lâmpadas da loja, reage com compostos do vinho e cria cheiro de repolho cozido. O nome técnico é lightstrike."
+    },
+    {
+      "k": "Quem sofre",
+      "t": "Brancos, rosés e espumantes.",
+      "b": "Vinhos leves em garrafa transparente são os mais vulneráveis. Algumas horas de luz forte já podem causar o defeito."
+    },
+    {
+      "k": "Como evitar",
+      "t": "Guarde no escuro.",
+      "b": "Prefira garrafas que estavam longe da luz, guarde em armário ou caixa e não deixe o vinho na janela."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Garrafa clara, cuidado em dobro.",
+  "final_b": "",
+  "cta": "Salve e tire o vinho da janela.",
+  "vinhos": [
+    "casal-garcia-vinho-verde",
+    "vinovalie-rose-piscine-stripes"
+  ],
+  "mostrar": null,
+  "legenda": "Garrafa transparente deixa o vinho exposto ao gosto de luz. 💡\n\nA luz reage com compostos do vinho e cria cheiro de repolho cozido. Brancos, rosés e espumantes são os mais sensíveis.\n\nArraste e aprenda a guardar.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#dicadevinho",
+    "#vinhorose",
+    "#vinhobranco"
+  ],
+  "fontes_ref": [
+    "Wine Spectator, light strike (winespectator.com)"
+  ]
+}

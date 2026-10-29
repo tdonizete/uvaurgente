@@ -1,0 +1,47 @@
+{
+  "n": 24,
+  "slug": "champagne-e-nome-de-lugar",
+  "capa": "Champagne é nome de lugar.",
+  "sub": "Nem todo espumante é champanhe.",
+  "slides": [
+    {
+      "k": "A regra",
+      "t": "Só da região de Champagne.",
+      "b": "Pela lei europeia, só o espumante feito na região de Champagne, no nordeste da França, com as regras de lá, pode usar o nome."
+    },
+    {
+      "k": "Os primos",
+      "t": "Cada lugar com o seu nome.",
+      "b": "Cava é da Espanha, Prosecco é do nordeste da Itália, Crémant é de outras regiões francesas. No Brasil, o nome certo é espumante."
+    },
+    {
+      "k": "A diferença",
+      "t": "Uva e método.",
+      "b": "Champagne e cava usam o método tradicional. O Prosecco usa a uva Glera e o método Charmat, em tanque, e fica mais frutado."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Três origens, três estilos.",
+  "final_b": "",
+  "cta": "Salve e corrija quem chama tudo de champanhe.",
+  "vinhos": [
+    "moet-chandon-brut-imperial",
+    "freixenet-carta-nevada",
+    "zonin-prosecco-doc"
+  ],
+  "mostrar": null,
+  "legenda": "Champagne é nome de lugar, não de bebida. 🥂\n\nSó o espumante da região de Champagne, na França, pode usar o nome. Cava, Prosecco e espumante brasileiro são outros estilos.\n\nArraste e compare os três.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#champagne",
+    "#prosecco",
+    "#cava",
+    "#espumante"
+  ],
+  "fontes_ref": [
+    "Comité Champagne, a denominação (champagne.fr)"
+  ]
+}

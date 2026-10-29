@@ -1,0 +1,44 @@
+{
+  "n": 29,
+  "slug": "rose-com-gelo",
+  "capa": "Um vinho feito para tomar com gelo.",
+  "sub": "O Rosé Piscine.",
+  "slides": [
+    {
+      "k": "De onde vem",
+      "t": "Do sudoeste da França.",
+      "b": "O Rosé Piscine é da Vinovalie, grupo de cooperativas da região de Toulouse. Piscine, em francês, é piscina."
+    },
+    {
+      "k": "A ideia",
+      "t": "Feito para diluir.",
+      "b": "O enólogo criou um rosé que mantém o sabor mesmo com gelo, costume dos bares da Côte d'Azur. O slogan diz: absolutamente com gelo."
+    },
+    {
+      "k": "E os outros?",
+      "t": "Com gelo, só se quiser.",
+      "b": "Gelo dilui o vinho. Para um rosé comum, prefira gelar a garrafa. Nos dias muito quentes, um ou dois cubos não são crime."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "O rosé da piscina.",
+  "final_b": "",
+  "cta": "Salve para o próximo dia de calor.",
+  "vinhos": [
+    "vinovalie-rose-piscine-stripes"
+  ],
+  "mostrar": null,
+  "legenda": "Existe vinho feito para tomar com gelo: o Rosé Piscine. 🧊\n\nO rosé francês foi criado para manter o sabor mesmo diluído. Nos outros vinhos, gelo é escolha sua.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#rosepiscine",
+    "#vinhorose",
+    "#vinhofrances"
+  ],
+  "fontes_ref": [
+    "Breizh-info, Rosé Piscine (breizh-info.com)"
+  ]
+}
