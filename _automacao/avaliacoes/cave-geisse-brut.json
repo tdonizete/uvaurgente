@@ -1,0 +1,138 @@
+{
+ "slug": "cave-geisse-brut",
+ "data": "2026-10-29",
+ "provado": false,
+ "vinho": {
+  "title": "Cave Geisse Brut",
+  "produtor": "Cave Geisse",
+  "tipo": "Espumante",
+  "pais": "Brasil",
+  "regiao": "Pinto Bandeira (Serra Gaúcha)",
+  "safra": null,
+  "uvas": "Chardonnay, Pinot Noir",
+  "teor": 12.0,
+  "servir": "6 °C",
+  "estilo": "Brut, método tradicional, 24 meses"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.werlecomercial.com.br/produtos/espumante-cave-geisse-brut750ml-cak9"
+ ],
+ "preco": {
+  "referencia": 179.9,
+  "min": 179.9,
+  "max": 215.46,
+  "ajustes": [],
+  "fontes": [
+   "Werle Comercial: R$ 179,9, 26/10/2026",
+   "Amazon (link do Tiago): R$ 215,46, 29/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.6,
+  "intensidade": 7.4,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Oxidativo"
+  ],
+  "top5": [
+   {
+    "nome": "Damasco",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Amêndoa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Frutas secas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Brioche",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 8.0,
+  "corpo": 7.2,
+  "tanino_docura": 8.6,
+  "intensidade": 7.4,
+  "final": 7.0,
+  "final_segundos": 7,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — equilibrada",
+   "Médio — fino",
+   "Brut — coerente",
+   "Pronunciada",
+   "Médio — cerca de 7 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": true,
+  "aproxima_9": false
+ },
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B0bTuxblk"
+  }
+ ],
+ "textos": {
+  "texto_site": "",
+  "frase": "Espumante brasileiro de método tradicional, referência de Pinto Bandeira.",
+  "kicker_identidade": "Pioneiro de Pinto Bandeira",
+  "historico": "A Cave Geisse foi fundada pelo chileno Mario Geisse em Pinto Bandeira (RS), região que hoje tem Denominação de Origem para espumantes. O Brut é feito pelo método tradicional, com segunda fermentação na garrafa.",
+  "degustacao": "Maçã verde, cítricos e um toque de pão tostado do tempo sobre as borras. Na boca é seco, de acidez viva e borbulha fina.",
+  "harmonizacao": [
+   {
+    "prato": "Petiscos fritos",
+    "porque": "Borbulha e acidez limpam a gordura.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ostras",
+    "porque": "Clássico do espumante seco.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salgadinhos de festa",
+    "porque": "Brinde que acompanha tudo.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo brie",
+    "porque": "Cremosidade com perlage.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Salada de frutos do mar",
+    "porque": "Leve e fresco.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhoespumante",
+  "#chardonnay",
+  "#vinhobrasil",
+  "#cavegeisse"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/cave-geisse-brut.png"
+}

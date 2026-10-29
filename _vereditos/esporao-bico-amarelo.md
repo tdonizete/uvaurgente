@@ -68,7 +68,10 @@ estilos:
 - frutado
 - acessivel
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B04VI9MWF
+  preco: null
 criterios:
   visual: 8.2
   aroma: 7.5

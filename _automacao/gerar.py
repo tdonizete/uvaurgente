@@ -34,9 +34,14 @@ NIVEL_PCT = {"fraco": 40, "moderado": 62, "pronunciado": 78, "intenso": 92}
 NOMES_PALADAR = ["Acidez", "Corpo", "Tanino", "Intensidade", "Final"]
 
 
+def _br(x):
+    s = f"{float(x):.2f}".replace(".", ",")
+    return s[:-3] if s.endswith(",00") else s
+
+
 def preco_txt(p):
     lo, hi = p["min"], p["max"]
-    return f"R$ {lo}" if lo == hi else f"R$ {lo}–{hi}"
+    return f"R$ {_br(lo)}" if lo == hi else f"R$ {_br(lo)} a {_br(hi)}"
 
 
 FAMILIA_TAG = {"Frutas": "frutado", "Florais": "floral", "Especiarias": "especiado", "Madeira": "amadeirado",

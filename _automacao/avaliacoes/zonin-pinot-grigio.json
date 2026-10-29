@@ -1,0 +1,137 @@
+{
+ "slug": "zonin-pinot-grigio",
+ "data": "2026-10-29",
+ "provado": false,
+ "vinho": {
+  "title": "Zonin Pinot Grigio Friuli",
+  "produtor": "Zonin",
+  "tipo": "Branco",
+  "pais": "Itália",
+  "regiao": "Friuli (DOC Friuli)",
+  "safra": null,
+  "uvas": "Pinot Grigio",
+  "teor": null,
+  "servir": "8 °C",
+  "estilo": "Seco a meio seco (6 g/L)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.google.com/search?udm=28&q=vinho+zonin+pinot+grigio",
+  "https://www.lcbo.com/fr/pinot-grigio-zonin-43956"
+ ],
+ "preco": {
+  "referencia": 56.99,
+  "min": 56.99,
+  "max": 94.97,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Google Shopping — Pão de Açúcar (com desconto; 'de' R$ 95,90): R$ 56,99, 27/10/2026",
+   "Mercado Livre (link do Tiago): R$ 94,97, 29/10/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 6.4,
+  "familias": [
+   "Frutas"
+  ],
+  "top5": [
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pera",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Frutas brancas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.2,
+  "tanino_docura": 7.8,
+  "intensidade": 6.2,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média-alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — coerente",
+   "Moderada — simples",
+   "Curto a médio — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "lojas": [
+  {
+   "nome": "Mercado Livre",
+   "url": "https://meli.la/2z2kuDN"
+  }
+ ],
+ "textos": {
+  "texto_site": "",
+  "frase": "Branco italiano leve e fresco para o dia a dia.",
+  "kicker_identidade": "O Pinot Grigio da Zonin",
+  "historico": "A Zonin é uma das maiores vinícolas familiares da Itália, fundada em 1821 no Vêneto. Este Pinot Grigio vem do Friuli, no nordeste do país, e é feito sem madeira.",
+  "degustacao": "Pera, maçã e flores brancas no nariz. Na boca é leve, seco e fresco, com final curto e limpo.",
+  "harmonizacao": [
+   {
+    "prato": "Peixe grelhado com limão",
+    "porque": "Acidez cítrica que realça o peixe.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Ceviche",
+    "porque": "Cítrico com cítrico.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Salada verde",
+    "porque": "Leveza para o calor.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijo de cabra",
+    "porque": "Acidez para o queijo fresco.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Camarão no alho",
+    "porque": "Frescor para frutos do mar.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhobranco",
+  "#pinotgrigio",
+  "#vinhoitalia",
+  "#zonin"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/zonin-pinot-grigio.png"
+}

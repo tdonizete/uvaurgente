@@ -69,7 +69,10 @@ estilos:
 - tostado
 - luxo
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0eGKWjLS
+  preco: null
 criterios:
   visual: 9.0
   aroma: 8.3

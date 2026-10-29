@@ -3,12 +3,9 @@
  "rank_amazon": null,
  "pos_lista300": 266,
  "data": "2026-10-26",
- "status": "base",
+ "status": "publicado",
  "confianca": "média",
- "pendencias": [
-  "Preço e perfil em 1 só fonte (Werle)",
-  "Foto enviada é do Cave Geisse Extra Brut; base é Brut"
- ],
+ "pendencias": [],
  "provado": false,
  "vinho": {
   "title": "Cave Geisse Brut",
@@ -29,10 +26,11 @@
  "preco": {
   "referencia": 179.9,
   "min": 179.9,
-  "max": 179.9,
+  "max": 215.46,
   "ajustes": [],
   "fontes": [
-   "Werle Comercial: R$ 179,9, 26/10/2026"
+   "Werle Comercial: R$ 179,9, 26/10/2026",
+   "Amazon (link do Tiago): R$ 215,46, 29/10/2026"
   ]
  },
  "visual": {
@@ -90,5 +88,14 @@
   "supera_cartuxa": true,
   "algo_alem_do_cartuxa": true,
   "aproxima_9": false
+ },
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B0bTuxblk"
+  }
+ ],
+ "foto": {
+  "status": "publicada (foto enviada pelo Tiago em 29/10/2026)"
  }
 }

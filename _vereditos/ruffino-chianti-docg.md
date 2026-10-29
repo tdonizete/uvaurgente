@@ -70,7 +70,10 @@ estilos:
 - especiado
 - intermediario
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0eMMVnC4
+  preco: null
 criterios:
   visual: 8.0
   aroma: 7.8

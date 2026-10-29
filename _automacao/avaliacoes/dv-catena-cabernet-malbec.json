@@ -1,144 +1,148 @@
 {
-  "slug": "dv-catena-cabernet-malbec",
-  "data": "2026-10-22",
-  "provado": true,
-  "vinho": {
-    "title": "D.V. Catena Cabernet-Malbec",
-    "produtor": "Catena Zapata",
-    "tipo": "Tinto",
-    "pais": "Argentina",
-    "regiao": "Mendoza",
-    "safra": null,
-    "uvas": "Cabernet Sauvignon, Malbec",
-    "teor": 13.5,
-    "servir": "17 °C"
-  },
-  "canal": "Lojas especializadas",
+ "slug": "dv-catena-cabernet-malbec",
+ "data": "2026-10-22",
+ "provado": true,
+ "vinho": {
+  "title": "D.V. Catena Cabernet-Malbec",
+  "produtor": "Catena Zapata",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon, Malbec",
+  "teor": 13.5,
+  "servir": "17 °C"
+ },
+ "canal": "Lojas especializadas",
+ "fontes": [
+  "https://www.espacoprime.com.br/produto/vinho-d-v-catena-cabernet-malbec-750ml-70439",
+  "https://www.viavini.com.br/vinho-dv-catena-cabernet-malbec-tinto-argentino.html",
+  "https://www.supermuffato.com.br/vinho-catena-dv-cabernet-malbec-750ml-198614/p"
+ ],
+ "preco": {
+  "referencia": 249.89,
+  "min": 250,
+  "max": 288,
+  "ajustes": [],
   "fontes": [
-    "https://www.espacoprime.com.br/produto/vinho-d-v-catena-cabernet-malbec-750ml-70439",
-    "https://www.viavini.com.br/vinho-dv-catena-cabernet-malbec-tinto-argentino.html",
-    "https://www.supermuffato.com.br/vinho-catena-dv-cabernet-malbec-750ml-198614/p"
+   "Espaço Prime: R$ 249,89 (22/10/2026)",
+   "Via Vini (safra 2022): R$ 260,00 (22/10/2026)",
+   "Super Muffato: R$ 288,30 (22/10/2026)"
+  ]
+ },
+ "visual": {
+  "nota": 8.6
+ },
+ "aroma": {
+  "limpeza": 8.8,
+  "intensidade": 8.2,
+  "complexidade": 8.2,
+  "familias": [
+   "Frutas",
+   "Especiarias",
+   "Madeira"
   ],
-  "preco": {
-    "referencia": 249.89,
-    "min": 250,
-    "max": 288,
-    "ajustes": [],
-    "fontes": [
-      "Espaço Prime: R$ 249,89 (22/10/2026)",
-      "Via Vini (safra 2022): R$ 260,00 (22/10/2026)",
-      "Super Muffato: R$ 288,30 (22/10/2026)"
-    ]
+  "top5": [
+   {
+    "nome": "Ameixa",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "pronunciado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Tostado",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.8,
+  "corpo": 8.4,
+  "tanino_docura": 8.2,
+  "intensidade": 8.2,
+  "final": 8.0,
+  "final_segundos": 8,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — boa acidez",
+   "Encorpado — estruturado",
+   "Firme — presente e macio",
+   "Pronunciada — fruta madura",
+   "Longo — cerca de 8 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": true,
+  "algo_alem_do_cartuxa": false
+ },
+ "textos": {
+  "texto_site": "",
+  "frase": "Tinto argentino sério e bem feito, num preço que subiu demais.",
+  "kicker_identidade": "O clássico da Catena",
+  "historico": "A Catena Zapata é uma das vinícolas mais premiadas da Argentina. O D.V. Catena une Cabernet Sauvignon e Malbec de vinhedos de altitude em Mendoza, com 12 meses em carvalho.",
+  "degustacao": "Ameixa e cereja maduras no nariz, com especiarias, baunilha e tostado. Na boca é encorpado, de boa acidez, taninos macios e final persistente.",
+  "harmonizacao": [
+   {
+    "prato": "Bife de chorizo",
+    "porque": "Clássico argentino para um Cabernet-Malbec.",
+    "tag": "Destaque"
+   },
+   {
+    "prato": "Costela assada",
+    "porque": "Corpo e tanino para uma carne gorda.",
+    "tag": "Clássico"
+   },
+   {
+    "prato": "Massa com molho de carne",
+    "porque": "Molho rico pede estrutura.",
+    "tag": "Fácil"
+   },
+   {
+    "prato": "Queijos curados",
+    "porque": "Tanino com queijo de massa dura.",
+    "tag": "Curinga"
+   },
+   {
+    "prato": "Berinjela à parmegiana",
+    "porque": "Opção sem carne para um tinto encorpado.",
+    "tag": "Leve"
+   }
+  ]
+ },
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://amzn.to/4tTmPqE"
   },
-  "visual": {
-    "nota": 8.6
+  {
+   "nome": "Mercado Livre",
+   "url": "https://meli.la/2LtTcMe"
   },
-  "aroma": {
-    "limpeza": 8.8,
-    "intensidade": 8.2,
-    "complexidade": 8.2,
-    "familias": [
-      "Frutas",
-      "Especiarias",
-      "Madeira"
-    ],
-    "top5": [
-      {
-        "nome": "Ameixa",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Cereja",
-        "nivel": "pronunciado"
-      },
-      {
-        "nome": "Especiarias",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Baunilha",
-        "nivel": "moderado"
-      },
-      {
-        "nome": "Tostado",
-        "nivel": "fraco"
-      }
-    ]
-  },
-  "paladar": {
-    "acidez": 7.8,
-    "corpo": 8.4,
-    "tanino_docura": 8.2,
-    "intensidade": 8.2,
-    "final": 8.0,
-    "final_segundos": 8,
-    "ajuste_equilibrio": 0.0,
-    "descritores": [
-      "Alta — boa acidez",
-      "Encorpado — estruturado",
-      "Firme — presente e macio",
-      "Pronunciada — fruta madura",
-      "Longo — cerca de 8 segundos"
-    ]
-  },
-  "ancoras": {
-    "melhor_que_7": true,
-    "supera_cartuxa": true,
-    "algo_alem_do_cartuxa": false
-  },
-  "textos": {
-    "texto_site": "",
-    "frase": "Tinto argentino sério e bem feito, num preço que subiu demais.",
-    "kicker_identidade": "O clássico da Catena",
-    "historico": "A Catena Zapata é uma das vinícolas mais premiadas da Argentina. O D.V. Catena une Cabernet Sauvignon e Malbec de vinhedos de altitude em Mendoza, com 12 meses em carvalho.",
-    "degustacao": "Ameixa e cereja maduras no nariz, com especiarias, baunilha e tostado. Na boca é encorpado, de boa acidez, taninos macios e final persistente.",
-    "harmonizacao": [
-      {
-        "prato": "Bife de chorizo",
-        "porque": "Clássico argentino para um Cabernet-Malbec.",
-        "tag": "Destaque"
-      },
-      {
-        "prato": "Costela assada",
-        "porque": "Corpo e tanino para uma carne gorda.",
-        "tag": "Clássico"
-      },
-      {
-        "prato": "Massa com molho de carne",
-        "porque": "Molho rico pede estrutura.",
-        "tag": "Fácil"
-      },
-      {
-        "prato": "Queijos curados",
-        "porque": "Tanino com queijo de massa dura.",
-        "tag": "Curinga"
-      },
-      {
-        "prato": "Berinjela à parmegiana",
-        "porque": "Opção sem carne para um tinto encorpado.",
-        "tag": "Leve"
-      }
-    ]
-  },
-  "lojas": [
-    {
-      "nome": "Amazon",
-      "url": "https://amzn.to/4tTmPqE"
-    },
-    {
-      "nome": "Mercado Livre",
-      "url": "https://meli.la/2LtTcMe"
-    }
-  ],
-  "hashtags": [
-    "#vinho",
-    "#uvaurgente",
-    "#vinhosemmimimi",
-    "#dicadevinho",
-    "#vinhotinto",
-    "#malbec",
-    "#vinhoargentino",
-    "#catenazapata"
-  ],
-  "imagem_origem": "/home/claude/tdonizete/uvaurgente/assets/img/vereditos/dv-catena-cabernet-malbec.png"
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B05EVA8un"
+  }
+ ],
+ "hashtags": [
+  "#vinho",
+  "#uvaurgente",
+  "#vinhosemmimimi",
+  "#dicadevinho",
+  "#vinhotinto",
+  "#malbec",
+  "#vinhoargentino",
+  "#catenazapata"
+ ],
+ "imagem_origem": "/tmp/claude-0/-home-claude/1c436ef2-ebc2-560e-a0e3-b548dc55d4b7/scratchpad/fotos_png/dv-catena-cabernet-malbec.png"
 }

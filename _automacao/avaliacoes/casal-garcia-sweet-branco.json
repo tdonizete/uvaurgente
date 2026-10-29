@@ -116,7 +116,12 @@
    }
   ]
  },
- "lojas": [],
+ "lojas": [
+  {
+   "nome": "Amazon",
+   "url": "https://link.amazon/B01KOanIe"
+  }
+ ],
  "hashtags": [
   "#vinho",
   "#uvaurgente",

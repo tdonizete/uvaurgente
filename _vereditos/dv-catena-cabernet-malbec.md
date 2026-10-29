@@ -78,6 +78,9 @@ lojas:
 - nome: Mercado Livre
   url: https://meli.la/2LtTcMe
   preco: null
+- nome: Amazon
+  url: https://link.amazon/B05EVA8un
+  preco: null
 criterios:
   visual: 8.6
   aroma: 8.4
