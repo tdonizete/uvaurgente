@@ -8,7 +8,7 @@ safra: 2022
 uvas: Moscatel de Alejandría
 nota: 7.7
 preco_min: 60.0
-preco_max: 139.0
+preco_max: 89.8
 frase: Laranja chileno aromático e de textura firme, por um ótimo preço.
 degustacao: Lichia, damasco, casca de laranja e rosa no nariz, com toque de gengibre. Na boca é seco, de acidez viva, textura carnuda e um tanino leve das cascas.
 harmonizacao:

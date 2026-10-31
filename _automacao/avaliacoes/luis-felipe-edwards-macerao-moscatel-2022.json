@@ -28,14 +28,11 @@
  "preco": {
   "referencia": 60.0,
   "min": 60.0,
-  "max": 139.0,
+  "max": 89.8,
   "ajustes": [],
   "fontes": [
    "Sam's Club: R$ 60,00 (informado pelo Tiago), 30/10/2026",
-   "Espaço Prime Bebidas: R$ 99,90 (preço regular, indisponível no momento), 30/10/2026",
-   "Empório Itiê: R$ 89,80 (promoção, de R$ 128,30, em estoque), 30/10/2026",
-   "Brindiamo Vino: R$ 83,90 (fora de estoque), 30/10/2026",
-   "Onivino: R$ 139,00 (safra 2022, fora de estoque), 30/10/2026"
+   "Empório Itiê: R$ 89,80 (em estoque), 30/10/2026"
   ]
  },
  "visual": {
