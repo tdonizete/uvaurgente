@@ -70,7 +70,10 @@ estilos:
 - terroso
 - ultra
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B01MswfE3
+  preco: null
 criterios:
   visual: 9.0
   aroma: 8.6

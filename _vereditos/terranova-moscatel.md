@@ -69,7 +69,10 @@ estilos:
 - floral
 - popular
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0aQlYODK
+  preco: null
 criterios:
   visual: 7.8
   aroma: 7.5

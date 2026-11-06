@@ -67,7 +67,10 @@ estilos:
 - frutado
 - popular
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0eO5SNE9
+  preco: null
 criterios:
   visual: 7.4
   aroma: 7.0

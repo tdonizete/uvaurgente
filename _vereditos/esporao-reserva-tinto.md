@@ -69,7 +69,10 @@ estilos:
 - amadeirado
 - premium
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B04b2XrU8
+  preco: null
 criterios:
   visual: 8.8
   aroma: 8.3

@@ -68,7 +68,10 @@ estilos:
 - especiado
 - acessivel
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0cULhS2h
+  preco: null
 criterios:
   visual: 7.6
   aroma: 7.3

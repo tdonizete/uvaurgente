@@ -70,7 +70,10 @@ estilos:
 - amadeirado
 - intermediario
 preco_checado: 2026-10-27
-lojas: []
+lojas:
+- nome: Amazon
+  url: https://link.amazon/B0iTkwHP9
+  preco: null
 criterios:
   visual: 8.6
   aroma: 8.1
