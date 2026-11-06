@@ -1,0 +1,43 @@
+{
+  "n": 38,
+  "slug": "governo-toscano",
+  "capa": "O truque toscano das uvas passas.",
+  "sub": "O governo all'uso toscano.",
+  "slides": [
+    {
+      "k": "O que é",
+      "t": "Uvas secas no vinho novo.",
+      "b": "Depois da fermentação, o produtor junta ao vinho um mosto de uvas deixadas para secar. O vinho volta a fermentar."
+    },
+    {
+      "k": "Para que serve",
+      "t": "Mais fruta e maciez.",
+      "b": "A segunda fermentação deixa o vinho mais redondo, frutado e com um leve frescor de gás. É uma técnica antiga da Toscana."
+    },
+    {
+      "k": "Hoje",
+      "t": "Rara e citada no rótulo.",
+      "b": "Poucos produtores ainda usam. Quem usa costuma escrever Governo no rótulo."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o governo.",
+  "final_b": "",
+  "cta": "Salve e procure Governo no rótulo.",
+  "vinhos": [
+    "poggio-cavalieri-chianti-governo"
+  ],
+  "mostrar": null,
+  "legenda": "Existe um truque toscano com uvas passas. 🍇\n\nNo governo all'uso toscano, mosto de uvas secas faz o vinho fermentar de novo e ficar mais macio.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#chianti",
+    "#vinhoitaliano"
+  ],
+  "fontes_ref": [
+    "Wine Folly, governo all'uso toscano (winefolly.com)"
+  ]
+}

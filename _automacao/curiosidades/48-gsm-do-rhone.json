@@ -1,0 +1,45 @@
+{
+  "n": 48,
+  "slug": "gsm-do-rhone",
+  "capa": "GSM: a sigla do Rhône.",
+  "sub": "Grenache, Syrah e Mourvèdre.",
+  "slides": [
+    {
+      "k": "Grenache",
+      "t": "A fruta.",
+      "b": "Dá fruta vermelha madura, álcool e corpo. É a base da maioria dos tintos do sul do Rhône."
+    },
+    {
+      "k": "Syrah",
+      "t": "A cor e a pimenta.",
+      "b": "Traz cor, estrutura e a famosa nota de pimenta-preta."
+    },
+    {
+      "k": "Mourvèdre",
+      "t": "A força.",
+      "b": "Dá tanino, notas terrosas e ajuda o vinho a envelhecer. Juntas, as três formam o corte GSM, copiado no mundo todo."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Rhône.",
+  "final_b": "",
+  "cta": "Salve e procure GSM no rótulo.",
+  "vinhos": [
+    "guigal-cotes-du-rhone-rouge"
+  ],
+  "mostrar": null,
+  "legenda": "GSM é a sigla dos tintos do Rhône: Grenache, Syrah e Mourvèdre. 🇫🇷\n\nUma dá fruta, outra cor e pimenta, outra tanino.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#rhone",
+    "#grenache",
+    "#syrah",
+    "#vinhofrances"
+  ],
+  "fontes_ref": [
+    "Wine Folly, GSM blend (winefolly.com)"
+  ]
+}

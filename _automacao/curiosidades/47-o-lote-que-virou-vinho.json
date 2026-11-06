@@ -1,0 +1,48 @@
+{
+  "n": 47,
+  "slug": "o-lote-que-virou-vinho",
+  "capa": "O lote de terra que virou vinho.",
+  "sub": "A história do Miolo Lote 43.",
+  "slides": [
+    {
+      "k": "1897",
+      "t": "Um imigrante italiano.",
+      "b": "Giuseppe Miolo chegou à Serra Gaúcha em 1897 e recebeu um lote de terra no que hoje é o Vale dos Vinhedos.",
+      "stat": [
+        "1897",
+        "chegada da família"
+      ]
+    },
+    {
+      "k": "O nome",
+      "t": "O lote número 43.",
+      "b": "Esse pedaço de terra deu nome ao vinho mais famoso da família, lançado em 1999."
+    },
+    {
+      "k": "O vinho",
+      "t": "Só em safras boas.",
+      "b": "O Lote 43 é um corte de Merlot e Cabernet Sauvignon e só é feito em anos excepcionais."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Lote 43.",
+  "final_b": "",
+  "cta": "Salve e conte essa história no próximo brinde.",
+  "vinhos": [
+    "miolo-lote-43"
+  ],
+  "mostrar": null,
+  "legenda": "O Miolo Lote 43 tem o nome do lote de terra da família. 🇧🇷\n\nGiuseppe Miolo chegou ao Vale dos Vinhedos em 1897. O vinho só é feito em safras excepcionais.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#miolo",
+    "#vinhobrasileiro",
+    "#valedosvinhedos"
+  ],
+  "fontes_ref": [
+    "Correio Braziliense, Miolo Lote 43 (blogs.correiobraziliense.com.br)"
+  ]
+}

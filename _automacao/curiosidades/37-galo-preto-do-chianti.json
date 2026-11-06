@@ -1,0 +1,49 @@
+{
+  "n": 37,
+  "slug": "galo-preto-do-chianti",
+  "capa": "Por que tem um galo preto no Chianti?",
+  "sub": "Chianti e Chianti Classico não são iguais.",
+  "slides": [
+    {
+      "k": "A lenda",
+      "t": "Uma corrida decidida por galos.",
+      "b": "Florença e Siena brigavam pela fronteira. Combinaram que dois cavaleiros sairiam ao cantar do galo. O galo preto de Florença, com fome, cantou antes, e Florença ganhou mais terra."
+    },
+    {
+      "k": "O selo",
+      "t": "Marca do Chianti Classico.",
+      "b": "O galo preto é símbolo da região desde a Idade Média. Em 1924 virou o selo do consórcio do Chianti Classico.",
+      "stat": [
+        "1924",
+        "ano em que o galo virou selo"
+      ]
+    },
+    {
+      "k": "A diferença",
+      "t": "Classico é o miolo.",
+      "b": "O Chianti Classico vem da área histórica entre Florença e Siena. O Chianti comum vem de uma área maior em volta. Os dois usam Sangiovese."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Com e sem o galo.",
+  "final_b": "",
+  "cta": "Salve e procure o galo no rótulo.",
+  "vinhos": [
+    "antinori-peppoli-chianti-classico",
+    "ruffino-chianti-docg"
+  ],
+  "mostrar": null,
+  "legenda": "O galo preto só aparece no Chianti Classico. 🐓\n\nA lenda fala de uma corrida entre Florença e Siena, e o galo virou selo em 1924.\n\nArraste e compare Chianti com Chianti Classico.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#chianti",
+    "#vinhoitaliano",
+    "#sangiovese"
+  ],
+  "fontes_ref": [
+    "Visit Tuscany, il Gallo Nero (visittuscany.com)"
+  ]
+}

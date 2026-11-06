@@ -1,0 +1,45 @@
+{
+  "n": 40,
+  "slug": "branco-de-uva-tinta",
+  "capa": "Vinho branco feito de uva tinta.",
+  "sub": "A cor está na casca.",
+  "slides": [
+    {
+      "k": "O segredo",
+      "t": "Suco de uva tinta é claro.",
+      "b": "Quase toda uva tinta tem polpa clara. A cor do vinho vem da casca. Se o suco for separado logo, o vinho sai branco."
+    },
+    {
+      "k": "O nome",
+      "t": "Blanc de noirs.",
+      "b": "Em francês, branco de tintas. É comum no espumante: o champanhe muitas vezes usa Pinot Noir e Pinot Meunier, que são tintas."
+    },
+    {
+      "k": "O resultado",
+      "t": "Branco com mais corpo.",
+      "b": "Brancos de uva tinta costumam ter mais estrutura e fruta vermelha discreta."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Brancos de uva tinta.",
+  "final_b": "",
+  "cta": "Salve e mande para quem não acredita.",
+  "vinhos": [
+    "trivento-reserve-white-malbec",
+    "chandon-reserve-brut"
+  ],
+  "mostrar": null,
+  "legenda": "Dá para fazer vinho branco com uva tinta. 🍇\n\nA cor está na casca: separando o suco logo, o vinho sai branco. É o blanc de noirs.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#blancdenoirs",
+    "#espumante",
+    "#malbec"
+  ],
+  "fontes_ref": [
+    "Wine Folly, blanc de noirs (winefolly.com)"
+  ]
+}

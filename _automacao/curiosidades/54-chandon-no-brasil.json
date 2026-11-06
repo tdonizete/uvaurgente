@@ -1,0 +1,53 @@
+{
+  "n": 54,
+  "slug": "chandon-no-brasil",
+  "capa": "O champanhe que veio morar no Brasil.",
+  "sub": "A Chandon fora da França.",
+  "slides": [
+    {
+      "k": "Primeiro passo",
+      "t": "Argentina, 1959.",
+      "b": "A Moët & Chandon começou a produzir fora da França em 1959, em Mendoza, na Argentina.",
+      "stat": [
+        "1959",
+        "primeira casa fora da França"
+      ]
+    },
+    {
+      "k": "No Brasil",
+      "t": "Garibaldi, 1973.",
+      "b": "Em 1973 a Chandon chegou a Garibaldi, na Serra Gaúcha, no mesmo ano em que começou na Califórnia.",
+      "stat": [
+        "1973",
+        "chegada ao Brasil"
+      ]
+    },
+    {
+      "k": "O nome",
+      "t": "Chandon, não Champagne.",
+      "b": "Fora da região de Champagne, a casa usa só o nome Chandon e faz espumante com uvas locais."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Chandons brasileiros.",
+  "final_b": "",
+  "cta": "Salve e brinde com um espumante nacional.",
+  "vinhos": [
+    "chandon-reserve-brut",
+    "chandon-brut-rose"
+  ],
+  "mostrar": null,
+  "legenda": "A Chandon chegou ao Brasil em 1973, em Garibaldi (RS). 🇧🇷🥂\n\nAntes, em 1959, a casa francesa tinha aberto sua primeira filial fora da França, na Argentina.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#chandon",
+    "#espumantebrasileiro",
+    "#espumante"
+  ],
+  "fontes_ref": [
+    "Chandon, Our Story (chandon.com)"
+  ]
+}

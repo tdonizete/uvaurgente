@@ -1,0 +1,49 @@
+{
+  "n": 41,
+  "slug": "vinhedo-perto-do-mar",
+  "capa": "Vinhedos a 15 km do mar.",
+  "sub": "Garzón, no Uruguai.",
+  "slides": [
+    {
+      "k": "Onde fica",
+      "t": "Maldonado, perto de Punta del Este.",
+      "b": "A Bodega Garzón plantou vinhedos em 2008 nas colinas de Maldonado, a cerca de 15 km do Atlântico.",
+      "stat": [
+        "15 km",
+        "do Oceano Atlântico"
+      ]
+    },
+    {
+      "k": "O mar",
+      "t": "Brisa que refresca.",
+      "b": "O vento do mar esfria as noites e segura a acidez da uva. Os vinhos saem frescos, mesmo os tintos."
+    },
+    {
+      "k": "O solo",
+      "t": "Granito em pedaços.",
+      "b": "O solo tem areia e granito decomposto, que drena bem a chuva e deixa a planta trabalhar mais."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar Garzón.",
+  "final_b": "",
+  "cta": "Salve e coloque o Uruguai na sua lista.",
+  "vinhos": [
+    "garzon-reserva-tannat",
+    "garzon-single-vineyard-tannat"
+  ],
+  "mostrar": null,
+  "legenda": "Os vinhedos da Garzón ficam a 15 km do mar, no Uruguai. 🌊🇺🇾\n\nA brisa do Atlântico e o solo de granito dão vinhos frescos.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#garzon",
+    "#vinhouruguaio",
+    "#tannat"
+  ],
+  "fontes_ref": [
+    "Wine Anorak, In Uruguay: Bodega Garzón (wineanorak.com)"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "n": 46,
+  "slug": "coco-no-vinho",
+  "capa": "Coco no vinho? Culpa do carvalho.",
+  "sub": "Americano ou francês.",
+  "slides": [
+    {
+      "k": "O americano",
+      "t": "Coco e baunilha.",
+      "b": "O carvalho americano solta mais compostos com cheiro de coco e baunilha. É muito usado na Rioja."
+    },
+    {
+      "k": "O francês",
+      "t": "Especiaria e tostado.",
+      "b": "O carvalho francês é mais discreto. Dá notas de especiaria, cravo e tostado, e taninos mais finos."
+    },
+    {
+      "k": "Na taça",
+      "t": "Dá para adivinhar.",
+      "b": "Sentiu coco e baunilha num tinto espanhol? Grande chance de ter passado por carvalho americano."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Tintos para testar.",
+  "final_b": "",
+  "cta": "Salve e brinque de adivinhar a barrica.",
+  "vinhos": [
+    "marques-de-caceres-crianza",
+    "conde-de-valdemar-crianza"
+  ],
+  "mostrar": null,
+  "legenda": "Sentiu coco no vinho? Culpa do carvalho americano. 🥥\n\nO americano dá coco e baunilha. O francês dá especiaria e tostado.\n\nArraste e teste com os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#rioja",
+    "#carvalho",
+    "#vinhoespanhol"
+  ],
+  "fontes_ref": [
+    "Wine Folly, American vs French oak (winefolly.com)"
+  ]
+}

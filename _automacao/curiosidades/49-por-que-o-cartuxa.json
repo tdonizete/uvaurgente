@@ -1,0 +1,49 @@
+{
+  "n": 49,
+  "slug": "por-que-o-cartuxa",
+  "capa": "Por que o EA Cartuxa é a nossa régua.",
+  "sub": "O vinho de referência da metodologia.",
+  "slides": [
+    {
+      "k": "De onde vem",
+      "t": "Évora, no Alentejo.",
+      "b": "O EA é feito pela Fundação Eugénio de Almeida, em Évora. O nome Cartuxa vem do mosteiro de monges cartuxos da cidade."
+    },
+    {
+      "k": "A régua",
+      "t": "Nota 8,3 na metodologia.",
+      "b": "Usamos o EA como âncora: um tinto correto, fácil de achar e com preço conhecido. Os outros vinhos são comparados a ele.",
+      "stat": [
+        "8,3",
+        "nota-âncora"
+      ]
+    },
+    {
+      "k": "Como usamos",
+      "t": "Uma pergunta simples.",
+      "b": "Para passar de 8,3, o vinho precisa ser melhor que o EA e ter algo que ele não tem: terroir, complexidade ou final longo."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "A nossa régua.",
+  "final_b": "",
+  "cta": "Salve e entenda as nossas notas.",
+  "vinhos": [
+    "ea-cartuxa-alentejo-tinto"
+  ],
+  "mostrar": null,
+  "legenda": "O EA Cartuxa é a régua da nossa metodologia. 📏\n\nUm tinto alentejano correto e fácil de achar. Para passar dele, o vinho precisa mostrar algo a mais.\n\nArraste e entenda.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#cartuxa",
+    "#vinhoportugues",
+    "#alentejo"
+  ],
+  "fontes_ref": [
+    "Vinhos do Alentejo, Fundação Eugénio de Almeida (vinhosdoalentejo.pt)",
+    "Metodologia UVA URGENTE v2.0"
+  ]
+}

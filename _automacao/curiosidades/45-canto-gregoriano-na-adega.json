@@ -1,0 +1,44 @@
+{
+  "n": 45,
+  "slug": "canto-gregoriano-na-adega",
+  "capa": "Canto gregoriano para as barricas.",
+  "sub": "A adega musical da Montes.",
+  "slides": [
+    {
+      "k": "Onde",
+      "t": "No Valle de Colchagua.",
+      "b": "A Montes, no Chile, guarda as barricas numa sala em semicírculo, de luz baixa, como um anfiteatro."
+    },
+    {
+      "k": "A música",
+      "t": "Canto gregoriano o dia todo.",
+      "b": "Os vinhos descansam ao som de canto gregoriano. Uma orquestra de Berlim já tocou Bach ao vivo para as barricas."
+    },
+    {
+      "k": "Funciona?",
+      "t": "Não há prova.",
+      "b": "Não existe estudo que mostre que a música muda o vinho. A Montes diz que faz parte de um projeto de harmonia da adega."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Vinhos que ouviram música.",
+  "final_b": "",
+  "cta": "Salve e mande para quem coloca música para as plantas.",
+  "vinhos": [
+    "montes-alpha-merlot",
+    "montes-classic-reserva-cabernet-sauvignon"
+  ],
+  "mostrar": null,
+  "legenda": "Na adega da Montes, no Chile, os vinhos descansam ouvindo canto gregoriano. 🎶\n\nNão há prova de que a música mude o vinho, mas a experiência virou marca da casa.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#montes",
+    "#vinhochileno"
+  ],
+  "fontes_ref": [
+    "NUVO Magazine, Wine Aging to the Sound of Gregorian Chants (nuvomagazine.com)"
+  ]
+}

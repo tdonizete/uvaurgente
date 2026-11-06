@@ -1,0 +1,44 @@
+{
+  "n": 50,
+  "slug": "vinhas-velhas",
+  "capa": "Vinhas velhas: várias uvas no mesmo vinhedo.",
+  "sub": "O tesouro do Douro.",
+  "slides": [
+    {
+      "k": "O que são",
+      "t": "Vinhas com décadas de idade.",
+      "b": "No Douro, muitas vinhas antigas foram plantadas antes da moda das castas separadas. Várias uvas crescem lado a lado."
+    },
+    {
+      "k": "A mistura",
+      "t": "Dezenas de castas juntas.",
+      "b": "Numa mesma parcela podem conviver dezenas de castas tintas, colhidas e fermentadas juntas."
+    },
+    {
+      "k": "O resultado",
+      "t": "Concentração e complexidade.",
+      "b": "Vinha velha dá pouca uva, mas muito concentrada. O vinho ganha camadas que uma casta sozinha não dá."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar vinhas velhas.",
+  "final_b": "",
+  "cta": "Salve e procure Vinhas Velhas no rótulo.",
+  "vinhos": [
+    "quinta-do-crasto-reserva-vinhas-velhas"
+  ],
+  "mostrar": null,
+  "legenda": "No Douro, uma vinha velha pode ter dezenas de uvas misturadas. 🍇\n\nPouca uva, muita concentração e várias castas fermentadas juntas.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#douro",
+    "#vinhasvelhas",
+    "#vinhoportugues"
+  ],
+  "fontes_ref": [
+    "Quinta do Crasto (quintadocrasto.pt)"
+  ]
+}

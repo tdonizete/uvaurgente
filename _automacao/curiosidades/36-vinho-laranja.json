@@ -1,0 +1,43 @@
+{
+  "n": 36,
+  "slug": "vinho-laranja",
+  "capa": "Vinho laranja: um branco feito como tinto.",
+  "sub": "A cor vem da casca.",
+  "slides": [
+    {
+      "k": "Como se faz",
+      "t": "Uva branca com casca.",
+      "b": "No branco comum, o suco é separado da casca logo no início. No vinho laranja, ele fermenta junto com as cascas por dias ou meses, como se faz com o tinto."
+    },
+    {
+      "k": "A cor",
+      "t": "Do dourado ao âmbar.",
+      "b": "A casca solta cor e um pouco de tanino. Por isso o vinho fica alaranjado e tem uma textura que lembra chá."
+    },
+    {
+      "k": "Na boca",
+      "t": "Branco com estrutura.",
+      "b": "Aroma de fruta seca, casca de laranja e flores. Vai bem com comida condimentada, queijos e cozinha árabe ou indiana."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar um laranja.",
+  "final_b": "",
+  "cta": "Salve e peça um laranja na próxima compra.",
+  "vinhos": [
+    "luis-felipe-edwards-macerao-moscatel-2022"
+  ],
+  "mostrar": null,
+  "legenda": "Vinho laranja é um branco feito como tinto. 🍊\n\nO suco fermenta junto com as cascas, que dão cor, tanino leve e textura.\n\nArraste e veja o nosso veredito do Macerao.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#vinholaranja",
+    "#orangewine"
+  ],
+  "fontes_ref": [
+    "Wine Folly, orange wine (winefolly.com)"
+  ]
+}

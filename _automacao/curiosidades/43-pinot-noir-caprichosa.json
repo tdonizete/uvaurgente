@@ -1,0 +1,44 @@
+{
+  "n": 43,
+  "slug": "pinot-noir-caprichosa",
+  "capa": "A uva mais caprichosa do mundo.",
+  "sub": "Por que Pinot Noir é cara.",
+  "slides": [
+    {
+      "k": "Casca fina",
+      "t": "Fácil de estragar.",
+      "b": "A Pinot Noir tem casca fina e cachos apertados. Pega doença com facilidade e sofre com chuva e calor."
+    },
+    {
+      "k": "Clima certo",
+      "t": "Só gosta de frio moderado.",
+      "b": "Ela precisa de clima fresco, como o da Borgonha. Em lugar quente, perde a delicadeza e fica sem graça."
+    },
+    {
+      "k": "Resultado",
+      "t": "Pouco vinho, preço alto.",
+      "b": "Rende pouco e exige muito trabalho. Por isso um bom Pinot Noir raramente é barato."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Pinots para provar.",
+  "final_b": "",
+  "cta": "Salve e mande para quem acha Pinot caro.",
+  "vinhos": [
+    "louis-jadot-bourgogne-pinot-noir",
+    "trapiche-roble-pinot-noir"
+  ],
+  "mostrar": null,
+  "legenda": "A Pinot Noir é a uva mais caprichosa do mundo. 🍒\n\nCasca fina, clima exigente e pouco rendimento explicam por que um bom Pinot custa caro.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#pinotnoir",
+    "#borgonha"
+  ],
+  "fontes_ref": [
+    "Wine Folly, Pinot Noir (winefolly.com)"
+  ]
+}

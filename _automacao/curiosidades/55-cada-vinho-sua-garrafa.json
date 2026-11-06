@@ -1,0 +1,45 @@
+{
+  "n": 55,
+  "slug": "cada-vinho-sua-garrafa",
+  "capa": "Cada vinho tem a sua garrafa.",
+  "sub": "O formato fala da região.",
+  "slides": [
+    {
+      "k": "Bordalesa",
+      "t": "Ombros altos.",
+      "b": "Garrafa reta com ombro marcado, de Bordeaux. Usada para Cabernet, Merlot, Malbec e muitos tintos encorpados."
+    },
+    {
+      "k": "Borgonhesa",
+      "t": "Ombros caídos.",
+      "b": "Mais larga e de ombro suave, da Borgonha. Usada para Pinot Noir e Chardonnay."
+    },
+    {
+      "k": "Diferentes",
+      "t": "Renana e cantil.",
+      "b": "A renana é alta e fina, para Riesling. A garrafa em forma de cantil achatado vem da Francônia, na Alemanha, e aparece em alguns vinhos portugueses."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Garrafas para comparar.",
+  "final_b": "",
+  "cta": "Salve e repare na garrafa na próxima compra.",
+  "vinhos": [
+    "catena-malbec",
+    "louis-jadot-bourgogne-pinot-noir",
+    "calamares-vinho-verde"
+  ],
+  "mostrar": null,
+  "legenda": "O formato da garrafa conta de onde o vinho vem. 🍾\n\nBordalesa, borgonhesa, renana e cantil: cada uma tem a sua história.\n\nArraste e compare.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#dicadevinho",
+    "#garrafa"
+  ],
+  "fontes_ref": [
+    "Wine Folly, wine bottle shapes (winefolly.com)"
+  ]
+}

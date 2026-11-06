@@ -1,0 +1,49 @@
+{
+  "n": 42,
+  "slug": "a-uva-que-trocou-de-nome",
+  "capa": "A uva que trocou de nome.",
+  "sub": "Prosecco é lugar; a uva é Glera.",
+  "slides": [
+    {
+      "k": "Antes",
+      "t": "Prosecco era a uva.",
+      "b": "Até 2009, Prosecco era o nome da uva. Qualquer produtor do mundo podia fazer um espumante e chamar de Prosecco."
+    },
+    {
+      "k": "A mudança",
+      "t": "Glera para a uva.",
+      "b": "Em 2009 a Itália criou a denominação Prosecco DOC e passou a chamar a uva de Glera. Assim o nome ficou ligado ao lugar.",
+      "stat": [
+        "2009",
+        "ano da mudança"
+      ]
+    },
+    {
+      "k": "O efeito",
+      "t": "Nome protegido na Europa.",
+      "b": "Na União Europeia, só o espumante do nordeste da Itália pode usar o nome Prosecco."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Prosecco de verdade.",
+  "final_b": "",
+  "cta": "Salve e mande para quem acha que Prosecco é uva.",
+  "vinhos": [
+    "zonin-prosecco-doc",
+    "mionetto-prosecco-treviso-brut"
+  ],
+  "mostrar": null,
+  "legenda": "Prosecco é nome de lugar. A uva se chama Glera. 🥂\n\nEm 2009 a Itália mudou o nome da uva para proteger o nome do espumante.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#prosecco",
+    "#espumante",
+    "#vinhoitaliano"
+  ],
+  "fontes_ref": [
+    "Forbes Brasil, mudança de nome do Prosecco (forbes.com.br)"
+  ]
+}

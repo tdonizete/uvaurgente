@@ -1,0 +1,49 @@
+{
+  "n": 44,
+  "slug": "sete-vinicolas-um-vinho",
+  "capa": "Um vinho feito por várias vinícolas.",
+  "sub": "O Clos de los Siete.",
+  "slides": [
+    {
+      "k": "A ideia",
+      "t": "Bordeleses nos Andes.",
+      "b": "Em 1999, o enólogo Michel Rolland convidou seis famílias de Bordeaux para plantar juntas em Vista Flores, no Valle de Uco.",
+      "stat": [
+        "1999",
+        "início do projeto"
+      ]
+    },
+    {
+      "k": "O terreno",
+      "t": "850 hectares divididos.",
+      "b": "A área foi dividida entre as famílias. Cada uma montou a sua vinícola e faz os seus vinhos."
+    },
+    {
+      "k": "O vinho",
+      "t": "Um corte coletivo.",
+      "b": "Todo ano, quatro dessas vinícolas juntam parte da produção para fazer um único vinho: o Clos de los Siete."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Clos.",
+  "final_b": "",
+  "cta": "Salve e conte essa no próximo jantar.",
+  "vinhos": [
+    "clos-de-los-siete",
+    "monteviejo-lindaflor-malbec"
+  ],
+  "mostrar": null,
+  "legenda": "O Clos de los Siete é feito por várias vinícolas juntas. 🍷\n\nEm 1999, Michel Rolland reuniu famílias de Bordeaux em Mendoza. Hoje quatro vinícolas fazem o corte juntas.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#closdelossiete",
+    "#vinhoargentino",
+    "#malbec"
+  ],
+  "fontes_ref": [
+    "South America Wine Guide, Clos de los Siete (southamericawineguide.com)"
+  ]
+}

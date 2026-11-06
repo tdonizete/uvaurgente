@@ -1,0 +1,44 @@
+{
+  "n": 51,
+  "slug": "tinto-sem-madeira",
+  "capa": "Tinto brasileiro sem madeira, de propósito.",
+  "sub": "A escolha da Lidio Carraro.",
+  "slides": [
+    {
+      "k": "A escolha",
+      "t": "Nada de barrica.",
+      "b": "A Lidio Carraro, da Serra Gaúcha, não usa barricas de carvalho. Os vinhos amadurecem em tanque e na garrafa."
+    },
+    {
+      "k": "Por quê",
+      "t": "Fruta sem maquiagem.",
+      "b": "A ideia é mostrar a uva e o lugar sem o sabor da madeira, com intervenção mínima."
+    },
+    {
+      "k": "Na taça",
+      "t": "Fruta pura.",
+      "b": "Sem baunilha nem tostado, o que aparece é a fruta, a acidez e o tanino da própria uva."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar sem madeira.",
+  "final_b": "",
+  "cta": "Salve e compare com um tinto de barrica.",
+  "vinhos": [
+    "lidio-carraro-agnus-tannat"
+  ],
+  "mostrar": null,
+  "legenda": "Tem vinícola brasileira que não usa madeira, de propósito. 🇧🇷\n\nA Lidio Carraro deixa a uva aparecer sem baunilha nem tostado.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#lidiocarraro",
+    "#vinhobrasileiro",
+    "#tannat"
+  ],
+  "fontes_ref": [
+    "Wine Tourism, Lidio Carraro Boutique Winery (winetourism.com)"
+  ]
+}

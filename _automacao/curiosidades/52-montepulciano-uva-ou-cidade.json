@@ -1,0 +1,43 @@
+{
+  "n": 52,
+  "slug": "montepulciano-uva-ou-cidade",
+  "capa": "Montepulciano: uva ou cidade?",
+  "sub": "As duas coisas, e não se misturam.",
+  "slides": [
+    {
+      "k": "A uva",
+      "t": "Montepulciano d'Abruzzo.",
+      "b": "Montepulciano é uma uva tinta plantada sobretudo em Abruzzo, no centro-leste da Itália. Dá tintos macios e frutados."
+    },
+    {
+      "k": "A cidade",
+      "t": "Vino Nobile di Montepulciano.",
+      "b": "Montepulciano também é uma cidade da Toscana. O vinho de lá, o Vino Nobile, é feito de Sangiovese, não da uva Montepulciano."
+    },
+    {
+      "k": "Como ler",
+      "t": "Olhe a região.",
+      "b": "Se o rótulo diz d'Abruzzo, é a uva. Se diz Vino Nobile, é a cidade."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar a uva.",
+  "final_b": "",
+  "cta": "Salve e mande para quem confunde os dois.",
+  "vinhos": [
+    "truentum-968-montepulciano-dabruzzo"
+  ],
+  "mostrar": null,
+  "legenda": "Montepulciano é uva e é cidade, e os vinhos não têm nada a ver. 🇮🇹\n\nMontepulciano d'Abruzzo é a uva; Vino Nobile di Montepulciano é Sangiovese da Toscana.\n\nArraste e veja o nosso veredito.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#montepulciano",
+    "#vinhoitaliano"
+  ],
+  "fontes_ref": [
+    "Wine Folly, Montepulciano (winefolly.com)"
+  ]
+}

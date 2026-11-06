@@ -1,0 +1,48 @@
+{
+  "n": 39,
+  "slug": "o-periquita-de-1850",
+  "capa": "O papagaio português de 1850.",
+  "sub": "A história do Periquita.",
+  "slides": [
+    {
+      "k": "O nome",
+      "t": "Uma quinta chamada Periquita.",
+      "b": "José Maria da Fonseca plantou vinhas num terreno chamado Cova da Periquita, na Península de Setúbal. O nome passou para o vinho."
+    },
+    {
+      "k": "O pioneiro",
+      "t": "Engarrafado em 1850.",
+      "b": "O Periquita é apontado como o primeiro vinho de mesa engarrafado em Portugal, numa época em que o vinho era vendido a granel.",
+      "stat": [
+        "1850",
+        "primeiro engarrafamento"
+      ]
+    },
+    {
+      "k": "A uva",
+      "t": "Castelão, a periquita.",
+      "b": "A uva principal, a Castelão, ficou tão ligada ao vinho que muita gente na região a chama de Periquita."
+    }
+  ],
+  "final_k": "No UVA URGENTE",
+  "final_t": "Para provar o Periquita.",
+  "final_b": "",
+  "cta": "Salve e conte essa história no próximo jantar.",
+  "vinhos": [
+    "periquita-original-tinto",
+    "periquita-reserva"
+  ],
+  "mostrar": null,
+  "legenda": "O Periquita foi engarrafado pela primeira vez em 1850. 🦜🇵🇹\n\nO nome vem da Cova da Periquita, terreno em Setúbal onde José Maria da Fonseca plantou as vinhas.\n\nArraste e veja os nossos vereditos.",
+  "hashtags": [
+    "#uvaurgente",
+    "#vinhosemmimimi",
+    "#vinho",
+    "#curiosidadesdovinho",
+    "#periquita",
+    "#vinhoportugues"
+  ],
+  "fontes_ref": [
+    "Agroportal, 172 anos de Periquita (agroportal.pt)"
+  ]
+}
