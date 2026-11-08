@@ -1,0 +1,98 @@
+{
+ "slug": "santa-helena-reservado-malbec",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-08",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Santa Helena Reservado Especial Malbec",
+  "produtor": "Viña Santa Helena",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.0,
+  "servir": "16 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.superadega.com.br/produtos/vinho-santa-helena-reservado-malbec-750ml/",
+  "https://www.espacoprime.com.br/produto/vinho-santa-helena-reservado-malbec-750ml-70626",
+  "https://www.vivino.com/en/vina-santa-helena-reservado-malbec/w/1280847",
+  "https://cosmos.bluesoft.com.br/produtos/7798081667481-vinho-argentino-tinto-seco-reservado-santa-helena-malbec-mendoza-garrafa-750ml"
+ ],
+ "preco": {
+  "referencia": 26.9,
+  "min": 26.9,
+  "max": 37.0,
+  "ajustes": [],
+  "fontes": [
+   "Super Adega: R$ 26,90, 08/11/2026",
+   "Espaço Prime Bebidas: R$ 37,00, 08/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Especiarias",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.2,
+  "corpo": 6.2,
+  "tanino_docura": 6.0,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — fácil de beber",
+   "Macio — tanino discreto",
+   "Moderada — fruta simples",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (08/11/2026)"
+ }
+}
