@@ -1,0 +1,99 @@
+{
+ "slug": "marchigue-tierruca-rose",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Uvas não informadas pelas fontes: conferir no contrarrótulo",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Tierruca Rosé",
+  "produtor": "Viñedos Marchigüe",
+  "tipo": "Rosé",
+  "pais": "Chile",
+  "regiao": "Valle de Colchagua",
+  "safra": null,
+  "uvas": "Não informadas",
+  "teor": 13.0,
+  "servir": "8 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.zaffari.com.br/vinedos-marchigue-tierruca-chileno-vinho-rose-750ml-1020935/p",
+  "https://www.adegasaocristovao.com.br/vinho-rose/vinho-chileno-tierruca-rose-750ml",
+  "https://www.vivino.com/en/marchigue-tierruca-rose/w/1480656"
+ ],
+ "preco": {
+  "referencia": 29.98,
+  "min": 29.95,
+  "max": 29.98,
+  "ajustes": [],
+  "fontes": [
+   "Zaffari: R$ 29,98, 17/11/2026",
+   "Adega São Cristóvão: R$ 29,95 (de R$ 59,90), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.4,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 5.6,
+  "tanino_docura": 7.0,
+  "intensidade": 6.0,
+  "final": 5.8,
+  "final_segundos": 4,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — sem açúcar aparente",
+   "Moderada — fruta simples",
+   "Curto — cerca de 4 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
