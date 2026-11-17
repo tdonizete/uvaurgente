@@ -1,0 +1,98 @@
+{
+ "slug": "ipsis-verbis-rose-seco",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "baixa",
+ "pendencias": [
+  "Preço em 1 só fonte: buscar a 2ª loja antes de publicar",
+  "Produtor e região exatos não confirmados (rótulo diz só Vinho Fino Rosé Seco, Portugal)",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Ipsis Verbis Rosé Seco",
+  "produtor": "Ipsis Verbis (Casa Agrícola)",
+  "tipo": "Rosé",
+  "pais": "Portugal",
+  "regiao": "Portugal (vinho sem região demarcada)",
+  "safra": null,
+  "uvas": "Castelão e Touriga Nacional",
+  "teor": 12.5,
+  "servir": "8 °C",
+  "estilo": "Seco, sem madeira (inox)"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://convinvencia.com/produtos/vinho-rose-ipsis-verbis-casa-agricola",
+  "https://www.vivino.com/en/ipsis-verbis-rose-seco/w/11576957",
+  "https://www.atacarejoeconomia.com.br/bebida-vinho-ipsis-verbis-rose-seco---750ml/p"
+ ],
+ "preco": {
+  "referencia": 39.9,
+  "min": 39.9,
+  "max": 39.9,
+  "ajustes": [],
+  "fontes": [
+   "Convinvência: R$ 39,90 (esgotado), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Florais"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flores",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 5.8,
+  "tanino_docura": 7.2,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — sem açúcar aparente",
+   "Moderada — fruta vermelha simples",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
