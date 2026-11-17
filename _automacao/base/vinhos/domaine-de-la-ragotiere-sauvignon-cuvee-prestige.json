@@ -1,0 +1,99 @@
+{
+ "slug": "domaine-de-la-ragotiere-sauvignon-cuvee-prestige",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (e esgotado): informar o preço com 50% OFF que o Tiago viu",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Domaine de la Ragotière Sauvignon Cuvée Prestige",
+  "produtor": "Les Frères Couillaud (Domaine de la Ragotière)",
+  "tipo": "Branco",
+  "pais": "França",
+  "regiao": "Vale do Loire (IGP Val de Loire)",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": 12.0,
+  "servir": "10 °C",
+  "estilo": "Seco, fermentado e amadurecido em inox, solo de xisto"
+ },
+ "canal": "Importadora",
+ "fontes": [
+  "https://loja.chezfrance.com.br/vinho-branco-domaine-de-la-ragotiere-sauvignon-cuvee-prestige/p",
+  "https://winestyleonline.com/products/Domaine-de-la-Ragotiere-Cuvee-Prestige-Sauvignon-Val-de-Loire-IGP-2024.html",
+  "https://la-cave-des-sommeliers.com/acheter-vin/6433-igp-val-loire-2024-sauvignon"
+ ],
+ "preco": {
+  "referencia": 219.0,
+  "min": 219.0,
+  "max": 219.0,
+  "ajustes": [],
+  "fontes": [
+   "Chez France: R$ 219,00 (esgotado), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.4,
+  "intensidade": 7.2,
+  "complexidade": 7.6,
+  "familias": [
+   "Frutas",
+   "Cítricos",
+   "Terra/mineral"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego maduro",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Abacaxi",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Toranja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta timut",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.6,
+  "corpo": 6.4,
+  "tanino_docura": 7.6,
+  "intensidade": 7.0,
+  "final": 6.8,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Alta — viva e salina",
+   "Médio — com alguma potência",
+   "Seco — bem integrado",
+   "Média a pronunciada — fruta e cítrico",
+   "Médio — cerca de 6 segundos, final mineral"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
