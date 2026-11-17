@@ -1,0 +1,101 @@
+{
+ "slug": "garbin-vinas-parrales-cabernet-sauvignon",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Uma loja classifica como meio seco: conferir no contrarrótulo",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Viñas & Parrales Cabernet Sauvignon",
+  "produtor": "Bodegas Garbin Estate",
+  "tipo": "Tinto",
+  "pais": "Argentina",
+  "regiao": "Mendoza",
+  "safra": null,
+  "uvas": "Cabernet Sauvignon",
+  "teor": 13.3,
+  "servir": "16 °C",
+  "estilo": "Tinto jovem; uma fonte o classifica como meio seco"
+ },
+ "canal": "E-commerce de vinho",
+ "fontes": [
+  "https://www.evino.com.br/product/vinas-e-parrales-cabernet-sauvignon-2019-222021",
+  "https://www.dvin.com.br/vinho-vinas-parrales-cabernet-sauvignon",
+  "https://www.vivino.com/en/bodegas-garbin-estate-vinas-parrales-cabernet-sauvignon-mendoza/w/8424734",
+  "https://centergourmet.com.br/vinas-parrales-cabernet-sauvignon-2019/"
+ ],
+ "preco": {
+  "referencia": 59.88,
+  "min": 36.9,
+  "max": 59.9,
+  "ajustes": [
+   "promocao_frequente"
+  ],
+  "fontes": [
+   "Dvin: R$ 59,88 (R$ 55,69 no Pix), 17/11/2026",
+   "Evino: R$ 36,90 em promoção (de R$ 59,90, indisponível), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.4
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Especiarias"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas vermelhas maduras",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cassis",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Pimenta",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Baunilha",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 6.0,
+  "corpo": 6.6,
+  "tanino_docura": 6.4,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média — equilibrada",
+   "Médio — redondo",
+   "Macio a firme — tanino presente",
+   "Moderada — fruta madura simples",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
