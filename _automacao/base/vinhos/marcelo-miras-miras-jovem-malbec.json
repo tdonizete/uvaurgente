@@ -7,7 +7,6 @@
  "status": "avaliado_base",
  "confianca": "média",
  "pendencias": [
-  "Preço do anúncio com 49% OFF que o Tiago viu: informar loja e valor",
   "Links de afiliado"
  ],
  "provado": false,
@@ -33,11 +32,12 @@
   "https://8rocks.co.uk/product/miras-jovem-malbec-patagonia-2018-argentina-organic-uncertified/"
  ],
  "preco": {
-  "referencia": 94.5,
-  "min": 94.5,
+  "referencia": 74.5,
+  "min": 74.5,
   "max": 155.0,
   "ajustes": [],
   "fontes": [
+   "Adega São Cristóvão: R$ 74,50 (informado pelo Tiago), 17/11/2026",
    "Bodega del Sur: R$ 94,50 (em estoque), 17/11/2026",
    "Vinhos Mundi: R$ 120,00 (esgotado), 17/11/2026",
    "De Marseille: R$ 134,90 (indisponível), 17/11/2026",
