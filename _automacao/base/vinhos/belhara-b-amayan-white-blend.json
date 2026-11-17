@@ -1,0 +1,99 @@
+{
+ "slug": "belhara-b-amayan-white-blend",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte: buscar a 2ª loja antes de publicar",
+  "Preço do anúncio com 60% OFF que o Tiago viu: informar loja e valor",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "B de Belhara Amayan White Blend",
+  "produtor": "Belhara Estate",
+  "tipo": "Branco",
+  "pais": "Argentina",
+  "regiao": "Valle de Uco, Mendoza",
+  "safra": null,
+  "uvas": "Chardonnay, Torrontés e Pedro Giménez",
+  "teor": 13.0,
+  "servir": "9 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.vinhodeporta.com.br/variedades/vinho-branco/vinho-branco-amayan-white-blend",
+  "https://adegaformaggio.com.br/vinho/b-belhara-white-blend/",
+  "https://www.vivino.com/en/belhara-amayan-white-blend/w/11955892"
+ ],
+ "preco": {
+  "referencia": 46.9,
+  "min": 46.9,
+  "max": 46.9,
+  "ajustes": [],
+  "fontes": [
+   "Vinho de Porta: R$ 46,90, 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.8,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maçã verde",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Flor de laranjeira",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Mineral",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.0,
+  "tanino_docura": 7.2,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — equilibrada",
+   "Médio — coerente com o estilo",
+   "Seco — sem açúcar aparente",
+   "Moderada — fruta branca e flor",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
