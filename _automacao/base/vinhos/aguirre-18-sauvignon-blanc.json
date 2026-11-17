@@ -1,0 +1,97 @@
+{
+ "slug": "aguirre-18-sauvignon-blanc",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (anúncio do Tiago): buscar a 2ª loja antes de publicar",
+  "Loja do anúncio de R$ 64,90 não informada",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "18 Sauvignon Blanc",
+  "produtor": "Viña Aguirre",
+  "tipo": "Branco",
+  "pais": "Chile",
+  "regiao": "Valle Central (Maule)",
+  "safra": null,
+  "uvas": "Sauvignon Blanc",
+  "teor": null,
+  "servir": "8 °C",
+  "estilo": "Seco, sem madeira"
+ },
+ "canal": "Supermercado",
+ "fontes": [
+  "https://www.vivino.com/en/aguirre-terra-alta-sauvignon-blanc/w/5270016",
+  "https://www.rappi.com.br/p/18-vinho-branco-sauvignon-blanc-chi-2080482"
+ ],
+ "preco": {
+  "referencia": 64.9,
+  "min": 64.9,
+  "max": 64.9,
+  "ajustes": [],
+  "fontes": [
+   "Anúncio enviado pelo Tiago: R$ 64,90, 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.6
+ },
+ "aroma": {
+  "limpeza": 8.0,
+  "intensidade": 6.6,
+  "complexidade": 7.2,
+  "familias": [
+   "Frutas",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Frutas tropicais",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Maracujá",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Limão",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Grama cortada",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Maçã verde",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.2,
+  "corpo": 5.8,
+  "tanino_docura": 7.2,
+  "intensidade": 6.2,
+  "final": 6.0,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — fresca",
+   "Leve — coerente com o estilo",
+   "Seco — sem açúcar aparente",
+   "Moderada — fruta tropical simples",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
