@@ -1,0 +1,101 @@
+{
+ "slug": "enrique-foster-pink-malbec-rose",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço do anúncio com 60% OFF que o Tiago viu: informar loja e valor",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Enrique Foster Pink Malbec Rosé",
+  "produtor": "Bodega Enrique Foster",
+  "tipo": "Rosé",
+  "pais": "Argentina",
+  "regiao": "Luján de Cuyo, Mendoza",
+  "safra": null,
+  "uvas": "Malbec",
+  "teor": 13.0,
+  "servir": "9 °C",
+  "estilo": "Seco, feito por sangria de vinhas velhas, sem madeira"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://www.cainellibebidas.com.br/vinho-enrique-foster-pink-rosado-750ml",
+  "https://adegadario.com.br/produto/vinho-rose-enrique-foster-pink-malbec-750ml",
+  "https://www.vinvie.com.br/product-page/enrique-foster-malbec-pink-rose-argentino",
+  "https://www.vino-argentino.de/en/p/pink-malbec-rose"
+ ],
+ "preco": {
+  "referencia": 52.0,
+  "min": 35.0,
+  "max": 60.9,
+  "ajustes": [],
+  "fontes": [
+   "Cainelli Bebidas: R$ 52,00 (disponível), 17/11/2026",
+   "Vinvie: R$ 35,00 (esgotado), 17/11/2026",
+   "Adega Dario: R$ 60,90 (esgotado), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 6.8,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Florais",
+   "Cítricos"
+  ],
+  "top5": [
+   {
+    "nome": "Morango",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cereja",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Violeta",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Framboesa",
+    "nivel": "fraco"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.0,
+  "corpo": 6.4,
+  "tanino_docura": 7.0,
+  "intensidade": 6.6,
+  "final": 6.4,
+  "final_segundos": 5,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — vibrante",
+   "Médio a leve — mais estrutura que a média dos rosés",
+   "Seco — leve sensação de fruta doce no final",
+   "Moderada — fruta vermelha fresca",
+   "Curto a médio — cerca de 5 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
