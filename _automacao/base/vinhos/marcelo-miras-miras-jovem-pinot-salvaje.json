@@ -1,0 +1,99 @@
+{
+ "slug": "marcelo-miras-miras-jovem-pinot-salvaje",
+ "rank_amazon": null,
+ "pos_lista300": null,
+ "lista": "pedido-tiago",
+ "data": "2026-11-17",
+ "status": "avaliado_base",
+ "confianca": "média",
+ "pendencias": [
+  "Preço em 1 só fonte (e esgotado): informar o preço com 50% OFF que o Tiago viu",
+  "Links de afiliado"
+ ],
+ "provado": false,
+ "vinho": {
+  "title": "Miras Jovem Pinot Salvaje",
+  "produtor": "Bodega Miras (Marcelo Miras)",
+  "tipo": "Branco",
+  "pais": "Argentina",
+  "regiao": "Patagônia (Río Negro)",
+  "safra": null,
+  "uvas": "Pinot Noir (vinificada em branco) e Sauvignon Blanc",
+  "teor": 13.5,
+  "servir": "9 °C",
+  "estilo": "Branco de uva tinta: 70% Pinot Noir sem as cascas e 30% Sauvignon Blanc"
+ },
+ "canal": "Loja especializada",
+ "fontes": [
+  "https://oemporio.com.br/produtos/vinho-argentino-miras-jovem-pinot-salvage-750ml",
+  "https://www.loja.casadelli.com.br/vinho-branco-argentino-miras-jovem-pinot-salvaje",
+  "https://www.firstleaf.com/a/wine-directory/product/pinot-salvaje"
+ ],
+ "preco": {
+  "referencia": 126.5,
+  "min": 126.5,
+  "max": 126.5,
+  "ajustes": [],
+  "fontes": [
+   "Empório Vignamazzi: R$ 126,50 (esgotado), 17/11/2026"
+  ]
+ },
+ "visual": {
+  "nota": 7.8
+ },
+ "aroma": {
+  "limpeza": 8.2,
+  "intensidade": 7.0,
+  "complexidade": 7.4,
+  "familias": [
+   "Frutas",
+   "Cítricos",
+   "Vegetal/herbáceo"
+  ],
+  "top5": [
+   {
+    "nome": "Pêssego verde",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ameixa amarela",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Carambola",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Cítricos",
+    "nivel": "moderado"
+   },
+   {
+    "nome": "Ervas finas",
+    "nivel": "fraco"
+   }
+  ]
+ },
+ "paladar": {
+  "acidez": 7.4,
+  "corpo": 6.4,
+  "tanino_docura": 7.4,
+  "intensidade": 6.8,
+  "final": 6.6,
+  "final_segundos": 6,
+  "ajuste_equilibrio": 0.0,
+  "descritores": [
+   "Média a alta — fresca",
+   "Médio — mais estrutura que um branco leve",
+   "Seco — sem açúcar aparente",
+   "Média — fruta e ervas",
+   "Médio — cerca de 6 segundos"
+  ]
+ },
+ "ancoras": {
+  "melhor_que_7": true,
+  "supera_cartuxa": false
+ },
+ "foto": {
+  "status": "recebida (17/11/2026)"
+ }
+}
